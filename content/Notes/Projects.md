@@ -55,6 +55,6 @@ What are we trying to achieve?
 
 ---
 
-[[Notes/Index|← Back to Notes Index]]
+[[Notes/Notes|← Back to Notes]]
 
 #tags/projects #tracking

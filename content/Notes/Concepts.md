@@ -38,6 +38,6 @@ Evergreen notes on mental models, frameworks, and fundamental concepts that comp
 
 ---
 
-[[Notes/Index|← Back to Notes Index]]
+[[Notes/Notes|← Back to Notes]]
 
 #tags/concepts #evergreen #mental-models

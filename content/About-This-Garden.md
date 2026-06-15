@@ -42,11 +42,10 @@ This digital garden is a public knowledge base where I cultivate ideas, document
 ## Garden Tour
 
 - **Start here**: [[index|Home]]
-- **Browse notes**: [[Notes/Index|Notes Index]]
+- **Browse notes**: [[Notes/Notes|Notes]]
 - **Explore graph**: Click the graph icon (top-right)
 - **Search**: Press `Ctrl/Cmd + K` or click search icon
 - **Tags**: [[Tags-Index|Browse by tag]]
-- **Daily notes**: [[Notes/Daily-Notes|Daily Journal]]
 
 ## License
 

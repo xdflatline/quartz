@@ -16,8 +16,6 @@ Browse all notes organized by tag. Click any tag to see related notes.
 | Tag | Count | Description |
 |-----|-------|-------------|
 | `#index` | 6 | Entry point pages (home, indexes) |
-| `#daily` | 1 | Daily journal entries |
-| `#journal` | 1 | Journal/reflection notes |
 | `#projects` | 2 | Project tracking |
 | `#concepts` | 3 | Evergreen mental models |
 | `#evergreen` | 1 | Permanent, refined notes |

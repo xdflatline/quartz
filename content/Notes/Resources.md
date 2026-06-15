@@ -47,6 +47,6 @@ Curated collection of articles, papers, tools, and links worth referencing.
 
 ---
 
-[[Notes/Index|← Back to Notes Index]]
+[[Notes/Notes|← Back to Notes]]
 
 #tags/resources #curation #links

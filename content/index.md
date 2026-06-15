@@ -12,7 +12,7 @@ This is a **Quartz** static site showcasing my notes, ideas, and knowledge base 
 
 ## What You'll Find Here
 
-- [[Notes/Daily-Notes]] — Daily journal entries and fleeting thoughts
+- [[Notes/Notes]] — All notes (projects, concepts, resources) via Obsidian Bases
 - [[Notes/Projects]] — Project tracking and progress logs
 - [[Notes/Concepts]] — Evergreen concepts and mental models
 - [[Notes/Resources]] — Curated links, papers, and resources
