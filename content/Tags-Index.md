@@ -44,6 +44,7 @@ Browse all notes organized by tag. Click any tag to see related notes.
 | `#navigation` | 1 | Navigation guides |
 | `#mental-models` | 1 | Thinking frameworks |
 | `#welcome` | 1 | Welcome/landing content |
+| `#agents` | 1 | AI agent guidelines |
 
 ## Status Tags (Projects)
 

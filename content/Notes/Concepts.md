@@ -24,6 +24,7 @@ Evergreen notes on mental models, frameworks, and fundamental concepts that comp
 - [[Notes/Concepts/Digital-Gardens|Digital Gardens]]
 - [[Notes/Concepts/Local-First-Software|Local-First Software]]
 - [[Notes/Concepts/Observability|Observability Pillars]]
+- [[Notes/Concepts/AGENTS|Agent Behavioral Guidelines]]
 
 ## Learning Frameworks
 
