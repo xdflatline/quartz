@@ -42,7 +42,7 @@ This digital garden is a public knowledge base where I cultivate ideas, document
 ## Garden Tour
 
 - **Start here**: [[index|Home]]
-- **Browse notes**: [[Notes/Notes|Notes]]
+- **Browse notes**: [Notes](/quartz/notes/index.base.html)
 - **Explore graph**: Click the graph icon (top-right)
 - **Search**: Press `Ctrl/Cmd + K` or click search icon
 - **Tags**: [[Tags-Index|Browse by tag]]
