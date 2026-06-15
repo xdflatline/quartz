@@ -8,13 +8,13 @@ tags:
 description: "Comparison of static site generators for digital gardens"
 ---
 
-# Static Site Generators Comparison ⚡
+# Static Site Generators Comparison
 
 ## Top Contenders for Digital Gardens
 
 | Generator | Language | Obsidian Support | Graph View | Learning Curve | Best For |
 |-----------|----------|------------------|------------|----------------|----------|
-| **Quartz** | TypeScript | ⭐⭐⭐ Native | Built-in | Low | Obsidian users, digital gardens |
+| **Quartz** | TypeScript | Native | Built-in | Low | Obsidian users, digital gardens |
 | **Astro** | TypeScript | Via plugins | Via plugins | Medium | Content-heavy sites, blogs |
 | **Docusaurus** | TypeScript | Limited | Via plugins | Medium | Documentation sites |
 | **VitePress** | TypeScript | Limited | Via plugins | Low | Documentation, simple sites |
@@ -57,6 +57,6 @@ If moving from another SSG:
 
 ---
 
-[[Notes/Concepts|← Back to Concepts Index]]
+[[Notes/Concepts|← Back to Concepts]]
 
 #tags/concepts #web #ssg #comparison

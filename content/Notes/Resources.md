@@ -7,9 +7,9 @@ tags:
 description: "Curated links, papers, and external resources"
 ---
 
-# Resources 📚
+# Resources
 
-Curated collection of articles, papers, tools, and links worth referencing.
+Curated collection of articles, papers, tools, and links worth referencing. See the [Resources base](Resources/Resources) for dynamic views.
 
 ## Articles & Essays
 

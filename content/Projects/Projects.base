@@ -1,0 +1,38 @@
+filters:
+  and:
+    - file.inFolder("Projects")
+views:
+  - type: table
+    name: "All Projects"
+    properties:
+      - title
+      - project
+      - status
+      - started
+      - completed
+      - tags
+    sort:
+      - property: started
+        direction: desc
+  - type: table
+    name: "By Status"
+    properties:
+      - title
+      - project
+      - status
+      - started
+      - tags
+    groups:
+      - property: status
+    sort:
+      - property: started
+        direction: desc
+  - type: list
+    name: "Compact List"
+    properties:
+      - title
+      - project
+      - status
+    sort:
+      - property: started
+        direction: desc

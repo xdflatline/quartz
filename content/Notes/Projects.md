@@ -7,24 +7,9 @@ tags:
 description: "Active and completed projects tracker"
 ---
 
-# Projects 🚀
+# Projects
 
-Overview of current and past projects with links to detailed notes.
-
-## Active Projects
-
-| Project | Status | Started | Tags |
-|---------|--------|---------|------|
-| [[Projects/Quartz-Garden|Quartz Digital Garden]] | 🟢 Active | 2024-01-15 | #quartz #web #obsidian |
-| [[Projects/LLM-Local|Local LLM Inference]] | 🟡 In Progress | 2024-01-10 | #llm #ai #rust |
-| [[Projects/Home-Lab|Home Lab Infrastructure]] | 🟢 Active | 2023-11-01 | #homelab #docker #k8s |
-
-## Completed Projects
-
-| Project | Completed | Tags |
-|---------|-----------|------|
-| [[Projects/Obsidian-Migration|Obsidian → Quartz Migration]] | 2024-01-14 | #obsidian #quartz #migration |
-| [[Projects/Blog-Redesign|Personal Blog Redesign]] | 2023-12-20 | #web #design #astro |
+Overview of current and past projects. See the [Projects base](Projects/Projects) for dynamic views.
 
 ## Project Template
 

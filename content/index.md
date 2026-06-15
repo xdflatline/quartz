@@ -6,16 +6,16 @@ tags:
 description: "Main entry point for my digital garden built with Quartz"
 ---
 
-# Welcome to My Digital Garden 🌱
+# Welcome to My Digital Garden
 
 This is a **Quartz** static site showcasing my notes, ideas, and knowledge base — built in the style of an Obsidian vault.
 
 ## What You'll Find Here
 
-- [[Notes/Notes]] — All notes (projects, concepts, resources) via Obsidian Bases
-- [[Notes/Projects]] — Project tracking and progress logs
-- [[Notes/Concepts]] — Evergreen concepts and mental models
-- [[Notes/Resources]] — Curated links, papers, and resources
+- [[Notes/Notes|Notes]] — All notes via Obsidian Bases
+- [[Projects/Projects|Projects]] — Project tracking via Obsidian Bases
+- [[Notes/Concepts/Concepts|Concepts]] — Evergreen concepts via Obsidian Bases
+- [[Notes/Resources/Resources|Resources]] — Curated links via Obsidian Bases
 
 ## Quick Links
 

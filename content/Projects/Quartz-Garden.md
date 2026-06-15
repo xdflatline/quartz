@@ -10,7 +10,7 @@ tags:
 description: "Building a digital garden with Quartz static site generator"
 ---
 
-# Project: Quartz Digital Garden 🌱
+# Project: Quartz Digital Garden
 
 ## Objective
 Create a public knowledge base using Quartz that mirrors Obsidian vault structure, with:
@@ -50,11 +50,11 @@ Create a public knowledge base using Quartz that mirrors Obsidian vault structur
 - [[Notes/Concepts/Digital-Gardens|Digital Garden Philosophy]]
 
 ## Blockers
-- ⏳ GitHub Pages not yet enabled in repository settings (manual step required)
-- 🔧 Need to verify custom domain / CNAME configuration
+- [ ] GitHub Pages not yet enabled in repository settings (manual step required)
+- [ ] Need to verify custom domain / CNAME configuration
 
 ---
 
-[[Notes/Projects|← Back to Projects Index]]
+[[Notes/Projects|← Back to Projects]]
 
 #tags/project #quartz #web #obsidian

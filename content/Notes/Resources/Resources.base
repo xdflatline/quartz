@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.inFolder("Notes/Resources")
+views:
+  - type: table
+    name: "All Resources"
+    properties:
+      - title
+      - tags
+      - description
+    sort:
+      - property: title
+        direction: asc
+  - type: list
+    name: "Compact List"
+    properties:
+      - title
+      - description
+    sort:
+      - property: title
+        direction: asc

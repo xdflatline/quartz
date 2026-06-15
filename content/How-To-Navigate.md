@@ -6,7 +6,7 @@ tags:
 description: "Guide to navigating this digital garden"
 ---
 
-# How to Navigate This Garden 🧭
+# How to Navigate This Garden
 
 ## Primary Navigation
 
@@ -52,7 +52,7 @@ description: "Guide to navigating this digital garden"
 
 ## Mobile Navigation
 
-- **Hamburger Menu** (☰) — Opens sidebar drawer
+- **Hamburger Menu** — Opens sidebar drawer
 - **Bottom Toolbar** — Search, Graph, Dark Mode
 - **Swipe** — Close sidebars, navigate history
 

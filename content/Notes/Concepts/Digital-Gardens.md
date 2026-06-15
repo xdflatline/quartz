@@ -10,7 +10,7 @@ aliases:
 description: "The philosophy and practice of cultivating a public knowledge base"
 ---
 
-# Digital Gardens 🌿
+# Digital Gardens
 
 > [!quote] "A digital garden is a collection of evolving ideas that aren't strictly organized by publication date." — Maggie Appleton
 
@@ -66,6 +66,6 @@ A **digital garden** is a personal knowledge base published on the web that:
 
 ---
 
-[[Notes/Concepts|← Back to Concepts Index]]
+[[Notes/Concepts|← Back to Concepts]]
 
 #tags/concepts #digital-garden #knowledge-management

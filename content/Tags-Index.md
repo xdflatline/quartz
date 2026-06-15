@@ -7,7 +7,7 @@ tags:
 description: "Browse all content by tag"
 ---
 
-# Tags Index 🏷️
+# Tags Index
 
 Browse all notes organized by tag. Click any tag to see related notes.
 

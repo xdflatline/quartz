@@ -7,9 +7,9 @@ tags:
 description: "Evergreen concepts and mental models"
 ---
 
-# Concepts 🧠
+# Concepts
 
-Evergreen notes on mental models, frameworks, and fundamental concepts that compound over time.
+Evergreen notes on mental models, frameworks, and fundamental concepts that compound over time. See the [Concepts base](Concepts/Concepts) for dynamic views.
 
 ## Mental Models
 

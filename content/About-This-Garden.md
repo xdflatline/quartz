@@ -6,7 +6,7 @@ tags:
 description: "About this digital garden and its author"
 ---
 
-# About This Garden 🌱
+# About This Garden
 
 ## Purpose
 

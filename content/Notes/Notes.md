@@ -7,7 +7,7 @@ tags:
 description: "Master index of all notes in this garden — powered by Obsidian Bases"
 ---
 
-# Notes 📚
+# Notes
 
 This page uses the [Bases plugin](https://quartz.jzhao.xyz/plugins/basespage) to dynamically display all notes in the `Notes` folder. Browse by table, grouped by category, or compact list using the tabs above.
 

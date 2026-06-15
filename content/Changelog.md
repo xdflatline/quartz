@@ -7,7 +7,7 @@ tags:
 description: "History of changes to this digital garden"
 ---
 
-# Changelog 📜
+# Changelog
 
 All notable changes to this digital garden.
 
