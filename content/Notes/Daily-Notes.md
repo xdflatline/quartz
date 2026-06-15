@@ -13,9 +13,7 @@ Chronological journal entries capturing thoughts, meetings, and observations.
 
 ## Recent Entries
 
-- [[Notes/Daily-Notes/2024-01-15|2024-01-15]] — Project kickoff meeting, Quartz setup
-- [[Notes/Daily-Notes/2024-01-14|2024-01-14]] — Research on static site generators
-- [[Notes/Daily-Notes/2024-01-13|2024-01-13]] — Obsidian workflow optimization
+- [[Notes/Daily-Notes/2026-06-15|2026-06-15]] — Quartz digital garden setup and deployment
 
 ## Template
 
