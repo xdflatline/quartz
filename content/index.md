@@ -21,13 +21,11 @@ This is a **Quartz** static site showcasing my notes, ideas, and knowledge base 
 ## Quick Links
 
 - [[About-This-Garden|About this Garden]]
-- [[How-To-Navigate|How to Navigate]]
-- [[Tags-Index|Browse by Tags]]
 
 ---
 
 > [!note] This garden grows over time
-> Content is added incrementally. Check back often or watch the [[Changelog]] for updates.
+> Content is added incrementally. Check back often or check back often for updates.
 
 ---
 
