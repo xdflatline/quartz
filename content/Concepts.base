@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.inFolder("Notes/Concepts")
+    - file.inFolder("Concepts")
 views:
   - type: table
     name: "All Concepts"

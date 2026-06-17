@@ -12,10 +12,9 @@ This is a **Quartz** static site showcasing my notes, ideas, and knowledge base 
 
 ## What You'll Find Here
 
-- [[/quartz/notes/index.base.html|Notes]] — All notes via Obsidian Bases
-- [[/quartz/projects/index.base.html|Projects]] — Project tracking via Obsidian Bases
-- [[/quartz/notes/concepts/index.base.html|Concepts]] — Evergreen concepts via Obsidian Bases
-- [[/quartz/notes/resources/index.base.html|Resources]] — Curated links via Obsidian Bases
+- [[Projects|Projects]] — Project tracking via Obsidian Bases
+- [[Concepts|Concepts]] — Evergreen concepts via Obsidian Bases
+- [[Resources|Resources]] — Curated links via Obsidian Bases
 
 ## Quick Links
 
