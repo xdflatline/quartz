@@ -8,7 +8,7 @@ created: 2026-05-22
 updated: 2026-05-22
 type: entitie
 sources:
-  - raw/articles/launch-hn-runtime-yc-p26-sandboxed-coding-agents-for-everyone-on-a-team-2026-05-22.md
+  - Raw/launch-hn-runtime-yc-p26-sandboxed-coding-agents-for-everyone-on-a-team-2026-05-22.md
 ---
 ## Overview
 

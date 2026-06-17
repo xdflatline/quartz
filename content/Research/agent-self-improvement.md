@@ -8,7 +8,7 @@ created: 2026-05-25
 updated: 2026-05-25
 type: research
 sources:
-  - /raw/articles/self-improve-framework-github
+  - /Raw/self-improve-framework-github
 ---
 # Research: Arbitrary AI Agent Self-Improvement
 

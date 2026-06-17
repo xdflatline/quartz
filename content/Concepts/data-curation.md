@@ -8,7 +8,7 @@ created: 2026-05-19
 updated: 2026-05-19
 type: concept
 sources:
-  - raw/articles/see-log.md
+  - Raw/see-log.md
 ---
 ## Overview
 

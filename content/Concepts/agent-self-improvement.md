@@ -8,7 +8,7 @@ created: 2026-05-25
 updated: 2026-05-25
 type: concept
 sources:
-  - /raw/articles/self-improve-framework-github
+  - /Raw/self-improve-framework-github
 ---
 # Agent Self-Improvement
 

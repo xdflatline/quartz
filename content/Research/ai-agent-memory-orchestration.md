@@ -58,9 +58,9 @@ This index collects concepts, tools, and patterns from recent discussions on:
 
 ## Raw Sources
 
-- [[Raw/articles/hn-multiagent-orchestration-production]] — Full HN thread on production orchestration
-- [[Raw/articles/hn-memory-ai-coding-agents]] — Full HN thread on memory for coding agents
-- [[Raw/articles/devto-llm-local-ram-benchmarks-2026]] — DEV Community 2026 benchmarks for local LLM RAM/VRAM
+- [[Raw/hn-multiagent-orchestration-production]] — Full HN thread on production orchestration
+- [[Raw/hn-memory-ai-coding-agents]] — Full HN thread on memory for coding agents
+- [[Raw/devto-llm-local-ram-benchmarks-2026]] — DEV Community 2026 benchmarks for local LLM RAM/VRAM
 
 ---
 

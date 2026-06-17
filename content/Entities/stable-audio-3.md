@@ -8,7 +8,7 @@ created: 2026-05-21
 updated: 2026-05-21
 type: entitie
 sources:
-  - .raw/articles/stable-audio-3-2026-05-21.md
+  - .Raw/stable-audio-3-2026-05-21.md
 confidence: high
 ---
 # Stable Audio 3
@@ -43,4 +43,4 @@ Represents rapid maturation of generative audio:
 ## Related Models
 See also: [[Concepts/lance-multimodal-model|Lance Multimodal Model]] — another recent open-weight generative model pushing boundaries at efficient scales.
 
-[[Raw/articles/stable-audio-3-2026-05-21|Source: stable-audio-3-2026-05-21]]
+[[Raw/stable-audio-3-2026-05-21|Source: stable-audio-3-2026-05-21]]

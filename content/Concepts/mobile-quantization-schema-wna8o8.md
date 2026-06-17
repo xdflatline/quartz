@@ -13,7 +13,7 @@ status: Production-validated
 ---
 # Mobile Quantization Schema (wNa8o8)
 
-**Source:** [[Raw/articles/google-blog-quantization-aware-training-gemma-4-2026-06-16]]
+**Source:** [[Raw/google-blog-quantization-aware-training-gemma-4-2026-06-16]]
 **Category:** Architecture Pattern
 **Status:** Production-validated
 
@@ -120,7 +120,7 @@ With static S_a determined during training.
 
 ## References
 
-- Raw Article: [[Raw/articles/google-blog-quantization-aware-training-gemma-4-2026-06-16]]
+- Raw Article: [[Raw/google-blog-quantization-aware-training-gemma-4-2026-06-16]]
 - Original: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/
 - LiteRT-LM Discussion: https://github.com/google-ai-edge/LiteRT-LM/issues/2497
 - Mobile Model Card: https://huggingface.co/google/gemma-4-E2B-it-qat-mobile-transformers

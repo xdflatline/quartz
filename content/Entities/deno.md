@@ -8,7 +8,7 @@ created: 2026-05-22
 updated: 2026-05-22
 type: entitie
 sources:
-  - raw/articles/deno-28-2026-05-22.md
+  - Raw/deno-28-2026-05-22.md
 ---
 ## Overview
 

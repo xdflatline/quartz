@@ -8,7 +8,7 @@ created: 2026-05-21
 updated: 2026-05-21
 type: entitie
 sources:
-  - .raw/articles/www.bleepingcomputer.com-news-security-github-conf.md
+  - .Raw/www.bleepingcomputer.com-news-security-github-conf.md
 ---
 GitHub suffered a breach involving 3,800 repositories. [[Concepts/cybersecurity|cybersecurity]]
 

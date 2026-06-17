@@ -8,8 +8,8 @@ created: 2026-05-20
 updated: 2026-05-22
 type: entitie
 sources:
-  - raw/articles/gemini-cli-will-stop-working-from-june-18-2026-2026-05-20.md
-  - raw/articles/antigravity-20-tops-the-openscad-architectural-3d-llm-benchmark-2026-05-22.md
+  - Raw/gemini-cli-will-stop-working-from-june-18-2026-2026-05-20.md
+  - Raw/antigravity-20-tops-the-openscad-architectural-3d-llm-benchmark-2026-05-22.md
 confidence: high
 ---
 ## Overview

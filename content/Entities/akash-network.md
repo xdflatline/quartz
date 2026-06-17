@@ -30,4 +30,4 @@ type: entitie
 
 ## Resources
 - [Official Documentation](https://akash.network/docs/)
-- [[Raw/articles/akash-network-overview|Raw Overview Note]]
+- [[Raw/akash-network-overview|Raw Overview Note]]

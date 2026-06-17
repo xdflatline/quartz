@@ -8,7 +8,7 @@ created: 2026-05-22
 updated: 2026-05-22
 type: entitie
 sources:
-  - raw/articles/launch-hn-superset-yc-p26-ide-for-the-agents-era-2026-05-22.md
+  - Raw/launch-hn-superset-yc-p26-ide-for-the-agents-era-2026-05-22.md
 ---
 ## Overview
 

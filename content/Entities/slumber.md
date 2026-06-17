@@ -8,7 +8,7 @@ created: 2026-05-22
 updated: 2026-05-22
 type: entitie
 sources:
-  - raw/articles/slumber-a-tui-http-client-2026-05-22.md
+  - Raw/slumber-a-tui-http-client-2026-05-22.md
 ---
 ## Overview
 

@@ -8,12 +8,12 @@ created: 2026-05-20
 updated: 2026-05-20
 type: entitie
 sources:
-  - raw/articles/hn-gemini-3-5-flash-2026-05-20.md
+  - Raw/hn-gemini-3-5-flash-2026-05-20.md
 confidence: medium
 ---
 ## Overview
 
-Gemini 3.5 Flash is Google's latest model release in the Gemini family, announced in May 2026. It represents the continued evolution of Google's multimodal AI models.[[Raw/articles/hn-gemini-3-5-flash-2026-05-20|Source: hn-gemini-3-5-flash-2026-05-20]]
+Gemini 3.5 Flash is Google's latest model release in the Gemini family, announced in May 2026. It represents the continued evolution of Google's multimodal AI models.[[Raw/hn-gemini-3-5-flash-2026-05-20|Source: hn-gemini-3-5-flash-2026-05-20]]
 
 ## Key Details
 

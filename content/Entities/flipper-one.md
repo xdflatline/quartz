@@ -8,7 +8,7 @@ created: 2026-05-22
 updated: 2026-05-22
 type: entitie
 sources:
-  - raw/articles/flipper-one-we-need-your-help-2026-05-22.md
+  - Raw/flipper-one-we-need-your-help-2026-05-22.md
 ---
 ## Overview
 

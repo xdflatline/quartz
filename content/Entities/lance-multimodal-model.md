@@ -8,7 +8,7 @@ created: 2026-05-21
 updated: 2026-05-21
 type: entitie
 sources:
-  - .raw/articles/lance-multimodal-image-video-generation-2026-05-21.md
+  - .Raw/lance-multimodal-image-video-generation-2026-05-21.md
 confidence: medium
 ---
 # Lance Multimodal Model
@@ -39,4 +39,4 @@ Pushes the frontier of unified multimodal modeling — a single model doing what
 ## Competition
 Related efforts: [[Concepts/stable-audio-3|Stable Audio 3]] shows similar trend toward efficient, open generative models at consumer-accessible scales.
 
-[[Raw/articles/lance-multimodal-image-video-generation-2026-05-21|Source: lance-multimodal-image-video-generation-2026-05-21]]
+[[Raw/lance-multimodal-image-video-generation-2026-05-21|Source: lance-multimodal-image-video-generation-2026-05-21]]

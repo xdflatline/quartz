@@ -77,5 +77,5 @@ ollama pull qwen2.5-coder:7b-instruct-q8_0
 
 ## References
 
-- Raw Article: [[Raw/articles/devto-llm-local-ram-benchmarks-2026]]
+- Raw Article: [[Raw/devto-llm-local-ram-benchmarks-2026]]
 - Source: https://dev.to/pavelespitia/how-much-ram-do-you-really-need-to-run-llms-locally-2026-benchmarks-3kd2

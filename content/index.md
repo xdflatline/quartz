@@ -19,6 +19,7 @@ This is a **Quartz** static site showcasing my notes, ideas, and knowledge base 
 - [[Resources|Resources]] — Curated links
 - [[Ideas|Ideas]] — Creative brainstorms and thoughts
 - [[Research|Research]] — Comprehensive research indexes
+- [[Raw|Raw Sources]] — Ingested raw source articles
 
 ---
 

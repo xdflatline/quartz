@@ -8,7 +8,7 @@ created: 2026-05-21
 updated: 2026-05-21
 type: entitie
 sources:
-  - .raw/articles/codegraph-devto.md
+  - .Raw/codegraph-devto.md
 confidence: high
 ---
 # CodeGraph

@@ -8,7 +8,7 @@ created: 2026-05-20
 updated: 2026-05-20
 type: concept
 sources:
-  - raw/articles/hn-growing-neural-cellular-automata-2026-05-20.md
+  - Raw/hn-growing-neural-cellular-automata-2026-05-20.md
 confidence: medium
 ---
 ## Overview

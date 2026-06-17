@@ -8,7 +8,7 @@ created: 2026-05-22
 updated: 2026-05-22
 type: entitie
 sources:
-  - raw/articles/uv-is-fantastic-but-its-package-management-ux-is-a-mess-2026-05-22.md
+  - Raw/uv-is-fantastic-but-its-package-management-ux-is-a-mess-2026-05-22.md
 ---
 ## Overview
 

@@ -8,8 +8,8 @@ created: 2026-05-20
 updated: 2026-05-20
 type: concept
 sources:
-  - raw/articles/hn-openai-synthid-watermark-for-ai-images-2026-05-20.md
-  - raw/articles/hn-remove-ai-watermarks-cli-2026-05-20.md
+  - Raw/hn-openai-synthid-watermark-for-ai-images-2026-05-20.md
+  - Raw/hn-remove-ai-watermarks-cli-2026-05-20.md
 confidence: medium
 ---
 ## Overview

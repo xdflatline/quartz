@@ -36,4 +36,4 @@ Both MRT1 and MRT2 are codec language models operating on sequences of audio tok
 
 ## References
 - [Original Announcement: Magenta RealTime 2](https://magenta.withgoogle.com/magenta-realtime-2)
-- [[Raw/articles/magenta-realtime-2-announcement|Raw Scrape]]
+- [[Raw/magenta-realtime-2-announcement|Raw Scrape]]
