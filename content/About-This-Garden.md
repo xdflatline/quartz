@@ -42,10 +42,14 @@ This digital garden is a public knowledge base where I cultivate ideas, document
 ## Garden Tour
 
 - **Start here**: [[index|Home]]
+- **Explore Concepts**: [[Concepts|Concepts Base]]
+- **Explore Projects**: [[Projects|Projects Base]]
+- **Explore Resources**: [[Resources|Resources Base]]
+- **Explore Ideas**: [[Ideas|Ideas Base]]
+- **Explore Research**: [[Research|Research Base]]
 - **Explore graph**: Click the graph icon (top-right)
 - **Search**: Press `Ctrl/Cmd + K` or click search icon
 - **Tags**: [[Tags-Index|Browse by tag]]
-
 ## License
 
 Content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Code under [MIT](https://opensource.org/licenses/MIT).
