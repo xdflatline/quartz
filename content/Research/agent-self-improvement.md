@@ -200,7 +200,7 @@ Wraps the Markdown files with a lightweight command-line interface (CLI) tool na
 ### Semantic Search and Concept Graphing
 - **Semantic Chunking**: Split Markdown files keeping section titles associated with their respective bullet points, ensuring high retrieval relevance.
 - **Local Embedding Engine**: Employs lightweight local embedding models to ensure zero cost, low latency, and high privacy.
-- **Knowledge Graph**: Treats relative markdown links (e.g., `[Git Workflow](/concepts/git)`) as concept edges. When querying a topic, `kb` traverses adjacent links to retrieve neighboring concept pages, boosting contextual awareness without context flooding.
+- **Knowledge Graph**: Treats relative markdown links (e.g., `[[/concepts/git|Git Workflow]]`) as concept edges. When querying a topic, `kb` traverses adjacent links to retrieve neighboring concept pages, boosting contextual awareness without context flooding.
 
 ---
 

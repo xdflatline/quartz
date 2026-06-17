@@ -14,7 +14,7 @@ website: "https://ai.google.dev/"
 ---
 # Google DeepMind
 
-**Source:** [[raw/articles/google-blog-quantization-aware-training-gemma-4-2026-06-16]]
+**Source:** [[Raw/articles/google-blog-quantization-aware-training-gemma-4-2026-06-16]]
 **Category:** Organization
 **Repository:** https://github.com/google
 **Website**: https://ai.google.dev/
@@ -74,7 +74,7 @@ Google DeepMind is the AI research laboratory of Google, responsible for develop
 
 ## References
 
-- Raw Article: [[raw/articles/google-blog-quantization-aware-training-gemma-4-2026-06-16]]
+- Raw Article: [[Raw/articles/google-blog-quantization-aware-training-gemma-4-2026-06-16]]
 - Original: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/
 - Gemma Documentation: https://ai.google.dev/gemma/docs
 - Model Collections: https://huggingface.co/collections/google/gemma-4
