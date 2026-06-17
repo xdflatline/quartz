@@ -1,12 +1,15 @@
 ---
-title: "Agent Self-Improvement Research"
+title: Agent Self-Improvement Research
+detail: This research outlines the architectural specifications for instructing arbitrary AI agents to self-improve while preventing context pollution, mai...
+details: This research outlines the architectural specifications for instructing arbitrary AI agents to self-improve while preventing context pollution, mai...
+tags:
+  - research
 created: 2026-05-25
 updated: 2026-05-25
 type: research
-tags: ["ai-agents", "software-engineering", "architecture"]
-sources: ["/raw/articles/self-improve-framework-github"]
+sources:
+  - /raw/articles/self-improve-framework-github
 ---
-
 # Research: Arbitrary AI Agent Self-Improvement
 
 This research outlines the architectural specifications for instructing arbitrary AI agents to self-improve while preventing context pollution, maintaining human readability, and maximizing agent-agnostic portability.

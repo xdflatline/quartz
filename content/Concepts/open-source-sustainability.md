@@ -1,13 +1,16 @@
 ---
-title: "Open Source Sustainability"
+title: Open Source Sustainability
+detail: Open source sustainability refers to the factors that determine whether open source projects survive, thrive, or die. Despite their collaborative e...
+details: Open source sustainability refers to the factors that determine whether open source projects survive, thrive, or die. Despite their collaborative e...
+tags:
+  - concepts
 created: 2026-05-20
 updated: 2026-05-20
 type: concept
-tags: ["open-source", "programming"]
-sources: ["raw/articles/hn-dumb-ways-for-an-open-source-project-to-die-2026-05-20.md"]
+sources:
+  - raw/articles/hn-dumb-ways-for-an-open-source-project-to-die-2026-05-20.md
 confidence: medium
 ---
-
 ## Overview
 
 Open source sustainability refers to the factors that determine whether open source projects survive, thrive, or die. Despite their collaborative ethos, many OSS projects fail due to preventable organizational and social issues rather than technical ones.[[ephemeral/hn-dumb-ways-for-an-open-source-project-to-die-2026-05-20|Source: hn-dumb-ways-for-an-open-source-project-to-die-2026-05-20]]

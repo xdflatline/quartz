@@ -1,11 +1,13 @@
 ---
-title: "Reinforcement Learning and GRPO for LLMs"
+title: Reinforcement Learning and GRPO for LLMs
+detail: "Traditional LLM training follows a three-stage pipeline:"
+details: "Traditional LLM training follows a three-stage pipeline:"
+tags:
+  - concepts
 created: 2026-05-24
 updated: 2026-05-24
 type: concept
-tags: ["reinforcement-learning", "grpo", "rlhf", "rlvr", "training", "ai-ml"]
 ---
-
 ## Overview
 
 **Reinforcement Learning (RL)** for Large Language Models moves beyond supervised fine-tuning by training models to optimize for human preferences, correctness, or other reward signals. Recent advances like **GRPO (Group Relative Policy Optimization)** and **RLVR (Reinforcement Learning with Verifiable Rewards)** have demonstrated that LLMs can achieve remarkable reasoning capabilities through RL alone.

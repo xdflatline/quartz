@@ -1,11 +1,13 @@
 ---
-title: "Dataset Creation for LLM Training"
+title: Dataset Creation for LLM Training
+detail: "The [Alpaca format](https://github.com/tatsu-lab/stanford_alpaca) is one of the most widely used instruction-following formats:"
+details: "The [Alpaca format](https://github.com/tatsu-lab/stanford_alpaca) is one of the most widely used instruction-following formats:"
+tags:
+  - concepts
 created: 2026-05-24
 updated: 2026-05-24
 type: concept
-tags: ["datasets", "data-curation", "training", "synthetic-data", "tokenization", "ai-ml"]
 ---
-
 ## Overview
 
 **Dataset creation** is the foundation of effective LLM fine-tuning. The quality, diversity, and formatting of training data often matters more than model architecture or hyperparameters. This page covers data formats, curation strategies, synthetic data generation, and tokenization considerations for LLM training.

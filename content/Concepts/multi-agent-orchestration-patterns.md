@@ -1,3 +1,13 @@
+---
+title: Multi-Agent Orchestration Patterns
+detail: Production multi-agent AI workflows favor **custom orchestration layers** over off-the-shelf frameworks. The consensus is that existing frameworks ...
+details: Production multi-agent AI workflows favor **custom orchestration layers** over off-the-shelf frameworks. The consensus is that existing frameworks ...
+tags:
+  - concepts
+created: 2026-06-17
+updated: 2026-06-17
+type: concept
+---
 # Multi-Agent Orchestration Patterns
 
 **Source:** HN Discussion (https://news.ycombinator.com/item?id=47660705)

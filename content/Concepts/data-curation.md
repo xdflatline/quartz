@@ -1,10 +1,14 @@
 ---
-title: "Data Curation"
+title: Data Curation
+detail: Data curation is the process of selecting, organizing, and maintaining datasets used for training and evaluating machine learning models. Poor data...
+details: Data curation is the process of selecting, organizing, and maintaining datasets used for training and evaluating machine learning models. Poor data...
+tags:
+  - concepts
 created: 2026-05-19
 updated: 2026-05-19
 type: concept
-tags: ["data", "ai-ml", "research"]
-sources: ["raw/articles/see-log.md"]
+sources:
+  - raw/articles/see-log.md
 ---
 ## Overview
 

@@ -1,3 +1,13 @@
+---
+title: LLM Quantization Reference
+detail: Quantization reduces model weight precision to trade off memory usage against output quality. The article recommends **Q4_K_M as the default sweet ...
+details: Quantization reduces model weight precision to trade off memory usage against output quality. The article recommends **Q4_K_M as the default sweet ...
+tags:
+  - concepts
+created: 2026-06-17
+updated: 2026-06-17
+type: concept
+---
 # LLM Quantization Reference
 
 **Source:** DEV Community article (https://dev.to/pavelespitia/how-much-ram-do-you-really-need-to-run-llms-locally-2026-benchmarks-3kd2)

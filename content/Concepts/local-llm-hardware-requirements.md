@@ -1,3 +1,13 @@
+---
+title: Local LLM Hardware Requirements
+detail: Hardware tier recommendations based on real-world benchmarks for running LLMs locally via Ollama.
+details: Hardware tier recommendations based on real-world benchmarks for running LLMs locally via Ollama.
+tags:
+  - concepts
+created: 2026-06-17
+updated: 2026-06-17
+type: concept
+---
 # Local LLM Hardware Requirements
 
 **Source:** DEV Community article (https://dev.to/pavelespitia/how-much-ram-do-you-really-need-to-run-llms-locally-2026-benchmarks-3kd2)

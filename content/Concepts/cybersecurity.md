@@ -1,10 +1,19 @@
 ---
-title: "Cybersecurity"
+title: Cybersecurity
+detail: Cybersecurity encompasses protecting systems, networks, and data from unauthorized access, attacks, and damage. Modern threat landscape includes su...
+details: Cybersecurity encompasses protecting systems, networks, and data from unauthorized access, attacks, and damage. Modern threat landscape includes su...
+tags:
+  - concepts
 created: 2026-05-19
 updated: 2026-05-21
 type: concept
-tags: ["security", "devops"]
-sources: ["raw/articles/see-log.md", "raw/articles/hn-cisa-admin-leaked-aws-govcloud-keys-2026-05-20.md", "raw/articles/hn-kernel-vulnerabilities-copy-fail-dirty-frag-fragnesia-2026-05-20.md", "raw/articles/github-is-investigating-unauthorized-access-to-their-internal-repositories-2026-05-20.md", "raw/articles/google-s-ai-is-being-manipulated-the-search-giant-is-quietly-fighting-back-2026-05-20.md", ".raw/articles/copyfail-kubernetes-2026-05-21.md"]
+sources:
+  - raw/articles/see-log.md
+  - raw/articles/hn-cisa-admin-leaked-aws-govcloud-keys-2026-05-20.md
+  - raw/articles/hn-kernel-vulnerabilities-copy-fail-dirty-frag-fragnesia-2026-05-20.md
+  - raw/articles/github-is-investigating-unauthorized-access-to-their-internal-repositories-2026-05-20.md
+  - raw/articles/google-s-ai-is-being-manipulated-the-search-giant-is-quietly-fighting-back-2026-05-20.md
+  - .raw/articles/copyfail-kubernetes-2026-05-21.md
 ---
 ## Overview
 

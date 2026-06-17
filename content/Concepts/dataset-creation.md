@@ -1,8 +1,13 @@
 ---
 title: LLM Dataset Creation
+detail: Processing raw data for training and fine-tuning LLMs.
 details: Processing raw data for training and fine-tuning LLMs.
+tags:
+  - concepts
+created: 2026-06-17
+updated: 2026-06-17
+type: concept
 ---
-
 # LLM Dataset Creation
 
 Dataset creation is the process of converting raw unstructured or semi-structured data into formats suitable for Language Model training.

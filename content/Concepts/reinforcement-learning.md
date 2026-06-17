@@ -1,8 +1,13 @@
 ---
 title: Reinforcement Learning (RL) for LLMs
+detail: Aligning models using GRPO, PPO, DPO.
 details: Aligning models using GRPO, PPO, DPO.
+tags:
+  - concepts
+created: 2026-06-17
+updated: 2026-06-17
+type: concept
 ---
-
 # Reinforcement Learning for LLMs
 
 RL techniques are used to shape the behavior of an LLM beyond basic next-token prediction, heavily utilized in reasoning and tool-calling models.

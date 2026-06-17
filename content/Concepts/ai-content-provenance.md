@@ -1,13 +1,17 @@
 ---
-title: "AI Content Provenance"
+title: AI Content Provenance
+detail: AI content provenance refers to the technical and organizational efforts to track, verify, and watermark AI-generated content. The field became a b...
+details: AI content provenance refers to the technical and organizational efforts to track, verify, and watermark AI-generated content. The field became a b...
+tags:
+  - concepts
 created: 2026-05-20
 updated: 2026-05-20
 type: concept
-tags: ["ai-ml", "security", "controversy"]
-sources: ["raw/articles/hn-openai-synthid-watermark-for-ai-images-2026-05-20.md", "raw/articles/hn-remove-ai-watermarks-cli-2026-05-20.md"]
+sources:
+  - raw/articles/hn-openai-synthid-watermark-for-ai-images-2026-05-20.md
+  - raw/articles/hn-remove-ai-watermarks-cli-2026-05-20.md
 confidence: medium
 ---
-
 ## Overview
 
 AI content provenance refers to the technical and organizational efforts to track, verify, and watermark AI-generated content. The field became a battleground in 2026 as watermarking and anti-watermarking techniques evolved in parallel.[[ephemeral/hn-openai-synthid-watermark-for-ai-images-2026-05-20|Source: hn-openai-synthid-watermark-for-ai-images-2026-05-20]]

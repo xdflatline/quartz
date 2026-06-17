@@ -1,15 +1,16 @@
 ---
+title: "Project: Quartz Digital Garden"
+detail: Building a digital garden with Quartz static site generator
+details: Building a digital garden with Quartz static site generator
+tags:
+  - projects
+created: 2026-06-15
+updated: 2026-06-17
+type: project
 project: Quartz Digital Garden
 status: active
 started: 2024-01-15
-tags:
-  - project
-  - quartz
-  - web
-  - obsidian
-description: "Building a digital garden with Quartz static site generator"
 ---
-
 # Project: Quartz Digital Garden
 
 ## Objective

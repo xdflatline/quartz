@@ -1,11 +1,13 @@
 ---
 title: Welcome to My Digital Garden
+detail: Main entry point for my digital garden built with Quartz
+details: Main entry point for my digital garden built with Quartz
 tags:
   - index
-  - welcome
-description: "Main entry point for my digital garden built with Quartz"
+created: 2021-07-18
+updated: 2026-06-17
+type: index
 ---
-
 # Welcome to My Digital Garden
 
 This is a **Quartz** static site showcasing my notes, ideas, and knowledge base — built in the style of an Obsidian vault.

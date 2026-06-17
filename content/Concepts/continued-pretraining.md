@@ -1,11 +1,13 @@
 ---
-title: "Continued Pretraining (CPT)"
+title: Continued Pretraining (CPT)
+detail: "subgraph \"Pretraining\""
+details: "subgraph \"Pretraining\""
+tags:
+  - concepts
 created: 2026-05-24
 updated: 2026-05-24
 type: concept
-tags: ["continued-pretraining", "cpt", "domain-adaptation", "training", "ai-ml"]
 ---
-
 ## Overview
 
 **Continued Pretraining (CPT)** is the process of further training a pre-trained language model on a new corpus of text, typically from a specific domain. Unlike fine-tuning, which adapts a model to a specific task, CPT continues the pretraining objective (next-token prediction) on domain-specific data to improve the model's knowledge and capabilities in that domain.

@@ -1,13 +1,13 @@
 ---
 title: Static Site Generators
+detail: Comparison of static site generators for digital gardens
+details: Comparison of static site generators for digital gardens
 tags:
   - concepts
-  - web
-  - ssg
-  - comparison
-description: "Comparison of static site generators for digital gardens"
+created: 2026-06-15
+updated: 2026-06-17
+type: concept
 ---
-
 # Static Site Generators Comparison
 
 ## Top Contenders for Digital Gardens

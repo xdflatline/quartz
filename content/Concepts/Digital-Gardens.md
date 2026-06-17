@@ -1,15 +1,16 @@
 ---
 title: Digital Gardens
+detail: The philosophy and practice of cultivating a public knowledge base
+details: The philosophy and practice of cultivating a public knowledge base
 tags:
   - concepts
-  - digital-garden
-  - knowledge-management
+created: 2026-06-15
+updated: 2026-06-17
+type: concept
 aliases:
   - Digital Garden
   - Personal Knowledge Garden
-description: "The philosophy and practice of cultivating a public knowledge base"
 ---
-
 # Digital Gardens
 
 > [!quote] "A digital garden is a collection of evolving ideas that aren't strictly organized by publication date." — Maggie Appleton

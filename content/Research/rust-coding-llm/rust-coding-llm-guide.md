@@ -1,11 +1,13 @@
 ---
-title: "Fine-tuning a Rust Coding LLM with Unsloth"
+title: Fine-tuning a Rust Coding LLM with Unsloth
+detail: A practical research guide for training a small LLM to write solid, best-practice Rust code using EPUB-derived markdown datasets, with the goal of ...
+details: A practical research guide for training a small LLM to write solid, best-practice Rust code using EPUB-derived markdown datasets, with the goal of ...
+tags:
+  - research
 created: 2026-05-24
 updated: 2026-05-24
 type: research
-tags: ["rust", "llm", "fine-tuning", "unsloth", "coding-agent", "lora", "grpo", "practical-guide"]
 ---
-
 # Fine-tuning a Rust Coding LLM with Unsloth
 
 A practical research guide for training a small LLM to write solid, best-practice Rust code using EPUB-derived markdown datasets, with the goal of deploying it in a coding agent with tool-calling and reasoning capabilities.

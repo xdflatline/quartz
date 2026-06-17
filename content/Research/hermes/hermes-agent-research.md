@@ -1,3 +1,13 @@
+---
+title: Hermes Agent Research
+detail: Hermes Agent is an autonomous AI coding assistant designed to streamline development workflows and automate complex tasks.
+details: Hermes Agent is an autonomous AI coding assistant designed to streamline development workflows and automate complex tasks.
+tags:
+  - research
+created: 2026-06-17
+updated: 2026-06-17
+type: research
+---
 # Hermes Agent Research
 
 ## Overview

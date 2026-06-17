@@ -1,12 +1,16 @@
 ---
-title: "LLM Architecture"
+title: LLM Architecture
+detail: Large Language Models (LLMs) are deep learning models based primarily on the transformer architecture, trained on massive text corpora to predict a...
+details: Large Language Models (LLMs) are deep learning models based primarily on the transformer architecture, trained on massive text corpora to predict a...
+tags:
+  - concepts
 created: 2026-05-19
 updated: 2026-05-19
 type: concept
-tags: ["models", "ai-ml", "architecture"]
-sources: ["raw/articles/the-last-six-months-in-llms-in-five-minutes-2026-05-19.md", "raw/articles/intro-to-tla-for-the-llm-era-prompt-your-way-to-victory-2026-05-19.md"]
+sources:
+  - raw/articles/the-last-six-months-in-llms-in-five-minutes-2026-05-19.md
+  - raw/articles/intro-to-tla-for-the-llm-era-prompt-your-way-to-victory-2026-05-19.md
 ---
-
 ## Overview
 
 Large Language Models (LLMs) are deep learning models based primarily on the transformer architecture, trained on massive text corpora to predict and generate human-like language. The field evolved rapidly through late 2025 and early 2026.[[raw/articles/the-last-six-months-in-llms-in-five-minutes-2026-05-19|Source: the-last-six-months-in-llms-in-five-minutes-2026-05-19]]

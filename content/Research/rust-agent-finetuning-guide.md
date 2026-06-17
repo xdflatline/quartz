@@ -1,8 +1,13 @@
 ---
 title: Rust Agent Fine-tuning Guide
+detail: Practical guide to fine-tuning a small LLM into a Rust coding agent with tool-calling capabilities.
 details: Practical guide to fine-tuning a small LLM into a Rust coding agent with tool-calling capabilities.
+tags:
+  - research
+created: 2026-06-17
+updated: 2026-06-17
+type: research
 ---
-
 # Rust Agent Fine-tuning Guide
 
 This guide outlines the end-to-end process of training a small base LLM to become a proficient Rust coding agent using a corpus of Markdown files extracted from Rust EPUBs.

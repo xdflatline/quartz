@@ -1,11 +1,13 @@
 ---
-title: "Tool Calling in LLMs"
+title: Tool Calling in LLMs
+detail: "Tool calling allows an LLM to:"
+details: "Tool calling allows an LLM to:"
+tags:
+  - concepts
 created: 2026-05-24
 updated: 2026-05-24
 type: concept
-tags: ["tool-calling", "function-calling", "agents", "api", "ai-ml"]
 ---
-
 ## Overview
 
 **Tool calling** (also known as function calling) enables LLMs to interact with external systems, APIs, and tools. Instead of generating text in isolation, the model can request specific actions—like querying a database, calling an API, or running code—and incorporate the results into its response. This capability is fundamental to building agentic systems and extending LLM capabilities beyond text generation.

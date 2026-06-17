@@ -1,11 +1,13 @@
 ---
-title: "Model Selection for LLM Fine-Tuning"
+title: Model Selection for LLM Fine-Tuning
+detail: Choosing the right base model is one of the most important decisions in LLM fine-tuning. The model you select determines the upper bound of quality...
+details: Choosing the right base model is one of the most important decisions in LLM fine-tuning. The model you select determines the upper bound of quality...
+tags:
+  - concepts
 created: 2026-05-24
 updated: 2026-05-24
 type: concept
-tags: ["model-selection", "fine-tuning", "base-models", "instruct-models", "quantization", "ai-ml"]
 ---
-
 ## Overview
 
 Choosing the right base model is one of the most important decisions in LLM fine-tuning. The model you select determines the upper bound of quality, the computational requirements, and the types of tasks your fine-tuned model can perform well. This guide covers the key factors to consider when selecting a base model for fine-tuning.

@@ -1,3 +1,13 @@
+---
+title: "Research Index: AI Agent Memory & Orchestration"
+detail: "This index collects concepts, tools, and patterns from recent discussions on:"
+details: "This index collects concepts, tools, and patterns from recent discussions on:"
+tags:
+  - research
+created: 2026-06-17
+updated: 2026-06-17
+type: research
+---
 # Research Index: AI Agent Memory & Orchestration
 
 **Updated:** 2025-06-13

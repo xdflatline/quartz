@@ -1,3 +1,13 @@
+---
+title: Memori (Dual-Mode Memory Layer)
+detail: "Open-source **memory layer for AI agents** with dual-mode architecture:"
+details: "Open-source **memory layer for AI agents** with dual-mode architecture:"
+tags:
+  - entities
+created: 2026-06-17
+updated: 2026-06-17
+type: entitie
+---
 # Memori (Dual-Mode Memory Layer)
 
 **Source:** HN Show HN (https://news.ycombinator.com/item?id=44821941)

@@ -1,8 +1,13 @@
 ---
 title: Abstract Procedure for LLM Training and Fine-Tuning
+detail: A comprehensive abstract framework outlining the lifecycle of LLM specialization, from dataset curation to reinforcement learning.
 details: A comprehensive abstract framework outlining the lifecycle of LLM specialization, from dataset curation to reinforcement learning.
+tags:
+  - research
+created: 2026-06-17
+updated: 2026-06-17
+type: research
 ---
-
 # Abstract Procedure for LLM Training and Fine-Tuning
 
 This research paper outlines the abstract, end-to-end procedural framework for specializing a Large Language Model (LLM) on a domain-specific corpus. The procedure is model-agnostic but emphasizes parameter-efficient and compute-optimized techniques (such as LoRA and GRPO).

@@ -1,10 +1,17 @@
 ---
-source: "google-blog-quantization-aware-training-gemma-4-2026-06-16"
-category: "Organization"
+title: Google DeepMind
+detail: Google DeepMind is the AI research laboratory of Google, responsible for developing the Gemma family of open-weight language models. They pioneered...
+details: Google DeepMind is the AI research laboratory of Google, responsible for developing the Gemma family of open-weight language models. They pioneered...
+tags:
+  - entities
+created: 2026-06-17
+updated: 2026-06-17
+type: entitie
+source: google-blog-quantization-aware-training-gemma-4-2026-06-16
+category: Organization
 repository: "https://github.com/google"
 website: "https://ai.google.dev/"
 ---
-
 # Google DeepMind
 
 **Source:** [[raw/articles/google-blog-quantization-aware-training-gemma-4-2026-06-16]]

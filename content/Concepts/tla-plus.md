@@ -1,13 +1,16 @@
 ---
-title: "TLA+"
+title: TLA+
+detail: TLA+ (Temporal Logic of Actions) is a formal specification language developed by Leslie Lamport for designing, modeling, and verifying concurrent a...
+details: TLA+ (Temporal Logic of Actions) is a formal specification language developed by Leslie Lamport for designing, modeling, and verifying concurrent a...
+tags:
+  - concepts
 created: 2026-05-20
 updated: 2026-05-20
 type: concept
-tags: ["programming", "distributed-systems", "tool"]
-sources: ["raw/articles/hn-tla-for-the-llm-era-2026-05-20.md"]
+sources:
+  - raw/articles/hn-tla-for-the-llm-era-2026-05-20.md
 confidence: medium
 ---
-
 ## Overview
 
 TLA+ (Temporal Logic of Actions) is a formal specification language developed by Leslie Lamport for designing, modeling, and verifying concurrent and distributed systems. In 2026, TLA+ is being adapted for the LLM era, with AI assistance making formal methods more accessible.[[ephemeral/hn-tla-for-the-llm-era-2026-05-20|Source: hn-tla-for-the-llm-era-2026-05-20]]

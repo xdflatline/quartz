@@ -1,11 +1,13 @@
 ---
-title: "LoRA and QLoRA"
+title: LoRA and QLoRA
+detail: "Introduced by Hu et al. in 2021 ([LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)), LoRA freezes the pre-trai..."
+details: "Introduced by Hu et al. in 2021 ([LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)), LoRA freezes the pre-trai..."
+tags:
+  - concepts
 created: 2026-05-24
 updated: 2026-05-24
 type: concept
-tags: ["fine-tuning", "lora", "qlora", "peft", "optimization", "ai-ml"]
 ---
-
 ## Overview
 
 **LoRA (Low-Rank Adaptation)** and **QLoRA (Quantized LoRA)** are parameter-efficient fine-tuning (PEFT) techniques that dramatically reduce the memory and compute requirements for adapting large language models (LLMs) to specific tasks. Instead of updating all model parameters, LoRA introduces small, trainable rank-decomposition matrices into the model architecture.

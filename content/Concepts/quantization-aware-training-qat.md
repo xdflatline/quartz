@@ -1,9 +1,16 @@
 ---
-source: "google-blog-quantization-aware-training-gemma-4-2026-06-16"
-category: "Training Technique"
-status: "Production-validated"
+title: Quantization-Aware Training (QAT)
+detail: Quantization-Aware Training (QAT) is a technique where quantization errors are simulated during the training process, allowing the model to learn w...
+details: Quantization-Aware Training (QAT) is a technique where quantization errors are simulated during the training process, allowing the model to learn w...
+tags:
+  - concepts
+created: 2026-06-17
+updated: 2026-06-17
+type: concept
+source: google-blog-quantization-aware-training-gemma-4-2026-06-16
+category: Training Technique
+status: Production-validated
 ---
-
 # Quantization-Aware Training (QAT)
 
 **Source:** [[raw/articles/google-blog-quantization-aware-training-gemma-4-2026-06-16]]

@@ -1,15 +1,13 @@
 ---
 title: Agent Behavioral Guidelines
+detail: Behavioral guidelines to reduce common LLM coding mistakes, sourced from multica-ai/andrej-karpathy-skills
+details: Behavioral guidelines to reduce common LLM coding mistakes, sourced from multica-ai/andrej-karpathy-skills
 tags:
   - concepts
-  - agents
-  - guidelines
-  - behavioral
-  - ai
-  - claude
-description: "Behavioral guidelines to reduce common LLM coding mistakes, sourced from multica-ai/andrej-karpathy-skills"
+created: 2026-06-15
+updated: 2026-06-17
+type: concept
 ---
-
 # CLAUDE.md
 
 Behavioral guidelines to reduce common LLM coding mistakes. Merge with project-specific instructions as needed.
