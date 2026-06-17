@@ -13,7 +13,7 @@ confidence: medium
 ---
 ## Overview
 
-Neural Cellular Automata (NCA) combine cellular automata — grid-based computational models where cells update based on local rules — with neural networks that learn those rules. The approach enables emergent pattern formation and self-organizing systems.[[ephemeral/hn-growing-neural-cellular-automata-2026-05-20|Source: hn-growing-neural-cellular-automata-2026-05-20]]
+Neural Cellular Automata (NCA) combine cellular automata — grid-based computational models where cells update based on local rules — with neural networks that learn those rules. The approach enables emergent pattern formation and self-organizing systems.Source: hn-growing-neural-cellular-automata-2026-05-20
 
 ## Key Concepts
 

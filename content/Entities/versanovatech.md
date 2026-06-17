@@ -4,8 +4,8 @@ detail: Commercial **memory and learning layer** for AI agents. Referenced in HN
 details: Commercial **memory and learning layer** for AI agents. Referenced in HN thread as a tool providing persistent memory infrastructure.
 tags:
   - entities
-created: 2026-06-17
-updated: 2026-06-17
+created: 2026-06-13
+updated: 2026-06-13
 type: entitie
 ---
 # Versanova Tech

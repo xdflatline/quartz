@@ -4,8 +4,8 @@ detail: Production **observability platform for AI agents**. Referenced by teams
 details: Production **observability platform for AI agents**. Referenced by teams running multi-agent workflows in production.
 tags:
   - entities
-created: 2026-06-17
-updated: 2026-06-17
+created: 2026-06-13
+updated: 2026-06-13
 type: entitie
 ---
 # Wayfound.ai

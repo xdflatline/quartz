@@ -4,8 +4,8 @@ detail: OSS experiment for **auto-maintaining project documentation** (e.g., `CL
 details: OSS experiment for **auto-maintaining project documentation** (e.g., `CLAUDE.md`, `agents.md`) based on agent activity. Addresses the problem of st...
 tags:
   - entities
-created: 2026-06-17
-updated: 2026-06-17
+created: 2026-06-13
+updated: 2026-06-13
 type: entitie
 ---
 # Squirrel (Auto-maintaining Documentation)

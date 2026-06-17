@@ -26,13 +26,13 @@ AI agents are systems that use LLMs as reasoning engines to plan, execute, and i
 ### Anthropic Ecosystem
 - Anthropic acquired Stainless (2026-05) — SDK generation company
 - Signals vertical integration: model provider → developer tools → agent platform
-- Karpathy joined Anthropic (2026-05), strengthening their research team[[ephemeral/hn-ive-joined-anthropic-2026-05-20|Source: hn-ive-joined-anthropic-2026-05-20]]
+- Karpathy joined Anthropic (2026-05), strengthening their research teamSource: hn-ive-joined-anthropic-2026-05-20
 
 ### Forge – Guardrails for Agentic Tasks (2026-05)
 - Open-source project that applies guardrails to improve an 8B model's performance from 53% to 99% on agentic tasks
 - Demonstrates that smaller models with good guardrails can compete with much larger models on structured tasks
 - GitHub: github.com/antoinezambelli/forge
-- HN score: 387 — strong community interest[[ephemeral/hn-forge-guardrails-for-8b-model-on-agentic-tasks-2026-05-20|Source: hn-forge-guardrails-for-8b-model-on-agentic-tasks-2026-05-20]]
+- HN score: 387 — strong community interestSource: hn-forge-guardrails-for-8b-model-on-agentic-tasks-2026-05-20
 
 ### Agent Architecture Patterns
 - **ReAct**: Reason + Act interleaved

@@ -26,7 +26,7 @@ Cybersecurity encompasses protecting systems, networks, and data from unauthoriz
 - **CISA AWS GovCloud Leak (2026-05):** A CISA (Cybersecurity and Infrastructure Security Agency) administrator leaked AWS GovCloud keys on GitHub — ironic given CISA's role as the US government's cybersecurity agency
 - Reported by Krebs on Security
 - Government systems particularly vulnerable due to complex access patterns
-- Automated scanning tools continuously probe public repos for leaked keys[[ephemeral/hn-cisa-admin-leaked-aws-govcloud-keys-2026-05-20|Source: hn-cisa-admin-leaked-aws-govcloud-keys-2026-05-20]]
+- Automated scanning tools continuously probe public repos for leaked keysSource: hn-cisa-admin-leaked-aws-govcloud-keys-2026-05-20
 
 ### Supply Chain Attacks
 - **npm ecosystem**: Package compromise via typosquatting, dependency confusion, maintainer account takeover
@@ -36,11 +36,11 @@ Cybersecurity encompasses protecting systems, networks, and data from unauthoriz
 ### Kernel Vulnerabilities
 - **Copy Fail, Dirty Frag, Fragnesia (2026-05):** Three Linux kernel vulnerabilities discovered and reported
 - Gentoo and other distributions must rapidly patch and redistribute
-- Ongoing pattern: Linux kernel continues to reveal critical bugs requiring rapid response from distributions[[ephemeral/hn-kernel-vulnerabilities-copy-fail-dirty-frag-fragnesia-2026-05-20|Source: hn-kernel-vulnerabilities-copy-fail-dirty-frag-fragnesia-2026-05-20]]
+- Ongoing pattern: Linux kernel continues to reveal critical bugs requiring rapid response from distributionsSource: hn-kernel-vulnerabilities-copy-fail-dirty-frag-fragnesia-2026-05-20
 
 ### Platform Security Incidents
 - **GitHub Unauthorized Access Investigation (2026-05):** GitHub announced investigation into unauthorized access to their internal repositories. The incident was reported via their official Twitter/X account, scored 582 on HN with 314 comments — one of the top security stories of the week[[Raw/articles/github-is-investigating-unauthorized-access-to-their-internal-repositories-2026-05-20|Source: github-is-investigating-unauthorized-access-to-their-internal-repositories-2026-05-20]]
-- **Railway blocked by Google Cloud (2026-05):** Railway (cloud hosting platform) experienced blocking by Google Cloud, highlighting dependency risks in cloud infrastructure[[ephemeral/hn-railway-blocked-by-google-cloud-2026-05-20|Source: hn-railway-blocked-by-google-cloud-2026-05-20]]
+- **Railway blocked by Google Cloud (2026-05):** Railway (cloud hosting platform) experienced blocking by Google Cloud, highlighting dependency risks in cloud infrastructureSource: hn-railway-blocked-by-google-cloud-2026-05-20
 
 ### Container & Runtime Security
 - **Copy Fail (CVE-2026-31431):** Novel Linux kernel exploit enabling container escape from Kubernetes pods to host root via page cache manipulation. Unlike traditional kernel memory corruption exploits, CopyFail achieves controlled 4-byte writes into the page cache by confusing the IPSec ESP Extended Sequence Number code. This makes it exceptionally portable across kernels and difficult to detect. See [[Concepts/copyfail-vulnerability|CopyFail Vulnerability]] for technical details[[Raw/articles/copyfail-pod-to-host-kubernetes-vuln-2026-05-21|Source: copyfail-kubernetes-2026-05-21]]

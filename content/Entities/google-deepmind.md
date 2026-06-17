@@ -4,8 +4,8 @@ detail: Google DeepMind is the AI research laboratory of Google, responsible for
 details: Google DeepMind is the AI research laboratory of Google, responsible for developing the Gemma family of open-weight language models. They pioneered...
 tags:
   - entities
-created: 2026-06-17
-updated: 2026-06-17
+created: 2026-06-16
+updated: 2026-06-16
 type: entitie
 source: google-blog-quantization-aware-training-gemma-4-2026-06-16
 category: Organization

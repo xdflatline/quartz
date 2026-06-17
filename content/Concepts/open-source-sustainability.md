@@ -13,7 +13,7 @@ confidence: medium
 ---
 ## Overview
 
-Open source sustainability refers to the factors that determine whether open source projects survive, thrive, or die. Despite their collaborative ethos, many OSS projects fail due to preventable organizational and social issues rather than technical ones.[[ephemeral/hn-dumb-ways-for-an-open-source-project-to-die-2026-05-20|Source: hn-dumb-ways-for-an-open-source-project-to-die-2026-05-20]]
+Open source sustainability refers to the factors that determine whether open source projects survive, thrive, or die. Despite their collaborative ethos, many OSS projects fail due to preventable organizational and social issues rather than technical ones.Source: hn-dumb-ways-for-an-open-source-project-to-die-2026-05-20
 
 ## Common Failure Modes
 
