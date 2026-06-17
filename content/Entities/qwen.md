@@ -7,8 +7,6 @@ tags:
 created: 2026-05-20
 updated: 2026-06-04
 type: entitie
-sources:
-  - Raw/qwen3-7-the-agent-frontier.md
 confidence: high
 ---
 ## Overview

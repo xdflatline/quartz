@@ -10,7 +10,6 @@ type: concept
 sources:
   - Raw/see-log.md
   - Raw/hn-forge-guardrails-for-8b-model-on-agentic-tasks-2026-05-20.md
-  - Raw/qwen3-7-the-agent-frontier.md
 ---
 ## Overview
 
@@ -43,7 +42,7 @@ AI agents are systems that use LLMs as reasoning engines to plan, execute, and i
 ### Qwen3.7-Max Agent Capabilities (2026-05)
 - Alibaba's Qwen3.7-Max positioned as "The Agent Frontier"
 - Optimized for agentic workflows with tool use and code artifacts
-- Represents competition from Chinese model providers in the agent space[[Raw/qwen3-7-the-agent-frontier|Source: qwen3-7-max-the-agent-frontier-2026-05-20]]
+- Represents competition from Chinese model providers in the agent space (Source: qwen3-7-max-the-agent-frontier-2026-05-20)
 
 ## Market Dynamics
 
