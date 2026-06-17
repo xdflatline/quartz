@@ -18,14 +18,10 @@ This is a **Quartz** static site showcasing my notes, ideas, and knowledge base 
 - [[Ideas|Ideas]] — Creative brainstorms and thoughts via Obsidian Bases
 - [[Research|Research]] — Comprehensive research indexes via Obsidian Bases
 
-## Quick Links
-
-- [[About-This-Garden|About this Garden]]
-
 ---
 
 > [!note] This garden grows over time
-> Content is added incrementally. Check back often or check back often for updates.
+> Content is added incrementally. Check back often for updates.
 
 ---
 
