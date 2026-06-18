@@ -7,13 +7,13 @@ tags:
 created: 2026-06-17
 updated: 2026-06-17
 type: concept
-source: google-blog-quantization-aware-training-gemma-4-2026-06-16
+source: "Google Blog (Gemma 4 QAT)"
 category: Training Technique
 status: Production-validated
 ---
 # Quantization-Aware Training (QAT)
 
-**Source:** [[Raw/google-blog-quantization-aware-training-gemma-4-2026-06-16]]
+**Source:** Google Blog
 **Category:** Training Technique | Learning Mechanism
 **Status:** Production-validated
 
@@ -123,7 +123,7 @@ output = quantized_weight @ input
 
 ## References
 
-- Raw Article: [[Raw/google-blog-quantization-aware-training-gemma-4-2026-06-16]]
+- Raw Article: Google Blog (Quantization-Aware Training)
 - Original: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/
 - Technical Deep Dive: https://explore.n1n.ai/blog/google-gemma-4-qat-quantization-aware-training-2026-06-13
 - Self-Hosting Guide: https://lushbinary.com/blog/gemma-4-qat-self-hosting-guide-ollama-llama-cpp-vllm/

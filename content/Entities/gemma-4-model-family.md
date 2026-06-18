@@ -7,7 +7,7 @@ tags:
 created: 2026-06-16
 updated: 2026-06-16
 type: entitie
-source: google-blog-quantization-aware-training-gemma-4-2026-06-16
+source: "Google Blog (Gemma 4 QAT)"
 category: Model Family
 repository: "https://huggingface.co/google"
 website: "https://ai.google.dev/gemma"
@@ -15,7 +15,7 @@ license: Apache 2.0
 ---
 # Gemma 4 Model Family
 
-**Source:** [[Raw/google-blog-quantization-aware-training-gemma-4-2026-06-16]]
+**Source:** Google Blog (Quantization-Aware Training)
 **Category:** Model Family
 **Repository**: https://huggingface.co/google
 **Website**: https://ai.google.dev/gemma
@@ -118,7 +118,7 @@ Each model is available with QAT optimization in multiple formats:
 
 ## References
 
-- Raw Article: [[Raw/google-blog-quantization-aware-training-gemma-4-2026-06-16]]
+- Raw Article: Google Blog (Quantization-Aware Training)
 - Original: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/
 - Model Overview: https://ai.google.dev/gemma/docs/core
 - Model Card: https://ai.google.dev/gemma/docs/core/model_card_4

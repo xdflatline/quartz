@@ -62,7 +62,7 @@ This research index covers Gemma 4 models enhanced with Quantization-Aware Train
 - [[Entities/mlx]] — Apple Silicon optimized framework
 
 ## Raw Sources
-- [[Raw/google-blog-quantization-aware-training-gemma-4-2026-06-16]] — Original announcement with technical details
+- Google Blog — Original announcement with technical details
 
 ## Key Threads/Sources Table
 | Source | Topic | Date | Key Items |

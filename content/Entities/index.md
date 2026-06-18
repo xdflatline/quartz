@@ -21,7 +21,7 @@ Profiles on companies, people, and tools.
 - [[Entities/flipper-one|Flipper One]]
 - [[Entities/gemini-3-5-flash|Gemini 3.5 Flash]]
 - [[Entities/github|GitHub]]
-- [[Entities/hn_may21|HN Top Stories - 2026-05-21]]
+- HN Top Stories - 2026-05-21
 - [[Entities/lance-multimodal-model|Lance Multimodal Model]]
 - [[Entities/mistral-ai|Mistral AI]]
 - [[Entities/openai|OpenAI]]

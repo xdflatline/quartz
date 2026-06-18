@@ -7,14 +7,14 @@ tags:
 created: 2026-06-16
 updated: 2026-06-16
 type: entitie
-source: google-blog-quantization-aware-training-gemma-4-2026-06-16
+source: "Google Blog (Gemma 4 QAT)"
 category: Organization
 repository: "https://github.com/google"
 website: "https://ai.google.dev/"
 ---
 # Google DeepMind
 
-**Source:** [[Raw/google-blog-quantization-aware-training-gemma-4-2026-06-16]]
+**Source:** Google Blog
 **Category:** Organization
 **Repository:** https://github.com/google
 **Website**: https://ai.google.dev/
@@ -74,7 +74,7 @@ Google DeepMind is the AI research laboratory of Google, responsible for develop
 
 ## References
 
-- Raw Article: [[Raw/google-blog-quantization-aware-training-gemma-4-2026-06-16]]
+- Raw Article: Google Blog (Quantization-Aware Training)
 - Original: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/
 - Gemma Documentation: https://ai.google.dev/gemma/docs
 - Model Collections: https://huggingface.co/collections/google/gemma-4
