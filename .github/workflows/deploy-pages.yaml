@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - v5
+      - publish
   workflow_dispatch:
 
 permissions:
@@ -33,7 +33,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - name: Cache Quartz plugins
+      - name: Cache plugins
         uses: actions/cache@v4
         with:
           path: .quartz/plugins
