@@ -1,15 +1,16 @@
 ---
+title: "Project: Quartz Digital Garden"
+detail: Building a digital garden with Quartz static site generator
+details: Building a digital garden with Quartz static site generator
+tags:
+  - projects
+created: 2026-06-15
+updated: 2026-06-17
+type: project
 project: Quartz Digital Garden
 status: active
 started: 2024-01-15
-tags:
-  - project
-  - quartz
-  - web
-  - obsidian
-description: "Building a digital garden with Quartz static site generator"
 ---
-
 # Project: Quartz Digital Garden
 
 ## Objective
@@ -46,8 +47,8 @@ Create a public knowledge base using Quartz that mirrors Obsidian vault structur
 ## Resources
 - [Quartz Documentation](https://quartz.jzhao.xyz/)
 - [Obsidian Flavored Markdown Plugin](https://github.com/quartz-community/obsidian-flavored-markdown)
-- [[Notes/Concepts/Static-Site-Generators|Static Site Generators Comparison]]
-- [[Notes/Concepts/Digital-Gardens|Digital Garden Philosophy]]
+- [[Concepts/Static-Site-Generators|Static Site Generators Comparison]]
+- [[Concepts/Digital-Gardens|Digital Garden Philosophy]]
 
 ## Blockers
 - [ ] GitHub Pages not yet enabled in repository settings (manual step required)
@@ -55,6 +56,6 @@ Create a public knowledge base using Quartz that mirrors Obsidian vault structur
 
 ---
 
-[[Notes/Projects|← Back to Projects]]
+[[Projects|← Back to Projects]]
 
 #tags/project #quartz #web #obsidian

@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.inFolder("Raw")
+views:
+  - type: table
+    name: "All Raw Articles"
+    properties:
+      - title
+      - tags
+      - created
+    sort:
+      - property: created
+        direction: desc
+  - type: list
+    name: "Compact List"
+    properties:
+      - title
+      - created
+    sort:
+      - property: created
+        direction: desc

@@ -1,0 +1,32 @@
+filters:
+  and:
+    - file.inFolder("Concepts")
+views:
+  - type: table
+    name: "All Concepts"
+    properties:
+      - title
+      - tags
+      - description
+    sort:
+      - property: title
+        direction: asc
+  - type: table
+    name: "By Tag"
+    properties:
+      - title
+      - tags
+      - description
+    groups:
+      - property: tags
+    sort:
+      - property: title
+        direction: asc
+  - type: list
+    name: "Compact List"
+    properties:
+      - title
+      - description
+    sort:
+      - property: title
+        direction: asc
