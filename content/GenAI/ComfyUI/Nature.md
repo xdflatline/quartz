@@ -1,5 +1,12 @@
 ---
-
+title: Nature
+details: A collection of nature-themed images generated using ComfyUI.
+created: 2026-06-20
+updated: 2026-06-20
+type: Gallery
+tags:
+  - genai
+---
 
 # Nature
 
@@ -83,41 +90,41 @@
 
 ---
 
-## Fall 00001 
+## Fall 00001
 
-![Fall 00001 ](assets/flux_klein_fall_00001_.png)
+![Fall 00001](assets/flux_klein_fall_00001_.png)
 
 **Prompt:** A candid 35mm photograph of an alpine watermill at autumn, gold and red forest canopy, moody overcast sky, fallen leaves around the mill. Authentic fine film grain, cool color temperature.
 
 ---
 
-## Img2Img 00001 
+## Img2Img 00001
 
-![Img2Img 00001 ](assets/flux_klein_img2img_00001_.png)
+![Img2Img 00001](assets/flux_klein_img2img_00001_.png)
 
 **Prompt:** A candid 35mm photograph of an alpine watermill in a serene landscape. Base reference image used for seasonal variations. Natural light, film grain.
 
 ---
 
-## Spring 00001 
+## Spring 00001
 
-![Spring 00001 ](assets/flux_klein_spring_00001_.png)
+![Spring 00001](assets/flux_klein_spring_00001_.png)
 
 **Prompt:** A candid 35mm photograph of an alpine watermill at spring, fresh green meadow with blooming wildflowers in the foreground. Soft natural daylight, pristine clear stream, subtle atmospheric haze, film grain.
 
 ---
 
-## Summer 00001 
+## Summer 00001
 
-![Summer 00001 ](assets/flux_klein_summer_00001_.png)
+![Summer 00001](assets/flux_klein_summer_00001_.png)
 
 **Prompt:** A candid 35mm photograph of an alpine watermill at summer, vibrant lush greenery, high mountain sun with dramatic shadows, clear blue sky. Authentic film grain, crisp details.
 
 ---
 
-## Winter 00001 
+## Winter 00001
 
-![Winter 00001 ](assets/flux_klein_winter_00001_.png)
+![Winter 00001](assets/flux_klein_winter_00001_.png)
 
 **Prompt:** A candid 35mm photograph of an alpine watermill in winter, heavy snow cover on roofs and surrounding pines, soft diffused winter light. Authentic film grain, subtle blue-tinted shadows.
 
