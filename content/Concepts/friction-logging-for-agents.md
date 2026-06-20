@@ -97,4 +97,4 @@ Since AI agents lack human emotional experience (the "pain" of bad hygiene, debu
 ## References
 
 - HN Thread: https://news.ycombinator.com/item?id=46742800
-- Parent Article: [[Raw/hn-memory-ai-coding-agents]]
+- Parent Article: [[hn-memory-ai-coding-agents]]

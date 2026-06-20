@@ -177,7 +177,7 @@ Start with easier examples and progressively increase difficulty:
 
 ## Related
 
-- [[Concepts/supervised-fine-tuning|supervised-fine-tuning]]
-- [[Concepts/lora-qlora|lora-qlora]]
-- [[Concepts/dataset-creation-llm|dataset-creation-llm]]
-- [[Concepts/model-selection-llm|model-selection-llm]]
+- [[supervised-fine-tuning|supervised-fine-tuning]]
+- [[lora-qlora|lora-qlora]]
+- [[dataset-creation-llm|dataset-creation-llm]]
+- [[model-selection-llm|model-selection-llm]]

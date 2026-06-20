@@ -201,7 +201,7 @@ graph TD
 
 ## Related
 
-- [[Concepts/lora-qlora|lora-qlora]]
-- [[Concepts/supervised-fine-tuning|supervised-fine-tuning]]
-- [[Concepts/continued-pretraining|continued-pretraining]]
-- [[Concepts/llm-architecture|llm-architecture]]
+- [[lora-qlora|lora-qlora]]
+- [[supervised-fine-tuning|supervised-fine-tuning]]
+- [[continued-pretraining|continued-pretraining]]
+- [[llm-architecture|llm-architecture]]

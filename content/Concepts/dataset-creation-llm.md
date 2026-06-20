@@ -193,6 +193,6 @@ graph TD
 
 ## Related
 
-- [[Concepts/supervised-fine-tuning|supervised-fine-tuning]]
-- [[Concepts/reinforcement-learning-grpo|reinforcement-learning-grpo]]
-- [[Concepts/continued-pretraining|continued-pretraining]]
+- [[supervised-fine-tuning|supervised-fine-tuning]]
+- [[reinforcement-learning-grpo|reinforcement-learning-grpo]]
+- [[continued-pretraining|continued-pretraining]]

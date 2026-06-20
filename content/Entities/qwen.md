@@ -96,8 +96,8 @@ Available via standard protocols:
 
 ## Related
 
-- [[Concepts/qwen-agent-capabilities|qwen-agent-capabilities]]
-- [[Concepts/ai-agents|ai-agents]]
-- [[Concepts/llm-architecture|llm-architecture]]
-- [[Concepts/tool-calling-llm|tool-calling-llm]]
-- [[Concepts/agent-self-improvement|agent-self-improvement]]
+- [[qwen-agent-capabilities|qwen-agent-capabilities]]
+- [[ai-agents|ai-agents]]
+- [[llm-architecture|llm-architecture]]
+- [[tool-calling-llm|tool-calling-llm]]
+- [[agent-self-improvement|agent-self-improvement]]

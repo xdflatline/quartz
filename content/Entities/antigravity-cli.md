@@ -22,5 +22,5 @@ Antigravity CLI is Google's agent-first terminal tool and unified platform, whic
 
 ## Related
 
-- [[Concepts/ai-agents|ai-agents]]
-- [[Concepts/llm-architecture|llm-architecture]]
+- [[ai-agents|ai-agents]]
+- [[llm-architecture|llm-architecture]]

@@ -129,6 +129,6 @@ graph LR
 
 ## Related
 
-- [[Concepts/supervised-fine-tuning|supervised-fine-tuning]]
-- [[Concepts/continued-pretraining|continued-pretraining]]
-- [[Concepts/model-selection-llm|model-selection-llm]]
+- [[supervised-fine-tuning|supervised-fine-tuning]]
+- [[continued-pretraining|continued-pretraining]]
+- [[model-selection-llm|model-selection-llm]]

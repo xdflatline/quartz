@@ -28,39 +28,39 @@ This index collects concepts, tools, and patterns from recent discussions on:
 ## Concepts
 
 ### Orchestration Patterns
-- [[Concepts/multi-agent-orchestration-patterns]] — Centralized coordinator, explicit task graphs, agent isolation
-- [[Concepts/typed-knowledge-architecture]] — Constraints/Decisions/Heuristics three-tier memory
+- [[multi-agent-orchestration-patterns]] — Centralized coordinator, explicit task graphs, agent isolation
+- [[typed-knowledge-architecture]] — Constraints/Decisions/Heuristics three-tier memory
 
 ### Memory & Learning
-- [[Concepts/agent-memory-layer-patterns]] — Typed knowledge, friction logging, human curation
-- [[Concepts/friction-logging-for-agents]] — Human correction rate as loss function proxy
+- [[agent-memory-layer-patterns]] — Typed knowledge, friction logging, human curation
+- [[friction-logging-for-agents]] — Human correction rate as loss function proxy
 
 ### Local LLM Infrastructure
-- [[Concepts/llm-quantization-reference]] — Q4_K_M sweet spot, 6 quantization levels with GB/1B params
-- [[Concepts/ram-vs-vram-llm-inference]] — VRAM 10–30x faster; split = CPU speed; unified memory exception
-- [[Concepts/local-llm-hardware-requirements]] — Tiered recs: 8GB (1.5B), 16GB (7B sweet spot), 24GB+ GPU (32B)
+- [[llm-quantization-reference]] — Q4_K_M sweet spot, 6 quantization levels with GB/1B params
+- [[ram-vs-vram-llm-inference]] — VRAM 10–30x faster; split = CPU speed; unified memory exception
+- [[local-llm-hardware-requirements]] — Tiered recs: 8GB (1.5B), 16GB (7B sweet spot), 24GB+ GPU (32B)
 
 ---
 
 ## Tools & Projects
 
 ### Memory Layers
-- [[Entities/memori-memory-layer]] — Dual-mode (SQL FTS), multi-agent internal, zero-config
-- [[Entities/versanovatech]] — Commercial memory/learning layer
+- [[memori-memory-layer]] — Dual-mode (SQL FTS), multi-agent internal, zero-config
+- [[versanovatech]] — Commercial memory/learning layer
 
 ### Auto-Documentation
-- [[Entities/squirrel-auto-docs]] — OSS auto-maintains `CLAUDE.md`/`agents.md` from agent activity
+- [[squirrel-auto-docs]] — OSS auto-maintains `CLAUDE.md`/`agents.md` from agent activity
 
 ### Observability
-- [[Entities/wayfound-ai]] — Production observability for multi-agent workflows
+- [[wayfound-ai]] — Production observability for multi-agent workflows
 
 ---
 
 ## Raw Sources
 
-- [[Raw/hn-multiagent-orchestration-production.md]] — Full HN thread on production orchestration
-- [[Raw/hn-memory-ai-coding-agents.md]] — Full HN thread on memory for coding agents
-- [[Raw/devto-llm-local-ram-benchmarks-2026.md]] — DEV Community 2026 benchmarks for local LLM RAM/VRAM
+- [[hn-multiagent-orchestration-production.md]] — Full HN thread on production orchestration
+- [[hn-memory-ai-coding-agents.md]] — Full HN thread on memory for coding agents
+- [[devto-llm-local-ram-benchmarks-2026.md]] — DEV Community 2026 benchmarks for local LLM RAM/VRAM
 
 ---
 

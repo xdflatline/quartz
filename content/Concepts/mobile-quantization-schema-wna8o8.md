@@ -97,24 +97,24 @@ With static S_a determined during training.
 
 ## Related Concepts
 
-- [[Concepts/quantization-aware-training-qat]]
-- [[Concepts/static-activations]]
-- [[Concepts/channel-wise-quantization]]
-- [[Concepts/targeted-2bit-quantization]]
-- [[Concepts/kv-cache-optimization]]
-- [[Concepts/litert-lm]]
-- [[Concepts/transformers-js]]
+- [[quantization-aware-training-qat]]
+- [[static-activations]]
+- [[channel-wise-quantization]]
+- [[targeted-2bit-quantization]]
+- [[kv-cache-optimization]]
+- [[litert-lm]]
+- [[transformers-js]]
 
 ---
 
 ## Entities
 
-- [[Entities/google-deepmind]]
-- [[Entities/gemma-4-model-family]]
-- [[Entities/litert-lm]]
-- [[Entities/transformers-js]]
-- [[Entities/qualcomm-hexagon]]
-- [[Entities/apple-neural-engine]]
+- [[google-deepmind]]
+- [[gemma-4-model-family]]
+- [[litert-lm]]
+- [[transformers-js]]
+- [[qualcomm-hexagon]]
+- [[apple-neural-engine]]
 
 ---
 

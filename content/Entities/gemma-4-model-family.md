@@ -80,18 +80,18 @@ Each model is available with QAT optimization in multiple formats:
 
 ## Related Concepts
 
-- [[Concepts/quantization-aware-training-qat]]
-- [[Concepts/mobile-quantization-schema-wna8o8]]
-- [[Concepts/per-layer-embeddings-ple]]
-- [[Concepts/unified-architecture-12b]]
-- [[Concepts/mixture-of-experts-moe]]
-- [[Concepts/multi-token-prediction-mtp]]
-- [[Concepts/speculative-decoding]]
-- [[Concepts/thinking-mode]]
-- [[Concepts/static-activations]]
-- [[Concepts/channel-wise-quantization]]
-- [[Concepts/targeted-2bit-quantization]]
-- [[Concepts/kv-cache-optimization]]
+- [[quantization-aware-training-qat]]
+- [[mobile-quantization-schema-wna8o8]]
+- [[per-layer-embeddings-ple]]
+- [[unified-architecture-12b]]
+- [[mixture-of-experts-moe]]
+- [[multi-token-prediction-mtp]]
+- [[speculative-decoding]]
+- [[thinking-mode]]
+- [[static-activations]]
+- [[channel-wise-quantization]]
+- [[targeted-2bit-quantization]]
+- [[kv-cache-optimization]]
 
 ---
 

@@ -435,10 +435,10 @@ model.push_to_hub("your-username/rust-coder-7b")
 
 ### Related Concepts
 
-- [[Concepts/lora-qlora|LoRA and QLoRA]]
-- [[Concepts/supervised-fine-tuning|Supervised Fine-Tuning]]
-- [[Concepts/reinforcement-learning-grpo|Reinforcement Learning and GRPO]]
-- [[Concepts/dataset-creation-llm|Dataset Creation for LLM]]
-- [[Concepts/continued-pretraining|Continued Pretraining]]
-- [[Concepts/tool-calling-llm|Tool Calling in LLMs]]
-- [[Concepts/model-selection-llm|Model Selection for LLM]]
+- [[lora-qlora|LoRA and QLoRA]]
+- [[supervised-fine-tuning|Supervised Fine-Tuning]]
+- [[reinforcement-learning-grpo|Reinforcement Learning and GRPO]]
+- [[dataset-creation-llm|Dataset Creation for LLM]]
+- [[continued-pretraining|Continued Pretraining]]
+- [[tool-calling-llm|Tool Calling in LLMs]]
+- [[model-selection-llm|Model Selection for LLM]]

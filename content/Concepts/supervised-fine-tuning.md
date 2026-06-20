@@ -151,7 +151,7 @@ graph LR
 
 ## Related
 
-- [[Concepts/lora-qlora|lora-qlora]]
-- [[Concepts/reinforcement-learning-grpo|reinforcement-learning-grpo]]
-- [[Concepts/dataset-creation-llm|dataset-creation-llm]]
-- [[Concepts/continued-pretraining|continued-pretraining]]
+- [[lora-qlora|lora-qlora]]
+- [[reinforcement-learning-grpo|reinforcement-learning-grpo]]
+- [[dataset-creation-llm|dataset-creation-llm]]
+- [[continued-pretraining|continued-pretraining]]

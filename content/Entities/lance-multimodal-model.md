@@ -37,6 +37,6 @@ Lance is a 3B active-parameter native unified multimodal model from ByteDance su
 Pushes the frontier of unified multimodal modeling — a single model doing what previously required separate architectures for generation, editing, and understanding. The efficiency at 3B scale challenges the assumption that multimodal capability requires massive parameter counts.
 
 ## Competition
-Related efforts: [[Concepts/stable-audio-3|Stable Audio 3]] shows similar trend toward efficient, open generative models at consumer-accessible scales.
+Related efforts: [[stable-audio-3|Stable Audio 3]] shows similar trend toward efficient, open generative models at consumer-accessible scales.
 
-[[Raw/lance-multimodal-image-video-generation-2026-05-21|Source: lance-multimodal-image-video-generation-2026-05-21]]
+[[lance-multimodal-image-video-generation-2026-05-21|Source: lance-multimodal-image-video-generation-2026-05-21]]

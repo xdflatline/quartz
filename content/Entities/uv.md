@@ -20,5 +20,5 @@ sources:
 
 ## Related
 
-- [[Concepts/python-evolution|python-evolution]]
-- [[Concepts/open-source-sustainability|open-source-sustainability]]
+- [[python-evolution|python-evolution]]
+- [[open-source-sustainability|open-source-sustainability]]

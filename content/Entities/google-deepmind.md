@@ -46,11 +46,11 @@ Google DeepMind is the AI research laboratory of Google, responsible for develop
 
 ## Related Concepts
 
-- [[Concepts/quantization-aware-training-qat]]
-- [[Concepts/mobile-quantization-schema-wna8o8]]
-- [[Concepts/multi-token-prediction-mtp]]
-- [[Concepts/unified-architecture-12b]]
-- [[Concepts/per-layer-embeddings-ple]]
+- [[quantization-aware-training-qat]]
+- [[mobile-quantization-schema-wna8o8]]
+- [[multi-token-prediction-mtp]]
+- [[unified-architecture-12b]]
+- [[per-layer-embeddings-ple]]
 
 ---
 

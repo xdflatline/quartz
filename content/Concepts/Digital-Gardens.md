@@ -56,14 +56,14 @@ A **digital garden** is a personal knowledge base published on the web that:
 - **Editing**: Obsidian (local) → Git → Auto-deploy
 
 ## Related Concepts
-- [[Concepts/Zettelkasten|Zettelkasten Method]] — Atomic note-taking
-- [[Concepts/Second-Brain|Second Brain]] — PARA organization
-- [[Concepts/Local-First-Software|Local-First Software]] — Data ownership
+- [[Zettelkasten|Zettelkasten Method]] — Atomic note-taking
+- [[Second-Brain|Second Brain]] — PARA organization
+- [[Local-First-Software|Local-First Software]] — Data ownership
 
 ## Resources
 - [Digital Gardens Essay](https://maggieappleton.com/garden-history) by Maggie Appleton
 - [My Digital Garden Setup](https://example.com) — TODO: write this
-- [[Projects/Quartz-Garden|This Garden's Project Page]]
+- [[Quartz-Garden|This Garden's Project Page]]
 
 ---
 

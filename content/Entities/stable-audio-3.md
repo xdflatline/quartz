@@ -41,6 +41,6 @@ Represents rapid maturation of generative audio:
 - Semantic-acoustic autoencoder design enables both fidelity AND editability
 
 ## Related Models
-See also: [[Concepts/lance-multimodal-model|Lance Multimodal Model]] — another recent open-weight generative model pushing boundaries at efficient scales.
+See also: [[lance-multimodal-model|Lance Multimodal Model]] — another recent open-weight generative model pushing boundaries at efficient scales.
 
-[[Raw/stable-audio-3-2026-05-21|Source: stable-audio-3-2026-05-21]]
+[[stable-audio-3-2026-05-21|Source: stable-audio-3-2026-05-21]]

@@ -53,6 +53,6 @@ AI agents are systems that use LLMs as reasoning engines to plan, execute, and i
 
 ## Related
 
-- [[Concepts/llm-architecture|llm-architecture]]
-- [[Concepts/ai-content-provenance|ai-content-provenance]]
-- [[Concepts/tla-plus|tla-plus]]
+- [[llm-architecture|llm-architecture]]
+- [[ai-content-provenance|ai-content-provenance]]
+- [[tla-plus|tla-plus]]

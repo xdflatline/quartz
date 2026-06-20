@@ -45,6 +45,6 @@ AI content provenance refers to the technical and organizational efforts to trac
 
 ## Related
 
-- [[Concepts/cybersecurity|cybersecurity]]
-- [[Concepts/ai-agents|ai-agents]]
-- [[Entities/gemini-3-5-flash|gemini-3-5-flash]]
+- [[cybersecurity|cybersecurity]]
+- [[ai-agents|ai-agents]]
+- [[gemini-3-5-flash|gemini-3-5-flash]]

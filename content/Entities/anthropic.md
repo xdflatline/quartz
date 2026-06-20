@@ -21,12 +21,12 @@ Anthropic is an AI safety research company and developer of Claude, a family of 
 - Andrej Karpathy (former Tesla AI director, OpenAI researcher) joined Anthropic
 - Announced via Twitter/X, received 1253+ points on Hacker News
 - Strengthens Anthropic's research team significantly
-- Signals Anthropic's growing influence in the AI research community[[Raw/hn-ive-joined-anthropic-2026-05-20|Source: hn-ive-joined-anthropic-2026-05-20]]
+- Signals Anthropic's growing influence in the AI research community[[hn-ive-joined-anthropic-2026-05-20|Source: hn-ive-joined-anthropic-2026-05-20]]
 
 ### Stainless Acquisition (2026-05)
 - Anthropic acquired Stainless, an SDK generation company
 - Part of vertical integration strategy: model provider → developer tools → agent platform
-- See [[Concepts/ai-agents|ai-agents]] for details on the broader agent ecosystem
+- See [[ai-agents|ai-agents]] for details on the broader agent ecosystem
 
 ## Position in AI Landscape
 
@@ -36,6 +36,6 @@ Anthropic is an AI safety research company and developer of Claude, a family of 
 
 ## Related
 
-- [[Concepts/ai-agents|ai-agents]]
-- [[Concepts/gemini-3-5-flash|gemini-3-5-flash]]
+- [[ai-agents|ai-agents]]
+- [[gemini-3-5-flash|gemini-3-5-flash]]
 - [[mistral-ai|mistral-ai]]

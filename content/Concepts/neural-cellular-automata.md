@@ -36,5 +36,5 @@ Neural Cellular Automata (NCA) combine cellular automata — grid-based computat
 
 ## Related
 
-- [[Concepts/llm-architecture|llm-architecture]]
-- [[Concepts/ai-content-provenance|ai-content-provenance]]
+- [[llm-architecture|llm-architecture]]
+- [[ai-content-provenance|ai-content-provenance]]

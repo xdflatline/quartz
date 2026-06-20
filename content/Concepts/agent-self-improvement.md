@@ -48,9 +48,9 @@ Before any compiled proposal transitions from a draft hypothesis to an active op
 
 ## Related Topics
 
-- [[Concepts/ai-agents|AI Agents]]
-- [[Concepts/conventional-commits|Conventional Commits]]
-- [[Research/agent-self-improvement|Agent Self-Improvement Research and Implementation Guide]]
+- [[ai-agents|AI Agents]]
+- [[conventional-commits|Conventional Commits]]
+- [[agent-self-improvement|Agent Self-Improvement Research and Implementation Guide]]
 - [[dist/assets/agent-self-improvement-architecture.html|Architecture Diagram]]
 
 ---

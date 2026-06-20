@@ -27,4 +27,4 @@ sources:
 ## Related
 
 - [[plur|plur]]
-- [[Concepts/cybersecurity|cybersecurity]]
+- [[cybersecurity|cybersecurity]]

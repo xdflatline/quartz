@@ -54,4 +54,4 @@ Raw information is rarely usable as-is. Hindsight applies an automated pipeline 
 Hindsight tracks the "Chain of Custody" for all knowledge. By logging source URLs, retrieval dates, and original context, it enables agents to provide verifiable citations for their reasoning.
 
 ---
-See also: [[Concepts/hindsight-memory-system]], [[Concepts/tool-calling-llm]]
+See also: [[hindsight-memory-system]], [[tool-calling-llm]]

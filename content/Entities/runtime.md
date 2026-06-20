@@ -16,5 +16,5 @@ sources:
 
 ## Related
 
-- [[Concepts/ai-agents|ai-agents]]
-- [[Concepts/cybersecurity|cybersecurity]]
+- [[ai-agents|ai-agents]]
+- [[cybersecurity|cybersecurity]]

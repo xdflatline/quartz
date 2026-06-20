@@ -206,5 +206,5 @@ Wraps the Markdown files with a lightweight command-line interface (CLI) tool na
 
 ## 8. Related Pages
 
-- [[Concepts/ai-agents|AI Agents]]
-- [[Concepts/agent-self-improvement|Agent Self-Improvement Concept]]
+- [[ai-agents|AI Agents]]
+- [[agent-self-improvement|Agent Self-Improvement Concept]]

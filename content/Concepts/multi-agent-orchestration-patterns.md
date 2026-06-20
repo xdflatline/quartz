@@ -92,5 +92,5 @@ Production multi-agent AI workflows favor **custom orchestration layers** over o
 
 ## References
 
-- Raw Article: [[Raw/hn-multiagent-orchestration-production]]
+- Raw Article: [[hn-multiagent-orchestration-production]]
 - HN Thread: https://news.ycombinator.com/item?id=47660705

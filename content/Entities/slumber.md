@@ -16,5 +16,5 @@ sources:
 
 ## Related
 
-- [[Concepts/tmux|tmux]]
-- [[Concepts/cybersecurity|cybersecurity]]
+- [[tmux|tmux]]
+- [[cybersecurity|cybersecurity]]

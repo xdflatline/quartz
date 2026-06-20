@@ -38,6 +38,6 @@ Data curation is the process of selecting, organizing, and maintaining datasets 
 
 ## Related
 
-- [[Concepts/llm-architecture|llm-architecture]]
-- [[Concepts/ai-agents|ai-agents]]
-- [[Concepts/ai-content-provenance|AI Content Provenance]] — questions about training data provenance raised by shadow library takedowns
+- [[llm-architecture|llm-architecture]]
+- [[ai-agents|ai-agents]]
+- [[ai-content-provenance|AI Content Provenance]] — questions about training data provenance raised by shadow library takedowns

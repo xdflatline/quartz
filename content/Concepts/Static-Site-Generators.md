@@ -52,8 +52,8 @@ If moving from another SSG:
 ## Resources
 - [SSG Comparison 2024](https://jamstack.org/generators/)
 - [Quartz vs Others](https://quartz.jzhao.xyz/philosophy/)
-- [[Concepts/Digital-Gardens|Digital Gardens]]
-- [[Projects/Quartz-Garden|This Project]]
+- [[Digital-Gardens|Digital Gardens]]
+- [[Quartz-Garden|This Project]]
 
 ---
 

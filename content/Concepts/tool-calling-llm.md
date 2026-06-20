@@ -221,6 +221,6 @@ graph TD
 
 ## Related
 
-- [[Concepts/ai-agents|ai-agents]]
-- [[Concepts/reinforcement-learning-grpo|reinforcement-learning-grpo]]
-- [[Concepts/supervised-fine-tuning|supervised-fine-tuning]]
+- [[ai-agents|ai-agents]]
+- [[reinforcement-learning-grpo|reinforcement-learning-grpo]]
+- [[supervised-fine-tuning|supervised-fine-tuning]]

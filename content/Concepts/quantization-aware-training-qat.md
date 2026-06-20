@@ -101,23 +101,23 @@ output = quantized_weight @ input
 
 ## Related Concepts
 
-- [[Concepts/mobile-quantization-schema-wna8o8]]
-- [[Concepts/static-activations]]
-- [[Concepts/channel-wise-quantization]]
-- [[Concepts/targeted-2bit-quantization]]
-- [[Concepts/kv-cache-optimization]]
-- [[Concepts/multi-token-prediction-mtp]]
-- [[Concepts/per-layer-embeddings-ple]]
-- [[Concepts/post-training-quantization-ptq]]
+- [[mobile-quantization-schema-wna8o8]]
+- [[static-activations]]
+- [[channel-wise-quantization]]
+- [[targeted-2bit-quantization]]
+- [[kv-cache-optimization]]
+- [[multi-token-prediction-mtp]]
+- [[per-layer-embeddings-ple]]
+- [[post-training-quantization-ptq]]
 
 ---
 
 ## Entities
 
-- [[Entities/google-deepmind]]
-- [[Entities/gemma-4-model-family]]
-- [[Entities/hugging-face]]
-- [[Entities/unsloth]]
+- [[google-deepmind]]
+- [[gemma-4-model-family]]
+- [[hugging-face]]
+- [[unsloth]]
 
 ---
 

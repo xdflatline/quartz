@@ -164,6 +164,6 @@ graph TD
 
 ## Related
 
-- [[Concepts/supervised-fine-tuning|supervised-fine-tuning]]
-- [[Concepts/lora-qlora|lora-qlora]]
-- [[Concepts/dataset-creation-llm|dataset-creation-llm]]
+- [[supervised-fine-tuning|supervised-fine-tuning]]
+- [[lora-qlora|lora-qlora]]
+- [[dataset-creation-llm|dataset-creation-llm]]

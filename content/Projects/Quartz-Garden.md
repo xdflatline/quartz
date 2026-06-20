@@ -47,8 +47,8 @@ Create a public knowledge base using Quartz that mirrors Obsidian vault structur
 ## Resources
 - [Quartz Documentation](https://quartz.jzhao.xyz/)
 - [Obsidian Flavored Markdown Plugin](https://github.com/quartz-community/obsidian-flavored-markdown)
-- [[Concepts/Static-Site-Generators|Static Site Generators Comparison]]
-- [[Concepts/Digital-Gardens|Digital Garden Philosophy]]
+- [[Static-Site-Generators|Static Site Generators Comparison]]
+- [[Digital-Gardens|Digital Garden Philosophy]]
 
 ## Blockers
 - [ ] GitHub Pages not yet enabled in repository settings (manual step required)

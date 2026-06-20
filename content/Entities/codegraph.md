@@ -13,7 +13,7 @@ confidence: high
 ---
 # CodeGraph
 
-CodeGraph is an open-source tool designed to pre-index codebases specifically for consumption by [[Concepts/ai-agents|ai-agents]]. It aims to significantly increase agent efficiency by reducing the context window usage and tool calling overhead.
+CodeGraph is an open-source tool designed to pre-index codebases specifically for consumption by [[ai-agents|ai-agents]]. It aims to significantly increase agent efficiency by reducing the context window usage and tool calling overhead.
 
 ## Key Benefits
 - **Cost Reduction:** Claims ~35% lower cost compared to naive retrieval methods.

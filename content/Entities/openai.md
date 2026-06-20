@@ -23,7 +23,7 @@ OpenAI is an AI research and deployment company based in San Francisco, Californ
 
 ## Notable Achievements
 
-- Disproved a central conjecture in discrete geometry using an LLM-powered approach (May 2026) — demonstrating LLMs can contribute to novel mathematical research, not just pattern matching[[Raw/an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry-2026-05-20|Source: an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry-2026-05-20]]
+- Disproved a central conjecture in discrete geometry using an LLM-powered approach (May 2026) — demonstrating LLMs can contribute to novel mathematical research, not just pattern matching[[an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry-2026-05-20|Source: an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry-2026-05-20]]
 - Pushed boundaries of reasoning models (o1/o3 series)
 - Multimodal capabilities spanning text, image, video, and audio generation
 
@@ -33,6 +33,6 @@ OpenAI competes with [[google|google]], [[anthropic|anthropic]], [[mistral-ai|mi
 
 ## Related
 
-- [[Concepts/llm-architecture|llm-architecture]]
-- [[Concepts/ai-agents|ai-agents]]
-- [[Concepts/data-curation|data-curation]]
+- [[llm-architecture|llm-architecture]]
+- [[ai-agents|ai-agents]]
+- [[data-curation|data-curation]]

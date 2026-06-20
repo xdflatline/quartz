@@ -14,7 +14,7 @@ This research paper outlines the abstract, end-to-end procedural framework for s
 
 ## 1. Abstract
 
-The adaptation of a foundation model to a highly specialized domain requires a multi-stage pipeline. Rather than a single training pass, the process is divided into capability injection (Pretraining), format alignment (Supervised Fine-Tuning), and behavioral shaping (Reinforcement Learning). This document serves as the theoretical backbone for practical implementations, such as the [[Research/rust-agent-finetuning-guide|Rust Agent Fine-tuning Guide]].
+The adaptation of a foundation model to a highly specialized domain requires a multi-stage pipeline. Rather than a single training pass, the process is divided into capability injection (Pretraining), format alignment (Supervised Fine-Tuning), and behavioral shaping (Reinforcement Learning). This document serves as the theoretical backbone for practical implementations, such as the [[rust-agent-finetuning-guide|Rust Agent Fine-tuning Guide]].
 
 ## 2. Pipeline Overview
 
@@ -40,7 +40,7 @@ sequenceDiagram
 
 ## 3. Dataset Curation and Formulation
 
-Before any training occurs, the raw data corpus must be transformed into structured formats suitable for different training phases. See [[Concepts/dataset-creation|LLM Dataset Creation]] for detailed methodologies.
+Before any training occurs, the raw data corpus must be transformed into structured formats suitable for different training phases. See [[dataset-creation|LLM Dataset Creation]] for detailed methodologies.
 
 *   **Corpus Extraction:** Parsing raw unstructured data (e.g., HTML, PDF, EPUB) into clean, standard text (typically Markdown).
 *   **Chunking & Tokenization:** Segmenting the data to fit within the model's context window context, preserving logical boundaries (e.g., chapters, functions).
@@ -50,7 +50,7 @@ Before any training occurs, the raw data corpus must be transformed into structu
 
 ## 4. Continued Pretraining (CPT)
 
-Continued Pretraining addresses the model's fundamental lack of domain knowledge or syntax. See [[Concepts/llm-training-methods|LLM Training Methods]] for architectural details.
+Continued Pretraining addresses the model's fundamental lack of domain knowledge or syntax. See [[llm-training-methods|LLM Training Methods]] for architectural details.
 
 *   **Objective:** Shift the model's internal probability distribution to reflect the target domain's vocabulary and structural syntax without forcing a conversational format.
 *   **Mechanism:** Next-token prediction over the raw *Pretraining Dataset*. 
@@ -66,7 +66,7 @@ Once the model understands the domain language, it must learn how to interact.
 
 ## 6. Reinforcement Learning (RL)
 
-SFT teaches the model *how* to answer, but RL teaches it *what constitutes a good answer*. See [[Concepts/reinforcement-learning|Reinforcement Learning for LLMs]] for optimization strategies.
+SFT teaches the model *how* to answer, but RL teaches it *what constitutes a good answer*. See [[reinforcement-learning|Reinforcement Learning for LLMs]] for optimization strategies.
 
 *   **Objective:** Enforce logical correctness, safety, or adherence to best practices (e.g., code compilation success, minimizing hallucinations).
 *   **Algorithms:**

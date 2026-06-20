@@ -34,7 +34,7 @@ Large Language Models (LLMs) are deep learning models based primarily on the tra
 
 ## Related
 
-- [[Concepts/ai-agents|ai-agents]]
-- [[Concepts/data-curation|data-curation]]
-- [[Concepts/neural-cellular-automata|neural-cellular-automata]]
-- [[Concepts/tla-plus|tla-plus]]
+- [[ai-agents|ai-agents]]
+- [[data-curation|data-curation]]
+- [[neural-cellular-automata|neural-cellular-automata]]
+- [[tla-plus|tla-plus]]

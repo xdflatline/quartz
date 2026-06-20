@@ -43,5 +43,5 @@ Based on community analysis (May 2026), common ways open source projects die inc
 
 ## Related
 
-- [[Concepts/ai-agents|ai-agents]]
-- [[Concepts/cybersecurity|cybersecurity]]
+- [[ai-agents|ai-agents]]
+- [[cybersecurity|cybersecurity]]

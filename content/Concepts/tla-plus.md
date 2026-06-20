@@ -27,7 +27,7 @@ TLA+ (Temporal Logic of Actions) is a formal specification language developed by
 - **Prompt-driven specification:** Using LLMs to help write TLA+ specs from natural language descriptions
 - **Lowering barriers:** AI assistance makes formal methods accessible to developers without formal methods training
 - **Integration with workflows:** TLA+ specs can be iteratively refined with AI suggestions
-- Convergence of formal verification and AI tooling, also documented in [[Concepts/llm-architecture|llm-architecture]]
+- Convergence of formal verification and AI tooling, also documented in [[llm-architecture|llm-architecture]]
 
 ## Use Cases
 
@@ -38,6 +38,6 @@ TLA+ (Temporal Logic of Actions) is a formal specification language developed by
 
 ## Related
 
-- [[Concepts/llm-architecture|llm-architecture]]
-- [[Concepts/ai-agents|ai-agents]]
-- [[Concepts/open-source-sustainability|open-source-sustainability]]
+- [[llm-architecture|llm-architecture]]
+- [[ai-agents|ai-agents]]
+- [[open-source-sustainability|open-source-sustainability]]

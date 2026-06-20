@@ -23,43 +23,43 @@ This research index covers Gemma 4 models enhanced with Quantization-Aware Train
 
 ## Concepts
 ### Training Techniques
-- [[Concepts/quantization-aware-training-qat]] — Core technique integrating quantization simulation into training loop
-- [[Concepts/post-training-quantization-ptq]] — Baseline compression technique for comparison
+- [[quantization-aware-training-qat]] — Core technique integrating quantization simulation into training loop
+- [[post-training-quantization-ptq]] — Baseline compression technique for comparison
 
 ### Architecture Patterns
-- [[Concepts/mobile-quantization-schema-wna8o8]] — Hardware-efficient 4W8A format for mobile accelerators
-- [[Concepts/static-activations]] — Pre-calculated scaling factors to reduce runtime overhead
-- [[Concepts/channel-wise-quantization]] — Per-channel weight alignment with mobile NPU dataflows
-- [[Concepts/targeted-2bit-quantization]] — Aggressive compression of token generation layers
-- [[Concepts/kv-cache-optimization]] — Memory reduction for key-value caches enabling longer conversations
-- [[Concepts/per-layer-embeddings-ple]] — Embedding strategy for E2B/E4B mobile efficiency
-- [[Concepts/multi-token-prediction-mtp]] — Accelerated inference technique complementary to QAT
+- [[mobile-quantization-schema-wna8o8]] — Hardware-efficient 4W8A format for mobile accelerators
+- [[static-activations]] — Pre-calculated scaling factors to reduce runtime overhead
+- [[channel-wise-quantization]] — Per-channel weight alignment with mobile NPU dataflows
+- [[targeted-2bit-quantization]] — Aggressive compression of token generation layers
+- [[kv-cache-optimization]] — Memory reduction for key-value caches enabling longer conversations
+- [[per-layer-embeddings-ple]] — Embedding strategy for E2B/E4B mobile efficiency
+- [[multi-token-prediction-mtp]] — Accelerated inference technique complementary to QAT
 
 ### Deployment & Inference
-- [[Concepts/litert-lm]] — Google's mobile inference framework for Android
-- [[Concepts/transformers-js]] — Browser-based inference via WebGPU/WebAssembly
-- [[Concepts/gguf-format]] — Quantization format for llama.cpp/local deployment
-- [[Concepts/compressed-tensors-w4a16]] — Server-optimized format for vLLM/SGLang
+- [[litert-lm]] — Google's mobile inference framework for Android
+- [[transformers-js]] — Browser-based inference via WebGPU/WebAssembly
+- [[gguf-format]] — Quantization format for llama.cpp/local deployment
+- [[compressed-tensors-w4a16]] — Server-optimized format for vLLM/SGLang
 
 ## Tools & Projects
 ### Model Families
-- [[Entities/gemma-4-model-family]] — Complete overview of Gemma 4 variants
-- [[Entities/gemma-4-e2b]] — Ultra-mobile optimized (2.6B effective params)
-- [[Entities/gemma-4-e4b]] — Mobile/edge optimized (4.4B effective params)  
-- [[Entities/gemma-4-12b]] — Unified encoder-free architecture (12B params)
-- [[Entities/gemma-4-26b-a4b]] — Mixture-of-Experts for high-throughput (3.8B active)
-- [[Entities/gemma-4-31b]] — High-performance reasoning/coding (31B params)
+- [[gemma-4-model-family]] — Complete overview of Gemma 4 variants
+- [[gemma-4-e2b]] — Ultra-mobile optimized (2.6B effective params)
+- [[gemma-4-e4b]] — Mobile/edge optimized (4.4B effective params)  
+- [[gemma-4-12b]] — Unified encoder-free architecture (12B params)
+- [[gemma-4-26b-a4b]] — Mixture-of-Experts for high-throughput (3.8B active)
+- [[gemma-4-31b]] — High-performance reasoning/coding (31B params)
 
 ### Ecosystem Tools
-- [[Entities/hugging-face]] — Primary distribution platform for QAT checkpoints
-- [[Entities/unsloth]] — Dynamic GGUF optimization for local deployment
-- [[Entities/litert-lm]] — Mobile inference framework (Android NNAPI)
-- [[Entities/transformers-js]] — Browser/WebGPU inference
-- [[Entities/vllm]] — High-throughput server inference
-- [[Entities/sglang]] — Alternative server serving solution
-- [[Entities/ollama]] — Desktop/local model runner
-- [[Entities/llamacpp]] — Efficient C/C++ inference engine
-- [[Entities/mlx]] — Apple Silicon optimized framework
+- [[hugging-face]] — Primary distribution platform for QAT checkpoints
+- [[unsloth]] — Dynamic GGUF optimization for local deployment
+- [[litert-lm]] — Mobile inference framework (Android NNAPI)
+- [[transformers-js]] — Browser/WebGPU inference
+- [[vllm]] — High-throughput server inference
+- [[sglang]] — Alternative server serving solution
+- [[ollama]] — Desktop/local model runner
+- [[llamacpp]] — Efficient C/C++ inference engine
+- [[mlx]] — Apple Silicon optimized framework
 
 ## Raw Sources
 - Google Blog — Original announcement with technical details

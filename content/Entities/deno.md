@@ -16,5 +16,5 @@ Deno is a modern runtime for JavaScript and TypeScript based on V8 and Rust. Den
 
 ## Related
 
-- [[Concepts/webassembly|webassembly]]
-- [[Concepts/conventional-commits|conventional-commits]]
+- [[webassembly|webassembly]]
+- [[conventional-commits|conventional-commits]]
