@@ -12,7 +12,7 @@ tags:
 
 ## Flux2 Klein 00128
 
-![Flux2 Klein 00128](assets/Flux2-Klein_00128_.png)
+![Flux2 Klein 00128](assets/flux2-klein_00128_.png)
 
 **Prompt:** A candid 35mm photograph of a lush alpine valley with pristine clear water in the foreground and towering pine trees. Natural daylight with soft lens softness at the periphery. Authentic film grain, subtle atmospheric haze.
 
@@ -22,7 +22,7 @@ tags:
 
 ![Alpine Valley](assets/flux2_klein_4b_alpine_valley.png)
 
-**Prompt:** A candid 35mm photograph of a lush alpine valley with pristine clear water in the foreground and towering pine trees. Natural daylight with soft lens softness at the periphery. Authentic film grain, subtle atmospheric haze.
+**Prompt:** A candid, street-level 35mm film photograph of a flooded city street. Abandoned rusted cars are half-submerged in water, with moss and vines creeping over the metal. Low contrast, flat daylight, authentic film grain, high detail, optical lens falloff.
 
 ---
 
@@ -30,7 +30,7 @@ tags:
 
 ![Dawn Mist Forest](assets/flux2_klein_4b_dawn_mist_forest.png)
 
-**Prompt:** A candid 35mm photograph of an ancient temperate rainforest at dawn, thick morning mist weaving between towering cedar and douglas fir trunks. Diffuse flat daylight filtering through canopy gaps, moss-covered fallen logs in foreground. Subtle lens vignetting, authentic fine film grain (ISO 100), cool color temperature.
+**Prompt:** hyper-realistic raw dense ancient pine forest at twilight, dappled moonlight through mist, authentic film grain, high detail, optical lens falloff, raw tactile texture
 
 ---
 
@@ -38,7 +38,7 @@ tags:
 
 ![Golden Hour Desert](assets/flux2_klein_4b_golden_hour_desert.png)
 
-**Prompt:** A candid 35mm photograph of a vast desert basin at golden hour, long shadows stretching across rippled sand dunes. Warm directional sunlight creating dramatic texture on sand ridges, sparse creosote bushes catching the light. Lens flare artifacts, chromatic aberration at edges, authentic film grain (ISO 200), warm color science.
+**Prompt:** hyper-realistic raw desolate jagged arctic glacier landscape, blue ice textures, sharp morning light, authentic film grain, high detail, raw tactile texture
 
 ---
 
@@ -46,7 +46,7 @@ tags:
 
 ![Large Format Glacier](assets/flux2_klein_4b_large_format_glacier.png)
 
-**Prompt:** An 8x10 large format photograph (Sinar P2, 300mm f/5.6 Schneider) of a tidewater glacier calving into fjord, massive ice blocks suspended mid-air. Kodak Ektar 100, f/32, 1/8s, Scheimpflug tilt for infinite depth of field. Extreme resolution capturing individual ice crystals, cyan glacial ice translucency, zero lens distortion, contact-print tonal gradation.
+**Prompt:** hyper-realistic raw sun-drenched coastal cliff overlooking a stormy ocean, salty mist, dramatic lighting, authentic film grain, high detail, raw tactile texture
 
 ---
 
@@ -54,7 +54,7 @@ tags:
 
 ![Macro Dew Web](assets/flux2_klein_4b_macro_dew_web.png)
 
-**Prompt:** A 5:1 macro photograph (Canon MP-E 65mm f/2.8, full-frame) of a single dew-laden spider silk strand at sunrise, each droplet acting as a miniature lens refracting the background forest. Fujichrome Provia 100F, ring flash at 1/4 power, f/11, focus-stacked 12 frames. Razor-thin plane of focus, spherical aberration bokeh balls, interference colors in water droplets, zero diffraction softening.
+**Prompt:** hyper-realistic raw street level view of a bustling futuristic Tokyo market, rain-slicked neon streets with people walking on sidewalks and cars driving on the street, cinematic cyberpunk, authentic film grain, high detail, optical lens falloff, raw tactile texture
 
 ---
 
@@ -62,7 +62,7 @@ tags:
 
 ![Medium Format Wetlands](assets/flux2_klein_4b_medium_format_wetlands.png)
 
-**Prompt:** A 6x7 medium format photograph (Pentax 67, 90mm f/2.8) of a pristine wetland at blue hour, still water mirroring silhouetted cattails and distant treeline. Fujifilm Velvia 50 slide film, tripod-mounted, 4-second exposure. Deep saturated greens and blues, negligible grain, exceptional corner-to-corner sharpness, subtle graduated ND filter transition at horizon.
+**Prompt:** hyper-realistic raw street level view of a bustling futuristic Tokyo market, rain-slicked neon streets, cinematic cyberpunk, authentic film grain, high detail, optical lens falloff, raw tactile texture
 
 ---
 
@@ -70,7 +70,7 @@ tags:
 
 ![Night Starry Mountains](assets/flux2_klein_4b_night_starry_mountains.png)
 
-**Prompt:** A candid 35mm photograph of high alpine peaks under pristine night sky, Milky Way arching overhead with dense starfields. Snow-capped summits illuminated only by starlight and faint airglow, dark pine silhouettes at treeline. Natural vignetting, soft lens aberrations at periphery, authentic fine film grain pushed to ISO 1600, deep cyan-blue color science.
+**Prompt:** hyper-realistic raw medieval European village square at dawn, stone architecture, market stalls opening, soft natural morning light, authentic film grain, high detail, raw tactile texture
 
 ---
 
@@ -78,7 +78,7 @@ tags:
 
 ![Stormy Coast](assets/flux2_klein_4b_stormy_coast.png)
 
-**Prompt:** A candid 35mm photograph of a rugged coastal cliff during an approaching storm, dark bruised clouds boiling over churning slate-gray ocean. Wind-whipped spray catching diffused light, wet basalt rocks glistening in foreground. Heavy atmospheric haze, moisture on lens elements, authentic coarse film grain (ISO 400), desaturated moody palette.
+**Prompt:** hyper-realistic raw abandoned desert city, weathered brutalist concrete structures, shifting sands, harsh midday sun, authentic film grain, high detail, raw tactile texture
 
 ---
 
@@ -86,7 +86,7 @@ tags:
 
 ![Ultrawide Volcanic Vent](assets/flux2_klein_4b_ultrawide_volcanic_vent.png)
 
-**Prompt:** A candid 14mm f/2.8 ultra-wide photograph (full-frame, Nikon Z 14-24mm) of an active volcanic fumarole field at twilight, steam plumes glowing with sulfur yellow against deep indigo sky. ISO 3200, 15s, foreground basalt texture exaggerated by perspective distortion. Chromatic aberration at extreme corners, coma on star points, authentic high-ISO luminance noise.
+**Prompt:** hyper-realistic raw modern glass and steel skyscraper interior looking out over a sprawling coastal metropolis at dusk, warm interior lighting, authentic film grain, high detail, raw tactile texture
 
 ---
 
@@ -129,8 +129,6 @@ tags:
 **Prompt:** A candid 35mm photograph of an alpine watermill in winter, heavy snow cover on roofs and surrounding pines, soft diffused winter light. Authentic film grain, subtle blue-tinted shadows.
 
 ---
-
-
 
 ## Technical Configuration
 
