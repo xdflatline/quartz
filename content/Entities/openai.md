@@ -29,7 +29,7 @@ OpenAI is an AI research and deployment company based in San Francisco, Californ
 
 ## Competition Landscape
 
-OpenAI competes with [[google|google]], [[Entities/anthropic|anthropic]], [[Entities/mistral-ai|mistral-ai]], and open-weight model ecosystems like [[Entities/qwen|qwen]]. The competitive pressure drives rapid capability improvements across the industry.
+OpenAI competes with [[google|google]], [[anthropic|anthropic]], [[mistral-ai|mistral-ai]], and open-weight model ecosystems like [[qwen|qwen]]. The competitive pressure drives rapid capability improvements across the industry.
 
 ## Related
 

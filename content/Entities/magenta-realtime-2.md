@@ -14,7 +14,7 @@ type: entitie
 
 ## Core Advancements
 
-Unlike traditional generative music models that operate offline to turn a prompt into a complete track, MRT2 runs locally (specifically optimized for Apple Silicon via the [[Entities/mlx|MLX framework]] or JAX) and reacts live:
+Unlike traditional generative music models that operate offline to turn a prompt into a complete track, MRT2 runs locally (specifically optimized for Apple Silicon via the [[mlx|MLX framework]] or JAX) and reacts live:
 
 - **Ultra-low latency**: Achieves a frame size of 40ms and control latency around 200ms, roughly 15x lower latency than the first iteration of Magenta RealTime.
 - **Multimodal Control**: Supports continuous expressive musical control via MIDI, audio, and text prompts.

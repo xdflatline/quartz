@@ -56,19 +56,19 @@ Google DeepMind is the AI research laboratory of Google, responsible for develop
 
 ## Entities
 
-- [[Entities/gemma-4-model-family]]
-- [[Entities/gemma-4-e2b]]
-- [[Entities/gemma-4-e4b]]
-- [[Entities/gemma-4-12b]]
-- [[Entities/gemma-4-26b-a4b]]
-- [[Entities/gemma-4-31b]]
-- [[Entities/hugging-face]]
-- [[Entities/unsloth]]
-- [[Entities/litert-lm]]
-- [[Entities/vllm]]
-- [[Entities/sglang]]
-- [[Entities/ollama]]
-- [[Entities/llama.cpp]]
+- [[gemma-4-model-family]]
+- [[gemma-4-e2b]]
+- [[gemma-4-e4b]]
+- [[gemma-4-12b]]
+- [[gemma-4-26b-a4b]]
+- [[gemma-4-31b]]
+- [[hugging-face]]
+- [[unsloth]]
+- [[litert-lm]]
+- [[vllm]]
+- [[sglang]]
+- [[ollama]]
+- [[llama.cpp]]
 
 ---
 

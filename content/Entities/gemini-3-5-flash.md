@@ -32,4 +32,4 @@ Gemini 3.5 Flash is Google's latest model release in the Gemini family, announce
 
 - [[Concepts/llm-architecture|llm-architecture]]
 - [[Concepts/ai-content-provenance|ai-content-provenance]]
-- [[Entities/mistral-ai|mistral-ai]]
+- [[mistral-ai|mistral-ai]]

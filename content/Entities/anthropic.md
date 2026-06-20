@@ -38,4 +38,4 @@ Anthropic is an AI safety research company and developer of Claude, a family of 
 
 - [[Concepts/ai-agents|ai-agents]]
 - [[Concepts/gemini-3-5-flash|gemini-3-5-flash]]
-- [[Entities/mistral-ai|mistral-ai]]
+- [[mistral-ai|mistral-ai]]

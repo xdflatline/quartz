@@ -92,7 +92,7 @@ Available via standard protocols:
 - Major Chinese model provider competing with Baidu, Tencent, and international models
 - Strong presence in both open-weight and proprietary segments
 - Available on HuggingFace, GitHub, and via local deployment (Ollama, LMStudio)
-- Competes with [[Entities/anthropic|Anthropic]]'s Claude, [[Entities/openai|OpenAI]]'s GPT series, and Google's Gemini
+- Competes with [[anthropic|Anthropic]]'s Claude, [[openai|OpenAI]]'s GPT series, and Google's Gemini
 
 ## Related
 

@@ -17,4 +17,4 @@ sources:
 ## Related
 
 - [[Concepts/ai-agents|ai-agents]]
-- [[Entities/codegraph|codegraph]]
+- [[codegraph|codegraph]]

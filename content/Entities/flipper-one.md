@@ -26,5 +26,5 @@ sources:
 
 ## Related
 
-- [[Entities/plur|plur]]
+- [[plur|plur]]
 - [[Concepts/cybersecurity|cybersecurity]]

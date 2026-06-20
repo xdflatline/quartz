@@ -97,22 +97,22 @@ Each model is available with QAT optimization in multiple formats:
 
 ## Entities
 
-- [[Entities/google-deepmind]]
-- [[Entities/gemma-4-e2b]]
-- [[Entities/gemma-4-e4b]]
-- [[Entities/gemma-4-12b]]
-- [[Entities/gemma-4-26b-a4b]]
-- [[Entities/gemma-4-31b]]
-- [[Entities/hugging-face]]
-- [[Entities/unsloth]]
-- [[Entities/litert-lm]]
-- [[Entities/transformers-js]]
-- [[Entities/vllm]]
-- [[Entities/sglang]]
-- [[Entities/ollama]]
-- [[Entities/llama.cpp]]
-- [[Entities/mlx]]
-- [[Entities/kaggle]]
+- [[google-deepmind]]
+- [[gemma-4-e2b]]
+- [[gemma-4-e4b]]
+- [[gemma-4-12b]]
+- [[gemma-4-26b-a4b]]
+- [[gemma-4-31b]]
+- [[hugging-face]]
+- [[unsloth]]
+- [[litert-lm]]
+- [[transformers-js]]
+- [[vllm]]
+- [[sglang]]
+- [[ollama]]
+- [[llama.cpp]]
+- [[mlx]]
+- [[kaggle]]
 
 ---
 
