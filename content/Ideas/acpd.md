@@ -1,7 +1,6 @@
 ---
 title: ACPd
-detail: ACPd is a daemon that connects to agents via the Agent Client Protocol (ACP) and serves as a standard interface for agent remote control through va...
-details: ACPd is a daemon that connects to agents via the Agent Client Protocol (ACP) and serves as a standard interface for agent remote control through va...
+details: ACPd is a daemon that connects to agents via the Agent Client Protocol (ACP) and serves as a standard interface for agent remote control through various transports.
 tags:
   - ideas
 created: 2026-06-17

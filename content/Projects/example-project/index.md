@@ -1,6 +1,5 @@
 ---
 title: Example Project
-detail: This project demonstrates how to attach a **Warm-memory** rule bundle for the Agent Self-Improvement system.
 details: This project demonstrates how to attach a **Warm-memory** rule bundle for the Agent Self-Improvement system.
 tags:
   - projects
