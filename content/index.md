@@ -1,32 +1,30 @@
 ---
 title: Welcome to My Digital Garden
+detail: Main entry point for my digital garden built with Quartz
+details: Main entry point for my digital garden built with Quartz
 tags:
-  - index
-  - welcome
-description: "Main entry point for my digital garden built with Quartz"
+  - root
+created: 2026-06-17
+updated: 2026-06-17
+type: index
 ---
-
 # Welcome to My Digital Garden
 
 This is a **Quartz** static site showcasing my notes, ideas, and knowledge base — built in the style of an Obsidian vault.
 
 ## What You'll Find Here
 
-- [Notes](/quartz/notes/index.base.html) — All notes via Obsidian Bases
-- [Projects](/quartz/projects/index.base.html) — Project tracking via Obsidian Bases
-- [Concepts](/quartz/notes/concepts/index.base.html) — Evergreen concepts via Obsidian Bases
-- [Resources](/quartz/notes/resources/index.base.html) — Curated links via Obsidian Bases
-
-## Quick Links
-
-- [[About-This-Garden|About this Garden]]
-- [[How-To-Navigate|How to Navigate]]
-- [[Tags-Index|Browse by Tags]]
+- [[Concepts|Concepts]] — Evergreen concepts
+- [[Projects|Projects]] — Project tracking
+- [[Resources|Resources]] — Curated links
+- [[Ideas|Ideas]] — Creative brainstorms and thoughts
+- [[Research|Research]] — Comprehensive research indexes
+- [[Raw|Raw Sources]] — Ingested raw source articles
 
 ---
 
 > [!note] This garden grows over time
-> Content is added incrementally. Check back often or watch the [[Changelog]] for updates.
+> Content is added incrementally. Check back often for updates.
 
 ---
 
