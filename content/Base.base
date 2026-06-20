@@ -1,6 +1,6 @@
 ---
 title: Base
-details: Master index of all content.
+details: Master index of all content grouped by section.
 tags:
   - base
 created: 2026-06-20
@@ -8,66 +8,52 @@ updated: 2026-06-20
 type: base
 ---
 
-# Base
-
-This is the master index of all content in the digital garden.
-
-## Content Index
-
-| Title | Section | Updated |
-| ----- | ------- | ------- |
-| [[ACPd]] | Ideas | 2026-06-17 |
-| [[AGENTS.md]] | Concepts | 2026-06-17 |
-| [[ai-agents]] | Concepts | 2026-06-17 |
-| [[ai-content-provenance]] | Concepts | 2026-06-17 |
-| [[akash-network]] | Entities | 2026-06-17 |
-| [[anthropic]] | Entities | 2026-06-17 |
-| [[antigravity-cli]] | Entities | 2026-06-17 |
-| [[codegraph]] | Entities | 2026-06-17 |
-| [[copyfail-vulnerability]] | Concepts | 2026-06-17 |
-| [[data-curation]] | Concepts | 2026-06-17 |
-| [[deno]] | Entities | 2026-06-17 |
-| [[Digital-Gardens]] | Concepts | 2026-06-17 |
-| [[flipper-one]] | Entities | 2026-06-17 |
-| [[gemini-3-5-flash]] | Entities | 2026-06-17 |
-| [[gemma-4-model-family]] | Entities | 2026-06-17 |
-| [[github]] | Entities | 2026-06-17 |
-| [[google-deepmind]] | Entities | 2026-06-17 |
-| [[hindsight-memory-architecture]] | Concepts | 2026-06-17 |
-| [[lance-multimodal-model]] | Entities | 2026-06-17 |
-| [[llm-quantization-reference]] | Concepts | 2026-06-17 |
-| [[llm-training-methods]] | Concepts | 2026-06-17 |
-| [[local-llm-hardware-requirements]] | Concepts | 2026-06-17 |
-| [[magenta-realtime-2]] | Entities | 2026-06-17 |
-| [[memori-memory-layer]] | Entities | 2026-06-17 |
-| [[mistral-ai]] | Entities | 2026-06-17 |
-| [[mobile-quantization-schema-wna8o8]] | Concepts | 2026-06-17 |
-| [[neural-cellular-automata]] | Concepts | 2026-06-17 |
-| [[openai]] | Entities | 2026-06-17 |
-| [[plur]] | Entities | 2026-06-17 |
-| [[quantization-aware-training-qat]] | Concepts | 2026-06-17 |
-| [[Quartz-Garden]] | Projects | 2026-06-17 |
-| [[qwen]] | Entities | 2026-06-17 |
-| [[ram-vs-vram-llm-inference]] | Concepts | 2026-06-17 |
-| [[reinforcement-learning-grpo]] | Concepts | 2026-06-17 |
-| [[runtime]] | Entities | 2026-06-17 |
-| [[stable-audio-3]] | Entities | 2026-06-17 |
-| [[superset]] | Entities | 2026-06-17 |
-| [[tla-plus]] | Concepts | 2026-06-17 |
-| [[typed-knowledge-architecture]] | Concepts | 2026-06-17 |
-| [[uv]] | Entities | 2026-06-17 |
-| [[versanovatech]] | Entities | 2026-06-17 |
-| [[wayfound-ai]] | Entities | 2026-06-17 |
-| [[abstract-llm-training-procedure]] | Research | 2026-06-17 |
-| [[agent-memory-layer-patterns]] | Concepts | 2026-06-17 |
-| [[agent-self-improvement]] | Research | 2026-06-17 |
-| [[ai-agent-memory-orchestration]] | Research | 2026-06-17 |
-| [[dataset-creation-llm]] | Concepts | 2026-06-17 |
-| [[example-project]] | Projects | 2026-06-17 |
-| [[gemma-4-qat]] | Research | 2026-06-17 |
-| [[hermes-agent-research]] | Research | 2026-06-17 |
-| [[open-source-sustainability]] | Concepts | 2026-06-17 |
-| [[rust-agent-finetuning-guide]] | Research | 2026-06-17 |
-| [[rust-coding-llm-guide]] | Research | 2026-06-17 |
-| [[slumber]] | Entities | 2026-06-17 |
-| [[squirrel-auto-docs]] | Entities | 2026-06-17 |
+filters:
+  and:
+    - file.ext == "md"
+formulas:
+  section: |
+    if(file.inFolder("Concepts"), "Concepts",
+    if(file.inFolder("Entities"), "Entities",
+    if(file.inFolder("Projects"), "Projects",
+    if(file.inFolder("Ideas"), "Ideas",
+    if(file.inFolder("Research"), "Research",
+    if(file.inFolder("Raw"), "Raw", "Uncategorized"))))))
+  last_modified: file.mtime.relative()
+properties:
+  title:
+    displayName: Title
+  formula.section:
+    displayName: Section
+  formula.last_modified:
+    displayName: Updated
+views:
+  - type: table
+    name: All Content
+    groupBy:
+      property: formula.section
+      direction: ASC
+    order:
+      - title
+      - formula.section
+      - formula.last_modified
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Recently Updated
+    order:
+      - title
+      - formula.last_modified
+    sort:
+      - property: formula.last_modified
+        direction: DESC
+    limit: 15
+  - type: board
+    name: By Section (Board)
+    groupBy:
+      property: formula.section
+      direction: ASC
+    order:
+      - title
+      - formula.last_modified
