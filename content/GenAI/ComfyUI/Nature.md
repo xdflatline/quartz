@@ -3,9 +3,9 @@
 
 # Nature
 
-## Flux2-Klein 00128 
+## Flux2 Klein 00128
 
-![Flux2-Klein 00128 ](assets/Flux2-Klein_00128_.png)
+![Flux2 Klein 00128](assets/Flux2-Klein_00128_.png)
 
 **Prompt:** A candid 35mm photograph of a lush alpine valley with pristine clear water in the foreground and towering pine trees. Natural daylight with soft lens softness at the periphery. Authentic film grain, subtle atmospheric haze.
 
