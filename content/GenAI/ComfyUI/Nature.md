@@ -615,3 +615,16 @@ tags:
 
 ---
 
+
+## nature_scenery_00129
+![nature_scenery_00129](assets/nature_scenery_00129.png)
+**Prompt:** hyper-realistic raw majestic alpine valley at dawn, pristine mountain stream, ancient pine trees, soft natural morning light, authentic 35mm film grain, high detail, optical lens falloff, raw tactile texture
+
+---
+
+## tokyo_nature_scenery_00130
+![tokyo_nature_scenery_00130](assets/tokyo_nature_scenery_00130.png)
+**Prompt:** hyper-realistic raw majestic alpine lake at dawn, low-hanging mist, dense coniferous forest, snow-dusted peaks, warm golden morning light, atmospheric perspective, authentic 35mm film grain, high detail, tactile texture
+
+---
+
