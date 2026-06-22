@@ -10,11 +10,24 @@ tags:
 
 # Nature
 
+## Nature Scenery 00130
+![Nature Scenery 00130](assets/tokyo_nature_scenery_00130.png)
+**Prompt:** A serene, high-altitude alpine landscape, jagged mountain peaks, calm reflective lake, low-hanging mist, golden hour light, high contrast, 35mm film aesthetic, tactile grain.
+
+---
+
+## Nature Scenery 00129
+![Nature Scenery 00129](assets/nature_scenery_00129.png)
+**Prompt:** hyper-realistic raw majestic alpine valley at dawn, pristine mountain stream, ancient pine trees, soft natural morning light, authentic 35mm film grain, high detail, optical lens falloff, raw tactile texture
+
+---
+
 ## Flux2 Klein 00128
 ![Flux2 Klein 00128](assets/flux2-klein_00128_.png)
 **Prompt:** A candid 35mm photograph of a lush alpine valley with pristine clear water in the foreground and towering pine trees. Natural daylight with soft lens softness at the periphery. Authentic film grain, subtle atmospheric haze.
 
 ---
+
 
 ## Pine Forest Twilight
 ![Pine Forest Twilight](assets/flux2_klein_4b_pine_forest_twilight.png)
@@ -176,25 +189,4 @@ tags:
 ---
 
 
-## nature_scenery_00129
-![nature_scenery_00129](assets/nature_scenery_00129.png)
-**Prompt:** hyper-realistic raw majestic alpine valley at dawn, pristine mountain stream, ancient pine trees, soft natural morning light, authentic 35mm film grain, high detail, optical lens falloff, raw tactile texture
 
----
-
-## tokyo_nature_scenery_00130
-![tokyo_nature_scenery_00130](assets/tokyo_nature_scenery_00130.png)
-**Prompt:** hyper-realistic raw majestic alpine lake at dawn, low-hanging mist, dense coniferous forest, snow-dusted peaks, warm golden morning light, atmospheric perspective, authentic 35mm film grain, high detail, tactile texture
-
-
-## Nature Scenery 00129
-![Nature Scenery 00129](assets/nature_scenery_00129.png)
-**Prompt:** hyper-realistic raw majestic alpine valley at dawn, pristine mountain stream, ancient pine trees, soft natural morning light, authentic 35mm film grain, high detail, optical lens falloff, raw tactile texture
-
----
-
-## Tokyo Nature Scenery 00130
-![Tokyo Nature Scenery 00130](assets/tokyo_nature_scenery_00130.png)
-**Prompt:** A serene, high-altitude alpine landscape, jagged mountain peaks, calm reflective lake, low-hanging mist, golden hour light, high contrast, 35mm film aesthetic, tactile grain.
-
----
