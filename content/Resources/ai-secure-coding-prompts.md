@@ -277,75 +277,85 @@ Deliver:
 These are detailed, specific prompts for complex security areas. Use them when your Tier 2 Task Prompt is not specific enough for the domain you are working in, or when you want to go deep on a particular control area. Combine them with each other and with Tier 2 prompts as needed.
 
 ### 3.1 Input Validation & Output Encoding
-For ALL input handling in this code:
-1. **VALIDATE FIRST** with a strict allowlist (define what is explicitly allowed — types, formats, ranges, patterns). Reject anything that does not match. Never "fix" bad input.
-2. **AFTER validation passes**: escape for the output context. Use sanitization only when escaping is not possible, via a hardened library. Output encoding must be context-aware:
-   * **HTML context**: encode `<`, `>`, `&`, `"`, `'`
-   * **JavaScript context**: use `JSON.stringify()` or JS string escaping
-   * **URL context**: percent-encode
-   * **CSS context**: avoid user input; if unavoidable, strict allowlisting only
-3. **Use framework built-in encoding** (React JSX, Angular interpolation, Jinja2 autoescaping). Never construct HTML with string concatenation. Never use `dangerouslySetInnerHTML` or equivalent without explicit sanitization via a library like DOMPurify.
-4. **Add Content-Security-Policy headers** as defense in depth. Avoid `'unsafe-inline'` and `'unsafe-eval'`.
 
-*Apply to: query params, POST body, headers, file uploads, API inputs, database queries, system calls, config files, environment variables.*
+```text
+For ALL input handling in this code:
+1. VALIDATE FIRST with a strict allowlist (define what is explicitly allowed — types, formats, ranges, patterns). Reject anything that does not match. Never "fix" bad input.
+2. AFTER validation passes: escape for the output context. Use sanitization only when escaping is not possible, via a hardened library. Output encoding must be context-aware:
+   - HTML context: encode <, >, &, ", '
+   - JavaScript context: use JSON.stringify() or JS string escaping
+   - URL context: percent-encode
+   - CSS context: avoid user input; if unavoidable, strict allowlisting only
+3. Use framework built-in encoding (React JSX, Angular interpolation, Jinja2 autoescaping). Never construct HTML with string concatenation. Never use dangerouslySetInnerHTML or equivalent without explicit sanitization via a library like DOMPurify.
+4. Add Content-Security-Policy headers as defense in depth. Avoid 'unsafe-inline' and 'unsafe-eval'.
+
+Apply to: query params, POST body, headers, file uploads, API inputs, database queries, system calls, config files, environment variables.
+```
 
 ### 3.2 File Upload Security
+
+```text
 For file upload functionality, enforce all of the following:
 
-#### VALIDATION:
-- Allowlist permitted file extensions **AND** verify magic bytes (file signature) — extension alone is not enough
+VALIDATION:
+- Allowlist permitted file extensions AND verify magic bytes (file signature) — extension alone is not enough
 - Enforce maximum file size
-- Reject filenames with path traversal characters (`../`, `\`, null bytes)
+- Reject filenames with path traversal characters (../, \, null bytes)
 - Virus/malware scanning if applicable
 
-#### STORAGE:
+STORAGE:
 - Store outside the web root
 - Generate a unique, unpredictable filename; store the original name separately in the database
 - Set restrictive file permissions
 - Use a separate domain or storage service for user-uploaded content
 
-#### RETRIEVAL:
+RETRIEVAL:
 - Verify user authorization before serving any file
-- Set `Content-Type` explicitly; use `Content-Disposition: attachment` for untrusted files
+- Set Content-Type explicitly; use Content-Disposition: attachment for untrusted files
 - Never execute uploaded files, save them as read-only
 - Apply rate limiting on upload and download
 
-**BLOCK THESE TYPES**: `.exe`, `.dll`, `.bat`, `.cmd`, `.sh`, `.js`, `.vbs`, `.ps1`, `.php`, `.asp`, `.jsp`, `.py`, and archives (`.zip`, `.rar`) that may contain any of the above. Block archives by default. If archives must be supported, unpack in a sandbox, enforce total uncompressed size limits, prevent path traversal on extraction, and scan extracted contents.
+BLOCK THESE TYPES: .exe, .dll, .bat, .cmd, .sh, .js, .vbs, .ps1, .php, .asp, .jsp, .py, and archives (.zip, .rar) that may contain any of the above. Block archives by default. If archives must be supported, unpack in a sandbox, enforce total uncompressed size limits, prevent path traversal on extraction, and scan extracted contents.
+```
 
 ### 3.3 Database Security
+
+```text
 For all database operations:
 
-#### SQL / NoSQL INJECTION PREVENTION (critical):
-- **ALWAYS** use parameterized queries or prepared statements
-- **NEVER** concatenate user input into query strings — this applies to NoSQL (MongoDB, CouchDB, etc.) as well
+SQL / NoSQL INJECTION PREVENTION (critical):
+- ALWAYS use parameterized queries or prepared statements
+- NEVER concatenate user input into query strings — this applies to NoSQL (MongoDB, CouchDB, etc.) as well
 - Never build queries by merging untrusted objects. Use typed query APIs/ORMs, schema validation, allowlisted operators and fields, and explicitly block server-side JS query features.
 - Prefer ORM query builders; if raw SQL is required, still use parameter binding
 
-#### ACCESS CONTROL:
+ACCESS CONTROL:
 - Use least-privilege database accounts (separate read vs. write accounts)
-- Application accounts must not have `DROP`, `CREATE`, or `ALTER` permissions
-- Never use `root`, `DBO`, or `sa` accounts for application connections
+- Application accounts must not have DROP, CREATE, or ALTER permissions
+- Never use root, DBO, or sa accounts for application connections
 
-#### CONNECTION SECURITY:
+CONNECTION SECURITY:
 - Require TLS/SSL; validate server certificates
 - Store credentials in secret management — not in connection strings in code or config
 
-#### DATA PROTECTION:
+DATA PROTECTION:
 - Encrypt sensitive columns at rest
 - Hash + salt passwords before storage (never store plaintext or reversibly encrypted)
 - Enable database audit logging
 - Classify and label sensitive data fields
+```
 
 ### 3.4 Error Handling & Security Logging
 
-#### SECURE ERROR HANDLING:
+```text
+SECURE ERROR HANDLING:
 - Catch all exceptions — never let them propagate raw to the user
 - Fail closed: on transaction error, roll back completely. Never attempt partial recovery.
 - User-facing messages: generic only. Never expose stack traces, DB errors, file paths, framework versions, or internal system details.
 - Assign a unique error ID in your logs; surface it to the user only if your application has a support channel where it would be actionable
-- Use correct HTTP status codes: `400` bad input, `401` unauthenticated, `403` unauthorized, `404` not found (also use for unauthorized resources to prevent enumeration), `429` rate limited. Always enforce authorization first, then optionally choose 404 vs 403 as a response shaping decision. Always log it as an authorization failure either way.
+- Use correct HTTP status codes: 400 bad input, 401 unauthenticated, 403 unauthorized, 404 not found (also use for unauthorized resources to prevent enumeration), 429 rate limited. Always enforce authorization first, then optionally choose 404 vs 403 as a response shaping decision. Always log it as an authorization failure either way.
 
-#### SECURITY LOGGING (log these events):
+SECURITY LOGGING (log these events):
 - Auth events: success, failure, logout, MFA enrollment, MFA bypass
 - Authorization failures
 - Input validation failures (especially repeated patterns)
@@ -354,6 +364,7 @@ For all database operations:
 - Configuration changes
 - Rate limit triggers
 
-*LOG EACH EVENT WITH: timestamp (ISO 8601, UTC), user identifier, source IP, user agent, action attempted, result (success/failure), resource accessed, unique request ID*
+LOG EACH EVENT WITH: timestamp (ISO 8601, UTC), user identifier, source IP, user agent, action attempted, result (success/failure), resource accessed, unique request ID
 
-**NEVER LOG**: passwords, session tokens, API keys, credit card numbers, SSNs.
+NEVER LOG: passwords, session tokens, API keys, credit card numbers, SSNs,
+```
