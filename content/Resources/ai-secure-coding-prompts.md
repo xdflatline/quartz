@@ -65,7 +65,8 @@ As needed
 
 ★ The Golden Rule ★
 
-Any AI, given these prompts, should produce code that is meaningfully more secure than without them. If the AI deviates from or ignores any security requirement in a prompt, that is important. Treat it
+ > [!IMPORTANT]
+> Any AI, given these prompts, should produce code that is meaningfully more secure than without them. If the AI deviates from or ignores any security requirement in a prompt, that is important. Treat it
 as code review failure and follow up with a direct question: "Why did you skip [requirement]?"
 
 TIER 1
