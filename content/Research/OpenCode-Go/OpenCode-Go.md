@@ -5,7 +5,7 @@ tags:
   - research
 created: 2026-06-27
 updated: 2026-06-27
-type: base
+type: note
 ---
 
 # OpenCode Go Models
