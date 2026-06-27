@@ -44,6 +44,24 @@ OpenCode Go is a low-cost subscription ($5 first month, then $10/month) providin
 | [[deepseek-v4-pro]] | DeepSeek | 1.6T / 49B | 1M | $1.74 | $3.48 |
 | [[deepseek-v4-flash]] | DeepSeek | 284B / 13B | 1M | $0.14 | $0.28 |
 
+## Highlights and Recommended Use Cases
+
+| Model | Highlights | Recommended Use Case |
+|-------|-----------|---------------------|
+| [[glm-5.2]] | 1M context, dual reasoning modes (High/Max), MIT-licensed, IndexShare sparse attention | Long-horizon agentic coding, repo-scale refactoring |
+| [[glm-5.1]] | Same MoE family as 5.2, 203K context, identical pricing | General coding tasks where 1M context is not needed |
+| [[kimi-k2.7-code]] | 30% fewer reasoning tokens than K2.6, best instruction following in the Kimi line | Production coding agents, high-volume task throughput |
+| [[kimi-k2.6]] | Natively multimodal (text + vision), first open model to beat GPT-5.4 on SWE-Bench Pro | Multimodal coding, UI/UX generation from mockups |
+| [[mimo-v2.5]] | 15B active params, 1M context, cheapest output in catalog | High-throughput simple coding, rapid prototyping on a budget |
+| [[mimo-v2.5-pro]] | 1.02T params, hybrid attention, 1000+ tool calls demonstrated, rivals Claude Opus 4.6 | Complex multi-hour autonomous coding, full app generation |
+| [[minimax-m3]] | Native multimodal (text + image + video), sparse attention (1/20 cost at 1M) | Multimodal agents with video/image input, long-context tasks |
+| [[minimax-m2.7]] | 205K context, cache write support, 128K max output | Text-only agentic workflows, tasks benefiting from cache writes |
+| [[qwen3.7-max]] | Most capable Qwen in catalog, text + video + image input, proprietary | Maximum-quality tasks regardless of cost, document processing |
+| [[qwen3.7-plus]] | Tiered pricing (3x cheaper under 256K), multimodal, highest Qwen throughput | Cost-efficient multimodal coding, high-volume production |
+| [[qwen3.6-plus]] | Previous-gen Qwen, multimodal, tiered pricing | Legacy workflows on Qwen3.6, fallback when 3.7 is rate-limited |
+| [[deepseek-v4-pro]] | 1.6T params, open-source SOTA in agentic coding, thinking/non-thinking modes | Complex reasoning, math/STEM, frontier-quality agent work |
+| [[deepseek-v4-flash]] | 13B active, near-Pro reasoning on simple tasks, 158K est. requests/month | Budget production agents, simple tasks at Pro-level quality |
+
 ## Tier Summary
 
 - **Budget / High-throughput:** MiMo-V2.5, DeepSeek V4 Flash (sub-$0.30/1M output)
