@@ -1,0 +1,51 @@
+---
+title: OpenCode Go Models
+details: Catalog of all models available through the OpenCode Go subscription provider, with architecture, pricing, and capability summaries.
+tags:
+  - research
+created: 2026-06-27
+updated: 2026-06-27
+type: base
+---
+
+# OpenCode Go Models
+
+OpenCode Go is a low-cost subscription ($5 first month, then $10/month) providing access to curated open coding models. Hosted across US, EU, and Singapore. Uses `OPENCODE_API_KEY` for authentication.
+
+## Provider Overview
+
+- **Chat completions endpoint:** `https://opencode.ai/zen/go/v1/chat/completions` (GLM, Kimi, DeepSeek, MiMo)
+- **Messages endpoint:** `https://opencode.ai/zen/go/v1/messages` (MiniMax, Qwen)
+- **Config format:** `opencode-go/<model-id>`
+
+## Usage Limits (Dollar-Based)
+
+| Window | Limit |
+|--------|-------|
+| 5 hours | $12 |
+| Weekly | $30 |
+| Monthly | $60 |
+
+## Model Catalog
+
+| Model | Developer | Params (Total/Active) | Context | Input $/1M | Output $/1M |
+|-------|-----------|----------------------|---------|------------|-------------|
+| [[glm-5.2]] | Zhipu AI | 753B / 40B | 1M | $1.40 | $4.40 |
+| [[glm-5.1]] | Zhipu AI | 744B / 40B | 203K | $1.40 | $4.40 |
+| [[kimi-k2.7-code]] | Moonshot AI | 1T / 32B | 262K | $0.95 | $4.00 |
+| [[kimi-k2.6]] | Moonshot AI | 1T / 32B | 262K | $0.95 | $4.00 |
+| [[mimo-v2.5]] | Xiaomi | 310B / 15B | 1M | $0.14 | $0.28 |
+| [[mimo-v2.5-pro]] | Xiaomi | 1.02T / 42B | 1M | $1.74 | $3.48 |
+| [[minimax-m3]] | MiniMax | 456B / 45.9B | 1M | $0.30 | $1.20 |
+| [[minimax-m2.7]] | MiniMax | N/A | 205K | $0.30 | $1.20 |
+| [[qwen3.7-max]] | Alibaba | Proprietary | 1M | $2.50 | $7.50 |
+| [[qwen3.7-plus]] | Alibaba | Proprietary | 1M | $0.40 | $1.60 |
+| [[qwen3.6-plus]] | Alibaba | Proprietary | 1M | $0.50 | $3.00 |
+| [[deepseek-v4-pro]] | DeepSeek | 1.6T / 49B | 1M | $1.74 | $3.48 |
+| [[deepseek-v4-flash]] | DeepSeek | 284B / 13B | 1M | $0.14 | $0.28 |
+
+## Tier Summary
+
+- **Budget / High-throughput:** MiMo-V2.5, DeepSeek V4 Flash (sub-$0.30/1M output)
+- **Mid-range:** MiniMax M3, MiniMax M2.7, Qwen3.7 Plus, Qwen3.6 Plus, DeepSeek V4 Pro
+- **Flagship:** GLM-5.2, Kimi K2.7 Code, MiMo-V2.5-Pro, Qwen3.7 Max
