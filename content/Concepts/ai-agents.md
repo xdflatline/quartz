@@ -56,4 +56,4 @@ AI agents are systems that use LLMs as reasoning engines to plan, execute, and i
 - [[llm-architecture|llm-architecture]]
 - [[ai-content-provenance|ai-content-provenance]]
 - [[tla-plus|tla-plus]]
-- [[Concepts/idempotency-for-ai-agents|Idempotency for AI Agents]] -- reliability pattern for write-capable agents
+- [[idempotency-for-ai-agents|Idempotency for AI Agents]] -- reliability pattern for write-capable agents

@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Stripe's Idempotency-Key is an HTTP header mechanism that makes POST requests safe against network retries. It is the canonical implementation of idempotency in payments infrastructure and has been adopted as the foundation pattern for making write-capable [[Concepts/idempotency-for-ai-agents|AI agents]] reliable.
+Stripe's Idempotency-Key is an HTTP header mechanism that makes POST requests safe against network retries. It is the canonical implementation of idempotency in payments infrastructure and has been adopted as the foundation pattern for making write-capable [[idempotency-for-ai-agents|AI agents]] reliable.
 
 ## How It Works
 
@@ -36,11 +36,11 @@ This shifts the key generation from random (client-side) to deterministic (inten
 
 ## Relevance
 
-- Foundation pattern for [[Concepts/idempotency-for-ai-agents|Idempotency for AI Agents]]
+- Foundation pattern for [[idempotency-for-ai-agents|Idempotency for AI Agents]]
 - Demonstrates that the solution to agent reliability predates LLMs
 - Production-validated in payments for 10+ years
 
 ## References
 
 - Stripe API Docs: https://docs.stripe.com/api/idempotent_requests
-- Source Article: [[Raw/devto-ai-agent-idempotency-2026]]
+- Source Article: [[devto-ai-agent-idempotency-2026]]

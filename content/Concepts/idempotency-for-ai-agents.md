@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Idempotency for AI agents is the practice of wrapping side-effecting tool calls (sending emails, creating records, moving money) in a deduplication boundary keyed on the content of the intended action. When the network fails mid-response and the agent retries, the idempotency store returns the original result instead of executing the action again. The pattern is borrowed directly from payments infrastructure ([[Entities/stripe-idempotency-key|Stripe Idempotency-Key]]).
+Idempotency for AI agents is the practice of wrapping side-effecting tool calls (sending emails, creating records, moving money) in a deduplication boundary keyed on the content of the intended action. When the network fails mid-response and the agent retries, the idempotency store returns the original result instead of executing the action again. The pattern is borrowed directly from payments infrastructure ([[stripe-idempotency-key|Stripe Idempotency-Key]]).
 
 ## Core Principle: Read/Write Asymmetry
 
@@ -74,11 +74,11 @@ Production-validated (payments industry, 10+ years)
 
 ## Related Concepts
 
-- [[Concepts/ai-agents|AI Agents]] -- the systems this pattern protects
-- [[Concepts/multi-agent-orchestration-patterns|Multi-Agent Orchestration Patterns]] -- orchestration layers that must handle retry semantics
-- [[Entities/stripe-idempotency-key|Stripe Idempotency-Key]] -- the origin pattern
+- [[ai-agents|AI Agents]] -- the systems this pattern protects
+- [[multi-agent-orchestration-patterns|Multi-Agent Orchestration Patterns]] -- orchestration layers that must handle retry semantics
+- [[stripe-idempotency-key|Stripe Idempotency-Key]] -- the origin pattern
 
 ## References
 
-- Raw Article: [[Raw/devto-ai-agent-idempotency-2026]]
+- Raw Article: [[devto-ai-agent-idempotency-2026]]
 - Original: https://dev.to/gs_sanjana_3e822112e14f8/your-ai-agent-doesnt-need-to-be-smarter-it-needs-to-be-idempotent-2736

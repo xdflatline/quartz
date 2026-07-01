@@ -19,8 +19,8 @@ Most production AI agent failures are not reasoning failures. They are infrastru
 
 ### Core Concepts
 
-- [[Concepts/idempotency-for-ai-agents|Idempotency for AI Agents]] -- the pattern of wrapping side-effecting calls in a deduplication store keyed on intent content
-- [[Entities/stripe-idempotency-key|Stripe Idempotency-Key]] -- the origin pattern from payments infrastructure
+- [[idempotency-for-ai-agents|Idempotency for AI Agents]] -- the pattern of wrapping side-effecting calls in a deduplication store keyed on intent content
+- [[stripe-idempotency-key|Stripe Idempotency-Key]] -- the origin pattern from payments infrastructure
 
 ### Key Arguments
 
@@ -40,9 +40,9 @@ Most production AI agent failures are not reasoning failures. They are infrastru
 
 - How to define "same action" for complex multi-step agent plans?
 - Should idempotency be per-tool or per-plan?
-- Interaction with [[Concepts/multi-agent-orchestration-patterns|multi-agent orchestration]] -- who owns the idempotency boundary?
+- Interaction with [[multi-agent-orchestration-patterns|multi-agent orchestration]] -- who owns the idempotency boundary?
 - TTL tuning: 24h (Stripe) may be too short for long-running agent workflows
 
 ### Sources
 
-- [[Raw/devto-ai-agent-idempotency-2026]] -- primary article
+- [[devto-ai-agent-idempotency-2026]] -- primary article
