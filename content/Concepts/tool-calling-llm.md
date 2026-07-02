@@ -112,9 +112,6 @@ graph LR
     D --> E[RL Fine-Tuning]
     E --> F[Optimized Tool Model]
     
-    style A fill:#e3f2fd
-    style D fill:#fff3e0
-    style F fill:#e8f5e9
 ```
 
 ### Key Training Considerations
@@ -165,8 +162,6 @@ graph TD
     F --> D
     E -->|No| G[Generate Response]
     
-    style A fill:#e3f2fd
-    style G fill:#e8f5e9
 ```
 
 ### Parallel Tool Calls
@@ -184,8 +179,6 @@ graph TD
     E --> F
     F --> G[Generate Response]
     
-    style A fill:#e3f2fd
-    style G fill:#e8f5e9
 ```
 
 ## Best Practices

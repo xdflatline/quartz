@@ -130,9 +130,6 @@ graph LR
     G --> C
     F -->|Yes| H[Deploy Model]
     
-    style A fill:#e1f5fe
-    style H fill:#e8f5e9
-    style F fill:#fff3e0
 ```
 
 ## Common Pitfalls

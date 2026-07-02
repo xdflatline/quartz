@@ -42,8 +42,6 @@ graph TD
     C --> E[Faster convergence<br>Less data needed]
     D --> F[More control<br>Custom behavior]
     
-    style C fill:#e8f5e9
-    style D fill:#fff3e0
 ```
 
 | Use Case | Recommended | Reason |
@@ -89,8 +87,6 @@ graph LR
     D --> E[Activations]
     E --> F[Total Memory]
     
-    style A fill:#e3f2fd
-    style F fill:#ffebee
 ```
 
 Approximate memory requirements:
@@ -152,11 +148,6 @@ graph TD
     K --> N[16-48GB] --> O[Use LoRA]
     K --> P[> 48GB] --> Q[Full Fine-Tuning]
     
-    style A fill:#e3f2fd
-    style D fill:#e8f5e9
-    style F fill:#e8f5e9
-    style H fill:#e8f5e9
-    style J fill:#e8f5e9
 ```
 
 ### Key Questions

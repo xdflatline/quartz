@@ -79,12 +79,6 @@ graph LR
         E[65B Model 4-bit] --> F[~~35GB VRAM]
     end
     
-    style A fill:#ffcccc
-    style B fill:#ffcccc
-    style C fill:#ccffcc
-    style D fill:#ccffcc
-    style E fill:#ccccff
-    style F fill:#ccccff
 ```
 
 ### Memory Requirements (Approximate)

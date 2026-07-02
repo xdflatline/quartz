@@ -30,12 +30,6 @@ graph LR
         E --> F[Task-Specific Model]
     end
     
-    style A fill:#e3f2fd
-    style B fill:#e3f2fd
-    style C fill:#fff3e0
-    style D fill:#fff3e0
-    style E fill:#e8f5e9
-    style F fill:#e8f5e9
 ```
 
 ### Key Differences
@@ -89,9 +83,6 @@ graph TD
     H --> I[Task Fine-Tuning]
     I --> J[Final Model]
     
-    style A fill:#e3f2fd
-    style H fill:#fff3e0
-    style J fill:#e8f5e9
 ```
 
 ### Hyperparameters

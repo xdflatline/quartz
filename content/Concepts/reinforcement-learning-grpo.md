@@ -21,9 +21,6 @@ graph LR
     A[Pre-training] --> B[Supervised Fine-Tuning]
     B --> C[Reinforcement Learning]
     
-    style A fill:#e3f2fd
-    style B fill:#e8f5e9
-    style C fill:#fff3e0
 ```
 
 ### Why RL?
@@ -125,9 +122,6 @@ graph TD
     E --> G
     F --> G
     
-    style D fill:#e8f5e9
-    style E fill:#fff3e0
-    style F fill:#ffebee
 ```
 
 ### Common Reward Functions

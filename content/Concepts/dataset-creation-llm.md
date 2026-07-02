@@ -72,10 +72,6 @@ graph LR
     C --> F[Conversations]
     D --> G[Role-based]
     
-    style A fill:#e3f2fd
-    style B fill:#e8f5e9
-    style C fill:#fff3e0
-    style D fill:#fce4ec
 ```
 
 ## Data Curation
@@ -121,8 +117,6 @@ graph LR
     D --> E[Filter & Quality Check]
     E --> F[Training Dataset]
     
-    style A fill:#e3f2fd
-    style F fill:#e8f5e9
 ```
 
 **Distillation**: Generate data from a stronger teacher model
@@ -179,9 +173,6 @@ graph TD
     F --> G[Quality Checks]
     G --> H[Training Dataset]
     
-    style A fill:#e3f2fd
-    style H fill:#e8f5e9
-    style G fill:#fff3e0
 ```
 
 ## Tools and Resources
