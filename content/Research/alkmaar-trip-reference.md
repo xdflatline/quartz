@@ -23,8 +23,17 @@ sources:
 
 The stay is at Boerderij Hazendaal (Accommodatie van Poelenburgh) in Aagtdorp, on the western edge of the Bergen / Schoorl dune area in the municipality of Bergen, Noord-Holland. Reverse geocoding the coordinates returns "129, Duinweg, Aagtdorp, Schoorl, Bergen, Noord-Holland, 1871 AH". The coordinate above is the canonical search point for all nearby queries and map links below.
 
-Tap-to-navigate (from anywhere):
-https://www.google.com/maps/search/?api=1&query=52.6875556,4.7029444
+<iframe
+  src="https://maps.google.com/maps?q=52.6875556,4.7029444&hl=en&z=15&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of Boerderij Hazendaal, Duinweg 129, Aagtdorp, Schoorl, Bergen NH">
+</iframe>
+
+Open in Google Maps: https://www.google.com/maps/search/?api=1&query=52.6875556,4.7029444
 
 ## 2. Nearby Supermarkets (Sunday 2026-07-12 status)
 
