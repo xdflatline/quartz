@@ -48,22 +48,19 @@ Caveats: OSM hours are community-maintained and occasionally stale. Stores witho
 
 ## 3. Bike Rentals
 
-The stay is on Duinweg in Aagtdorp (Schoorl municipality), and Schoorl is a major cycling hub with a dense cluster of rental shops within 1.5-1.9 km. Most are open Tue-Sun in the high season; several publish no hours in OSM and require phone/web verification. Address was confirmed by reverse-geocoding the stay coordinates as "129, Duinweg, Aagtdorp, Schoorl, Bergen, Noord-Holland, 1871 AH".
+The stay is on Duinweg in Aagtdorp (Schoorl municipality), and Schoorl is a major cycling hub with a dense cluster of rental shops within 1.5-1.7 km. Most are open Tue-Sun in the high season; several publish no hours in OSM and require phone/web verification. Address was confirmed by reverse-geocoding the stay coordinates as "129, Duinweg, Aagtdorp, Schoorl, Bergen, Noord-Holland, 1871 AH".
 
 | Distance | Shop | Address | Published hours |
 | --- | --- | --- | --- |
-| 1.5 km | BonBonBike | 52, Breelaan, Bergen NH | no hours in OSM |
-| 1.7 km | Off Road - Centre Schoorl | 10, Duinweg, Schoorl | no hours in OSM |
-| 1.8 km | Fietsverhuur Schoorl | 2, Duinweg, Schoorl | Tu-Sa 09:00-17:00 |
-| 1.8 km | Fietsenwinkel Schoorl | 9, Laanweg, Schoorl | We-Su 09:00-17:00 |
-| 1.8 km | Cherrie Bikes | 6, Heereweg, Schoorl | no hours in OSM |
-| 1.9 km | Kust Tweewielers | 45, Paardenmarkt, Schoorl | Apr-Sep Mo-Su 09:00-18:00 |
-| 3.1 km | Pesie Rent A Bike | 125, Bergerweg, Bergen NH | no hours in OSM |
-| 5.9 km | OV-Fiets (NS) | 43, Stationsweg, Alkmaar | daily 04:40-02:00 |
-| 9.3 km | BikeMike.nl | (Alkmaar area) | Mo-Su 09:00-19:00 |
-
-Tap-to-navigate to the Schoorl cluster (Fietsverhuur Schoorl):
-https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=52.7022093,4.6944108
+| 1.5 km | [Off Road - Centre Schoorl](https://www.google.com/maps/search/?api=1&query=52.699835,4.693849) | 10, Duinweg, Schoorl | no hours in OSM |
+| 1.6 km | [Fietsverhuur Schoorl](https://www.google.com/maps/search/?api=1&query=52.700743,4.693658) | 2, Duinweg, Schoorl | Tu-Sa 09:00-17:00 |
+| 1.6 km | [BonBonBike](https://www.google.com/maps/search/?api=1&query=52.673060,4.697845) | 52, Breelaan, Bergen NH | no hours in OSM |
+| 1.7 km | [Fietsenwinkel Schoorl](https://www.google.com/maps/search/?api=1&query=52.701618,4.694853) | 9, Laanweg, Schoorl | We-Su 09:00-17:00 |
+| 1.7 km | [Cherrie Bikes](https://www.google.com/maps/search/?api=1&query=52.701505,4.693714) | 6, Heereweg, Schoorl | no hours in OSM |
+| 1.7 km | [Kust Tweewielers Fietsverhuur](https://www.google.com/maps/search/?api=1&query=52.702164,4.694469) | 45, Paardenmarkt, Schoorl | Apr-Sep Mo-Su 09:00-18:00 |
+| 3.3 km | [Pesie Rent A Bike](https://www.google.com/maps/search/?api=1&query=52.659164,4.717546) | 125, Bergerweg, Bergen NH | no hours in OSM |
+| 6.1 km | [OV-Fiets (NS)](https://www.google.com/maps/search/?api=1&query=52.637616,4.739339) | 43, Stationsweg, Alkmaar | daily 04:40-02:00 |
+| 9.5 km | [BikeMike.nl](https://www.google.com/maps/search/?api=1&query=52.616505,4.625081) | (Alkmaar area) | Mo-Su 09:00-19:00 |
 
 Recommendations:
 - For a standard city/duin bike for the day, Fietsverhuur Schoorl is on your own street and has published hours.
