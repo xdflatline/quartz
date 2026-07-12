@@ -1,7 +1,7 @@
 ---
 title: "Bergen (NH) Trip Reference"
 detail: "Local reference card for the 8-day stay at Boerderij Hazendaal (Accommodatie van Poelenburgh) in Bergen / Schoorl, north of the Netherlands. Aggregates map links to the Airbnb, nearby supermarkets, bike rentals, dunes, beaches, walking routes, and a Friday cheese market day trip to Waagplein in nearby Alkmaar. Includes Sunday opening hours and trip-planning notes."
-details: "Trip reference compiled 2026-07-12 during the 8-day stay. Stay location: 52.685802, 4.702429 (Boerderij Hazendaal, Duinweg 129, Aagtdorp, Schoorl, Bergen, Noord-Holland, 1871 AH). Stay dates: 2026-07-12 through 2026-07-20. Nearest train station: Alkmaar (~10 km south). Cheese market day trip: Waagplein, Alkmaar, Friday mornings 10:00-12:00 (carriers + weighing ceremony); in-stay Friday dates are July 17 and July 24. Closest supermarkets (Sunday 2026-07-12): Albert Heijn Breelaan 14 Bergen NH (~1.6 km, open until 22:00) and DekaMarkt Plein 4 Bergen NH (~1.8 km, open until 21:00). Caveats: OSM hours are community-maintained; entries without published hours (ALDI Bergen, Ekoplaza Schoorl) require phone/web verification before traveling. Map links are Google Maps directions URLs keyed to the stay coordinates."
+details: "Trip reference compiled 2026-07-12 during the 8-day stay. Stay location: 52.6875556, 4.7029444 (Boerderij Hazendaal, Duinweg 129, Aagtdorp, Schoorl, Bergen, Noord-Holland, 1871 AH). Stay dates: 2026-07-12 through 2026-07-20. Nearest train station: Alkmaar (~10 km south). Cheese market day trip: Waagplein, Alkmaar, Friday mornings 10:00-12:00 (carriers + weighing ceremony); in-stay Friday dates are July 17 and July 24. Closest supermarkets (Sunday 2026-07-12): Albert Heijn Breelaan 14 Bergen NH (~1.6 km, open until 22:00) and DekaMarkt Plein 4 Bergen NH (~1.8 km, open until 21:00). Caveats: OSM hours are community-maintained; entries without published hours (ALDI Bergen, Ekoplaza Schoorl) require phone/web verification before traveling. Map links are Google Maps directions URLs keyed to the stay coordinates."
 tags:
   - research
 created: 2026-07-12
@@ -16,7 +16,7 @@ sources:
 
 **Updated:** 2026-07-12
 **Stay:** Boerderij Hazendaal (Accommodatie van Poelenburgh), 2026-07-12 to 2026-07-20
-**Coordinates:** 52.685802, 4.702429 (Aagtdorp, Schoorl, Bergen, Noord-Holland)
+**Coordinates:** 52.6875556, 4.7029444 (Aagtdorp, Schoorl, Bergen, Noord-Holland)
 **Nearest train station:** Alkmaar (~10 km south)
 
 ## 1. Stay Location
@@ -24,7 +24,7 @@ sources:
 The stay is at Boerderij Hazendaal (Accommodatie van Poelenburgh) in Aagtdorp, on the western edge of the Bergen / Schoorl dune area in the municipality of Bergen, Noord-Holland. Reverse geocoding the coordinates returns "129, Duinweg, Aagtdorp, Schoorl, Bergen, Noord-Holland, 1871 AH". The coordinate above is the canonical search point for all nearby queries and map links below.
 
 Tap-to-navigate (from anywhere):
-https://www.google.com/maps/search/?api=1&query=52.685802,4.702429
+https://www.google.com/maps/search/?api=1&query=52.6875556,4.7029444
 
 ## 2. Nearby Supermarkets (Sunday 2026-07-12 status)
 
@@ -39,10 +39,10 @@ Closest stores by straight-line distance from the Airbnb, with Sunday opening ho
 | 1.9 km | Ekoplaza | Heereweg 13, Schoorl | no hours in OSM |
 
 Tap-to-navigate for the closest (Albert Heijn Bergen):
-https://www.google.com/maps/dir/?api=1&origin=52.685802,4.702429&destination=52.6712225,4.7008787
+https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=52.6712225,4.7008787
 
 Tap-to-navigate for the cheap option (ALDI Bergen):
-https://www.google.com/maps/dir/?api=1&origin=52.685802,4.702429&destination=52.6707225,4.7026923
+https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=52.6707225,4.7026923
 
 Further afield (4-5 km, in Alkmaar itself) and useful for a bigger shop:
 - Jumbo Johanna Naberstraat Alkmaar (~4.8 km, Sun 10:00-20:00)
@@ -69,7 +69,7 @@ The stay is on Duinweg in Aagtdorp (Schoorl municipality), and Schoorl is a majo
 | 9.3 km | BikeMike.nl | (Alkmaar area) | Mo-Su 09:00-19:00 |
 
 Tap-to-navigate to the Schoorl cluster (Fietsverhuur Schoorl):
-https://www.google.com/maps/dir/?api=1&origin=52.685802,4.702429&destination=52.7022093,4.6944108
+https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=52.7022093,4.6944108
 
 Recommendations:
 - For a standard city/duin bike for the day, Fietsverhuur Schoorl is on your own street and has published hours.
@@ -86,7 +86,7 @@ The Schoorlse Duinen is a large contiguous dune and forest reserve west of the s
 - Distance: 4.6 km road
 - Time: ~30 min walking, ~18 min cycling
 - Use: 1,800 ha of dunes, forest, and the Klimmen duin (highest in the Netherlands). Multiple colour-coded walking routes from 1.5 km to 18 km, well-marked. The entrance at Schoorlse Zeeweg is the most car/bike-friendly start; an alternative north entrance sits near the Camperduin beach.
-- Map link: https://www.google.com/maps/dir/?api=1&origin=52.685802,4.702429&destination=52.6978888,4.6634659
+- Map link: https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=52.6978888,4.6634659
 
 ### 4.2 Bergen aan Zee (south coast)
 
@@ -94,7 +94,7 @@ The Schoorlse Duinen is a large contiguous dune and forest reserve west of the s
 - Distance: 7.8 km road
 - Time: ~30 min cycling, ~95 min walking
 - Use: Sandy beach, lighthouse, beach pavilions (Noorderlicht, Lekkers aan Zee) for food. Quieter than Camperduin. Combine with the southern Schoorlse Duinen for a half-day ride.
-- Map link: https://www.google.com/maps/dir/?api=1&origin=52.685802,4.702429&destination=52.6608,4.6317
+- Map link: https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=52.6608,4.6317
 
 ### 4.3 Camperduin (north coast)
 
@@ -102,7 +102,7 @@ The Schoorlse Duinen is a large contiguous dune and forest reserve west of the s
 - Distance: 7.0 km road
 - Time: ~28 min cycling, ~85 min walking
 - Use: Wider beach, popular with families. Bounded by the Hondsbossche Zeewering sea defence and the northern tip of the Schoorlse Duinen. Pairs well with a return leg through the dune interior.
-- Map link: https://www.google.com/maps/dir/?api=1&origin=52.685802,4.702429&destination=52.7255,4.6515
+- Map link: https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=52.7255,4.6515
 
 ### 4.4 Bergen village (south, inland)
 
@@ -130,7 +130,7 @@ In-stay Friday dates: **July 17, 2026** and **July 24, 2026**.
 A smaller-scale "cheese experience" / tourist-focused variant operates on some Wednesday evenings and Saturdays in July. The main carriers-and-bells ceremony is the Friday morning event.
 
 Directions from the stay to Waagplein:
-https://www.google.com/maps/dir/?api=1&origin=52.685802,4.702429&destination=52.6008538,4.8170994
+https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=52.6008538,4.8170994
 
 Reference: Waagplein, Alkmaar center; look for the medieval weigh house (De Waag). Free to spectate; stands sit in a ring around the square.
 
