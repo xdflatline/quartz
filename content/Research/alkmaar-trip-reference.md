@@ -28,21 +28,15 @@ https://www.google.com/maps/search/?api=1&query=52.6875556,4.7029444
 
 ## 2. Nearby Supermarkets (Sunday 2026-07-12 status)
 
-Closest stores by straight-line distance from the Airbnb, with Sunday opening hours from OpenStreetMap.
+Closest stores by straight-line distance from the stay, with Sunday opening hours from OpenStreetMap.
 
 | Distance | Store | Address | Sunday hours |
 | --- | --- | --- | --- |
-| 1.6 km | Albert Heijn | Breelaan 14, Bergen NH | 08:00-22:00 |
-| 1.7 km | ALDI | Bergen NH | no hours in OSM |
-| 1.8 km | DekaMarkt | Plein 4, Bergen NH | 08:00-21:00 |
-| 1.8 km | Jumbo | Heereweg 3, Schoorl | 10:00-18:00 |
-| 1.9 km | Ekoplaza | Heereweg 13, Schoorl | no hours in OSM |
-
-Tap-to-navigate for the closest (Albert Heijn Bergen):
-https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=52.6712225,4.7008787
-
-Tap-to-navigate for the cheap option (ALDI Bergen):
-https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=52.6707225,4.7026923
+| 1.6 km | [Albert Heijn](https://www.google.com/maps/search/?api=1&query=52.6712225,4.7008787) | Breelaan 14, Bergen NH | 08:00-22:00 |
+| 1.7 km | [ALDI](https://www.google.com/maps/search/?api=1&query=52.6707225,4.7026923) | Bergen NH | no hours in OSM |
+| 1.8 km | [DekaMarkt](https://www.google.com/maps/search/?api=1&query=52.6698135,4.7014231) | Plein 4, Bergen NH | 08:00-21:00 |
+| 1.8 km | [Jumbo](https://www.google.com/maps/search/?api=1&query=52.7009263,4.6931345) | Heereweg 3, Schoorl | 10:00-18:00 |
+| 1.9 km | [Ekoplaza](https://www.google.com/maps/search/?api=1&query=52.7015586,4.6934403) | Heereweg 13, Schoorl | no hours in OSM |
 
 Further afield (4-5 km, in Alkmaar itself) and useful for a bigger shop:
 - Jumbo Johanna Naberstraat Alkmaar (~4.8 km, Sun 10:00-20:00)
