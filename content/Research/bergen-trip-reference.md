@@ -179,6 +179,28 @@ https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=5
 
 Reference: Waagplein, Alkmaar center; look for the medieval weigh house (De Waag). Free to spectate; stands sit in a ring around the square.
 
+### 5.2 Schoorl Climbing Dune (Schoorlse Duinen, Schoorl)
+
+The Klimduin is the highest dune in the Netherlands at ~55 m above NAP. It sits in the Schoorlse Duinen national park on the inland (east) edge of Schoorl village, ~3 km north of the stay. The climb is a short walk from the Schoorlse Duinen visitor area; the dune itself is loose sand and steep, not suitable for bikes. Free to access, no facilities on the dune itself (restrooms and parking are in Schoorl village).
+
+In-stay walking days: any day with reasonable weather; the climb takes ~20-30 minutes round trip and combines with the Schoorl village lunch loop (see §4.4) for a half-day outing.
+
+Directions from the stay to the Schoorl climbing dune:
+https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=Klimduin+Schoorl
+
+Reference: Staatsbosbeheer-managed national park; the climbing dune is the central feature of the Schoorlse Duinen trail network. Verify trail conditions with the Schoorlse Duinen visitor centre before walking after heavy rain.
+
+### 5.3 Bergen aan Zee Beach (North Sea coast)
+
+The North Sea beach at Bergen aan Zee is the nearest sea-beach to the stay, ~6 km west. Wide sandy beach, west-facing, with the usual row of beach pavilions (paviljoens) open April-October and a simpler scene in winter. Combined walk: walk from the stay through the dune corridor to the beach (~2 hours one-way via the inland Schoorlse Duinen trail), or drive to the Bergen aan Zee parking area and walk the seawall.
+
+In-stay beach days: any day the wind is not too strong; the western exposure means onshore winds on most afternoons. For sunset specifically, the beach faces west and is the cleanest spot in the area to watch the sun go down over the water (cross-reference with the sunset note in §6).
+
+Directions from the stay to Bergen aan Zee:
+https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=Bergen+aan+Zee
+
+Reference: Bergen aan Zee is a separate village from Bergen village; paviljoens are typically open 10:00-22:00 in summer. Verify current operating status for the specific pavilion you intend to visit.
+
 ## 6. Trip-Planning Notes
 
 - The stay is in the dune belt between Schoorl and Bergen. The nearest supermarket cluster is in Bergen village (~1.6-1.8 km south) and a larger one sits in Alkmaar (~10 km south).
