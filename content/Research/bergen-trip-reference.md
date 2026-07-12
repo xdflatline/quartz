@@ -88,6 +88,17 @@ The Schoorlse Duinen is a large contiguous dune and forest reserve west of the s
 - Distance: 4.6 km road
 - Time: ~30 min walking, ~18 min cycling
 - Use: 1,800 ha of dunes, forest, and the Klimmen duin (highest in the Netherlands). Multiple colour-coded walking routes from 1.5 km to 18 km, well-marked. The entrance at Schoorlse Zeeweg is the most car/bike-friendly start; an alternative north entrance sits near the Camperduin beach.
+
+<iframe
+  src="https://maps.google.com/maps?q=52.6978888,4.6634659&hl=en&z=13&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of Schoorlse Duinen main entrance, Schoorlse Zeeweg, Schoorl">
+</iframe>
+
 - Map link: https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=52.6978888,4.6634659
 
 ### 4.2 Bergen aan Zee (south coast)
@@ -96,6 +107,17 @@ The Schoorlse Duinen is a large contiguous dune and forest reserve west of the s
 - Distance: 7.8 km road
 - Time: ~30 min cycling, ~95 min walking
 - Use: Sandy beach, lighthouse, beach pavilions (Noorderlicht, Lekkers aan Zee) for food. Quieter than Camperduin. Combine with the southern Schoorlse Duinen for a half-day ride.
+
+<iframe
+  src="https://maps.google.com/maps?q=52.6608,4.6317&hl=en&z=14&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of Bergen aan Zee beach and village">
+</iframe>
+
 - Map link: https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=52.6608,4.6317
 
 ### 4.3 Camperduin (north coast)
@@ -104,6 +126,17 @@ The Schoorlse Duinen is a large contiguous dune and forest reserve west of the s
 - Distance: 7.0 km road
 - Time: ~28 min cycling, ~85 min walking
 - Use: Wider beach, popular with families. Bounded by the Hondsbossche Zeewering sea defence and the northern tip of the Schoorlse Duinen. Pairs well with a return leg through the dune interior.
+
+<iframe
+  src="https://maps.google.com/maps?q=52.7255,4.6515&hl=en&z=14&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of Camperduin beach and Hondsbossche Zeewering">
+</iframe>
+
 - Map link: https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=52.7255,4.6515
 
 ### 4.4 Bergen village (south, inland)
@@ -112,6 +145,16 @@ The Schoorlse Duinen is a large contiguous dune and forest reserve west of the s
 - Distance: 1.7 km road
 - Time: ~20 min walking, ~7 min cycling
 - Use: Bergen artist village with galleries, the Ruinekerk, and the historic centre. Best for a short evening walk or a coffee stop. The supermarket cluster (AH, ALDI, DekaMarkt) is also here.
+
+<iframe
+  src="https://maps.google.com/maps?q=52.6705,4.7032&hl=en&z=15&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of Bergen village centre, Plein / Breelaan">
+</iframe>
 
 ### 4.5 Suggested day routes
 
