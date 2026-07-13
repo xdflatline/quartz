@@ -1,7 +1,7 @@
 ---
 title: "Haarlem Shopping Tour Reference"
-detail: "Single-day shopping-tour reference for Haarlem focused on vintage, second-hand, and alternative shopping, with a separate leg for kids and toy stores, and a casual lunch stop. Anchors on Haarlem station (52.3880778, 4.6385788) and aggregates twelve walkable addresses in the historic center: Yenvi, Modemétier, Kat & Ko, Episode, Vind Lifestyle, Sounds Haarlem, Vintage Tassen & Sieraden, and Rataplan (vintage / second-hand / alternative), Meneer Paprika, Speelgoedwinkel Krokodil, Kids Store Haarlem, and De Toyboys (kids and toys), plus Toast café for lunch. Each entry is grounded with the shop's address, OSM coordinates, and official website."
-details: "Trip reference compiled 2026-07-13 for use as a single-day round trip from the Bergen stay. Anchor: Haarlem station 52.3880778, 4.6385788 (Stationsplein 1, 2011 LR Haarlem). Train from Alkmaar: ~41-49 min direct (NS Sprinter / Intercity, ~2 per hour). All twelve shops and the lunch stop sit inside a 1.0 km radius of the Grote Markt (52.3813667, 4.6360934) and are reachable on foot; nothing in the itinerary requires a car. Per-shop coordinates were reverse-geocoded from each shop's address; addresses were confirmed via the shop's own website or the visithaarlem.com listings. Caveats: OSM hours are community-maintained and frequently stale for individual shops. Hours in the entries below are taken from each shop's own website or its official social media; the page should be treated as a verified-only placeholder list and the per-shop websites should be re-checked the week of the trip. Baby Plus Haarlem (Kleine Houtstraat 14) is excluded from the kids leg because the chain was declared bankrupt and the Haarlem shop is closed (per noordhollandsdagblad.nl). Walking-time estimates assume ~5 km/h on foot and are marked with a leading tilde to flag them as approximate; OSRM road-network distances in the entries below are stated as reported, but the pedestrian router in central Haarlem sometimes returns long detours for short hops so the page also cites the straight-line distance where it differs materially from the OSRM distance."
+detail: "Single-day shopping-tour reference for Haarlem focused on vintage, second-hand, and alternative shopping, with a separate leg for kids and toy stores, and four casual lunch options near the Grote Markt. Anchors on Haarlem station (52.3880778, 4.6385788) and aggregates twelve walkable addresses in the historic center: Yenvi, Modemétier, Kat & Ko, Episode, Vind Lifestyle, Sounds Haarlem, Vintage Tassen & Sieraden, and Rataplan (vintage / second-hand / alternative), Meneer Paprika, Speelgoedwinkel Krokodil, Kids Store Haarlem, and De Toyboys (kids and toys), plus Toast, Het Broodjeshuis, By Lima, and Spaarne 66 for lunch. Each entry is grounded with the shop's address, OSM coordinates, and official website."
+details: "Trip reference compiled 2026-07-13 for use as a single-day round trip from the Bergen stay. Anchor: Haarlem station 52.3880778, 4.6385788 (Stationsplein 1, 2011 LR Haarlem). Train from Alkmaar: ~41-49 min direct (NS Sprinter / Intercity, ~2 per hour). All twelve shops and four lunch stops sit inside a 1.0 km radius of the Grote Markt (52.3813667, 4.6360934) and are reachable on foot; nothing in the itinerary requires a car. Per-shop coordinates were reverse-geocoded from each shop's address; addresses were confirmed via the shop's own website or the visithaarlem.com listings. Caveats: OSM hours are community-maintained and frequently stale for individual shops. Hours in the entries below are taken from each shop's own website or its official social media; the page should be treated as a verified-only placeholder list and the per-shop websites should be re-checked the week of the trip. Baby Plus Haarlem (Kleine Houtstraat 14) is excluded from the kids leg because the chain was declared bankrupt and the Haarlem shop is closed (per noordhollandsdagblad.nl). Bistro Zini (Grote Markt 19) is excluded from the lunch leg because the restaurant is permanently closed (per the Bistro Zini Facebook page). Walking-time estimates assume ~5 km/h on foot and are marked with a leading tilde to flag them as approximate; OSRM road-network distances in the entries below are stated as reported, but the pedestrian router in central Haarlem sometimes returns long detours for short hops so the page also cites the straight-line distance where it differs materially from the OSRM distance."
 tags:
   - research
 aliases:
@@ -11,7 +11,7 @@ updated: 2026-07-13
 type: research
 sources:
   - OpenStreetMap (Nominatim, Overpass, OSRM) via maps skill, 2026-07-13
-  - yenvi.nl, modemetier.nl, katenko.nl, episode.eu, rataplan.nl, soundshaarlem.nl, toasthaarlem.nl, meneerpaprika.nl, krokodilspeelgoed.nl, kidsstorehaarlem.nl, detoyboys.nl, visithaarlem.com, netherlandstoday.nl, thegreenlist.nl, indebuurt.nl, yelp.com, telefoonboek.nl, noordhollandsdagblad.nl, toystoreguide.com, littlelocals.nl, haarlemcityblog.nl, yelp.com via web_search and web_extract, 2026-07-13
+  - yenvi.nl, modemetier.nl, katenko.nl, episode.eu, rataplan.nl, soundshaarlem.nl, toasthaarlem.nl, hetbroodjeshuis.nl, by-lima.nl, spaarne66.nl, meneerpaprika.nl, krokodilspeelgoed.nl, kidsstorehaarlem.nl, detoyboys.nl, visithaarlem.com, netherlandstoday.nl, thegreenlist.nl, indebuurt.nl, yelp.com, telefoonboek.nl, noordhollandsdagblad.nl, toystoreguide.com, littlelocals.nl, haarlemcityblog.nl, restauplant.com, wherestat.nl via web_search and web_extract, 2026-07-13
 ---
 
 # Haarlem Shopping Tour Reference
@@ -312,7 +312,7 @@ Four dedicated kids and toy stores in the city center, each with a different sla
 
 ## 4. Casual Lunch
 
-A single, walk-in, no-reservation lunch stop, on the Grote Markt / Kleine Houtstraat corridor between the morning and afternoon shopping legs. Toast fits this brief: open every day, 4 minutes from the Grote Markt, accepts walk-ins.
+Four walk-in, no-reservation lunch options inside ~5-6 min of the Grote Markt, ordered from the casual / quickest to the more leisurely. All accept walk-ins; none require a reservation for lunch on a normal weekday. Saturday lunch is the busiest slot at every option; aim for ~12:00-13:00 to beat the Grote Markt market crowds if the day is a Saturday.
 
 ### 4.1 Toast (brunch / lunch café)
 
@@ -335,6 +335,72 @@ A single, walk-in, no-reservation lunch stop, on the Grote Markt / Kleine Houtst
 
 - Map link: https://www.google.com/maps/dir/?api=1&origin=52.3813667,4.6360934&destination=52.3791353,4.6368501
 - Reference: Hours daily 08:00-17:00 per toasthaarlem.nl. Full menu on the website as a PDF; walk-ins accepted (reservations optional per Tripadvisor). The 17:00 close is the hard stop for the lunch leg of the day.
+
+### 4.2 Het Broodjeshuis (sandwich shop)
+
+- Coordinates: 52.3807978, 4.6346786
+- Address: Koningstraat 17, 2011 TB Haarlem (the small Paarlaarsteeg alley entrance is one door over)
+- Distance from Grote Markt: 0.86 km road (OSRM), ~115 m straight-line (the road network detours via Jansstraat / Koningstraat block)
+- Walking time: ~2-3 min
+- What it is: A small broodjes (sandwich) shop on Koningstraat, two blocks south of the Grote Markt. Walk-up counter, no seating, menu of ~20 belegde broodjes, coffee, and fresh orange juice. Stays simple: takeaway and a single bench outside in summer. Phone 023-583-6008 per the shop's own contact page.
+- Official website: https://www.hetbroodjeshuis.nl/
+
+<iframe
+  src="https://maps.google.com/maps?q=52.3807978,4.6346786&hl=en&z=17&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of Het Broodjeshuis, Koningstraat 17, Haarlem">
+</iframe>
+
+- Map link: https://www.google.com/maps/dir/?api=1&origin=52.3813667,4.6360934&destination=52.3807978,4.6346786
+- Reference: Hours per hetbroodjeshuis.nl/contact: Mo-Zo 08:00-17:00. The shop has moved once; some older directory entries (including the haarlemcityblog.nl listing) still show a former Jacobijnestraat 9 address. Treat the Koningstraat 17 entry as current. Cheapest of the four lunch options per the haarlemcityblog.nl review; the counter closes ~16:30-17:00 with the last orders taken just before close.
+
+### 4.3 By Lima (breakfast / lunch / borrel café)
+
+- Coordinates: 52.382206, 4.633689
+- Address: Zijlstraat 65, 2011 TL Haarlem
+- Distance from Grote Markt: 1.09 km road (OSRM), ~185 m straight-line
+- Walking time: ~2-3 min
+- What it is: A small lunchroom on Zijlstraat, north of the Grote Markt, with an all-day breakfast and lunch menu (pancakes, salads, sandwiches, gluten-free cake options), specialty coffee, and a borrel (drinks) menu in the afternoon. Sit-down seating, a quieter scene than the Grote Markt terraces, gluten-free and vegetarian options. Phone 023-785-3564 per the shop's own site.
+- Official website: https://by-lima.nl/
+
+<iframe
+  src="https://maps.google.com/maps?q=52.382206,4.633689&hl=en&z=17&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of By Lima, Zijlstraat 65, Haarlem">
+</iframe>
+
+- Map link: https://www.google.com/maps/dir/?api=1&origin=52.3813667,4.6360934&destination=52.382206,4.633689
+- Reference: Hours per by-lima.nl and restauplant.com: Mo-Fr 08:00-17:00, Sa 08:00-17:00, Su 09:00-17:00 (per restauplant.com aggregator; by-lima.nl's own site shows a similar Mo-Su window but with the Sunday start at 09:00). The Zijlstraat 65 site is the same as the coffee bar of the same name; sit-down and takeaway both available.
+
+### 4.4 Spaarne 66 (modern European, terrace on the Spaarne)
+
+- Coordinates: 52.3795821, 4.6378619
+- Address: Spaarne 66, 2011 CL Haarlem
+- Distance from Grote Markt: 0.16 km road (OSRM), ~235 m straight-line
+- Walking time: ~2-3 min
+- What it is: A modern-European restaurant on the Spaarne river, just south of the Grote Markt, with a south-facing terrace on the water. Family-run (per the wherestat.nl Haarlem terraces guide), full bar and kitchen. The most "leisurely" of the four options: full sit-down service, à la carte prices, walk-ins accepted but a short wait at peak Saturday lunch. Phone 085-065-9665 per the restaurant's own contact page.
+- Official website: https://www.spaarne66.nl/
+
+<iframe
+  src="https://maps.google.com/maps?q=52.3795821,4.6378619&hl=en&z=17&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of Spaarne 66, Spaarne 66, Haarlem">
+</iframe>
+
+- Map link: https://www.google.com/maps/dir/?api=1&origin=52.3813667,4.6360934&destination=52.3795821,4.6378619
+- Reference: Hours per spaarne66.nl: Mo-Su 09:00-00:00, kitchen open daily to 21:30. Walk-ins accepted for lunch; reservations optional. Best for the leisurely lunch option if the rest of the day is running ahead of schedule; less suitable as a 30-min stop between shopping legs.
 
 ## 5. Suggested Shopping Route
 
