@@ -7,7 +7,7 @@ tags:
 aliases:
   - /Research/alkmaar-trip-reference
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-07-13
 type: research
 sources:
   - OpenStreetMap (Nominatim, Overpass, OSRM) via maps skill, 2026-07-12
@@ -16,7 +16,7 @@ sources:
 
 # Bergen Trip Reference
 
-**Updated:** 2026-07-12
+**Updated:** 2026-07-13
 **Stay:** Boerderij Hazendaal (Accommodatie van Poelenburgh), 2026-07-12 to 2026-07-20
 **Coordinates:** 52.6875556, 4.7029444 (Aagtdorp, Schoorl, Bergen, Noord-Holland)
 **Nearest train station:** Alkmaar (~10 km south)
@@ -179,20 +179,20 @@ https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=5
 
 Reference: Waagplein, Alkmaar center; look for the medieval weigh house (De Waag). Free to spectate; stands sit in a ring around the square.
 
-### 5.2 Schoorl Climbing Dune (Schoorlse Duinen, Schoorl)
+### 5.2 Schoorl Climbing Dune (Klimduin, Schoorl)
 
-The Klimduin is the highest dune in the Netherlands at ~55 m above NAP. It sits in the Schoorlse Duinen national park on the inland (east) edge of Schoorl village, ~3 km north of the stay. The climb is a short walk from the Schoorlse Duinen visitor area; the dune itself is loose sand and steep, not suitable for bikes. Free to access, no facilities on the dune itself (restrooms and parking are in Schoorl village).
+The Klimduin is the highest dune in the Netherlands at 51 m above NAP (the broader Schoorlse Duinen range reaches up to ~54 m behind Schoorl village). It sits in the Schoorlse Duinen national park on the inland (east) edge of Schoorl village. Road distance from the stay: 5.2 km (straight-line 4.2 km), accessed via Duinweg north to Schoorl and then west into the dunes; the Schoorlse Duinen visitor centre on Oorsprongweg is closer at 3.0 km road from the stay and is the typical trailhead. The climb is a short walk from the visitor area; the dune itself is loose sand and steep, not suitable for bikes. Free to access, no facilities on the dune itself (restrooms and parking are in Schoorl village).
 
 In-stay walking days: any day with reasonable weather; the climb takes ~20-30 minutes round trip and combines with the Schoorl village lunch loop (see §4.4) for a half-day outing.
 
 Directions from the stay to the Schoorl climbing dune:
 https://www.google.com/maps/dir/?api=1&origin=52.6875556,4.7029444&destination=Klimduin+Schoorl
 
-Reference: Staatsbosbeheer-managed national park; the climbing dune is the central feature of the Schoorlse Duinen trail network. Verify trail conditions with the Schoorlse Duinen visitor centre before walking after heavy rain.
+Reference: Staatsbosbeheer-managed national park; the climbing dune is the central feature of the Schoorlse Duinen trail network. 51 m is the most-cited figure for the main Klimduin; some sources cite up to 54 m for the broader dune range behind Schoorl village. Verify trail conditions with the Schoorlse Duinen visitor centre before walking after heavy rain.
 
 ### 5.3 Bergen aan Zee Beach (North Sea coast)
 
-The North Sea beach at Bergen aan Zee is the nearest sea-beach to the stay, ~6 km west. Wide sandy beach, west-facing, with the usual row of beach pavilions (paviljoens) open April-October and a simpler scene in winter. Combined walk: walk from the stay through the dune corridor to the beach (~2 hours one-way via the inland Schoorlse Duinen trail), or drive to the Bergen aan Zee parking area and walk the seawall.
+The North Sea beach at Bergen aan Zee is the nearest sea-beach to the stay, 7.9 km by road (5.6 km straight-line, ~west-southwest). Wide sandy beach, west-facing, with the usual row of beach pavilions (paviljoens) open April-October and a simpler scene in winter. Combined walk: walk from the stay through the dune corridor to the beach (~2 hours one-way via the inland Schoorlse Duinen trail), or drive to the Bergen aan Zee parking area and walk the seawall.
 
 In-stay beach days: any day the wind is not too strong; the western exposure means onshore winds on most afternoons. For sunset specifically, the beach faces west and is the cleanest spot in the area to watch the sun go down over the water (cross-reference with the sunset note in §6).
 
