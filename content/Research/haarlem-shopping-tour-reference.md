@@ -1,7 +1,7 @@
 ---
 title: "Haarlem Shopping Tour Reference"
-detail: "Single-day shopping-tour reference for Haarlem focused on vintage, second-hand, and alternative shopping, with a casual lunch stop. Anchors on Haarlem station (52.3880778, 4.6385788) and aggregates eight walkable addresses in the historic center: Yenvi, Modemétier, Kat & Ko, Episode, Vind Lifestyle, Sounds Haarlem, Vintage Tassen & Sieraden, and Rataplan, plus Toast café for lunch. Each entry is grounded with the shop's address, OSM coordinates, and official website."
-details: "Trip reference compiled 2026-07-13 for use as a single-day round trip from the Bergen stay. Anchor: Haarlem station 52.3880778, 4.6385788 (Stationsplein 1, 2011 LR Haarlem). Train from Alkmaar: ~41-49 min direct (NS Sprinter / Intercity, ~2 per hour). All eight shops and the lunch stop sit inside a 1.0 km radius of the Grote Markt (52.3813667, 4.6360934) and are reachable on foot; nothing in the itinerary requires a car. Per-shop coordinates were reverse-geocoded from each shop's address; addresses were confirmed via the shop's own website or the visithaarlem.com listings. Caveats: OSM hours are community-maintained and frequently stale for individual shops. Hours in the entries below are taken from each shop's own website or its official social media; the page should be treated as a verified-only placeholder list and the per-shop websites should be re-checked the week of the trip. Walking-time estimates assume ~5 km/h on foot and are marked with a leading tilde to flag them as approximate; OSRM road-network distances in the entries below are stated as reported, but the pedestrian router in central Haarlem sometimes returns long detours for short hops so the page also cites the straight-line distance where it differs materially from the OSRM distance."
+detail: "Single-day shopping-tour reference for Haarlem focused on vintage, second-hand, and alternative shopping, with a separate leg for kids and toy stores, and a casual lunch stop. Anchors on Haarlem station (52.3880778, 4.6385788) and aggregates twelve walkable addresses in the historic center: Yenvi, Modemétier, Kat & Ko, Episode, Vind Lifestyle, Sounds Haarlem, Vintage Tassen & Sieraden, and Rataplan (vintage / second-hand / alternative), Meneer Paprika, Speelgoedwinkel Krokodil, Kids Store Haarlem, and De Toyboys (kids and toys), plus Toast café for lunch. Each entry is grounded with the shop's address, OSM coordinates, and official website."
+details: "Trip reference compiled 2026-07-13 for use as a single-day round trip from the Bergen stay. Anchor: Haarlem station 52.3880778, 4.6385788 (Stationsplein 1, 2011 LR Haarlem). Train from Alkmaar: ~41-49 min direct (NS Sprinter / Intercity, ~2 per hour). All twelve shops and the lunch stop sit inside a 1.0 km radius of the Grote Markt (52.3813667, 4.6360934) and are reachable on foot; nothing in the itinerary requires a car. Per-shop coordinates were reverse-geocoded from each shop's address; addresses were confirmed via the shop's own website or the visithaarlem.com listings. Caveats: OSM hours are community-maintained and frequently stale for individual shops. Hours in the entries below are taken from each shop's own website or its official social media; the page should be treated as a verified-only placeholder list and the per-shop websites should be re-checked the week of the trip. Baby Plus Haarlem (Kleine Houtstraat 14) is excluded from the kids leg because the chain was declared bankrupt and the Haarlem shop is closed (per noordhollandsdagblad.nl). Walking-time estimates assume ~5 km/h on foot and are marked with a leading tilde to flag them as approximate; OSRM road-network distances in the entries below are stated as reported, but the pedestrian router in central Haarlem sometimes returns long detours for short hops so the page also cites the straight-line distance where it differs materially from the OSRM distance."
 tags:
   - research
 aliases:
@@ -11,7 +11,7 @@ updated: 2026-07-13
 type: research
 sources:
   - OpenStreetMap (Nominatim, Overpass, OSRM) via maps skill, 2026-07-13
-  - yenvi.nl, modemetier.nl, katenko.nl, episode.eu, rataplan.nl, soundshaarlem.nl, toasthaarlem.nl, visithaarlem.com, netherlandstoday.nl, thegreenlist.nl, indebuurt.nl, yelp.com, telefoonboek.nl via web_search and web_extract, 2026-07-13
+  - yenvi.nl, modemetier.nl, katenko.nl, episode.eu, rataplan.nl, soundshaarlem.nl, toasthaarlem.nl, meneerpaprika.nl, krokodilspeelgoed.nl, kidsstorehaarlem.nl, detoyboys.nl, visithaarlem.com, netherlandstoday.nl, thegreenlist.nl, indebuurt.nl, yelp.com, telefoonboek.nl, noordhollandsdagblad.nl, toystoreguide.com, littlelocals.nl, haarlemcityblog.nl, yelp.com via web_search and web_extract, 2026-07-13
 ---
 
 # Haarlem Shopping Tour Reference
@@ -218,11 +218,103 @@ The eight shops below sit in a 1.0 km radius of the Grote Markt. The route walks
 - Map link: https://www.google.com/maps/dir/?api=1&origin=52.3813667,4.6360934&destination=52.3830449,4.6303707
 - Reference: Hours per rataplan.nl and Yelp: Mon-Sun 09:00-18:00 (the Mon open time is unusual for a thrift shop and is worth confirming the day of). Address on Zijlstraat between the station and the Zijlpoort; ~10 min walk from the Grote Markt via Koningstraat / Zijlstraat.
 
-## 3. Casual Lunch
+## 3. Kids and Toy Stores (foot-reachable from the Grote Markt)
+
+Four dedicated kids and toy stores in the city center, each with a different slant. Meneer Paprika doubles as a kids café; Speelgoedwinkel Krokodil is a long-running general toy shop; Kids Store Haarlem combines kids clothing and a kids hair salon; De Toyboys is a specialty pop-culture and action-figure shop. All four sit in a 0.5 km radius of the Grote Markt and the Koningstraat-Gedempte Oude Gracht-Grote Houtstraat-Gierstraat cluster. Walking-time estimates below assume ~5 km/h on foot and are marked with a leading tilde.
+
+### 3.1 Meneer Paprika (toy store and kids café)
+
+- Coordinates: 52.3806985, 4.6345299
+- Address: Koningstraat 19-21, 2011 TB Haarlem
+- Distance from Grote Markt: 0.85 km road (OSRM), ~130 m straight-line
+- Walking time: ~2-3 min
+- What it is: A combined toy store and kids café on Koningstraat, one block south of the Grote Markt. Sells wooden toys, dolls, books, puzzles, and Dutch-illustrator items; the café side has a small play area and a kids menu. Suitable for a stop with younger children mid-shopping. Phone 023-202-3268 per the shop's own contact page.
+- Official website: https://meneerpaprika.nl/
+
+<iframe
+  src="https://maps.google.com/maps?q=52.3806985,4.6345299&hl=en&z=17&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of Meneer Paprika, Koningstraat 19-21, Haarlem">
+</iframe>
+
+- Map link: https://www.google.com/maps/dir/?api=1&origin=52.3813667,4.6360934&destination=52.3806985,4.6345299
+- Reference: Hours Mo-Fr 8:30-17:00, Sa 9:00-17:00, Su 10:00-17:00 per the shop's own Instagram and meneerpaprika.nl. Confirmed address Koningstraat 19-21 via OSM and the shop's own site; a few old listings show a former Gierstraat location. Some of the older search results still mention a Gierstraat 51 unit, which is now De Toyboys (see §3.4 below).
+
+### 3.2 Speelgoedwinkel Krokodil (general toy store)
+
+- Coordinates: 52.3790072, 4.6337876
+- Address: Gedempte Oude Gracht 84, 2011 GV Haarlem
+- Distance from Grote Markt: 0.68 km road (OSRM), ~305 m straight-line
+- Walking time: ~4-5 min
+- What it is: A long-running independent toy shop on the Gedempte Oude Gracht canal block, with a wide general assortment (board games, construction toys, dolls, outdoor toys, baby toys). Has a webshop on the same domain that mirrors the in-store stock.
+- Official website: https://krokodilspeelgoed.nl/
+
+<iframe
+  src="https://maps.google.com/maps?q=52.3790072,4.6337876&hl=en&z=17&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of Speelgoedwinkel Krokodil, Gedempte Oude Gracht 84, Haarlem">
+</iframe>
+
+- Map link: https://www.google.com/maps/dir/?api=1&origin=52.3813667,4.6360934&destination=52.3790072,4.6337876
+- Reference: Hours per krokodilspeelgoed.nl/pages/assortiment: Mo 13:00-17:30, Tu-Fr 10:00-17:30, Sa 10:00-17:00, Su 12:00-17:00. The shop is one block west of Kat & Ko (§2.3) and pairs naturally with the vintage / preloved second-hand leg.
+
+### 3.3 Kids Store Haarlem (kids clothing and kids hair salon)
+
+- Coordinates: 52.3777628, 4.6317952
+- Address: Grote Houtstraat 130, 2011 SV Haarlem
+- Distance from Grote Markt: 0.80 km road (OSRM), ~495 m straight-line
+- Walking time: ~7-8 min
+- What it is: A kids clothing boutique combined with a kids hair salon ("Kinderkapsalon") in one shop, on the main Grote Houtstraat shopping corridor. Stocks sustainable / fair-trade children's clothing, baby gifts, and a small selection of toys and books; the salon runs on a booking basis. The shop's own site describes it as "alles voor kinderen onder één dak".
+- Official website: https://kidsstorehaarlem.nl/
+
+<iframe
+  src="https://maps.google.com/maps?q=52.3777628,4.6317952&hl=en&z=17&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of Kids Store Haarlem, Grote Houtstraat 130, Haarlem">
+</iframe>
+
+- Map link: https://www.google.com/maps/dir/?api=1&origin=52.3813667,4.6360934&destination=52.3777628,4.6317952
+- Reference: Address and current operation confirmed via OSM and the shop's own pages on kidsstorehaarlem.nl. The kids hair salon is a separate booking; verify availability on the shop's own contact page before planning a haircut as part of the day.
+
+### 3.4 De Toyboys (action figures, vintage toys, pop culture)
+
+- Coordinates: 52.3785741, 4.6317704
+- Address: Gierstraat 51, 2011 GB Haarlem
+- Distance from Grote Markt: 1.69 km road (OSRM), ~430 m straight-line (OSRM gives a long detour via the canal ring; the as-the-crow-flies route cuts through the Zijlstraat / Warmoesstraat blocks)
+- Walking time: ~5-7 min
+- What it is: A specialty shop for action figures, vintage toys, and pop-culture collectibles. Started in 2017 as a 1 m² corner in The Irrational Library in Haarlem, expanded into its own shop on Gierstraat 51 (per the shop's own Facebook). Strong anime, Star Wars, Marvel, and retro-toy selection. Closed Mondays; the webshop runs through the rest of the week.
+- Official website: https://detoyboys.nl/
+
+<iframe
+  src="https://maps.google.com/maps?q=52.3785741,4.6317704&hl=en&z=17&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of De Toyboys, Gierstraat 51, Haarlem">
+</iframe>
+
+- Map link: https://www.google.com/maps/dir/?api=1&origin=52.3813667,4.6360934&destination=52.3785741,4.6317704
+- Reference: Closed Mondays per the shop's own Facebook announcement on the Haarlem store opening. Some old directory entries still list a "Meneer Paprika upstairs" address (the original pop-up corner); the Gierstraat 51 standalone address is current per detoyboys.nl and the YouTube store tour. The shop sits on the same block as Kids Store Haarlem (§3.3), one street over.
+
+## 4. Casual Lunch
 
 A single, walk-in, no-reservation lunch stop, on the Grote Markt / Kleine Houtstraat corridor between the morning and afternoon shopping legs. Toast fits this brief: open every day, 4 minutes from the Grote Markt, accepts walk-ins.
 
-### 3.1 Toast (brunch / lunch café)
+### 4.1 Toast (brunch / lunch café)
 
 - Coordinates: 52.3791353, 4.6368501
 - Address: Kleine Houtstraat 13, 2011 DD Haarlem
@@ -244,29 +336,34 @@ A single, walk-in, no-reservation lunch stop, on the Grote Markt / Kleine Houtst
 - Map link: https://www.google.com/maps/dir/?api=1&origin=52.3813667,4.6360934&destination=52.3791353,4.6368501
 - Reference: Hours daily 08:00-17:00 per toasthaarlem.nl. Full menu on the website as a PDF; walk-ins accepted (reservations optional per Tripadvisor). The 17:00 close is the hard stop for the lunch leg of the day.
 
-## 4. Suggested Shopping Route
+## 5. Suggested Shopping Route
 
-A south-then-north loop that hits all eight shops and the lunch stop in ~5-6 hours of browsing plus the lunch break. Plan a Saturday or Tuesday to avoid the Monday closure of Yenvi and the smaller shops; Rataplan is open every day and is the only shop on the list that does not require a day-of-the-week check.
+A south-then-north loop that hits all twelve shops and the lunch stop in ~6-7 hours of browsing plus the lunch break. Plan a Tuesday-Friday day to hit the most shops; Saturday is fine but adds market crowds on the Grote Markt; Monday is the weakest day (Yenvi, Modemétier, De Toyboys all closed, Toast open).
 
 1. **09:30** Haarlem station → walk south to the Grote Markt shopping anchor (~20-25 min from the station).
 2. **10:00** Yenvi (Anegang 25A, ~2-3 min south of the Grote Markt).
 3. **10:45** Modemétier (Kleine Houtstraat 16, ~3 min south of Yenvi).
-4. **11:30** Kat & Ko (Gedempte Oude Gracht 85, ~5-7 min west of Modemétier).
-5. **12:00** Lunch at Toast (Kleine Houtstraat 13, ~3 min back north from Kat & Ko).
-6. **13:00** Vintage Tassen & Sieraden (Schagchelstraat 32, ~4-5 min from Toast).
-7. **13:30** Episode (Jansstraat 52, ~5 min north of the Grote Markt).
-8. **14:15** Vind Lifestyle (Koningstraat 37A, ~3-5 min south of Episode).
-9. **15:00** Sounds Haarlem (Grote Houtstraat 171, ~8-10 min southwest of Vind Lifestyle).
-10. **15:45** Rataplan (Zijlstraat 10-14, ~6-8 min north of Sounds, on the way back to the station).
-11. **16:30** Walk back to Haarlem station (~10-12 min from Rataplan).
+4. **11:15** Kat & Ko (Gedempte Oude Gracht 85, ~5-7 min west of Modemétier).
+5. **11:45** Speelgoedwinkel Krokodil (Gedempte Oude Gracht 84, ~1 min further west on the same canal block; pairs naturally with Kat & Ko).
+6. **12:15** Lunch at Toast (Kleine Houtstraat 13, ~3 min back north from Krokodil).
+7. **13:15** Vintage Tassen & Sieraden (Schagchelstraat 32, ~4-5 min from Toast).
+8. **13:45** Episode (Jansstraat 52, ~5 min north of the Grote Markt).
+9. **14:15** Vind Lifestyle (Koningstraat 37A, ~3-5 min south of Episode).
+10. **14:45** Meneer Paprika (Koningstraat 19-21, ~1 min from Vind Lifestyle on the same street).
+11. **15:30** Kids Store Haarlem (Grote Houtstraat 130, ~5 min south of Meneer Paprika).
+12. **16:00** De Toyboys (Gierstraat 51, ~3 min east of Kids Store Haarlem on the same block).
+13. **16:30** Sounds Haarlem (Grote Houtstraat 171, ~5 min south of De Toyboys on the same shopping corridor).
+14. **17:00** Rataplan (Zijlstraat 10-14, ~6-8 min north of Sounds, on the way back to the station).
+15. **17:30** Walk back to Haarlem station (~10-12 min from Rataplan).
 
-Total: ~6 h, of which ~3 h is in-shop browsing and the rest is walking plus the 1 h lunch. The loop is sequenced so the boutique and specialty shops come first (smaller inventory, sell-through) and the chain / larger shops come last (deeper inventory, restocked daily).
+Total: ~7 h, of which ~3 h is in-shop browsing and the rest is walking plus the 1 h lunch. The loop is sequenced so the boutique and specialty shops come first (smaller inventory, sell-through), the kids stores come mid-day (shorter attention span, kids' café break at Meneer Paprika if needed), and the chain / larger shops come last (deeper inventory, restocked daily). If doing the day with younger children, drop the in-shop time at Sounds and Rataplan and add a longer Meneer Paprika café stop.
 
-## 5. Trip-Planning Notes
+## 6. Trip-Planning Notes
 
 - The entire shopping tour core is within a 1.0 km radius of the Grote Markt. The walk from Haarlem station at the start of the day is the longest single leg (~20-25 min), and the walk back to the station at the end is the second longest (~10-12 min from Rataplan). No car, no tram, no bus required.
 - For a Saturday trip, also pick up the Saturday general market on the Grote Markt (per visithaarlem.com), which adds a free-form second-hand / bric-a-brac leg with no booking needed.
-- The Monday closure cluster (Yenvi, Modemétier, and most of the small boutiques) makes Monday a weak day for this specific itinerary. Tuesday-Saturday is the strongest window; Rataplan and the Grote Markt market are the only day-independent anchors.
+- The Monday closure cluster (Yenvi, Modemétier, De Toyboys, the kids hair salon at Kids Store) makes Monday a weak day for this specific itinerary. Tuesday-Saturday is the strongest window; Rataplan and the Grote Markt market are the only day-independent anchors.
 - For the "alternative" shopping leg, Sounds Haarlem is the most explicit entry in the list. Haarlem does not have a dedicated gothic / punk fashion shop in the city center; for that category the closest options are chains in Amsterdam (Disturbia at disturbia.nl ships EU-wide; Hard'n'Heavy has a physical store outside Haarlem). Worth noting as a known gap.
+- For the "kids" leg with younger children, Meneer Paprika is the natural midday anchor because the café side has a play area and a kids menu. With older children / pre-teens, De Toyboys is the strongest draw. Baby Plus Haarlem (Kleine Houtstraat 14) is excluded from the kids leg because the chain was declared bankrupt and the Haarlem shop is closed (per noordhollandsdagblad.nl).
 - Each shop's official website (where one exists) is the most reliable source for current opening hours, especially for the smaller boutiques. Yelp, visithaarlem.com, and indebuurt.nl are useful directory anchors but lag the shops themselves.
 - The 9292 planner and the NS app cover the same train routing as the existing Haarlem day trip; see the existing page for the connection details.
