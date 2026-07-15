@@ -1,22 +1,23 @@
 ---
 title: "Haarlem Shopping Tour Reference"
-detail: "Single-day shopping-tour reference for Haarlem focused on vintage, second-hand, and alternative shopping, with a separate leg for kids and toy stores, and four casual lunch options near the Grote Markt. Anchors on Haarlem station (52.3880778, 4.6385788) and aggregates twelve walkable addresses in the historic center: Yenvi, Modemétier, Kat & Ko, Episode, Vind Lifestyle, Sounds Haarlem, Vintage Tassen & Sieraden, and Rataplan (vintage / second-hand / alternative), Meneer Paprika, Speelgoedwinkel Krokodil, Kids Store Haarlem, and De Toyboys (kids and toys), plus Toast, Het Broodjeshuis, By Lima, and Spaarne 66 for lunch. Each entry is grounded with the shop's address, OSM coordinates, and official website."
-details: "Trip reference compiled 2026-07-13 for use as a single-day round trip from the Bergen stay. Anchor: Haarlem station 52.3880778, 4.6385788 (Stationsplein 1, 2011 LR Haarlem). Train from Alkmaar: ~41-49 min direct (NS Sprinter / Intercity, ~2 per hour). All twelve shops and four lunch stops sit inside a 1.0 km radius of the Grote Markt (52.3813667, 4.6360934) and are reachable on foot; nothing in the itinerary requires a car. Per-shop coordinates were reverse-geocoded from each shop's address; addresses were confirmed via the shop's own website or the visithaarlem.com listings. Caveats: OSM hours are community-maintained and frequently stale for individual shops. Hours in the entries below are taken from each shop's own website or its official social media; the page should be treated as a verified-only placeholder list and the per-shop websites should be re-checked the week of the trip. Baby Plus Haarlem (Kleine Houtstraat 14) is excluded from the kids leg because the chain was declared bankrupt and the Haarlem shop is closed (per noordhollandsdagblad.nl). Bistro Zini (Grote Markt 19) is excluded from the lunch leg because the restaurant is permanently closed (per the Bistro Zini Facebook page). Walking-time estimates assume ~5 km/h on foot and are marked with a leading tilde to flag them as approximate; OSRM road-network distances in the entries below are stated as reported, but the pedestrian router in central Haarlem sometimes returns long detours for short hops so the page also cites the straight-line distance where it differs materially from the OSRM distance."
+detail: "Single-day shopping-tour reference for Haarlem focused on vintage, second-hand, and alternative shopping, with a separate leg for kids and toy stores, and four casual lunch options near the Grote Markt. Anchors on Haarlem station (52.3880778, 4.6385788) and aggregates fifteen walkable addresses in the historic center: Yenvi, Modemétier, Kat & Ko, Episode, Vind Lifestyle, Sounds Haarlem, Vintage Tassen & Sieraden, and Rataplan (vintage / second-hand / alternative), Meneer Paprika, Speelgoedwinkel Krokodil, Kids Store Haarlem, De Toyboys, Het Spellenhuis, Intertoys Houtstraat, and Intertoys Cronjestraat (kids and toys), plus Toast, Het Broodjeshuis, By Lima, and Spaarne 66 for lunch. Each entry is grounded with the shop's address, OSM coordinates, and official website."
+details: "Trip reference compiled 2026-07-13, last revised 2026-07-15 (added Het Spellenhuis, Intertoys Houtstraat, Intertoys Cronjestraat to §3). Anchor: Haarlem station 52.3880778, 4.6385788 (Stationsplein 1, 2011 LR Haarlem). Train from Alkmaar: ~41-49 min direct (NS Sprinter / Intercity, ~2 per hour). Fourteen of the fifteen shops and all four lunch stops sit inside a 1.0 km radius of the Grote Markt (52.3813667, 4.6360934); the fifteenth (Intertoys Cronjestraat) is ~1.4 km north of the Grote Markt near Parkeergarage Cronjé. All shops and lunch stops are reachable on foot; nothing in the itinerary requires a car. Per-shop coordinates were reverse-geocoded from each shop's address; addresses were confirmed via the shop's own website or the visithaarlem.com listings. Caveats: OSM hours are community-maintained and frequently stale for individual shops. Hours in the entries below are taken from each shop's own website or its official social media; the page should be treated as a verified-only placeholder list and the per-shop websites should be re-checked the week of the trip. Tante Steef (Zijlstraat 66) is excluded from the kids leg because the owner announced permanent closure in March 2021 (per haarlemsdagblad.nl, \"Speelgoedwinkel tante Steef stopt er noodgedwongen mee\" 2021-03-21); it still appears in some stale directory listings (Yelp, Wanderlog, speelgoedwinkel.info) but no recent directory confirms it is open. Baby Plus Haarlem (Kleine Houtstraat 14) is excluded from the kids leg because the chain was declared bankrupt and the Haarlem shop is closed (per noordhollandsdagblad.nl). Bistro Zini (Grote Markt 19) is excluded from the lunch leg because the restaurant is permanently closed (per the Bistro Zini Facebook page). Walking-time estimates assume ~5 km/h on foot and are marked with a leading tilde to flag them as approximate; OSRM road-network distances in the entries below are stated as reported, but the pedestrian router in central Haarlem sometimes returns long detours for short hops so the page also cites the straight-line distance where it differs materially from the OSRM distance."
 tags:
   - research
 aliases:
   - /Research/haarlem-shopping-tour-centre
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-15
 type: research
 sources:
   - OpenStreetMap (Nominatim, Overpass, OSRM) via maps skill, 2026-07-13
   - yenvi.nl, modemetier.nl, katenko.nl, episode.eu, rataplan.nl, soundshaarlem.nl, toasthaarlem.nl, hetbroodjeshuis.nl, by-lima.nl, spaarne66.nl, meneerpaprika.nl, krokodilspeelgoed.nl, kidsstorehaarlem.nl, detoyboys.nl, visithaarlem.com, netherlandstoday.nl, thegreenlist.nl, indebuurt.nl, yelp.com, telefoonboek.nl, noordhollandsdagblad.nl, toystoreguide.com, littlelocals.nl, haarlemcityblog.nl, restauplant.com, wherestat.nl via web_search and web_extract, 2026-07-13
+  - spellenhuis.nl, the-boardroom.nl, intertoys.nl, haarlemsdagblad.nl, bartsboekje.com, wheressharon.com, wanderlog.com, speelgoedwinkel.info, OpenStreetMap (Nominatim) via maps skill, 2026-07-15
 ---
 
 # Haarlem Shopping Tour Reference
 
-**Updated:** 2026-07-13
+**Updated:** 2026-07-15
 **Anchor:** Haarlem station, Stationsplein 1, 2011 LR Haarlem (52.3880778, 4.6385788)
 **Shopping anchor:** Grote Markt (52.3813667, 4.6360934)
 **Day-trip origin:** Bergen / Schoorl stay (Boerderij Hazendaal), via Alkmaar station
@@ -220,7 +221,7 @@ The eight shops below sit in a 1.0 km radius of the Grote Markt. The route walks
 
 ## 3. Kids and Toy Stores (foot-reachable from the Grote Markt)
 
-Four dedicated kids and toy stores in the city center, each with a different slant. Meneer Paprika doubles as a kids café; Speelgoedwinkel Krokodil is a long-running general toy shop; Kids Store Haarlem combines kids clothing and a kids hair salon; De Toyboys is a specialty pop-culture and action-figure shop. All four sit in a 0.5 km radius of the Grote Markt and the Koningstraat-Gedempte Oude Gracht-Grote Houtstraat-Gierstraat cluster. Walking-time estimates below assume ~5 km/h on foot and are marked with a leading tilde.
+Seven dedicated kids, toy, and games stores. The four small-format independents (Meneer Paprika, Speelgoedwinkel Krokodil, Kids Store Haarlem, De Toyboys) sit in a 0.5 km radius of the Grote Markt on the Koningstraat-Gedempte Oude Gracht-Grote Houtstraat-Gierstraat cluster. Het Spellenhuis is a board-game shop and café a few minutes' walk toward the station. Intertoys has two Haarlem branches — the Houtstraat location is on the main Grote Houtstraat corridor ~70 m from the Grote Markt, the Cronjestraat location is ~1.4 km north near Parkeergarage Cronjé and suits a stop on the way back to the station rather than mid-day. Walking-time estimates below assume ~5 km/h on foot and are marked with a leading tilde.
 
 ### 3.1 Meneer Paprika (toy store and kids café)
 
@@ -309,6 +310,72 @@ Four dedicated kids and toy stores in the city center, each with a different sla
 
 - Map link: https://www.google.com/maps/dir/?api=1&origin=52.3813667,4.6360934&destination=52.3785741,4.6317704
 - Reference: Closed Mondays per the shop's own Facebook announcement on the Haarlem store opening. Some old directory entries still list a "Meneer Paprika upstairs" address (the original pop-up corner); the Gierstraat 51 standalone address is current per detoyboys.nl and the YouTube store tour. The shop sits on the same block as Kids Store Haarlem (§3.3), one street over.
+
+### 3.5 Het Spellenhuis (board game shop and board game café)
+
+- Coordinates: 52.3864574, 4.6363771
+- Address: Kruisweg 60, 2011 LE Haarlem (the OSM house-number field shows 60A-62, indicating 60 plus adjacent units in the same building; spellenhuis.nl and haarlemcityblog.nl both list the address as Kruisweg 60)
+- Distance from Grote Markt: ~570 m straight-line north toward the station
+- Walking time: ~7 min
+- What it is: A board game shop with a board game café (The Boardroom) attached, founded 2018 (per haarlemcityblog.nl). The shop side stocks 500+ titles with daily specialist advice; the café side lets you play games from the wall library for €6/day. Hosts Magic, Pokémon, and Dungeons & Dragons events. Phone 023-5313188 per spellenhuis.nl.
+- Official website: https://www.spellenhuis.nl/ (café: https://www.the-boardroom.nl/)
+
+<iframe
+  src="https://maps.google.com/maps?q=52.3864574,4.6363771&hl=en&z=17&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of Het Spellenhuis, Kruisweg 60, Haarlem">
+</iframe>
+
+- Map link: https://www.google.com/maps/dir/?api=1&origin=52.3813667,4.6360934&destination=52.3864574,4.6363771
+- Reference: Hours per spellenhuis.nl/over-ons/winkels-van-het-spellenhuis/haarlem: Mo closed, Tu-Th 11:00-23:00, Fr-Sa 11:00-24:00, Su 12:00-23:00. The haarlemcityblog.nl 2022 review listed the Sunday close as 19:00; treat 23:00 from the chain's own current site as the more recent figure and verify on the door before planning a Sunday visit. The shop is the only board-game specialist in central Haarlem and pairs naturally with De Toyboys (§3.4) for a pop-culture + games loop on Gierstraat / Kruisweg.
+
+### 3.6 Intertoys Houtstraat (chain toy store, main shopping corridor)
+
+- Coordinates: 52.3809045, 4.6354429
+- Address: Grote Houtstraat 8, 2011 SN Haarlem
+- Distance from Grote Markt: ~70 m straight-line south
+- Walking time: ~1 min
+- What it is: The main Intertoys branch in central Haarlem, on the Grote Houtstraat corridor a few doors south of the Grote Markt. National Dutch toy chain with the full general assortment: LEGO, PLAYMOBIL, Funko Pop!, dolls, board games, baby toys, outdoor, gaming (Switch / PS5 / Xbox). Click & Collect, gift wrapping, fully wheelchair-accessible. Phone 088-3343658 per intertoys.nl.
+- Official website: https://www.intertoys.nl/winkel-zoeken/speelgoedwinkel-haarlem/houtstraat
+
+<iframe
+  src="https://maps.google.com/maps?q=52.3809045,4.6354429&hl=en&z=17&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of Intertoys Houtstraat, Grote Houtstraat 8, Haarlem">
+</iframe>
+
+- Map link: https://www.google.com/maps/dir/?api=1&origin=52.3813667,4.6360934&destination=52.3809045,4.6354429
+- Reference: Hours per intertoys.nl: Mo 12:00-18:00, Tu-Fr 09:30-18:00, Sa 09:30-17:00, Su 12:00-17:00. The most central of the three chain toy options; the only one open on Sundays. Click & Collect orders can be picked up in-store after one hour per the chain's website. The closest competitor to the four independents in §3.1-3.4 by both location and assortment; for a Tuesday-Friday day this is the stop if the kids leg needs depth (LEGO, large PLAYMOBIL sets, current gaming hardware) that the small shops don't stock.
+
+### 3.7 Intertoys Cronjestraat (chain toy store, north of the center)
+
+- Coordinates: 52.3932497, 4.6412175
+- Address: Gen. Cronjestraat 25, 2021 JB Haarlem
+- Distance from Grote Markt: ~1.37 km straight-line north (OSRM road distance is longer due to a detour around the station; treat the ~16 min walking time as a one-way trip on the way back to the train)
+- Walking time: ~16 min
+- What it is: The second Intertoys branch in Haarlem, on Generaal Cronjéstraat in the Frans Halsbuurt north of the Grote Markt, near Parkeergarage Cronjé. Same chain, similar assortment to the Houtstraat branch but a smaller floor and no Sunday opening. Click & Collect, DHL ServicePoint, free gift wrapping, wheelchair-friendly. Phone 088-3343760 per intertoys.nl.
+- Official website: https://www.intertoys.nl/winkel-zoeken/speelgoedwinkel-haarlem/cronjestraat
+
+<iframe
+  src="https://maps.google.com/maps?q=52.3932497,4.6412175&hl=en&z=17&output=embed"
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of Intertoys Cronjestraat, Gen. Cronjestraat 25, Haarlem">
+</iframe>
+
+- Map link: https://www.google.com/maps/dir/?api=1&origin=52.3813667,4.6360934&destination=52.3932497,4.6412175
+- Reference: Hours per intertoys.nl: Mo 11:00-18:00, Tu-Fr 09:30-18:00, Sa 09:30-17:00, Su closed. Listed in the visithaarlem.com speelgoed category. The store sits a few minutes' walk from Haarlem station, so it works as a final-stop on the way back to the train rather than as a mid-day anchor. The chain's own walking-time estimate (via the store-page directions widget) is 10 min from the station.
 
 ## 4. Casual Lunch
 
@@ -404,7 +471,7 @@ Four walk-in, no-reservation lunch options inside ~5-6 min of the Grote Markt, o
 
 ## 5. Suggested Shopping Route
 
-A south-then-north loop that hits all twelve shops and the lunch stop in ~6-7 hours of browsing plus the lunch break. Plan a Tuesday-Friday day to hit the most shops; Saturday is fine but adds market crowds on the Grote Markt; Monday is the weakest day (Yenvi, Modemétier, De Toyboys all closed, Toast open).
+A south-then-north loop that hits all fifteen shops and the lunch stop in ~7-8 hours of browsing plus the lunch break. Plan a Tuesday-Friday day to hit the most shops; Saturday is fine but adds market crowds on the Grote Markt; Monday is the weakest day (Yenvi, Modemétier, De Toyboys, Het Spellenhuis, the kids hair salon at Kids Store all closed; Toast, Intertoys Cronjestraat open).
 
 1. **09:30** Haarlem station → walk south to the Grote Markt shopping anchor (~20-25 min from the station).
 2. **10:00** Yenvi (Anegang 25A, ~2-3 min south of the Grote Markt).
@@ -419,17 +486,19 @@ A south-then-north loop that hits all twelve shops and the lunch stop in ~6-7 ho
 11. **15:30** Kids Store Haarlem (Grote Houtstraat 130, ~5 min south of Meneer Paprika).
 12. **16:00** De Toyboys (Gierstraat 51, ~3 min east of Kids Store Haarlem on the same block).
 13. **16:30** Sounds Haarlem (Grote Houtstraat 171, ~5 min south of De Toyboys on the same shopping corridor).
-14. **17:00** Rataplan (Zijlstraat 10-14, ~6-8 min north of Sounds, on the way back to the station).
-15. **17:30** Walk back to Haarlem station (~10-12 min from Rataplan).
+14. **17:00** Intertoys Houtstraat (Grote Houtstraat 8, ~5 min north of Sounds back toward the Grote Markt; insert this stop before Rataplan if the kids leg needs the chain's full assortment).
+15. **17:30** Het Spellenhuis (Kruisweg 60, ~7 min north of the Grote Markt toward the station; the café side stays open to 23:00 Tu-Th / 24:00 Fr-Sa if a longer game-night stop is desired).
+16. **18:00** Rataplan (Zijlstraat 10-14, ~6-8 min west of Het Spellenhuis back across the station block, on the way to the train).
+17. **18:30** Walk back to Haarlem station (~5-10 min from Rataplan); drop in to Intertoys Cronjestraat (Gen. Cronjestraat 25, ~10 min from the station per the chain's own directions widget) on the way if the Cronjestraat branch is preferred over the Houtstraat one.
 
-Total: ~7 h, of which ~3 h is in-shop browsing and the rest is walking plus the 1 h lunch. The loop is sequenced so the boutique and specialty shops come first (smaller inventory, sell-through), the kids stores come mid-day (shorter attention span, kids' café break at Meneer Paprika if needed), and the chain / larger shops come last (deeper inventory, restocked daily). If doing the day with younger children, drop the in-shop time at Sounds and Rataplan and add a longer Meneer Paprika café stop.
+Total: ~8 h, of which ~3 h is in-shop browsing and the rest is walking plus the 1 h lunch. The loop is sequenced so the boutique and specialty shops come first (smaller inventory, sell-through), the kids stores come mid-day (shorter attention span, kids' café break at Meneer Paprika if needed), and the chain / larger shops come last (deeper inventory, restocked daily). If doing the day with younger children, drop the in-shop time at Sounds and Rataplan and add a longer Meneer Paprika café stop. If board games are a priority, swap the 15:30 Kids Store stop for a 15:30 Het Spellenhuis stop (with the kids back at Meneer Paprika) — Het Spellenhuis is the only board-game specialist on the list. If the Cronjestraat Intertoys is the desired branch, drop Rataplan and walk straight to the station from Cronjé — the chain is on the way back to the train.
 
 ## 6. Trip-Planning Notes
 
-- The entire shopping tour core is within a 1.0 km radius of the Grote Markt. The walk from Haarlem station at the start of the day is the longest single leg (~20-25 min), and the walk back to the station at the end is the second longest (~10-12 min from Rataplan). No car, no tram, no bus required.
+- The core shopping-tour loop is within a 1.0 km radius of the Grote Markt; the only exception is Intertoys Cronjestraat (§3.7), which sits ~1.4 km north near Parkeergarage Cronjé and is best slotted as a final stop on the way back to the station. The walk from Haarlem station at the start of the day is the longest single leg (~20-25 min), and the walk back to the station at the end is the second longest (~5-10 min from Rataplan, ~10 min from Intertoys Cronjestraat). No car, no tram, no bus required.
 - For a Saturday trip, also pick up the Saturday general market on the Grote Markt (per visithaarlem.com), which adds a free-form second-hand / bric-a-brac leg with no booking needed.
-- The Monday closure cluster (Yenvi, Modemétier, De Toyboys, the kids hair salon at Kids Store) makes Monday a weak day for this specific itinerary. Tuesday-Saturday is the strongest window; Rataplan and the Grote Markt market are the only day-independent anchors.
+- The Monday closure cluster (Yenvi, Modemétier, De Toyboys, Het Spellenhuis, the kids hair salon at Kids Store) makes Monday a weak day for this specific itinerary. Intertoys Houtstraat is open Monday afternoons from 12:00, and Intertoys Cronjestraat is open Mondays 11:00-18:00, so a Monday toy-shop leg is still feasible. Tuesday-Saturday is the strongest window; Rataplan and the Grote Markt market are the only day-independent anchors.
 - For the "alternative" shopping leg, Sounds Haarlem is the most explicit entry in the list. Haarlem does not have a dedicated gothic / punk fashion shop in the city center; for that category the closest options are chains in Amsterdam (Disturbia at disturbia.nl ships EU-wide; Hard'n'Heavy has a physical store outside Haarlem). Worth noting as a known gap.
-- For the "kids" leg with younger children, Meneer Paprika is the natural midday anchor because the café side has a play area and a kids menu. With older children / pre-teens, De Toyboys is the strongest draw. Baby Plus Haarlem (Kleine Houtstraat 14) is excluded from the kids leg because the chain was declared bankrupt and the Haarlem shop is closed (per noordhollandsdagblad.nl).
+- For the "kids" leg with younger children, Meneer Paprika is the natural midday anchor because the café side has a play area and a kids menu. With older children / pre-teens, De Toyboys is the strongest draw. Het Spellenhuis (§3.5) suits older children and adult board-game fans, and pairs with The Boardroom café on the same site for a longer stop. Intertoys Houtstraat (§3.6) is the broadest-assortment option and the only Sunday-open toy shop on the list. Tante Steef (Zijlstraat 66) is excluded from the kids leg because the owner announced permanent closure in March 2021 (per haarlemsdagblad.nl); some stale directory listings (Yelp, Wanderlog, speelgoedwinkel.info) still show it as open but no recent directory confirms that. Baby Plus Haarlem (Kleine Houtstraat 14) is excluded from the kids leg because the chain was declared bankrupt and the Haarlem shop is closed (per noordhollandsdagblad.nl).
 - Each shop's official website (where one exists) is the most reliable source for current opening hours, especially for the smaller boutiques. Yelp, visithaarlem.com, and indebuurt.nl are useful directory anchors but lag the shops themselves.
 - The 9292 planner and the NS app cover the same train routing as the existing Haarlem day trip; see the existing page for the connection details.
