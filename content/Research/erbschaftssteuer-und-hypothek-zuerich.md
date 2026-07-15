@@ -30,10 +30,23 @@ sources:
 **Rechtsgebiet:** Kantonales Erbschafts- und Schenkungssteuerrecht (ZH), Bundesprivatrecht (ZGB / SchKG)
 **Quellengesetze:** ESchG ZH LS 632.1, ZGB SR 210, SchKG SR 281
 
-Diese Referenz beantwortet zwei Fragen zum Erbgang eines Hauses im Kanton Zürich mit direkten Belegen aus dem Gesetz:
+## Antworten in Kürze
 
-1. Wann fällt Erbschaftssteuer an, wann nicht?
-2. Was geschieht mit der bestehenden Hypothek (Schuldbrief / Grundpfandverschreibung)?
+**Frage 1: Muss der Erbe eines Hauses in Zürich Erbschaftssteuer zahlen?**
+
+In der Schweiz gibt es keine Bundeserbschaftssteuer (abgelehnte Volksinitiative 2015). Zuständig sind die Kantone. Im Kanton Zürich sind **Ehegatte, eingetragener Partner und direkte Nachkommen des Erblassers vollständig von der Erbschafts- und Schenkungssteuer befreit** (§ 11 ESchG ZH). Erbt also ein Sohn das Haus seines Vaters, fällt **keine Erbschaftssteuer** an. Für Geschwister, Eltern und Nichtverwandte gelten Freibeträge und Tarife nach § 21 ESchG ZH.
+
+**Frage 2: Was geschieht mit der Hypothek (Schuldbrief)?**
+
+Die Hypothekarschuld geht mit dem Grundstück kraft Universalsukzession (Art. 560 Abs. 1 und 2 ZGB) automatisch auf die Erben über. Der Erbe wird Eigentümer des Hauses **und** persönlicher Schuldner der Bank, haftet also nicht nur mit dem Grundstück, sondern mit seinem ganzen Vermögen (Art. 842 Abs. 1 ZGB). Wer die Schuld nicht tragen kann, hat innert drei Monaten ab Kenntnis des Todesfalls die Möglichkeit zur **Erbausschlagung** (Art. 566/567 ZGB) oder zur **Annahme unter öffentlichem Inventar** (Art. 580 ff. ZGB, beschränkte Haftung nach Art. 590 ZGB).
+
+**Beide Antworten sind in diesem Dokument im Detail belegt. Direkt zu den Sektionen:**
+
+- [§ 2: Erbschafts- und Schenkungssteuer im Kanton Zürich](#2-erbschafts--und-schenkungssteuer-im-kanton-zürich) – Steuerpflicht, Befreiung nach § 11 ESchG ZH, Verfahrensfristen, landwirtschaftliche Sonderfälle
+- [§ 3: Hypothek und Schuldbrief beim Erbgang](#3-hypothek-und-schuldbrief-beim-erbgang) – Universalsukzession, Doppelhaftung, Schuldnerwechsel, Ausschlagung, öffentliches Inventar
+- [§ 4: Praktischer Fall: Sohn erbt Haus und kann Hypothek nicht tragen](#4-praktischer-fall-sohn-erbt-haus-und-kann-hypothek-nicht-tragen) – Handlungsoptionen
+- [§ 6: Checkliste für Erben in Zürich](#6-checkliste-für-erben-in-zürich) – Fristen und Behördengänge
+- [§ 7: Wichtige Linksammlung](#7-wichtige-linksammlung-alle-verifiziert-am-2026-07-15) – alle offiziellen Belege
 
 ## 1. Quellenüberblick
 
