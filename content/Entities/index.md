@@ -49,3 +49,4 @@ Profiles on companies, people, and tools.
 - [[llamacpp|llama.cpp]]
 - [[mlx|MLX]]
 - [[kaggle|Kaggle]]
+- [[bonsai-27b-gguf|Bonsai-27B-gguf]]
