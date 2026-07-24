@@ -48,6 +48,15 @@ No minimum commitment. Automatic tier progression reduces cost as spending incre
 - Custom model deployment.
 - Python and JavaScript SDKs.
 
+## Provisioning
+
+- **CLI:** No first-party DeepInfra CLI as of July 2026. The REST API is the primary provisioning surface; inference is also available via the OpenAI-compatible endpoint with no setup beyond the API token.
+- **Terraform:** No first-party DeepInfra Terraform provider. Customers typically drive deployments via the REST API in CI.
+- **API:** REST API for inference, model deployment, dedicated GPU rental, deploy stats. See [DeepInfra API reference](https://docs.deepinfra.com/api-reference/introduction).
+- **Web UI:** DeepInfra dashboard at [deepinfra.com/dashboard](https://deepinfra.com/dashboard) for model playground, deployments, usage.
+- **GitHub:** Standard pattern is curl/HTTP from CI; the docs include a [Native API](https://docs.deepinfra.com/apis/deepinfra-native) reference with curl examples for every model type.
+- **API examples:** `curl -X POST https://api.deepinfra.com/v1/inference/<model> -H "Authorization: Bearer $DEEPINFRA_TOKEN" -d '{"prompt":"..."}'`
+
 ### Cold starts
 
 No cold starts on popular public models. Less-trafficked models may cold start.

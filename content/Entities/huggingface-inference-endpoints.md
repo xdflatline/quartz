@@ -57,6 +57,15 @@ A single OpenAI-compatible API at `https://router.huggingface.co/v1/chat/complet
 - Dedicated Endpoints expose a private HTTPS URL with token auth.
 - Webhooks for async tasks.
 
+## Provisioning
+
+- **CLI:** `hf` (huggingface_hub Python CLI) — `hf endpoints deploy <name> --repo <repo> --framework pytorch --accelerator gpu --vendor aws --region us-east-1 --instance-size x2 --task text-generation`. Also `hf endpoints catalog deploy --repo <model>` for one-click catalog deploys.
+- **Terraform:** Community provider at [github.com/issamemari/terraform-provider-huggingface](https://github.com/issamemari/terraform-provider-huggingface) — `huggingface_endpoint` resource with compute/model/cloud blocks.
+- **Python SDK:** `huggingface_hub.create_inference_endpoint(...)` for programmatic endpoint creation with custom images and env vars.
+- **API:** REST API for endpoint lifecycle, model registry, inference router.
+- **Web UI:** Hugging Face dashboard for endpoint management, plus the catalog UI for one-click deploys.
+- **Enterprise Hub:** Self-hosted Hub inside the customer's cloud supports all the same provisioning primitives.
+
 ### Cold starts
 
 No cold starts on Dedicated Endpoints (replicas stay warm). Cold starts on the free Inference API.

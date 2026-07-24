@@ -49,6 +49,15 @@ Sub-200ms FlashBoot cold starts, per-second billing, scale to zero. H100 serverl
 - Serverless endpoints accept custom Docker images or Git repos as worker definitions.
 - Queue-based (async job) and load-balanced (HTTP) endpoint types.
 
+## Provisioning
+
+- **CLI:** `runpodctl` — install via `brew install runpod/runpodctl/runpodctl`, `wget -qO- cli.runpod.net | sudo bash`, conda, or pixi. See [runpodctl overview](https://docs.runpod.io/runpodctl/overview).
+- **Terraform:** First-party provider at [registry.terraform.io/providers/decentralized-infrastructure/runpod](https://registry.terraform.io/providers/decentralized-infrastructure/runpod/latest/docs).
+- **API:** REST API at `https://rest.runpod.io/v1` for Pods, Serverless, and endpoints; full documentation in the RunPod docs.
+- **Web UI:** RunPod Console at [console.runpod.io](https://console.runpod.io/) for Pod deployment, Serverless endpoint config, Hub model playground.
+- **Docker / Hub:** RunPod Hub is a community model registry; one-click deploy from the Hub to a Pod or Serverless endpoint.
+- **CLI examples:** `runpodctl pod create --name hello --gpu-id "NVIDIA A40" --image "runpod/pytorch:..."`
+
 ### Cold starts
 
 FlashBoot claims sub-200ms cold starts on the serverless product. Bare-metal Pods have a 1-3 minute boot time.

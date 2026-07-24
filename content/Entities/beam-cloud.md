@@ -56,6 +56,15 @@ Physical core (2 vCPU equivalent): $0.0000125/core/sec. RAM: $0.0000021/GiB/sec.
 - Multiple workers per container (vertical scaling).
 - Docker-in-Docker support.
 
+## Provisioning
+
+- **CLI:** `beam` (Python) — `beam deploy app.py:handler --name inference-app`, `beam deployment list`, `beam deployment stop <id>`, `beam volume list --context dev`. Contexts (`--context staging`) let you maintain multiple environments. See [Beam CLI reference](https://docs.beam.cloud/v2/reference/cli).
+- **Terraform:** No first-party Beam Terraform provider as of July 2026. Customers typically drive deployments via the `beam` CLI in CI; some use the Beam REST API behind a Terraform `external` data source or a community provider.
+- **API:** REST API for deployments, tasks, volumes, secrets, scheduling.
+- **Web UI:** Beam dashboard for app lifecycle, logs, metrics.
+- **GitHub Actions:** Common pattern is `beam deploy` in CI; Beam supports deployment from GitHub Actions as documented on the [Beam homepage](https://www.beam.cloud/).
+- **CLI examples:** `beam deploy create app.py:handler --name inference-app`, `beam task list -c production`.
+
 ### Cold starts
 
 Fast cold starts via memory snapshotting and GPU checkpoint restore; cold starts are typically low-hundreds-of-milliseconds for smaller models.

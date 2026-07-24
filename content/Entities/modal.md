@@ -47,6 +47,14 @@ Modal also publishes a marketing "serverless cloud" comparison: 75 GPUs x 24 hrs
 - Sandboxes (ephemeral, stateful execution environments).
 - Region selection (US East, US West, Europe, Asia).
 
+## Provisioning
+
+- **CLI:** `modal` (Python) — `modal deploy`, `modal run`, `modal serve`. Auth via `modal token new`. See [Modal CLI reference](https://modal.com/docs/reference/cli).
+- **Terraform:** No first-party Terraform provider. Pulumi is a viable alternative because Pulumi can bridge any Terraform provider, but no Modal-specific Pulumi provider exists either. Customers who need IaC typically use the `modal` CLI in a CI pipeline.
+- **API:** All CLI operations are also available via Modal's REST API and Python SDK.
+- **Web UI:** Modal dashboard at [modal.com/apps](https://modal.com/apps) for app lifecycle, logs, metrics, function history.
+- **GitHub:** Modal deploys are typically driven by `modal deploy` from a CI pipeline; documented in [Modal deployment docs](https://modal.com/docs/guide/managing-deployments).
+
 ### Cold starts
 
 Sub-second container spin-up via the Rust runtime and memory snapshotting. The memory snapshot feature can reduce cold start times for qualifying workloads.

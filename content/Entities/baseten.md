@@ -54,6 +54,15 @@ Examples (from the [Baseten pricing page](https://www.baseten.co/pricing/)):
 - Python SDK + REST API.
 - Per-deployment HTTPS endpoint.
 
+## Provisioning
+
+- **CLI:** `truss` — install via `pip install --upgrade truss`; auth via `truss login` (or `uvx truss login`). The deployment loop is `truss push --watch` (dev), `truss watch` (live patch), `truss push --promote` (production). See [Truss CLI reference](https://docs.baseten.co/reference/cli/truss/overview).
+- **Terraform:** No first-party Terraform provider as of July 2026. Truss is the canonical IaC-adjacent deployment surface; `truss push` is typically wired into CI.
+- **API:** REST API for deployments, model APIs, fine-tuning.
+- **Web UI:** Baseten dashboard for model playground, deployment config, monitoring.
+- **GitHub Actions:** Standard pattern is `truss push` from CI; Truss supports `truss push --watch` for live reload during development.
+- **CLI examples:** `truss push --watch`, `truss push --promote`, `truss watch`.
+
 ### Cold starts
 
 Blazing-fast cold starts on the Baseten Inference Stack. Some workloads achieve sub-300ms first-token latency.

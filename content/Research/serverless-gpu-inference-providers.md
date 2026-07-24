@@ -130,6 +130,37 @@ OpenAI-compatible providers are easiest to integrate with for LLM workloads (Tog
 
 ---
 
+## Provisioning Options (CLI, Terraform, CI/CD)
+
+The provisioning surface matters for IaC workflows, GitOps, and CI/CD pipelines. Some providers have first-party Terraform providers on the public registry; others have community providers; a few expose only a CLI.
+
+| Provider | First-party CLI | First-party Terraform | Community Terraform | Helm / K8s | Other IaC / CI |
+|---|---|---|---|---|---|
+| [[Entities/akash-network]] | `akash`, `provider-services` | Yes (registry.terraform.io/providers/akash-network/akash) | n/a | n/a | SDL declarative YAML |
+| [[Entities/replicate]] | `cog`, `replicate` | No | Yes (github.com/replicate/terraform-provider-replicate) | No | GitHub Actions (`cog-safe-push`) |
+| [[Entities/modal]] | `modal` (Python) | No | No | No | CI-driven `modal deploy` |
+| [[Entities/runpod]] | `runpodctl` | Yes (registry.terraform.io/providers/decentralized-infrastructure/runpod) | n/a | Limited | Docker Hub one-click |
+| [[Entities/together-ai]] | `tg` | No | Yes (github.com/togethercomputer/terraform-provider-together) | Yes (SkyPilot) | GitHub Actions pattern in docs |
+| [[Entities/fireworks-ai]] | `firectl` | No | Yes (github.com/amrutp24/terraform-provider-fireworks) | EKS BYOC integration | n/a |
+| [[Entities/lambda]] | No | No | Community CLI (Strand-AI/lambda-cli) | No | Full REST API; SSH |
+| [[Entities/huggingface-inference-endpoints]] | `hf` (huggingface_hub) | No | Yes (github.com/issamemari/terraform-provider-huggingface) | No | Enterprise Hub self-hosted |
+| [[Entities/fal-ai]] | `fal` (Python) | Yes (github.com/fal-ai/terraform-provider-fal) | n/a | No | GitHub Actions `fal deploy` |
+| [[Entities/baseten]] | `truss` | No | No | No | CI-driven `truss push` |
+| [[Entities/beam-cloud]] | `beam` (Python) | No | No | No | CI-driven `beam deploy` |
+| [[Entities/cerebrium]] | No (REST API + `cerebrium` Python package) | No | No | No | CI-driven Dockerfile deploy |
+| [[Entities/anyscale]] | `anyscale` (Python) | No | Community reference architectures (Azure AKS, GCP GKE) | Yes (Helm charts) | CloudFormation for BYOC |
+| [[Entities/deepinfra]] | No | No | No | No | REST API / curl from CI |
+
+### Practical selection by IaC need
+
+- **Need a first-party Terraform provider on the public registry:** Akash and RunPod are the only options. Fal.ai ships its provider on GitHub but it is not on the registry.
+- **Need a mature CLI in CI:** Replicate (`cog push`), RunPod (`runpodctl`), Modal (`modal deploy`), Together (`tg`), Fireworks (`firectl`), Fal.ai (`fal deploy`), Beam (`beam deploy`), Baseten (`truss push`), Hugging Face (`hf endpoints deploy`). All of these have first-party, well-documented CLIs suitable for GitHub Actions or GitLab CI.
+- **Need Helm / Kubernetes native:** Anyscale ships Helm charts for BYOC. Together supports SkyPilot. Everyone else expects you to drive the CLI/API from CI.
+- **Only REST API, no first-party CLI or Terraform:** Lambda, DeepInfra, Cerebrium. The REST API is the surface; you wire it up yourself with curl, Python, or a custom Terraform `external` data source.
+- **BYOC provisioning with Terraform:** Anyscale is the strongest option, with reference architectures on Azure AKS and GCP GKE that provision both the K8s cluster and the Anyscale control plane.
+
+---
+
 ## Data Privacy and Compliance (Summary)
 
 See [[Concepts/serverless-gpu-data-privacy]] for the full pattern reference. The four patterns are:
@@ -140,6 +171,13 @@ See [[Concepts/serverless-gpu-data-privacy]] for the full pattern reference. The
 4. **Decentralized / permissionless** — Akash.
 
 For HIPAA / healthcare workloads, the practical path is HF Endpoints (Enterprise), Baseten (self-hosted), or Anyscale BYOC. For financial services with strict data-residency, the same providers are the leading options. For censorship resistance and cost-first, Akash is unmatched.
+
+The compliance frameworks themselves are documented in:
+
+- [[Entities/soc-2]] — the US enterprise baseline (Type II is the meaningful one)
+- [[Entities/hipaa]] — US healthcare privacy; requires a signed BAA
+- [[Entities/iso-27001]] — international ISMS standard
+- [[Entities/gdpr]] — EU personal-data protection; requires a signed DPA
 
 ---
 
@@ -286,6 +324,13 @@ Need sandbox / untrusted code execution?
 
 - [[Concepts/serverless-gpu-pricing-models]] — the four pricing primitives and crossover math.
 - [[Concepts/serverless-gpu-data-privacy]] — privacy patterns, compliance matrix, BYOC options.
+
+## Compliance Framework References
+
+- [[Entities/soc-2]] — System and Organization Controls 2 (AICPA)
+- [[Entities/hipaa]] — US healthcare privacy; BAA required
+- [[Entities/iso-27001]] — international ISMS standard
+- [[Entities/gdpr]] — EU personal-data protection; DPA required
 
 ---
 

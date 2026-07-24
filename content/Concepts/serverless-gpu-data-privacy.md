@@ -11,7 +11,7 @@ source: "https://modal.com/docs/guide/security"
 ---
 # Serverless GPU Data Privacy Patterns
 
-Serverless GPU providers offer different combinations of (a) data residency / region selection, (b) BYOC / VPC peering, (c) workload isolation (shared vs single-tenant), and (d) compliance certifications (SOC 2, ISO 27001, HIPAA, GDPR). Choosing a provider for a regulated workload requires checking all four.
+Serverless GPU providers offer different combinations of (a) data residency / region selection, (b) BYOC / VPC peering, (c) workload isolation (shared vs single-tenant), and (d) compliance certifications ([[Entities/soc-2]], [[Entities/iso-27001]], [[Entities/hipaa]], [[Entities/gdpr]]). Choosing a provider for a regulated workload requires checking all four.
 
 ## Pattern 1: Public Multi-Tenant
 
@@ -59,6 +59,15 @@ Serverless GPU providers offer different combinations of (a) data residency / re
 - Censorship resistance is the design goal, not regulatory compliance.
 
 **Best for:** Censorship-resistant deployments, cost-first workloads, workloads where regulatory compliance is not a requirement.
+
+## Compliance Frameworks (Reference)
+
+The compliance matrix in this page references four frameworks. Each is documented in its own entity page:
+
+- [[Entities/soc-2]] — System and Organization Controls 2 (AICPA). Type I vs Type II. The de facto US enterprise compliance bar.
+- [[Entities/hipaa]] — US federal healthcare privacy law. Requires a Business Associate Agreement (BAA) with any vendor that touches PHI.
+- [[Entities/iso-27001]] — International standard for Information Security Management Systems (ISMS). Global baseline, especially strong in EU/APAC.
+- [[Entities/gdpr]] — EU General Data Protection Regulation. Extraterritorial reach; requires a Data Processing Agreement (DPA) and data-residency options for EU personal data.
 
 ## Compliance Certification Matrix (July 2026)
 

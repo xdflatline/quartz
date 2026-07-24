@@ -89,6 +89,14 @@ deployment:
 - Akash Console (web UI) for visual deployment.
 - Provider tooling (`akash provider`) for running a node.
 
+## Provisioning
+
+- **CLI:** `akash` (deployment) and `provider-services` (provider operations) — see [Akash CLI docs](https://akash.network/docs/developers/deployment/cli/).
+- **Terraform:** First-party provider at [registry.terraform.io/providers/akash-network/akash](https://registry.terraform.io/providers/akash-network/akash/latest/docs); also [akash-network/terraform-provider-akash on GitHub](https://github.com/akash-network/terraform-provider-akash).
+- **API:** REST lease/bid API for programmatic deployment.
+- **Web UI:** Akash Console at [console.akash.network](https://console.akash.network/) — 1-click templates, deployment status, custom SDLs.
+- **Helm / Kubernetes:** No first-party Helm chart, but you can deploy an inference server in the SDL and expose ports for external Kubernetes ingress.
+
 ## Cold starts
 
 No platform-induced cold starts once the lease is accepted and the container is running. Lease creation and container boot typically 5-30 minutes depending on bid acceptance and provider provisioning speed.

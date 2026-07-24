@@ -37,6 +37,15 @@ Cerebrium bills GPU, CPU, and memory as separate line items. Cold-start containe
 - Batching support built in.
 - Bring-your-own ASGI app (Gradio, Streamlit, FastAPI) supported.
 
+## Provisioning
+
+- **CLI:** No first-party dedicated CLI as of July 2026. Cerebrium ships a `cerebrium` Python package and supports deployment via the `cerebrium deploy` workflow that points to a Dockerfile. The REST API is the primary provisioning surface.
+- **Terraform:** No first-party Cerebrium Terraform provider. Customers typically drive deployments via the REST API in CI.
+- **API:** REST API for deployment, scaling, real-time routing (Thalamus), secrets, volumes.
+- **Web UI:** Cerebrium dashboard at [dashboard.cerebrium.ai](https://dashboard.cerebrium.ai/) for deployment config, multi-region setup, monitoring.
+- **GitHub Actions:** Common pattern is `cerebrium deploy` from CI pointing to a Dockerfile in the repo.
+- **Bring your own:** Dockerfiles, ASGI apps, and custom images are all first-class inputs.
+
 ### Cold starts
 
 Build times 8-14 seconds. Cold start container spin-up not billed. Memory and GPU snapshotting can reduce warm-start time for supported models.

@@ -37,12 +37,21 @@ Replicate is one of the earliest and largest serverless GPU inference marketplac
 
 Public models on shared hardware charge only for the active inference; setup and idle are free. Private deployments bill for the full online time including startup and idle, so cold start costs can be 10x the active compute cost for infrequently used models.
 
-### API
+## API and SDK
 
 - HTTP/REST + official Python and JavaScript clients.
 - Webhooks for asynchronous predictions.
 - Streaming responses supported for text models.
 - Custom model deployment via [Cog](https://github.com/replicate/cog) container format.
+
+## Provisioning
+
+- **CLI:** `cog` (build, push, run) and the `replicate` CLI for managing models and predictions.
+- **Terraform:** Community provider at [github.com/replicate/terraform-provider-replicate](https://github.com/replicate/terraform-provider-replicate) — manages deployment config via `terraform apply`. Not on the public Terraform Registry.
+- **API:** REST API + webhooks; everything the CLI does is also available as an HTTP endpoint.
+- **Web UI:** Replicate web dashboard for browsing models, viewing runs, configuring private deployments.
+- **CI/CD:** Documented GitHub Actions workflow for `cog-safe-push` (continuous model deployment); see [Replicate CI/CD guide](https://replicate.com/docs/guides/build/continuous-model-deployment).
+- **Cog:** The deployment surface is the Cog container format; `cog push` publishes a model, which then becomes a versioned API.
 
 ### Cold starts
 

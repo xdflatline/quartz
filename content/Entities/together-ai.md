@@ -51,6 +51,16 @@ Together AI is an inference and fine-tuning platform focused on open-source mode
 - Streaming, function calling, JSON mode supported.
 - Python and TypeScript SDKs.
 
+## Provisioning
+
+- **CLI:** `tg` (the Together CLI) — install via `uv tool install "together[cli]"`; supports fine-tuning, checkpoint management, and GPU cluster operations. See [Together CLI getting started](https://docs.together.ai/reference/cli/getting-started).
+- **Terraform:** Community provider at [github.com/togethercomputer/terraform-provider-together](https://github.com/togethercomputer/terraform-provider-together) — manages dedicated endpoints and clusters.
+- **API:** REST API for chat, embeddings, images, audio, fine-tuning, and GPU clusters.
+- **Web UI:** Together dashboard for model playground, fine-tuning, cluster creation.
+- **SkyPilot:** Together publishes a SkyPilot integration for cluster workloads. See [Together GPU clusters API docs](https://docs.together.ai/docs/gpu-clusters-api).
+- **CI/CD:** Documented GitHub Actions pattern using the `tg` CLI for cluster create/run/cleanup.
+- **CLI examples:** `tg beta clusters create --name my-cluster --num-gpus 8 --gpu-type H100_SXM --region us-central-8 --billing-type ON_DEMAND --cluster-type KUBERNETES`
+
 ### Cold starts
 
 Serverless tier has cold starts on less-trafficked models. Dedicated Endpoints have no cold starts.

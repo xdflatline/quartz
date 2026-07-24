@@ -54,6 +54,15 @@ Reserved (committed-spend) pricing unlocks the discounted rates.
 - Streaming responses.
 - Custom model deployment via Docker image or `fal/apps` CLI.
 
+## Provisioning
+
+- **CLI:** `fal` — install via `pip install fal`; `fal auth login`; `fal deploy my_app.py::MyApp`. See [fal CLI overview](https://fal.ai/docs/api-reference/python-sdk/cli).
+- **Terraform:** First-party provider at [github.com/fal-ai/terraform-provider-fal](https://github.com/fal-ai/terraform-provider-fal).
+- **API:** REST API for inference, model registration, webhook callbacks.
+- **Web UI:** Fal dashboard at [fal.ai/dashboard](https://fal.ai/dashboard) for model playground, custom deployment, environment management.
+- **GitHub Actions:** Common pattern is `fal deploy` in CI; documented in [fal quick start](https://fal.ai/docs/documentation/development/getting-started/quick-start).
+- **CLI examples:** `fal deploy hello_world.py::MyApp`, `fal environments create staging --description "Staging environment"`.
+
 ### Cold starts
 
 No cold starts on the Model API (Fal maintains warm capacity for popular models). Custom Compute deployments have brief cold start on first request.

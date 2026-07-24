@@ -50,6 +50,15 @@ Usage-based, pay-as-you-go on Hosted. BYOC billed via Anyscale invoice or cloud 
 - Python SDK + dashboard.
 - Templates for common patterns (LLM fine-tuning, batch inference, VLA fine-tuning).
 
+## Provisioning
+
+- **CLI:** `anyscale` (Python) — `anyscale login`, `anyscale job submit`, `anyscale service deploy`. Auth via Anyscale Cloud or BYOC cluster.
+- **Terraform:** No first-party Anyscale Terraform provider. Community reference architectures exist (e.g., [AKS-Anyscale-Private-Cluster-Sample](https://github.com/KenKilty/AKS-Anyscale-Private-Cluster-Sample) for Azure AKS, and the [anyscale/terraform-kubernetes-anyscale-foundation-modules](https://tessl.io/registry/skills/github/anyscale/terraform-kubernetes-anyscale-foundation-modules/deploy-gcp-gke) for GCP GKE) that provision the underlying K8s cluster and Anyscale control plane together.
+- **API:** REST API for jobs, services, clusters, workspaces, billing.
+- **Web UI:** Anyscale console for workspace, jobs, services, cluster ops.
+- **CloudFormation / Helm:** Anyscale ships Helm charts and CloudFormation templates for BYOC deployments (AWS, Azure, GCP).
+- **CLI examples:** `anyscale job submit --config config.yaml`, `anyscale service deploy my-service/`.
+
 ### Cold starts
 
 No platform-induced cold starts on Anyscale Services; replicas stay warm. Anyscale Jobs have a brief cluster spin-up.

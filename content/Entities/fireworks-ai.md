@@ -58,6 +58,15 @@ From $0.50 per 1M training tokens, LoRA or full-param. Billed per GPU-second at 
 - Streaming and structured outputs.
 - Python and JavaScript SDKs.
 
+## Provisioning
+
+- **CLI:** `firectl` — install from `storage.googleapis.com/fireworks-public/firectl/stable/{darwin-arm64,darwin-amd64,linux-amd64}.gz`. Sign in via `firectl signin`. See [firectl docs](https://docs.fireworks.ai/tools-sdks/firectl/firectl).
+- **Terraform:** No first-party provider on the Terraform Registry. Community provider at [github.com/amrutp24/terraform-provider-fireworks](https://github.com/amrutp24/terraform-provider-fireworks).
+- **API:** REST API for model invocation, deployments, accounts, and fine-tuning.
+- **Web UI:** Fireworks dashboard for deployments, model playground, fine-tuning jobs.
+- **BYOC (EKS):** Bring-your-own-cluster via AWS EKS — Fireworks ships an [EKS integration](https://docs.fireworks.ai/ecosystem/integrations/eks-bring-your-own-cloud) that lets you create a Fireworks deployment running on your own EKS cluster.
+- **CLI examples:** `firectl list deployments`, `firectl create deployment`, `firectl signin`.
+
 ### Cold starts
 
 Serverless tier claims no cold boots. On-Demand deployments have brief container spin-up.

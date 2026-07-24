@@ -46,6 +46,15 @@ Lambda does not offer a per-token serverless API; it is positioned as raw GPU in
 - SSH access to instances.
 - Compatible with standard NVIDIA CUDA, vLLM, TGI, SGLang stacks.
 
+## Provisioning
+
+- **CLI:** No first-party Lambda CLI as of July 2026. Community CLI at [github.com/Strand-AI/lambda-cli](https://github.com/Strand-AI/lambda-cli) provides a fast CLI and MCP server for managing instances.
+- **Terraform:** No first-party Lambda Cloud Terraform provider. Customers typically drive instance creation via the Lambda Cloud API in a Terraform `null_resource` or `external` data source, or use the community `lambda-labs` provider if available.
+- **API:** Full REST API at `https://cloud.lambda.ai/api/v1` (SSH key management, instance launch/terminate, file systems, cluster operations). See [Lambda Cloud API docs](https://docs.lambda.ai/public-cloud/cloud-api/).
+- **Web UI:** Lambda Cloud Console at [cloud.lambda.ai](https://cloud.lambda.ai/).
+- **API examples:** `curl -X POST https://cloud.lambda.ai/api/v1/instance-operations/launch -H "Authorization: Bearer $LAMBDA_API_KEY" -d '{"region_name":"us-west-1","instance_type_name":"gpu_1x_a10",...}'`
+- **SSH:** Instances are accessed via SSH; the API can generate and return a private key on key creation.
+
 ### Cold starts
 
 No platform-induced cold starts. Container/VM boot time is typical Linux VM boot (1-3 minutes).
