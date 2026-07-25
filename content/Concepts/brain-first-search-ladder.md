@@ -27,11 +27,11 @@ A five-rung retrieval rulebook for an AI agent that must consult a personal know
 
 ```mermaid
 flowchart TD
-    Q[User question] --> S1[1. Read index.md<br/>catalog of topics & files<br/>~few hundred lines]
+    Q[User question] --> S1["1. Read index.md<br/>catalog of topics & files<br/>~few hundred lines"]
     S1 --> S2{Topic already<br/>condensed in<br/>wiki folder?}
-    S2 -- yes --> ANS[5. Answer<br/>from wiki page]
-    S2 -- no --> S3[3. QMD hybrid search<br/>local keyword + semantic]
-    S3 --> S4[4. Open exactly one file<br/>the best candidate]
+    S2 -- yes --> ANS["5. Answer<br/>from wiki page"]
+    S2 -- no --> S3["3. QMD hybrid search<br/>local keyword + semantic"]
+    S3 --> S4["4. Open exactly one file<br/>the best candidate"]
     S4 --> ANS
 ```
 
