@@ -112,13 +112,13 @@ Benchmark on 5 real workday questions: **50% fewer tokens, 40% less time, 5/5 co
 ```mermaid
 flowchart TD
     S0[Capabilities list<br/>from Capabilities-First Design] --> S1
-    S1["1. Tidy data foundation<br/>(folders, clusters, inbox)"] --> S2
-    S2["2. Brainstorm<br/>AI asks questions,<br/>you answer"] --> S3
-    S3["3. Specification<br/>section by section,<br/>human approves each"] --> S4
-    S4["4. Plan<br/>~14 small tasks,<br/>each with test + done-criterion"] --> S5
-    S5["5. Build<br/>fresh subagent per task,<br/>human reviews between"] --> S6
-    S6["6. Test<br/>in real conditions"] --> Done{Foundation<br/>proven?}
-    Done -- yes --> App[Optional: add<br/>graph visualization,<br/>web app]
+    S1[Tidy data foundation<br/>folders, clusters, inbox] --> S2
+    S2[Brainstorm<br/>AI asks questions, you answer] --> S3
+    S3[Specification<br/>section by section, human approves each] --> S4
+    S4[Plan<br/>~14 small tasks, each with test and done-criterion] --> S5
+    S5[Build<br/>fresh subagent per task, human reviews between] --> S6
+    S6[Test<br/>in real conditions] --> Done{Foundation proven?}
+    Done -- yes --> App[Optional: add graph visualization, web app]
     Done -- no --> S5
 ```
 
