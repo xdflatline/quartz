@@ -97,11 +97,11 @@ The rulebook that Claude Code reads from `CLAUDE.md` at every startup. Five rung
 
 ```mermaid
 flowchart TD
-    Q[User question] --> S1["1. Read index.md catalog<br/>~few hundred lines"]
-    S1 --> S2{Topic already<br/>condensed in<br/>wiki folder?}
-    S2 -- yes --> ANS["5. Answer<br/>from wiki page"]
-    S2 -- no --> S3["3. QMD hybrid search<br/>local, ~2 s"]
-    S3 --> S4["4. Open exactly one file<br/>the best candidate"]
+    Q[User question] --> S1[Read index.md<br/>catalog of topics and files<br/>a few hundred lines]
+    S1 --> S2{Topic already<br/>condensed in<br/>the wiki folder?}
+    S2 -- yes --> ANS[Answer<br/>from the wiki page]
+    S2 -- no --> S3[Run QMD hybrid search<br/>local, keyword and semantic,<br/>about two seconds]
+    S3 --> S4[Open exactly one file<br/>the best candidate]
     S4 --> ANS
 ```
 
@@ -152,7 +152,7 @@ flowchart TD
     D --> F[Open only pages<br/>the topic touches]
     F --> U[Update existing pages]
     U --> C{New info<br/>contradicts<br/>existing page?}
-    C -- yes --> Flag[Flag conflict<br/>on that page<br/>on source page<br/>plus log it]
+    C -- yes --> Flag[Flag the conflict on the affected page, on the source page, and log the run]
     C -- no --> Confirm[Note as<br/>confirmation]
     F --> N{New page<br/>needed?}
     N -- yes --> Create[Create new typed page]
@@ -191,9 +191,9 @@ Cost story: ~2 seconds of processor work per search, no API token consumption, n
 
 ```mermaid
 flowchart LR
-    Inbox["1. Capture<br/>inbox folder<br/>no cleaning"] -->|importer| Clean["2. Process<br/>clean Markdown<br/>front matter, structure"]
-    Clean -->|linker| Links["3. Connect<br/>find connections<br/>between notes"]
-    Links -->|writer| Final["4. Create<br/>article, video, essay<br/>sparring partner"]
+    Inbox[Capture<br/>inbox folder<br/>no cleaning] -->|importer| Clean[Process<br/>clean Markdown<br/>front matter and structure]
+    Clean -->|linker| Links[Connect<br/>find links between notes]
+    Links -->|writer| Final[Create<br/>article, video, essay<br/>sparring partner]
     Final -.new material.-> Inbox
 ```
 
