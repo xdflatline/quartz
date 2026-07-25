@@ -51,7 +51,7 @@ flowchart TD
     D --> F[Open only pages<br/>the topic touches]
     F --> U[Update existing pages]
     U --> C{New info<br/>contradicts<br/>existing page?}
-    C -- yes --> Flag[Flag conflict<br/>on that page<br/>+ the source]
+    C -- yes --> Flag[Flag conflict<br/>on that page<br/>plus the source]
     C -- no --> Confirm[Note as<br/>confirmation]
     F --> N{New page<br/>needed?}
     N -- yes --> Create[Create new typed page]
