@@ -57,6 +57,6 @@ If moving from another SSG:
 
 ---
 
-[[Concepts|← Back to Concepts]]
+[[Concepts/|← Back to Concepts]]
 
 #tags/concepts #web #ssg #comparison

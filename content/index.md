@@ -14,12 +14,12 @@ This is a **Quartz** static site showcasing my notes, ideas, and knowledge base 
 
 ## What You'll Find Here
 
-- [[Concepts|Concepts]] — Evergreen concepts
-- [[Projects|Projects]] — Project tracking
-- [[Resources|Resources]] — Curated links
-- [[Ideas|Ideas]] — Creative brainstorms and thoughts
-- [[Research|Research]] — Comprehensive research indexes
-- [[Raw|Raw Sources]] — Ingested raw source articles
+- [[Concepts/|Concepts]] — Evergreen concepts
+- [[Projects/|Projects]] — Project tracking
+- [[Resources/|Resources]] — Curated links
+- [[Ideas/|Ideas]] — Creative brainstorms and thoughts
+- [[Research/|Research]] — Comprehensive research indexes
+- [[Raw/|Raw Sources]] — Ingested raw source articles
 
 ---
 

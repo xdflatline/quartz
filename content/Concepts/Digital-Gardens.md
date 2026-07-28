@@ -67,6 +67,6 @@ A **digital garden** is a personal knowledge base published on the web that:
 
 ---
 
-[[Concepts|← Back to Concepts]]
+[[Concepts/|← Back to Concepts]]
 
 #tags/concepts #digital-garden #knowledge-management

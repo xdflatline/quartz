@@ -56,6 +56,6 @@ Create a public knowledge base using Quartz that mirrors Obsidian vault structur
 
 ---
 
-[[Projects|← Back to Projects]]
+[[Projects/|← Back to Projects]]
 
 #tags/project #quartz #web #obsidian
