@@ -89,7 +89,7 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 
 ### Phase 1 — Create `Workflows/`, Tag Index, first workflow
 
-- [ ] **T1.1** Create `content/Workflows/` folder. **state: open**.
+- [x] **T1.1** Create `content/Workflows/` folder. **state: done** (2026-08-07).
 - [ ] **T1.2** Create `content/Workflows/index.md` describing the purpose of the folder (store repeatable workflows for agents). **state: open**.
 - [ ] **T1.3** Create the **Tag Index** at `content/tags.md` (operator directive 2026-08-07; lowercase `content/` per repo convention). Pre-populated with the operator's existing good tags (from the kaese/erbschaft/aufbewahrung exemplars) + a starter vocabulary for the LLM/agent tier files. Each tag: name, scope description, when to use, when NOT to use. **state: open**.
 - [ ] **T1.4** Update `Base.base` `formula.section` to include `Workflows` so it shows up in base views. **state: open**.
