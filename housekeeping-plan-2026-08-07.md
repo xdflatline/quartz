@@ -99,10 +99,10 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 - [x] **T1.8** Create `content/Workflows/wiki-content-ingestion/references/` with 2–3 trimmed reference docs (frontmatter-rules, build-verification, mermaid-pitfalls). **state: done** (2026-08-07; only `mermaid-pitfalls.md` is relevant — other jin references are inline in the workflow or skill-side only).
 - [x] **T1.9** Create `content/Workflows/wiki-content-ingestion/scripts/` with the `quote-frontmatter.py` and `audit-garden.py` tools. **state: done** (2026-08-07; both copied from jin, with a `notes.md` in each subfolder explaining the trim and the known audit-garden issue).
 - [x] **T1.10** Run `npx quartz build` to verify Phase 1 (after the first workflow). **state: done** (2026-08-07; 284 input files, 0 errors, 1050 emitted; the wiki-content-ingestion workflow renders at `public/workflows/wiki-content-ingestion/index.html` — 51 KB).
-- [ ] **T1.11** Create the second workflow subfolder: `content/Workflows/wiki-catalog-research/`. **state: open**.
-- [ ] **T1.12** Create the workflow file `content/Workflows/wiki-catalog-research/wiki-catalog-research.md` (named after the workflow, NOT `SKILL.md`). Frontmatter uses only `details:`. **state: open**.
-- [ ] **T1.13** Create `content/Workflows/wiki-catalog-research/references/` with trimmed reference docs (catalog-pattern-reference, build-verification — only those that apply here). **state: open**.
-- [ ] **T1.14** Create `content/Workflows/wiki-catalog-research/scripts/` if the source skill has any (e.g. catalog-update helpers). If none, omit the folder. **state: open**.
+- [x] **T1.11** Create the second workflow subfolder: `content/Workflows/wiki-catalog-research/`. **state: done** (2026-08-07).
+- [x] **T1.12** Create the workflow file `content/Workflows/wiki-catalog-research/wiki-catalog-research.md` (named after the workflow, NOT `SKILL.md`). Frontmatter uses only `details:`. **state: done** (2026-08-07; source is `~/.hermes/skills/wiki-catalog-research/SKILL.md` — note this skill lives in Hermes skills, not jin skills).
+- [x] **T1.13** Create `content/Workflows/wiki-catalog-research/references/` with trimmed reference docs (catalog-pattern-reference, build-verification — only those that apply here). **state: done** (2026-08-07; only the worked example is relevant — other pitfalls are inlined in the workflow).
+- [x] **T1.14** Create `content/Workflows/wiki-catalog-research/scripts/` if the source skill has any (e.g. catalog-update helpers). If none, omit the folder. **state: done** (2026-08-07; the source skill has no scripts — the workflow is procedural only. Folder omitted. Note added to the workflow's references/notes.md to document this.)
 - [ ] **T1.15** Final `npx quartz build` to verify the full Phase 1 (both workflows). **state: open**.
 
 ### Phase 2 — Frontmatter normalization
