@@ -71,7 +71,18 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 
 - [x] **T0.1** Plan authored and operator-approved. **state: done** (commit on chore/housekeeping-2026-08-07, 2026-08-07).
 - [x] **T0.2** Migration strategy confirmed: keep more-informative, harmonize under `details:`. **state: done** (operator directive 2026-08-07).
-- [ ] **T0.3** Spot-check 10 random files to confirm `detail:` and `details:` are near-duplicates (the migration is safe). If any file has substantively different content in the two fields, escalate to operator before bulk delete. **state: open**.
+- [x] **T0.3** Spot-check 10 random files to confirm `detail:` and `details:` are near-duplicates (the migration is safe). If any file has substantively different content in the two fields, escalate to operator before bulk delete. **state: done** (2026-08-07).
+
+**Spot-check finding (247 files with both fields):**
+- 71 files: `detail:` and `details:` are byte-identical → drop `detail:` is safe
+- 175 files: `details:` is longer than `detail:` → keep `details:` (operator's "more-informative" rule); drop `detail:`
+- **1 anomaly: `Entities/kernelbench.md`** — `detail:` is 13 chars longer and contains the citation, task count, and metric definition that `details:` lacks. **Per-file exception:** copy `detail:` text into `details:` first, then drop `detail:`.
+
+**Bulk migration procedure (T2.1):**
+1. For each file, compute `len(detail)` and `len(details)`.
+2. If `len(detail) <= len(details)`: drop the `detail:` line (the 246 safe files).
+3. If `len(detail) > len(details)`: copy `detail:` content into `details:` first, then drop the `detail:` line (the 1 kernelbench exception).
+4. After the bulk pass, `grep -c "^detail:" content/**/*.md` must return 0.
 - [ ] **T0.4** Build the proposed tag vocabulary (~30–40 tags) as a Yaml list — the seed of the Tag Index. **state: in progress** (operator approved the proposed vocabulary 2026-08-07; vocabulary is now in the plan; this task becomes the act of moving it into `content/tags.md`).
 - [x] **T0.5** Open the `chore/housekeeping-2026-08-07` branch from `publish`. **state: done** (commit 759a721, 2026-08-07).
 - [x] **T0.6** First workflow scope: both `wiki-content-ingestion` AND `wiki-catalog-research` (operator directive 2026-08-07), each in its own subfolder under `Workflows/`. **state: done** (operator directive 2026-08-07).
@@ -96,7 +107,7 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 
 ### Phase 2 — Frontmatter normalization
 
-- [ ] **T2.1** Bulk migration: for every file, drop the `detail:` line; keep the more-informative text in `details:`. (Defensive read first per skill's `patch` pitfall warning.) **state: open**.
+- [ ] **T2.1** Bulk migration: for every file, drop the `detail:` line; keep the more-informative text in `details:`. Use the per-file procedure documented at T0.3 (drop if `detail` is shorter; copy `detail` into `details` first if `detail` is longer — applies to `Entities/kernelbench.md` only). Defensive read first per skill's `patch` pitfall warning. **state: open**.
 - [ ] **T2.2** Fix the `type: entitie` typo (53 files in `Entities/`). Single `sed -i 's/^type: entitie$/type: entity/'` pass. **state: open**.
 - [ ] **T2.3** Un-quote `type: "concept"` (2 files) → `type: concept`. **state: open**.
 - [ ] **T2.4** Add minimal frontmatter to the 2 files currently missing it (`Raw/agentos-sdk-dev-docs-2026-07-19.md`, `Raw/arxiv-zero-mem-2026-08-05.md`). Defensive read of first 20 lines first. **state: open**.
