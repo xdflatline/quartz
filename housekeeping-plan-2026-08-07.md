@@ -96,8 +96,8 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 - [x] **T1.5** Add the tag-index backlink to `content/index.md` so the home page points to `[[tags|Tag Index]]` (operator directive 2026-08-07). **state: done** (2026-08-07; also added [[Workflows/|Workflows]] to the section list).
 - [x] **T1.6** Create the first workflow subfolder: `content/Workflows/wiki-content-ingestion/`. **state: done** (2026-08-07).
 - [x] **T1.7** Create the workflow file `content/Workflows/wiki-content-ingestion/wiki-content-ingestion.md` (named after the workflow, NOT `SKILL.md`). Frontmatter uses only `details:` (no `detail:`). **state: done** (2026-08-07).
-- [ ] **T1.8** Create `content/Workflows/wiki-content-ingestion/references/` with 2–3 trimmed reference docs (frontmatter-rules, build-verification, mermaid-pitfalls). **state: open**.
-- [ ] **T1.9** Create `content/Workflows/wiki-content-ingestion/scripts/` with the `quote-frontmatter.py` and `audit-garden.py` tools. **state: open**.
+- [x] **T1.8** Create `content/Workflows/wiki-content-ingestion/references/` with 2–3 trimmed reference docs (frontmatter-rules, build-verification, mermaid-pitfalls). **state: done** (2026-08-07; only `mermaid-pitfalls.md` is relevant — other jin references are inline in the workflow or skill-side only).
+- [x] **T1.9** Create `content/Workflows/wiki-content-ingestion/scripts/` with the `quote-frontmatter.py` and `audit-garden.py` tools. **state: done** (2026-08-07; both copied from jin, with a `notes.md` in each subfolder explaining the trim and the known audit-garden issue).
 - [ ] **T1.10** Run `npx quartz build` to verify Phase 1 (after the first workflow). **state: open**.
 - [ ] **T1.11** Create the second workflow subfolder: `content/Workflows/wiki-catalog-research/`. **state: open**.
 - [ ] **T1.12** Create the workflow file `content/Workflows/wiki-catalog-research/wiki-catalog-research.md` (named after the workflow, NOT `SKILL.md`). Frontmatter uses only `details:`. **state: open**.
