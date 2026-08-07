@@ -115,8 +115,8 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 
 ### Phase 3 — Tag extension
 
-- [ ] **T3.1** Build the proposed tag vocabulary and surface it to the operator. Wait for sign-off. **state: open**.
-- [ ] **T3.2** Spawn 3 parallel sub-agents (one per tier: Raw, Concepts, Entities) to propose 1–2 topical tags for each single-tag file. Sub-agents return only `(file, new_tags)` pairs — no file rewrites. **state: open**.
+- [x] **T3.1** Build the proposed tag vocabulary and surface it to the operator. Wait for sign-off. **state: done** (vocabulary now lives in `content/tags.md`; operator approved 2026-08-07).
+- [x] **T3.2** Spawn 3 parallel sub-agents (one per tier: Raw, Concepts, Entities) to propose 1–2 topical tags for each single-tag file. Sub-agents return only `(file, new_tags)` pairs — no file rewrites. **state: in progress** (2026-08-07).
 - [ ] **T3.3** Aggregate sub-agent proposals; spot-check 20 files; if quality is poor, refine instructions and re-run. **state: open**.
 - [ ] **T3.4** Apply tag additions via `patch` (singular edits, auditable). **state: open**.
 - [ ] **T3.5** Update the Tag Index with any new tags introduced by the sub-agents. **state: open**.
