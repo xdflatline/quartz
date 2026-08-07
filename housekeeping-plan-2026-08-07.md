@@ -109,7 +109,7 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 
 - [x] **T2.1** Bulk migration: for every file, drop the `detail:` line; keep the more-informative text in `details:`. Use the per-file procedure documented at T0.3 (drop if `detail` is shorter; copy `detail` into `details` first if `detail` is longer — applies to `Entities/kernelbench.md` only). Defensive read first per skill's `patch` pitfall warning. **state: done** (2026-08-07; 254 files changed — 249 dropped detail, 1 kernelbench exception handled, 4 detail-only files had their content copied into details). Build clean: 287 input files, 0 errors, 1063 emitted.)
 - [x] **T2.2** Fix the `type: entitie` typo (53 files in `Entities/`). Single `sed -i 's/^type: entitie$/type: entity/'` pass. **state: done** (2026-08-07; 53 files fixed, 100 files in Entities/ now have `type: entity`. Build clean: 287 input files, 0 errors.)
-- [ ] **T2.3** Un-quote `type: "concept"` (2 files) → `type: concept`. **state: open**.
+- [x] **T2.3** Un-quote `type: "concept"` (2 files) → `type: concept`. **state: done** (2026-08-07; 2 Hindsight-related files fixed: `content/Concepts/hindsight-memory-system.md`, `content/Concepts/hindsight-memory-architecture.md`).
 - [ ] **T2.4** Add minimal frontmatter to the 2 files currently missing it (`Raw/agentos-sdk-dev-docs-2026-07-19.md`, `Raw/arxiv-zero-mem-2026-08-05.md`). Defensive read of first 20 lines first. **state: open**.
 - [ ] **T2.5** Run `npx quartz build` to verify Phase 2. **state: open**.
 

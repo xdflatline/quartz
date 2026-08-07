@@ -5,7 +5,7 @@ details: "This note expands on the Hindsight architecture, detailing the integra
 tags: ["concepts"]
 created: 2026-06-19
 updated: 2026-06-19
-type: "concept"
+type: concept
 ---
 
 # Hindsight Memory Architecture

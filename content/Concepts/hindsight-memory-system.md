@@ -5,7 +5,7 @@ details: "Hindsight addresses the limitations of standard RAG by introducing mul
 tags: ["concepts"]
 created: 2026-06-19
 updated: 2026-06-19
-type: "concept"
+type: concept
 ---
 
 # Hindsight Memory System
