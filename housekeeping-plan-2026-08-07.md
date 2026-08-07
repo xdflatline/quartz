@@ -70,10 +70,11 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 ### Phase 0 — Pre-flight
 
 - [x] **T0.1** Plan authored and operator-approved. **state: done** (commit on chore/housekeeping-2026-08-07, 2026-08-07).
-- [ ] **T0.2** Confirm migration strategy for `detail:` vs `details:` is "keep the more-informative, harmonize under `details:`" per operator's directive. **state: open**.
+- [x] **T0.2** Migration strategy confirmed: keep more-informative, harmonize under `details:`. **state: done** (operator directive 2026-08-07).
 - [ ] **T0.3** Spot-check 10 random files to confirm `detail:` and `details:` are near-duplicates (the migration is safe). If any file has substantively different content in the two fields, escalate to operator before bulk delete. **state: open**.
-- [ ] **T0.4** Build the proposed tag vocabulary (~30–40 tags) as a Yaml list — the seed of the Tag Index. **state: open**.
-- [ ] **T0.5** Open the `chore/housekeeping-2026-08-07` branch from `publish`. **state: open** (already done — see branch info above).
+- [ ] **T0.4** Build the proposed tag vocabulary (~30–40 tags) as a Yaml list — the seed of the Tag Index. **state: in progress** (operator approved the proposed vocabulary 2026-08-07; vocabulary is now in the plan; this task becomes the act of moving it into `content/tags.md`).
+- [x] **T0.5** Open the `chore/housekeeping-2026-08-07` branch from `publish`. **state: done** (commit 759a721, 2026-08-07).
+- [x] **T0.6** First workflow scope: both `wiki-content-ingestion` AND `wiki-catalog-research` (operator directive 2026-08-07), each in its own subfolder under `Workflows/`. **state: done** (operator directive 2026-08-07).
 
 ### Phase 1 — Create `Workflows/`, Tag Index, first workflow
 
@@ -86,7 +87,12 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 - [ ] **T1.7** Create the workflow file `content/Workflows/wiki-content-ingestion/wiki-content-ingestion.md` (named after the workflow, NOT `SKILL.md`). Frontmatter uses only `details:` (no `detail:`). **state: open**.
 - [ ] **T1.8** Create `content/Workflows/wiki-content-ingestion/references/` with 2–3 trimmed reference docs (frontmatter-rules, build-verification, mermaid-pitfalls). **state: open**.
 - [ ] **T1.9** Create `content/Workflows/wiki-content-ingestion/scripts/` with the `quote-frontmatter.py` and `audit-garden.py` tools. **state: open**.
-- [ ] **T1.10** Run `npx quartz build` to verify Phase 1. **state: open**.
+- [ ] **T1.10** Run `npx quartz build` to verify Phase 1 (after the first workflow). **state: open**.
+- [ ] **T1.11** Create the second workflow subfolder: `content/Workflows/wiki-catalog-research/`. **state: open**.
+- [ ] **T1.12** Create the workflow file `content/Workflows/wiki-catalog-research/wiki-catalog-research.md` (named after the workflow, NOT `SKILL.md`). Frontmatter uses only `details:`. **state: open**.
+- [ ] **T1.13** Create `content/Workflows/wiki-catalog-research/references/` with trimmed reference docs (catalog-pattern-reference, build-verification — only those that apply here). **state: open**.
+- [ ] **T1.14** Create `content/Workflows/wiki-catalog-research/scripts/` if the source skill has any (e.g. catalog-update helpers). If none, omit the folder. **state: open**.
+- [ ] **T1.15** Final `npx quartz build` to verify the full Phase 1 (both workflows). **state: open**.
 
 ### Phase 2 — Frontmatter normalization
 
@@ -204,7 +210,7 @@ Before I start any of the work in Phase 1 onward, I need confirmation on:
 1. **Plan location** ✓ (decided: repo root, outside `content/`)
 2. **Branch model** ✓ (decided: `chore/housekeeping-2026-08-07` from `publish`, PR at the end)
 3. **Commit granularity** ✓ (decided: per state transition, push after every commit)
-4. **Tag vocabulary** — proposed above. Accept, or want to adjust?
+4. **Tag vocabulary** — approved by operator 2026-08-07. Proceed with the 30–40-tag proposal at the bottom of the plan.
 5. **Tag Index location** — `content/tags.md` (operator directive 2026-08-07; not `Concepts/` as originally proposed).
 6. **Canonical `type:` enum** — `raw | concept | entity | research | paper | project | idea | note | index | resource | content` (drop `entitie` typo, drop `article`, drop `"concept"` quoted). Keep `Opaque` and `Resource` as-is? Anything to add?
-7. **Workflows/ first migration** — only `wiki-content-ingestion`, or also `wiki-catalog-research` in the same pass?
+7. **Workflows/ first migration** — `wiki-content-ingestion` AND `wiki-catalog-research`, each in its own subfolder (operator directive 2026-08-07; supersedes the single-workflow scope).
