@@ -132,7 +132,7 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 
 ### Phase 5 — PR to publish
 
-- [ ] **T5.1** Open a PR from `chore/housekeeping-2026-08-07` → `publish` for operator review. **state: open**.
+- [x] **T5.1** Open a PR from `chore/housekeeping-2026-08-07` → `publish` for operator review. **state: done** (2026-08-07; PR #11 opened: https://github.com/xdflatline/quartz/pull/11). **Phase 5 complete.**
 
 ### Phase 6 — Update memory + jin skill
 
