@@ -1,6 +1,6 @@
 ---
 title: Continued Pretraining (CPT)
-detail: "subgraph \"Pretraining\""
+
 details: "subgraph \"Pretraining\""
 tags:
   - concepts

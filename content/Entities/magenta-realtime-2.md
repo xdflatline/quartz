@@ -1,6 +1,6 @@
 ---
 title: Magenta RealTime 2
-detail: Google Magenta's open and local live music models enabling real-time music synthesis with low latency on standard hardware like MacBooks.
+
 details: Google Magenta's open and local live music models enabling real-time music synthesis with low latency on standard hardware like MacBooks.
 tags:
   - entities

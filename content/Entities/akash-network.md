@@ -1,6 +1,6 @@
 ---
 title: "Akash Network"
-detail: "Decentralized cloud computing marketplace providing censorship-resistant, high-performance compute and GPU resources via reverse auction."
+
 details: "Akash Network is a decentralized cloud computing marketplace built on the Cosmos SDK. It operates as an open, permissionless network where independent providers compete to offer high-performance compute and GPU resources, including for ML inference workloads."
 tags:
   - entities

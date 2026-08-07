@@ -1,6 +1,6 @@
 ---
 title: "Research Index: The Mere Ecosystem (sawfwair)"
-detail: "Local-first AI ecosystem from Sawfwair Inc.: mere.run runtime, Graph Studio, Relay, MereKit CLI, MereKit Link, and run-plugins. One contract from a single machine to private remote compute."
+
 details: "Synthesis of the sawfwair GitHub organization as a single coherent AI ecosystem. Covers the core runtime (mere.run) with its modality-first command tree, the portable graph contract used by every surface, the visual authoring layer (Mere Graph Studio), the private remote compute layer (relay-mere-run) with its account-scoped Durable Object control plane, the MereKit CLI as the human/agent command plane, MereKit Link for declarative workspace links, and the official run-plugins that bridge to user-controlled external compute. Architecture diagram in Mermaid, per-layer capability matrix, and the cross-cutting design principles (one runtime contract, account isolation, capability-aware placement, lease-safe retries, no second execution contract)."
 tags:
   - research

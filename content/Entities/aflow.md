@@ -1,6 +1,6 @@
 ---
 title: "AFlow"
-detail: "Zhang et al. 2025. Automating Agentic Workflow Generation — represents an agentic workflow as a graph (nodes = LLM-invoking actions, edges = code-level logic) and optimizes it with Monte Carlo Tree Search (MCTS)."
+
 details: "AFlow showed decent improvement over manually designed workflows and ADAS on QA, code, and math tasks. The graph representation makes workflows explicit and inspectable; the MCTS selection rule (soft mixture of score and uniform exploration) avoids local optima."
 tags:
   - entities

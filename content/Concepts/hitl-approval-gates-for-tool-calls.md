@@ -1,6 +1,6 @@
 ---
 title: "HITL Approval Gates for Tool Calls"
-detail: "Pattern where sensitive MCP tool calls (k8s_apply_*, delete_*, etc.) are routed to a human approver via webhook or in-conversation flow before they execute."
+
 details: "Human-in-the-loop approval gates intercept sensitive tool calls before execution, returning a blocked-action result to the worker if denied. AURA (mezmo/aura) implements this as [hitl] with tool-name globs and a [hitl.route] choosing between webhook and conversational modes. Approval lifecycle SSE events are emitted regardless of AURA_CUSTOM_EVENTS; conversational mode also emits aura.approval_pending and requires stream=true plus an Aura-aware client. Cross-pod resolution works in Redis session-store mode."
 tags:
   - concepts

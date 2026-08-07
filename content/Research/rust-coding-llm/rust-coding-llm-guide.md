@@ -1,6 +1,6 @@
 ---
 title: Fine-tuning a Rust Coding LLM with Unsloth
-detail: A practical research guide for training a small LLM to write solid, best-practice Rust code using EPUB-derived markdown datasets, with the goal of ...
+
 details: A practical research guide for training a small LLM to write solid, best-practice Rust code using EPUB-derived markdown datasets, with the goal of ...
 tags:
   - research

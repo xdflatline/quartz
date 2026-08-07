@@ -1,6 +1,6 @@
 ---
 title: Remotion
-detail: "React-based video composition engine used by OpenMontage. Renders data-driven explainers, data visualizations, charts, tables, word-level TikTok-style captions, and talking heads via Node.js."
+
 details: "Remotion is a React / Node.js framework for programmatically creating videos. OpenMontage uses it as one of three render runtimes (Remotion, HyperFrames, FFmpeg). Remotion is best for data-driven explainers, data viz, charts, tables, word-level captions, and talking heads. Spring animations, component composition, and integration with React's ecosystem (TypeScript, hooks) make it ideal for templated composition — assembling stock cut.type scene-types into compositions quickly, cheaply, reliably."
 tags:
   - entities

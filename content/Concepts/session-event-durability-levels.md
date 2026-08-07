@@ -1,6 +1,6 @@
 ---
 title: "Session Event Durability Levels"
-detail: "AgentOS event model distinguishing ephemeral (live deltas, not persisted) from durable (sequenced, SQLite-committed) session events."
+
 details: "AgentOS events are a flat discriminated union with a `durability: 'ephemeral' | 'durable'` field. Ephemeral events (live agent-message or thought deltas) are not sequenced or stored. Durable events (completed/coalesced message chunks, permission request/response records) have a session sequence and are emitted only after their SQLite transaction commits. Consumers deduplicate live durable delivery by `(sessionId, sequence)`. This dual-layer model lets agents stream live deltas to UIs while keeping replayable history in SQLite."
 tags:
   - concepts

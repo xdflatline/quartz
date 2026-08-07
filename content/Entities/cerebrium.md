@@ -1,6 +1,6 @@
 ---
 title: "Cerebrium"
-detail: "Python-native serverless GPU platform focused on real-time AI inference with multi-region deployment and memory-snapshot cold starts."
+
 details: "Cerebrium is a serverless AI infrastructure platform designed for production inference, real-time AI, batch jobs, and voice AI. It supports 10+ GPU types, multi-region deployments, and a highly-available distributed router (Thalamus) for global real-time AI workloads. Brings-your-own-Dockerfile approach with no proprietary SDK or decorator required."
 tags:
   - entities

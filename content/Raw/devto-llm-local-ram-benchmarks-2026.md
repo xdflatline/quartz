@@ -1,6 +1,6 @@
 ---
 title: How Much RAM Do You Really Need to Run LLMs Locally? 2026 Benchmarks
-detail: This article provides practical benchmarks and formulas for estimating hardware requirements to run LLMs locally using tools like Ollama. Covers qu...
+
 details: This article provides practical benchmarks and formulas for estimating hardware requirements to run LLMs locally using tools like Ollama. Covers qu...
 tags:
   - raw

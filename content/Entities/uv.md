@@ -1,6 +1,6 @@
 ---
 title: uv
-detail: "Entities: uv."
+
 details: "Entities: uv."
 tags:
   - entities

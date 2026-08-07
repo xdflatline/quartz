@@ -1,6 +1,6 @@
 ---
 title: Welcome to My Digital Garden
-detail: Main entry point for my digital garden built with Quartz
+
 details: Main entry point for my digital garden built with Quartz
 tags:
   - root

@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes Vertical Pod Autoscaler (VPA)"
-detail: "Kubernetes controller that automatically adjusts pod CPU and memory requests based on historical and current usage, mitigating transient-load and data-deficient initial provisioning patterns."
+
 details: "A Kubernetes controller in the autoscaler family that observes historical and current resource usage and automatically updates pod `resources.requests` (and optionally `limits`) to match demand. Three components: recommender (analyzes history), updater (mutates pod specs), admission controller (applies changes to live pods). Relevant to right-sizing: for workloads with a 10-minute daily spike, VPA reduces annual over-allocation from 99.96% to near-zero by scaling down during idle periods. VPA cannot be combined with Horizontal Pod Autoscaler (HPA) on the same resource dimension; teams typically use HPA for CPU and VPA for memory, or use VPA in recommendation-only mode and apply changes via a separate process."
 tags:
   - entities

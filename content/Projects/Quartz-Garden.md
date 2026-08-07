@@ -1,6 +1,6 @@
 ---
 title: "Project: Quartz Digital Garden"
-detail: Building a digital garden with Quartz static site generator
+
 details: Building a digital garden with Quartz static site generator
 tags:
   - projects

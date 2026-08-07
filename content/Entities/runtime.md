@@ -1,6 +1,6 @@
 ---
 title: Runtime
-detail: "Entities: Runtime."
+
 details: "Entities: Runtime."
 tags:
   - entities

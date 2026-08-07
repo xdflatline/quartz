@@ -1,6 +1,6 @@
 ---
 title: "Amsterdam Day Trip Reference"
-detail: "Day-trip reference card for Amsterdam as a single-day round trip from the Bergen / Alkmaar area. Anchors on Amsterdam Centraal station (52.378901, 4.9005805) and aggregates foot- and tram-reachable POIs in the historic center and Museumkwartier: Anne Frank House, Westerkerk, Begijnhof, Amsterdam Museum, Rijksmuseum, Van Gogh Museum, Heineken Experience, Vondelpark, and Albert Cuyp market. Includes train connection info from Alkmaar, tram and metro lines from Centraal, and a suggested day route."
+
 details: "Trip reference compiled 2026-07-13 for use as a single-day round trip from the Bergen stay. Anchor: Amsterdam Centraal station 52.378901, 4.9005805 (Stationsplein, 1012 AB Amsterdam). Train from Alkmaar: ~35-38 min direct (NS Intercity, 4 per hour). All listed POIs are reachable on foot (within 5.5 km of the station) or by GVB tram/metro from Centraal; nothing in the itinerary requires a car. Anne Frank House and Van Gogh Museum both require online-only timed tickets sold 6 weeks ahead. Caveats: OSM opening hours are community-maintained; Anne Frank House, Rijksmuseum, and Van Gogh Museum have published current hours via web search (Anne Frank daily 09:00-22:00, Rijksmuseum daily 09:00-17:00, Van Gogh daily 09:00-18:00). Distance figures are OSRM road-network distances; walking-time estimates assume ~5 km/h on foot and are marked with a leading tilde to flag them as approximate."
 tags:
   - research

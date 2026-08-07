@@ -1,6 +1,6 @@
 ---
 title: "Subagent-as-Tool Composition"
-detail: "Composition pattern where agents, workflows, and MCP servers are uniformly exposed to a parent agent as tools (named 'agent-<key>', 'workflow-<key>'), enabling recursive nesting — an agent can call agents that call agents."
+
 details: "A composition pattern that unifies subagents, workflows, and MCP-loaded tools under the same tool representation. A parent agent's 'tools' slot accepts three kinds: createTool-built primitives, agents (auto-converted to 'agent-<key>'), and workflows (auto-converted to 'workflow-<key>'). The parent LLM sees a flat tool list and decides what to call. The pattern enables hierarchical agent systems (supervisor-of-supervisors) and clean reuse (a research workflow is callable from any agent that needs it)."
 tags:
   - concepts

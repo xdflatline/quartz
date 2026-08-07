@@ -1,6 +1,6 @@
 ---
 title: OpenMontage — Agentic Video Production System (Raw Source)
-detail: "Raw notes captured from the calesthio/OpenMontage GitHub repository, including README, AGENT_GUIDE, and PROJECT_CONTEXT. OpenMontage is the first open-source, agentic video production system that turns an AI coding assistant into a full studio."
+
 details: "Verbatim summary of the OpenMontage repository, captured 2026-07-02. Covers the 12 production pipelines, 52 tools across image / video / TTS / music / SFX / analysis, the three-layer knowledge stack (tools / skills / .agents/skills), the instruction-driven architecture (no Python orchestrator), the render-runtime decision (Remotion vs HyperFrames vs FFmpeg), local GPU support (Wan 2.1, Hunyuan, CogVideo, LTX-Video), and example production costs (sub-dollar videos using free stock + Piper TTS + fal.ai cloud)."
 tags:
   - raw

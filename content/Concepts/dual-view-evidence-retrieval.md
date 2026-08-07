@@ -1,6 +1,6 @@
 ---
 title: "Dual-View Evidence Retrieval"
-detail: "Coordinate a relational view (entity–context graph) and a temporal view (turn / window / episode / local span) with a query profile, fuse rankings, and add bounded structural support from each view."
+
 details: "Dual-view evidence retrieval is the retrieval design at the heart of Zero-Mem. Two complementary non-generative views are built over the same provenance-bearing trace units: a relational view (Personalized PageRank over an entity–context graph) and a hierarchical view (coarse-to-fine descent over episode / window / turn / local). A query profile φ(q) deterministically routes to {relational, local} and sets the primary view weight ρ (default 0.6). Retrieval is executed on both views; rankings are normalized per view and fused by S_fuse(d) = ρ · Ŝ_primary(d) + (1 − ρ) · Ŝ_secondary(d). Evidence closure then adds bounded, query-conditioned support: Ng supplies graph-ranked contexts with relational or bridging support, Nh restores neighboring turns or local spans. Ablation on HotpotQA 56K: full model 72.07 F1 vs. graph-only 62.50 and hierarchy-only 54.88, confirming complementarity. The two views cover each other's failure modes: the graph connects evidence distributed across documents; the hierarchy preserves local, temporal, and session-level state."
 tags:
   - concepts

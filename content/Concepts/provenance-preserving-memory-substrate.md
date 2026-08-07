@@ -1,6 +1,6 @@
 ---
 title: "Provenance-Preserving Memory Substrate"
-detail: "Treat original interaction traces as the source of record. Every derived retrieval unit retains its original text, source identifier, session time, boundary identifier, and any other available metadata — no generated intermediate representation."
+
 details: "A provenance-preserving memory substrate is one in which no step generates an intermediate representation of the past. Traces are stored verbatim, and every retrieval structure (graph, hierarchy, dense index) is derived from them without rewriting or summarizing their content. Each derived unit carries a back-pointer to its original trace unit (source identifier, session time, boundary identifier, speaker, tool observation, timestamp), so retrieved evidence is always traceable to the observed interaction. This is the substrate that makes the zero-token operating regime possible: if no step rewrites the past, there is no opportunity for omission, merging, or hallucinated detail. It is also what enables deterministic calibration — every filter and rank operation can reason about provenance, boundary, and compatibility with the query without consulting an LLM."
 tags:
   - concepts

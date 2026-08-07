@@ -1,6 +1,6 @@
 ---
 title: "Research Index: Gemma 4 Quantization-Aware Training"
-detail: This research index covers Gemma 4 models enhanced with Quantization-Aware Training (QAT), a technique that simulates quantization during training ...
+
 details: This research index covers Gemma 4 models enhanced with Quantization-Aware Training (QAT), a technique that simulates quantization during training ...
 tags:
   - research

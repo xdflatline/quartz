@@ -1,6 +1,6 @@
 ---
 title: "The Node AI"
-detail: "YouTube channel run by Patrick that publishes long-form technical deep-dives on building AI-assisted knowledge systems, with the Second Brain architecture as its flagship walkthrough."
+
 details: "The Node AI is a German-language YouTube channel run by Patrick, focused on practical AI workflows and personal knowledge management. The flagship video ('My Second Brain', mHSOsy_usAg, 45 min) walks through the full architecture, build process, and lessons learned of Patrick's private Second Brain system: capabilities-first design, six-step build process, three reference roles, the Brain-First search ladder, the PARA wiki pattern, AI-curated knowledge with conflict detection, and the visual-specification lesson. The channel is notable for production-validated architectures (2,000 notes, 4,000 files, 52 flagged conflicts on first ingest) and for explicit, testable claims (50% token / 40% time savings with Brain-First, 5/5 correct in both runs). Other videos on the channel cover skills/plugins for Claude Code, video editing pipelines, and tokenizer fundamentals. Free starter document and Brain-First rules are linked in the video description; a free School community provides the Brain-First rulebook as a copy-pasteable CLAUDE.md snippet."
 tags:
   - entities

@@ -1,6 +1,6 @@
 ---
 title: "Capabilities-First System Design"
-detail: "Start a new system by writing the 3-5 concrete capabilities it must satisfy before choosing any tool, framework, or plugin."
+
 details: "The Node AI's first move when building his Second Brain was not to pick a tool, but to write down what the system must be able to do so that he could trust it. He calls the result the 'capabilities list': 3-5 points, each so concrete that he could later check whether it was fulfilled. For the Second Brain the four capabilities were Find (relevant info in seconds, even without knowing the exact word), Read (open and read in the same system, no app-switch), Stay Clean (the system itself detects contradictions, duplicates, outdated states, and condenses knowledge), and Overview (the whole system at a glance). Each capability later found a home in a specific component of the architecture, so the list drove every subsequent technology decision. The boundary condition 'everything runs locally' sat on the same list and constrained all later choices."
 tags:
   - concepts

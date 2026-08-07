@@ -1,6 +1,6 @@
 ---
 title: Static Site Generators
-detail: Comparison of static site generators for digital gardens
+
 details: Comparison of static site generators for digital gardens
 tags:
   - concepts

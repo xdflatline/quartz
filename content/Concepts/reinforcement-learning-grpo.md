@@ -1,6 +1,6 @@
 ---
 title: Reinforcement Learning and GRPO for LLMs
-detail: "Traditional LLM training follows a three-stage pipeline:"
+
 details: "Traditional LLM training follows a three-stage pipeline:"
 tags:
   - concepts

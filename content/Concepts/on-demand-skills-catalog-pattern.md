@@ -1,6 +1,6 @@
 ---
 title: "On-Demand Skills Catalog Pattern"
-detail: "Pattern where task-specific instructions (skills) are exposed to the LLM as a catalog in the system prompt, and the LLM calls load_skill to fetch a skill's full instructions only when needed."
+
 details: "An on-demand instruction-loading pattern: skills (per the Agent Skills format: SKILL.md with YAML frontmatter plus optional references/, scripts/, assets/) are discovered at agent build time. Instead of inlining every skill into the system prompt, the harness appends only a catalog of names and descriptions. The LLM calls load_skill to fetch a skill's full instructions on demand, and read_skill_file to fetch individual resource files. read_skill_file resolves symlinks and rejects any path that escapes the skill directory. Implemented in AURA (mezmo/aura) as [agent.skills]."
 tags:
   - concepts

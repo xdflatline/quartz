@@ -1,6 +1,6 @@
 ---
 title: "Anyscale"
-detail: "Managed Ray platform for production AI workloads (training and inference), built by the creators of Ray."
+
 details: "Anyscale is a managed platform for running Ray-based distributed AI workloads at production scale. It supports both hosted (Anyscale-managed) and Bring-Your-Own-Cloud (BYOC) deployment models, with rack-aware GPU scheduling and NVIDIA cuDF support on Ray Data. Customers include Handshake, Canva, Attentive, and Coactive AI."
 tags:
   - entities

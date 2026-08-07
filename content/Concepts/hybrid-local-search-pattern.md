@@ -1,6 +1,6 @@
 ---
 title: "Hybrid Local Search Pattern"
-detail: "Combine classical keyword (BM25-style) search with semantic vector search in a single on-device index; use RAG to ground the LLM's answer in the found passages."
+
 details: "The architectural pattern underlying capability 1 (Find) of the Second Brain, and the technology that powers rung 3 of the [[Brain-First Search Ladder]]. The Node AI uses QMD (by Tobi Lütke, Shopify founder) as the local hybrid search engine: classical keyword search plus semantic search over embeddings, fully on-device. The semantic layer is classical ML (a small embedding model computing vectors), not LLM magic; the cost is in the cent range even for a fully filled Second Brain. The full RAG pipeline (Retrieval-Augmented Generation) is the canonical consumer of the search: first retrieve, then generate. The two-AI division of labour generalises: a small local embedding model does the cheap, fast semantic work; the LLM does the precise generation. Combined with [[Deterministic-First Architecture]], the search is the [[Building Block]] role from [[Three Reference Roles]] — a finished, maintained, free component the Node AI integrated as-is. The 'Karpathy framing' (LLMs are like a fresh graduate; RAG is giving them your documents before the exam) gives the design rationale."
 tags:
   - concepts

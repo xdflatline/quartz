@@ -1,6 +1,6 @@
 ---
 title: Terraform
-detail: Central repository for Terraform research, configurations, and best practices.
+details: "Central repository for Terraform research, configurations, and best practices."
 tags: [research]
 created: 2026-06-26
 updated: 2026-06-26

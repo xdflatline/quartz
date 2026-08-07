@@ -1,6 +1,6 @@
 ---
 title: "GDPR"
-detail: "EU General Data Protection Regulation (Regulation 2016/679) — the primary EU law governing the processing of personal data of EU/EEA residents."
+
 details: "The General Data Protection Regulation (GDPR) is an EU regulation in force since 25 May 2018 that governs the processing of personal data of individuals in the EU/EEA. It applies to any organization processing such data, regardless of where the organization is based. The regulation introduced strengthened consent, data-subject rights, breach notification, and substantial penalties (up to 4% of annual global turnover or EUR 20 million, whichever is higher)."
 tags:
   - entities

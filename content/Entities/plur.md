@@ -1,6 +1,6 @@
 ---
 title: PLUR
-detail: "Entities: PLUR."
+
 details: "Entities: PLUR."
 tags:
   - entities

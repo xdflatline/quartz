@@ -1,6 +1,6 @@
 ---
 title: "Hyperagents"
-detail: "Zhang et al. 2026. The follow-up to DGM — introduces a meta-agent to control how to modify existing task agents to create new ones. Addresses the open question of which modification strategy to use."
+
 details: "DGM leaves one question open: how should the agent decide *what kind* of edit to make? Hyperagents introduces a **meta-agent that learns a modification policy** over the population. The meta-agent decides whether the next modification should be a refactor, a parameter tweak, a tool addition, or a structural rewrite."
 tags:
   - entities

@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes Resource Feedback-Loop Discipline"
-detail: "Operational pattern that institutionalizes periodic revisitation of resource requests (post-deployment audit, quarterly reconciliation, incident-triggered review) to prevent set-and-forget over-provisioning."
+
 details: "A process pattern for Kubernetes resource management that institutionalizes structured revisitation of requests and limits. Three mechanisms: post-deployment audit (30-day P95 vs. requested), quarterly reconciliation (cluster-wide), incident-triggered review (root-cause before adjusting). The discipline transforms set-and-forget into set-and-optimize. Quantitative claim from the source: 40-70% slack reduction within 90 days of consistent application. The unifying principle is that resource allocation is a control-system problem, not a one-time configuration decision—analogous to a thermostat that must be recalibrated as ambient conditions change."
 tags:
   - concepts

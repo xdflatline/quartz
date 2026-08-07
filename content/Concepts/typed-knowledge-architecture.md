@@ -1,6 +1,6 @@
 ---
 title: Typed Knowledge Architecture
-detail: "Alternative to flat-text memory: structure knowledge into typed buckets with distinct retrieval strategies. Prevents context pollution by injecting..."
+
 details: "Alternative to flat-text memory: structure knowledge into typed buckets with distinct retrieval strategies. Prevents context pollution by injecting..."
 tags:
   - concepts

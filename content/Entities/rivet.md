@@ -1,6 +1,6 @@
 ---
 title: "Rivet"
-detail: "Open-source actor platform that powers AgentOS — durable server objects with portable runtime, automatic sleep/wake, workflows, and self-hostable orchestration engine."
+
 details: "Rivet is the actor platform underlying AgentOS. RivetKit (the SDK) lets you write long-lived stateful server objects (actors) that are reachable by name, distributed across infrastructure, and portable across deploy targets (Vercel, Railway, Kubernetes, AWS ECS, Google Cloud Run, Hetzner, VM/Bare Metal, Custom). Rivet Cloud offers fully managed zero-ops hosting; the open-source engine can be self-hosted. The platform also offers Rivet Compute as a managed deploy target for AgentOS. Apache-2.0, https://rivet.dev"
 tags:
   - entity

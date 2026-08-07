@@ -1,6 +1,6 @@
 ---
 title: Flipper One
-detail: "Entities: Flipper One."
+
 details: "Entities: Flipper One."
 tags:
   - entities

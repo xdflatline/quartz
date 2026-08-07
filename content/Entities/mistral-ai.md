@@ -1,6 +1,6 @@
 ---
 title: Mistral AI
-detail: Mistral AI is a French AI company known for developing open-weight language models. In May 2026, Mistral AI acquired Emmi AI, continuing the trend ...
+
 details: Mistral AI is a French AI company known for developing open-weight language models. In May 2026, Mistral AI acquired Emmi AI, continuing the trend ...
 tags:
   - entities

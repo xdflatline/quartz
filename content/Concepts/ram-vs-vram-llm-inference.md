@@ -1,6 +1,6 @@
 ---
 title: RAM vs VRAM for LLM Inference
-detail: "The single most critical hardware factor for local LLM performance: **whether the entire model fits in VRAM**. VRAM is 10x–30x faster than system R..."
+
 details: "The single most critical hardware factor for local LLM performance: **whether the entire model fits in VRAM**. VRAM is 10x–30x faster than system R..."
 tags:
   - concepts

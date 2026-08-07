@@ -1,6 +1,6 @@
 ---
 title: "Fireworks AI"
-detail: "Open-source model inference platform with FireAttention (custom kernels), per-token serverless, and per-second on-demand GPU deployments."
+
 details: "Fireworks AI hosts 200+ open-source models (text, vision, audio, image, embeddings) on optimized inference infrastructure. The platform pairs a serverless per-token API with on-demand GPU deployments, plus the FireOptimizer stack for SFT, LoRA, RFT, and RL fine-tuning. Known for low latency via custom FireAttention kernels."
 tags:
   - entities

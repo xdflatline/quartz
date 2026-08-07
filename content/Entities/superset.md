@@ -1,6 +1,6 @@
 ---
 title: Superset
-detail: "Entities: Superset."
+
 details: "Entities: Superset."
 tags:
   - entities

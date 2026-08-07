@@ -1,6 +1,6 @@
 ---
 title: Cybersecurity
-detail: Cybersecurity encompasses protecting systems, networks, and data from unauthorized access, attacks, and damage. Modern threat landscape includes su...
+
 details: Cybersecurity encompasses protecting systems, networks, and data from unauthorized access, attacks, and damage. Modern threat landscape includes su...
 tags:
   - concepts

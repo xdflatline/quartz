@@ -1,6 +1,6 @@
 ---
 title: "GEPA"
-detail: "Agrawal et al. 2025. Reflective Prompt Evolution — combines reflection-based prompting with evolutionary search using natural language reflection over trial-and-error trajectories to propose prompt updates."
+
 details: "GEPA is a prompt-evolution method that reads trajectories of trial and error, reflects on what went wrong, and proposes prompt updates in natural language. It is one of the foundational methods in the broader [[Concepts/evolutionary-search-for-harnesses]] family, alongside Promptbreeder and AlphaEvolve."
 tags:
   - entities

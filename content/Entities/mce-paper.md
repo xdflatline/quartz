@@ -1,6 +1,6 @@
 ---
 title: "MCE paper (Meta Context Engineering via Agentic Skill Evolution)"
-detail: "Ye et al. 2026. The bi-level optimization framework that separates mechanism (how to manage context) from artifact content (what is in context). Inner loop finds best context for a skill; outer loop finds the skill that gives best validation performance. Skills undergo agentic crossover over a history H of (skill, context, train-utility, val-utility) tuples."
+
 details: "The MCE paper is the meta-level extension of the ACE line. The bi-level formalism, the skill history H, the agentic crossover operator, and the standard tool set {Read, Write, Edit, Bash, Glob, Grep, TodoWrite} are all defined here. Implementation-wise, a context function is a collection of files in a dedicated directory including both static (skill.md) and dynamic (context + data rollouts) components."
 tags:
   - entities

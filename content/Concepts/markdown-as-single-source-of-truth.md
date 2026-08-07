@@ -1,6 +1,6 @@
 ---
 title: "Markdown as Single Source of Truth"
-detail: "Store all knowledge as plain Markdown files on disk; every other view (graph, search index, web app) is a derived, disposable projection of those files."
+
 details: "The Node AI's foundational storage decision: all knowledge — vault, wiki, projects, skills, memory, connectors — lives as plain Markdown files in a folder. No database, no proprietary format, no 'system that can lock you in'. Every other component of the architecture is a derived view on the same files: the indexer writes an index.md and a map file; the search engine reads the folder; the graph visualization reads the map file; the web app reads the index.md. Any of those views can be thrown away and rebuilt without losing a single byte of knowledge. The same principle was independently arrived at by Gbrain and Graphify, which the Node AI studied and rejected but whose pattern he adopted. The 'quiet superpower' framing: the data survives every tool, every app, every company. The user is never locked in."
 tags:
   - concepts

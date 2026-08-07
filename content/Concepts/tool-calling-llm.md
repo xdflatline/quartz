@@ -1,6 +1,6 @@
 ---
 title: Tool Calling in LLMs
-detail: "Tool calling allows an LLM to:"
+
 details: "Tool calling allows an LLM to:"
 tags:
   - concepts

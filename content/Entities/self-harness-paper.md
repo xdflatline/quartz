@@ -1,6 +1,6 @@
 ---
 title: "Self-Harness paper"
-detail: "Zhang et al. 2026. LLM agents improve their own harness via a propose-evaluate-accept loop. Three stages: weakness mining (cluster failures into verifier-grounded patterns), bounded harness proposal (edits to editable surfaces with regression-safe context), and proposal validation (held-in + held-out regression tests before accept)."
+
 details: "When run on MiniMax M2.5, Qwen3.5-35B-A3B, and GLM-5 on Terminal-Bench-2, Self-Harness learned model-specific harness instructions that target different weaknesses of different base models and improved held-out pass rates. Weng's concern: if a program is allowed to edit the OS system, abstraction boundaries are broken — permission control and security layers must live outside this loop."
 tags:
   - entities

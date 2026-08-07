@@ -1,6 +1,6 @@
 ---
 title: Lance Multimodal Model
-detail: Lance is a 3B active-parameter native unified multimodal model from ByteDance supporting image/video understanding, generation, and editing within ...
+
 details: Lance is a 3B active-parameter native unified multimodal model from ByteDance supporting image/video understanding, generation, and editing within ...
 tags:
   - entities

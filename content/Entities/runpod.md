@@ -1,6 +1,6 @@
 ---
 title: "RunPod"
-detail: "GPU cloud with both on-demand Pods (full VMs) and per-second Serverless endpoints, with a wide GPU selection including H100, A100, RTX 4090/5090."
+
 details: "RunPod offers two products: Pods (full GPU instances billed per second with no ingress fees) and Serverless (queue-based workers or load-balanced HTTP endpoints with scale-to-zero). The platform is known for aggressive pricing via Community Cloud and a broad GPU catalog from consumer (4090, 5090) to data-center (H100, H200, B200, B300)."
 tags:
   - entities

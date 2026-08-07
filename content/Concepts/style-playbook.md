@@ -1,6 +1,6 @@
 ---
 title: Style Playbooks (Design Tokens)
-detail: "YAML-defined visual language playbooks for video production. Define typography, motion, audio, color, and asset-generation constraints. OpenMontage uses them to ensure visual consistency across a project. Schema v2 adds design tokens: chart_palette, scale_system, weight_matrix, color_rules."
+
 details: "Style playbooks are YAML-defined visual language playbooks for video production. They define typography, motion, audio, color, asset-generation constraints, and chart aesthetics. OpenMontage uses them to ensure visual consistency across a project and to bridge the gap between Remotion (React) and HyperFrames (HTML/GSAP) composition modes. The schema (schemas/styles/playbook.schema.json v2) defines design tokens: chart_palette, scale_system, weight_matrix, color_rules. The HyperFrames bridge (lib/hyperframes_style_bridge.py) converts a playbook into CSS custom properties plus a DESIGN.md, materializing a HyperFrames workspace ready to render. Playbooks are loaded via styles/playbook_loader.py — a Pydantic-validated loader that also serves as design intelligence."
 tags:
   - concepts

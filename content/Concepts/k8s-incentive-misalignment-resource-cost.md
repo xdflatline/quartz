@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes Incentive Misalignment on Resource Cost"
-detail: "Structural pattern where SRE/platform teams are penalized for outages but not for resource waste, producing systematic over-provisioning as the locally-rational response."
+
 details: "An organizational-incentive pattern that produces systematic Kubernetes over-provisioning. The mechanism: SRE and platform teams are evaluated on availability and incident response, not on resource utilization. Outages are loud (pages, postmortems, executive attention); waste is silent. Under this incentive structure, the rational individual response is to over-request: the worst case of over-provisioning is invisible budget consumption, while the worst case of under-provisioning is a 3am page. The pattern produces up to 40% higher infrastructure costs and is the structural cause behind the safety-margin anti-pattern. Mitigation requires rebalancing the incentive structure: efficiency SLAs, cost-to-team transparency, and acknowledgment of waste in the same review forums as outages."
 tags:
   - concepts

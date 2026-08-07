@@ -1,6 +1,6 @@
 ---
 title: Agent Self-Improvement Research
-detail: This research outlines the architectural specifications for instructing arbitrary AI agents to self-improve while preventing context pollution, mai...
+
 details: This research outlines the architectural specifications for instructing arbitrary AI agents to self-improve while preventing context pollution, mai...
 tags:
   - research

@@ -1,6 +1,6 @@
 ---
 title: TLA+
-detail: TLA+ (Temporal Logic of Actions) is a formal specification language developed by Leslie Lamport for designing, modeling, and verifying concurrent a...
+
 details: TLA+ (Temporal Logic of Actions) is a formal specification language developed by Leslie Lamport for designing, modeling, and verifying concurrent a...
 tags:
   - concepts

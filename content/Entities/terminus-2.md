@@ -1,6 +1,6 @@
 ---
 title: "Terminus-2"
-detail: "A strong human-designed coding-agent harness used as a starting point for Meta-Harness experiments on TerminalBench-2."
+
 details: "Terminus-2 is one of the two strong starting harnesses Meta-Harness improves from in its TerminalBench-2 experiments. The fact that Meta-Harness improves on it from a fixed model (Claude 3.5 Sonnet) is the evidence that the harness design space has room above strong human design."
 tags:
   - entities

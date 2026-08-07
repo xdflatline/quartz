@@ -1,6 +1,6 @@
 ---
 title: Slumber
-detail: "Entities: Slumber."
+
 details: "Entities: Slumber."
 tags:
   - entities

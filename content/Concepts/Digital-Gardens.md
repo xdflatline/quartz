@@ -1,6 +1,6 @@
 ---
 title: Digital Gardens
-detail: The philosophy and practice of cultivating a public knowledge base
+
 details: The philosophy and practice of cultivating a public knowledge base
 tags:
   - concepts

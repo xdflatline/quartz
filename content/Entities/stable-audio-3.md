@@ -1,6 +1,6 @@
 ---
 title: Stable Audio 3
-detail: Stable Audio 3 is a family of fast latent diffusion models for variable-length audio generation and editing, released May 2026. Available in small,...
+
 details: Stable Audio 3 is a family of fast latent diffusion models for variable-length audio generation and editing, released May 2026. Available in small,...
 tags:
   - entities

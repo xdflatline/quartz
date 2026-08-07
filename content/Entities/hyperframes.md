@@ -1,6 +1,6 @@
 ---
 title: HyperFrames
-detail: "HTML/CSS/GSAP composition engine used by OpenMontage. Renders kinetic typography, hand-crafted motion, product promos, and SVG-rigged character animation. Best for fully bespoke, atelier-mode compositions."
+
 details: "HyperFrames is an HTML / CSS / GSAP-based composition engine. OpenMontage uses it as one of three render runtimes (Remotion, HyperFrames, FFmpeg). HyperFrames is best for kinetic typography, hand-crafted motion, product promos, and SVG-rigged character animation. It pairs with OpenMontage's 'Atelier' composition mode — hand-authoring composition from scratch: bespoke scenes, one-off theme, motion written for this piece, no reusable creative components. Default for hero pieces, brand films, festival shorts, and anything that needs to feel one-of-a-kind. Workspace is materialized via lib/hyperframes_style_bridge.py, which converts a style playbook into CSS custom properties + a DESIGN.md."
 tags:
   - entities

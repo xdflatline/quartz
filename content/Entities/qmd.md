@@ -1,6 +1,6 @@
 ---
 title: "QMD"
-detail: "Local hybrid (keyword + semantic) search engine by Tobi Lütke (Shopify founder); the Building Block that gives the Second Brain its 'find without the exact word' capability."
+
 details: "QMD is a local hybrid search engine that combines classical keyword (BM25-style) search with semantic search over embeddings. It runs fully on-device: a small embedding model produces vectors, the keyword index is built locally, and the combined score is computed locally. Created by Tobi Lütke, founder of Shopify. The Node AI integrated QMD into his Second Brain as the rung-3 component of the [[Concepts/brain-first-search-ladder]] (the search step) and as the search box in the web app. QMD is the canonical example of the [[Concepts/three-reference-roles]]'s Building Block role: a finished, maintained, free component the speaker did not build himself, and the lesson 'don't build anything yourself that already exists as a maintained, finished piece'. Cost story: ~2 seconds of processor work per query, no API token consumption, no cloud round-trip, works offline."
 tags:
   - entities

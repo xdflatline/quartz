@@ -1,6 +1,6 @@
 ---
 title: "Bi-level Context + Skill Optimization (MCE)"
-detail: "Meta Context Engineering (Ye et al. 2026): separates mechanism (how to manage context) from artifact content (what is in context). Bi-level optimization with an inner loop (best context given a skill) and an outer loop (best skill given a validation set), using agentic crossover over prior skills."
+
 details: "MCE formalizes a skill as a context function c_s=(ρ_s, F_s) with static components (prompts, knowledge bases, code libraries) and dynamic operators (search, selection, filtering, formatting). The inner loop finds the best context for a fixed skill on training data; the outer loop finds the optimal skill that gives the best validation performance. Skills undergo agentic crossover over a history H of (skill, context, train-utility, val-utility) tuples. The base-level context engineer executes the current skill and learns the context function from rollout feedback. Both levels run in agentic coding envs with a standard tool set {Read, Write, Edit, Bash, Glob, Grep, TodoWrite}."
 tags:
   - concepts

@@ -1,6 +1,6 @@
 ---
 title: "Your AI Agent Doesn't Need to Be Smarter. It Needs to Be Idempotent"
-detail: Article arguing that most production AI agent failures are reliability failures (duplicate writes), not reasoning failures, and that idempotency borrowed from payments infrastructure is the fix.
+
 details: Article arguing that most production AI agent failures are reliability failures (duplicate writes on retry), not reasoning failures. Proposes borrowing Stripe's Idempotency-Key pattern to make write-capable agents safe against network partitions and retries. Covers the typical failure sequence, minimal IdempotentStore implementation, key design pitfalls, and why smarter models make the problem worse.
 tags:
   - raw

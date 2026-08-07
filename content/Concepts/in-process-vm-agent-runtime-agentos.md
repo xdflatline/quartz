@@ -1,6 +1,6 @@
 ---
 title: "In-Process VM Agent Runtime (AgentOS)"
-detail: "Architecture pattern: an in-process VM sharing a sidecar across many V8-isolated agents with a Rust kernel mediating every syscall."
+
 details: "AgentOS's distinctive runtime: a single Node.js process hosts a sidecar (the `default` pool) that brokers syscalls for many lightweight VMs, each of which is a V8 isolate plus kernel state. Per-VM memory is tens of MB; warm VM creation is single-digit milliseconds; the executor holds no capability of its own — every file read, process spawn, or socket open issues a syscall and blocks for the kernel's reply. The pattern achieves sandbox-grade isolation at sandbox-grade costs and replaces container-level coarse permissions with kernel-syscall-level granular ones."
 tags:
   - concepts

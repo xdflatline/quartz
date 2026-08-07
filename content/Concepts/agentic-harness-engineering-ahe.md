@@ -1,6 +1,6 @@
 ---
 title: "Agentic Harness Engineering (AHE) with Observability Pillars"
-detail: "Lin et al. 2026: a closed loop for harness evolution with three observability pillars — component (every editable component has a file-system representation), experience (per-task analysis reports aggregated into a benchmark overview), and decision (every edit is a falsifiable file-level claim with a manifesto entry)."
+
 details: "AHE sees the bottleneck of harness evolution as observability: when a rollout fails, you need to know which component is responsible; every edit should be grounded by evidence. The 7 editable harness components: system prompt, tool description, tool implementation, middleware, skill, sub-agent configuration, long-term memory. Two hard constraints: (1) edits are only applied to the harness workspace — the runs directory, tracer, verifier, and LLM config are read-only, disabling a set of reward hacking (disabling the verifier, swapping the model, raising the reasoning budget); (2) edits are evidence-driven with a manifesto entry: failure evidence name, inferred root cause, targeted fix, predicted impact. On Terminal-Bench-2, AHE beat human-designed harnesses (OpenCode, Terminus-2, Codex) except for the Hard tier; the frozen evolved harness transfers to SWE-bench-verified, indicating it encodes engineering experience rather than benchmark-specific optimization."
 tags:
   - concepts

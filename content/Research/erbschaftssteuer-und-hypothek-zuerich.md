@@ -1,6 +1,6 @@
 ---
 title: "Erbschaftssteuer und Hypothek in Zürich"
-detail: "Rechtsreferenz zur Erbschafts- und Schenkungssteuer im Kanton Zürich und zum Übergang einer Hypothek (Schuldbrief/Grundpfandverschreibung) beim Erbgang nach Schweizer Recht. Belege direkt aus dem kantonalen Erbschafts- und Schenkungssteuergesetz (ESchG ZH, LS 632.1) und aus dem Zivilgesetzbuch (ZGB, SR 210)."
+
 details: "Referenz erstellt 2026-07-15. Stichtag der konsultierten Fassungen: ESchG ZH 071 (aktueller Stand 2026, Quelle: zh.ch / UZH, https://www.ius.uzh.ch/dam/jcr:bdffc7fd-31a8-4d2a-9162-c11826555065/ESchG%20ZH(7896440.1).pdf); ZGB SR 210 konsolidierte Fassung (Fedlex / admin.ch); SchKG SR 281.000 konsolidierte Fassung (Fedlex). Kernergebnis: Ehegatte, eingetragener Partner und direkte Nachkommen des Erblassers sind im Kanton Zürich vollständig von der Erbschafts- und Schenkungssteuer befreit (§ 11 ESchG ZH). Die Hypothekarschuld geht mit dem Grundstück kraft Universalsukzession auf die Erben über (Art. 560 ZGB). Drei-Monats-Frist für die Erbausschlagung (Art. 566/567 ZGB). Keine Bundeserbschaftssteuer in der Schweiz (abgelehnte Volksinitiative 2015)."
 tags:
   - research

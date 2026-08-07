@@ -1,6 +1,6 @@
 ---
 title: "Harness Updating vs Harness Benefit Disentanglement"
-detail: "Lin et al. 2026: separates the capability of producing useful harness edits (harness-updating) from the capability of utilizing an updated harness for better task solving (harness-benefit). Counter-intuitively, harness-updating is FLAT across model sizes (Qwen2-32B to Opus 4.6), while harness-benefit is NON-MONOTONIC with middle-tier models benefiting most."
+
 details: "The paper disentangles two axes of capability: (1) harness-updating — can the model produce useful harness edits, and (2) harness-benefit — can the model use the updated harness to do better on tasks. Surprisingly, a 9B harness proposer/evolver can write a skill procedurally isomorphic to what Opus writes. The implication: for harness design automation, model size matters less than expected. But for using the harness well, the non-monotonic curve means bigger is not always better — middle-tier models benefit most."
 tags:
   - concepts

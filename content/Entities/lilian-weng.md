@@ -1,6 +1,6 @@
 ---
 title: "Lilian Weng"
-detail: "Researcher and writer behind Lil'Log, a long-form technical blog on frontier AI topics including agents, safety, and now harness engineering. Formerly at OpenAI."
+
 details: "Author of the July 2026 post 'Harness Engineering for Self-Improvement' that anchors this Raw entry, and a long-running series of in-depth surveys on agent design, LLM safety, and prompt engineering. Lil'Log is one of the canonical references for the agent-engineering community."
 tags:
   - entities

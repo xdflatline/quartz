@@ -1,6 +1,6 @@
 ---
 title: "Kitaru and the Record-and-Replay Runtime Layer for AI Agents"
-detail: "Synthesis of Kitaru's runtime-layer design (https://docs.zenml.io/kitaru) — the run / replay / improve loop, the four-layer agent stack, the three-plane control / orchestration / execution architecture, framework-agnostic decorators, and versioned deployment routing."
+
 details: "Research index on Kitaru, a self-host-first runtime for production AI agents built on top of ZenML. The central thesis: durable execution is the enabler, faithful replay is the differentiator, and cross-run diff is what makes 'improve' a measurable loop rather than a vibe. The index covers the four-layer agent stack (model / harness / runtime / platform), the three-plane runtime architecture (control / orchestration / execution), the @flow + @checkpoint decorator surface, the framework-agnostic adapter model (PydanticAI, OpenAI Agents, Claude Agent SDK, Gemini Interactions, Google ADK experimental, LangGraph), the deployment versioning + tag-routing model, and the self-host-first posture (single-service Kubernetes server, user-owned artifact store, no mandatory SaaS control plane in the data path). Use this index to navigate the concept pages and entity pages extracted from the source docs."
 tags:
   - research

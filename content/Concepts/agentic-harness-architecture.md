@@ -1,6 +1,6 @@
 ---
 title: "Agentic Harness Architecture"
-detail: "Architecture pattern where a deployment-ready runtime wraps an LLM with API server, auth, streaming, state, error handling, and tool integration so a raw model becomes a production service."
+
 details: "An agentic harness is the layer between an LLM API and a production deployment: it owns the HTTP surface, auth, SSE streaming, session state, configuration, observability, and tool integration, so a model can be turned into a reliable, autonomous service. AURA (mezmo/aura) is a concrete instance: a self-hosted Rust runtime that takes a TOML config and exposes agents as OpenAI-compatible endpoints. The pattern contrasts with library-style frameworks (LangChain, Mastra) that you embed in your own application."
 tags:
   - concepts

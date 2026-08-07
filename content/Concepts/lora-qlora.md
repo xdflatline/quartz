@@ -1,6 +1,6 @@
 ---
 title: LoRA and QLoRA
-detail: "Introduced by Hu et al. in 2021 ([LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)), LoRA freezes the pre-trai..."
+
 details: "Introduced by Hu et al. in 2021 ([LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)), LoRA freezes the pre-trai..."
 tags:
   - concepts

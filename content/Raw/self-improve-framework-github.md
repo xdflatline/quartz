@@ -1,6 +1,6 @@
 ---
 title: "Self-Improve: Pluggable AI Agent Evolution System"
-detail: A production-ready self-evolution system for AI agents that automatically learns from mistakes, corrections, and feedback to continuously improve e...
+
 details: A production-ready self-evolution system for AI agents that automatically learns from mistakes, corrections, and feedback to continuously improve e...
 tags:
   - raw

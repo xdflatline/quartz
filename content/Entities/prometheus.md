@@ -1,6 +1,6 @@
 ---
 title: "Prometheus"
-detail: "Open-source metrics collection and alerting toolkit, the de facto standard for Kubernetes cluster observability and the substrate for the post-deployment resource audit."
+
 details: "An open-source monitoring system with a dimensional data model, pull-based collection, and a powerful query language (PromQL). The de facto standard for Kubernetes cluster metrics. In the source article, Prometheus is the substrate for the post-deployment audit: comparing 30-day P95 CPU and memory usage against declared `resources.requests` requires exactly the kind of historical aggregation Prometheus provides via `histogram_quantile` and recording rules. Most managed Kubernetes distributions ship with Prometheus or a compatible alternative, and `kube-state-metrics` exposes the pod-level resource spec for direct comparison against actual usage."
 tags:
   - entities

@@ -1,6 +1,6 @@
 ---
 title: "AgentOS"
-detail: "Portable open-source operating system for AI agents — in-process virtualized Linux VM with Rust kernel, V8 isolation, and direct host bindings."
+
 details: "AgentOS (by Rivet) is an in-process lightweight VM that runs AI coding agents with deny-by-default permissions, near-zero cold starts (~6 ms p50), and a shared sidecar architecture. Replaces traditional container sandboxes with kernel-syscall-level isolation, supports 9 sandbox providers as mountable extensions, and exposes 5 built-in agents (Pi, Claude Code, OpenCode, Codex, custom) over the Agent Communication Protocol (ACP). Apache-2.0, v0.2.7, ~131 MB per full coding agent vs ~1,024 MB for the cheapest sandbox."
 tags:
   - entity

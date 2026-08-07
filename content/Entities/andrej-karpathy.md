@@ -1,6 +1,6 @@
 ---
 title: "Andrej Karpathy"
-detail: "AI researcher; source of the LLM-wiki Pattern the Second Brain's AI-curated wiki is built on, and of the 'RAG is giving the graduate your documents before the exam' framing."
+
 details: "Andrej Karpathy is a well-known AI researcher (formerly OpenAI, Tesla, Stanford; currently at Anthropic as of 2026). The Node AI cites two of his contributions in the Second Brain video: 1) the 'AI maintains its own knowledge wiki' pattern — a few paragraphs in which Karpathy describes how an LLM can write and update Markdown pages, read a small index first, and run check rules against contradictions and orphaned pages. This is the [[Concepts/three-reference-roles]]' Pattern role that the Second Brain's [[Concepts/ai-curated-knowledge-wiki]] is built on. 2) The RAG framing — 'today's LLMs are like a fresh graduate; they know a lot but they know nothing about your specific case. RAG is giving the graduate your documents before the exam.' This is the rationale for the [[Concepts/hybrid-local-search-pattern]]'s RAG pipeline. Karpathy's contribution is conceptual, not a tool: it is a short text that the speaker studied and adapted, not a piece of software the speaker integrated."
 tags:
   - entities

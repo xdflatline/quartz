@@ -1,6 +1,6 @@
 ---
 title: Wan 2.1
-detail: "Open-source text-to-video and image-to-video foundation model from Wan-Video/Wan2.1. Available as a free local video backend in OpenMontage (VIDEO_GEN_LOCAL_MODEL=wan2.1-1.3b or wan2.1-14b). Renders real motion video without API costs."
+
 details: "Wan 2.1 is an open-source video foundation model from Wan-Video/Wan2.1. Available in two sizes: 1.3B parameters (fits consumer GPUs ~8GB VRAM with quantization) and 14B parameters (requires 24GB+ VRAM). Supports text-to-video, image-to-video, and instruction-guided video generation. ComfyUI has built-in nodes for Wan 2.1 (see docs.comfy.org/tutorials/video/wan/wan-video). In OpenMontage, Wan 2.1 is one of four local GPU video backends (Wan 2.1, Hunyuan, CogVideo, LTX-Video) enabled via VIDEO_GEN_LOCAL_ENABLED=true and VIDEO_GEN_LOCAL_MODEL=wan2.1-1.3b (or 14b). It is the cheapest path to actual motion video without cloud API spend."
 tags:
   - entities

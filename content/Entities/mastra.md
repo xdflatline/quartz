@@ -1,6 +1,6 @@
 ---
 title: "Mastra"
-detail: "TypeScript framework for AI agents, workflows, RAG, voice, and MCP. 25.8k stars, pnpm monorepo, Apache 2.0 core, 3000+ models via bundled gateway."
+
 details: "Mastra is a modern TypeScript framework for building AI-powered applications and agents. It bundles a model router (3000+ models from 40+ providers via a single 'provider/model' string), a graph-based workflow engine (.then/.parallel/.branch/.map), an agent abstraction with subagent delegation, typed tools (Zod/Valibot/ArkType), four-tier memory (message history, working memory, semantic recall, observational memory with Observer+Reflector background agents), RAG with pluggable vector stores, MCP client and server support, 11 TTS + 8 STT voice providers, OpenTelemetry-aligned observability, and a Hono-based standalone server. Apache 2.0 core."
 tags:
   - entities

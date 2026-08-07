@@ -1,6 +1,6 @@
 ---
 title: "ACE paper (Agentic Context Engineering)"
-detail: "Zhang et al. 2025/2026. The 'playbook' context-engineering method that maintains a structured logbook of (identifier, description) bullets, refined and deduplicated over time. Three roles: Generator, Reflector, Curator."
+
 details: "Foundational paper for the [[Concepts/context-as-evolving-playbook]] concept. Published at ICLR 2026. The key design choice — the curator outputs structured bullets merged with deterministic logic, NOT a full prompt blob — is what prevents context collapse and brevity bias during iterative rewrites."
 tags:
   - entities

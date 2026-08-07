@@ -1,6 +1,6 @@
 ---
 title: "Bergen Trip Reference"
-detail: "Local reference card for the 8-day stay at Boerderij Hazendaal (Accommodatie van Poelenburgh) in Bergen / Schoorl, north of the Netherlands. Aggregates map links to the Airbnb, nearby supermarkets, bike rentals, dunes, beaches, walking routes, and a Friday cheese market day trip to Waagplein in nearby Alkmaar. Includes Sunday opening hours and trip-planning notes."
+
 details: "Trip reference compiled 2026-07-12 during the 8-day stay. Stay location: 52.6875556, 4.7029444 (Boerderij Hazendaal, Duinweg 129, Aagtdorp, Schoorl, Bergen, Noord-Holland, 1871 AH). Stay dates: 2026-07-12 through 2026-07-20. Nearest train station: Alkmaar (~10 km south). Cheese market day trip: Waagplein, Alkmaar, Friday mornings 10:00-12:00 (carriers + weighing ceremony); in-stay Friday dates are July 17 and July 24. Closest supermarkets (Sunday 2026-07-12): Albert Heijn Breelaan 14 Bergen NH (~1.6 km, open until 22:00) and DekaMarkt Plein 4 Bergen NH (~1.8 km, open until 21:00). Caveats: OSM hours are community-maintained; entries without published hours (ALDI Bergen, Ekoplaza Schoorl) require phone/web verification before traveling. Map links are Google Maps directions URLs keyed to the stay coordinates."
 tags:
   - research

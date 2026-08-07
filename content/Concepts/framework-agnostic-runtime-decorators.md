@@ -1,6 +1,6 @@
 ---
 title: "Framework-Agnostic Runtime Decorators"
-detail: "Runtime primitives expressed as decorators on ordinary Python functions, so durability attaches to a harness-agnostic boundary instead of any one framework's worldview."
+
 details: "Framework-agnostic runtime decorators are the pattern by which a record-and-replay runtime attaches durability to ordinary Python function boundaries, independent of the harness. In Kitaru the surface is @flow (the outer durable boundary) and @checkpoint (the unit of work inside it). Because the decorators wrap Python functions rather than nodes in a graph or steps in a framework-specific DSL, the same primitives work with PydanticAI, OpenAI Agents, Claude Agent SDK, LangGraph, or raw Python. Adapters sit at the framework's exposed seam (KitaruAgent for PydanticAI, KitaruRunner for OpenAI Agents, KitaruClaudeRunner for Claude Agent SDK, KitaruGraphRunner for LangGraph) so per-call granularity is available where the framework exposes the seam cleanly, and a coarser boundary is used otherwise. Tradeoff: more flexible than framework-bound runtimes, but the user (or the adapter) decides where the recording seam goes."
 tags:
   - concepts

@@ -1,6 +1,6 @@
 ---
 title: "Research Index: AI Agent Memory & Orchestration"
-detail: "This index collects concepts, tools, and patterns from recent discussions on:"
+
 details: "This index collects concepts, tools, and patterns from recent discussions on:"
 tags:
   - research

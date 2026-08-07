@@ -1,6 +1,6 @@
 ---
 title: "Zero-Mem: Zero-Token Memory Operations for LLM Agents"
-detail: "Provenance-preserving agent memory where every operation outside final question answering invokes no LLM and consumes no LLM tokens."
+
 details: "Zero-Mem (Xiao et al., 2026) reformulates agent memory as structured evidence selection over original interaction traces rather than generated abstractions. It builds two non-generative views — an entity–context graph (co-occurrence + adjacency) and a temporal hierarchy (turns, windows, episodes, local spans) — and uses BM25 + BGE-M3 only for indexing and scoring. A lightweight query profile routes between relational and local views, retrieval is fused, evidence closure adds relational bridges and local neighbors, and deterministic calibration filters and re-ranks without invoking an LLM. Only the final-QA reader uses an LLM. The paper defines an operating regime called zero-token memory operations: construction, organization, routing, retrieval, closure, and both pre- and post-reader calibration incur zero LLM calls and zero LLM input or output tokens. Encoder computation is accounted for separately. On LoCoMo and HotpotQA (56K–448K tokens), Zero-Mem beats GAM, A-Mem, Mem0, MemoryOS, LightMem, SimpleMem, and CompassMem on F1 and BLEU-1 while consuming 0 LLM tokens for memory operations and reducing memory-operation latency by 57.6% versus LightMem."
 tags: [research]
 source: https://arxiv.org/html/2607.29377v1

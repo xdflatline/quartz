@@ -1,6 +1,6 @@
 ---
 title: "MLE-bench"
-detail: "Chan et al., 2024. 75 ML-engineering competitions curated from Kaggle. Tests training models, preparing datasets, running experiments, and submitting predictions to grading scripts."
+
 details: "Uses Kaggle public leaderboards as human baselines. Best setup in the paper: o1-preview with AIDE scaffolding reached at least Kaggle bronze-medal level in 16.9% of competitions. Includes resource-scaling and contamination analyses."
 tags:
   - entities

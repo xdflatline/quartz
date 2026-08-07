@@ -1,6 +1,6 @@
 ---
 title: "AURA (mezmo/aura)"
-detail: "Mezmo's open-source Rust agentic harness for running LLM-powered SRE agents safely in production with MCP, multi-agent orchestration, HITL, and an OpenAI-compatible API."
+
 details: "AURA is Mezmo's Apache 2.0 open-source project that turns LLM models into a reliable, autonomous service for executing real SRE work. Self-hosted, MCP-compatible, multi-provider (OpenAI, Anthropic, Bedrock, Gemini, Ollama, OpenRouter), with coordinator/worker multi-agent orchestration, disk-backed scratchpad for oversized tool outputs, human-in-the-loop approval gates, vector search grounding, on-demand skills, A2A protocol interop, and an OpenAI-compatible API surface so LibreChat/OpenWebUI work unchanged. 236 GitHub stars, 21 forks, built in Rust 1.85+."
 tags:
   - entities

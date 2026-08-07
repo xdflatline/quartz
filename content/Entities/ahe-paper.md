@@ -1,6 +1,6 @@
 ---
 title: "AHE paper (Agentic Harness Engineering)"
-detail: "Lin et al. 2026. Observability-driven automatic evolution of coding-agent harnesses. Three observability pillars: component (every editable component has a file-system representation), experience (per-task analysis reports aggregated into a benchmark overview), decision (every edit is a falsifiable file-level claim with a manifesto entry)."
+
 details: "AHE identifies seven editable harness components: system prompt, tool description, tool implementation, middleware, skill, sub-agent configuration, long-term memory. Two hard constraints: (1) the runs directory, tracer, verifier, and LLM config are read-only, disabling a set of reward hacking; (2) every edit has a manifesto entry with the failure evidence name, inferred root cause, targeted fix, and predicted impact. On Terminal-Bench-2, AHE beat human-designed harnesses (OpenCode, Terminus-2, Codex) except for the Hard tier."
 tags:
   - entities

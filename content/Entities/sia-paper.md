@@ -1,6 +1,6 @@
 ---
 title: "SIA paper (Self-Improving AI with Harness and Weight Updates)"
-detail: "Hebbar et al. 2026. Early attempt to combine harness improvement and model-parameter updates in the same optimization loop. Three components: Meta-Agent (proposes harness), Task-Specific Agent (executes task), Feedback-Agent (decides whether to update harness or weights next)."
+
 details: "Per Weng: confounding choices in SIA's experiments (task-specific agent much weaker than the models used for the Meta-Agent and Feedback-Agent — gpt-oss-120b vs Claude Sonnet 4.6) make results hard to interpret, and baselines are too weak to cross-reference cleanly against related methods. The direction is interesting but the evidence is provisional."
 tags:
   - entities

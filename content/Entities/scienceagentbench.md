@@ -1,6 +1,6 @@
 ---
 title: "ScienceAgentBench"
-detail: "Chen et al., ICLR 2025. 102 tasks extracted from 44 peer-reviewed publications in four disciplines — math, chemistry, biology, geography. Evaluates LLM agents for data-driven scientific discovery."
+
 details: "Covers basic data-science tasks in these domains: data processing, model development, data analysis, and information visualization. The benchmark grounds LLM evaluation in real published scientific tasks across disciplines."
 tags:
   - entities

@@ -1,6 +1,6 @@
 ---
 title: "Meta-Harness paper"
-detail: "Lee et al. 2026. A harness for optimizing harnesses — the proposer is itself a coding agent, and proposed harnesses are stored as dictionaries in the file system. The output is a Pareto frontier of harness candidates."
+
 details: "Meta-Harness is the canonical 'harness-for-harnesses' method. The proposer reads execution history via grep/cat rather than shoveling everything into a single prompt context; the proposed harness is a dictionary in the file system containing its own source code, scores, rollout trajectories, and state updates. On TerminalBench-2, the search is initialized from Terminus-KIRA and Terminus-2 (two strong harnesses) and improves from there."
 tags:
   - entities

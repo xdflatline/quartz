@@ -1,6 +1,6 @@
 ---
 title: Antigravity CLI
-detail: Antigravity CLI is Google's agent-first terminal tool and unified platform, which launched in May 2026. In May 2026, version 2.0 of the platform to...
+
 details: Antigravity CLI is Google's agent-first terminal tool and unified platform, which launched in May 2026. In May 2026, version 2.0 of the platform to...
 tags:
   - entities

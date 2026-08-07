@@ -1,6 +1,6 @@
 ---
 title: "Käse-Import aus den Niederlanden in die Schweiz"
-detail: "Rechtsreferenz zur zoll- und mehrwertsteuerrechtlichen Behandlung der privaten Einfuhr von Käse aus den Niederlanden (EU) in die Schweiz. Belege aus der Zollverordnung (ZollV, SR 631.01), dem Landwirtschaftsgesetz (LwG, SR 910.1) und der Mehrwertsteuerverordnung (MWSTV, SR 641.201), sowie der offiziellen Praxis des Bundesamts für Zoll und Grenzsicherheit (BAZG)."
+
 details: "Referenz erstellt 2026-07-17. Stichtag der konsultierten Fassungen: ZollV SR 631.01 konsolidierte Fassung (Fedlex, Stand 2026); LwG SR 910.1 (Fedlex); MWSTV SR 641.201 (Fedlex); BAZG-Tabelle 'Freimengen: Lebensmittel, Alkohol und Tabak' (bazg.admin.ch, abgerufen 2026-07-17). Kernergebnis: Käse ist in der Schweiz kein sensibles Agrargut und unterliegt keiner Mengenbeschränkung im Reisegepäck; die Freigrenze für die Mehrwertsteuer beträgt CHF 150 pro Person und Tag. Butter und Rahm ab 15 % Fett sind hingegen auf 1 kg/Liter pro Person/Tag beschränkt."
 tags:
   - research

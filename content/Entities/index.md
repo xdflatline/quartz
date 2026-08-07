@@ -1,6 +1,6 @@
 ---
 title: Entities
-detail: Profiles on companies, people, and tools.
+
 details: Profiles on companies, people, and tools.
 tags:
   - entities

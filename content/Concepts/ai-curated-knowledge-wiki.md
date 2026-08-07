@@ -1,6 +1,6 @@
 ---
 title: "AI-Curated Knowledge Wiki"
-detail: "A wiki folder in the vault, maintained entirely by an AI agent under a fixed schema, that condenses sources into typed pages and flags contradictions on every ingest."
+
 details: "The implementation of capability 3 (Stay Clean) in the Second Brain. The vault contains a `09 Wiki` folder, and a hard rule: the human does not touch it. The AI (Claude Code) maintains it exclusively, following a schema file in the same folder. The schema defines page types: source summaries, topic pages, person pages, project pages, synthesis pages. All pages are cross-linked. The key process is 'ingest': hand the AI a new source (transcript, article, note); the AI reads the source, uses the schema's page directory to identify which existing pages the topic already touches, opens only those pages (not the whole wiki), updates them, creates any missing ones, sets references, and — crucially — checks every affected page for contradictions with the new information. The AI finds the conflicts; the human decides. In the Node AI's first real-world run on his actual 2,000-note vault, the AI flagged 52 conflict points, including real contradictions, outdated states, and cases where 'should' and 'is' were not separated. The run is logged: when it ran, what came in, which pages changed, what conflicts were found. The wiki is the AI's read-then-write counterpart to the human's read-only knowledge base."
 tags:
   - concepts

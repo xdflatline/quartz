@@ -1,6 +1,6 @@
 ---
 title: Open Source Sustainability
-detail: Open source sustainability refers to the factors that determine whether open source projects survive, thrive, or die. Despite their collaborative e...
+
 details: Open source sustainability refers to the factors that determine whether open source projects survive, thrive, or die. Despite their collaborative e...
 tags:
   - concepts

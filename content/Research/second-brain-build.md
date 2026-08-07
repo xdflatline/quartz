@@ -1,6 +1,6 @@
 ---
 title: "Research Index: Building a Second Brain with AI"
-detail: "Synthesis of a 45-minute walkthrough of a production-validated personal Second Brain (2,000 notes, 4,000 files) — capabilities-first design, six-step AI build process, Brain-First search ladder, AI-curated wiki, and the visual-specification lesson."
+
 details: "Research synthesis of The Node AI's (Patrick) full walkthrough of his private Second Brain architecture (YouTube video mHSOsy_usAg, 45 min, German with auto-captions, fully translated to English in the Raw source). Captures: (1) the four capabilities of a trustworthy knowledge system (find, read, stay clean, overview), (2) the six-step build process (tidy data, brainstorm, spec, plan, build, test) operationalised by the Superpowers skill, (3) the three reference roles (Building Block, Pattern, Benchmark) for any AI-assisted project, (4) the five-rung Brain-First search ladder encoded in CLAUDE.md, (5) the Markdown-as-single-source-of-truth storage rule and the deterministic-first colour-coded architecture, (6) the AI-curated wiki under a hard 'human does not touch' rule with schema-driven ingest and conflict detection (52 conflicts flagged on the first real-vault run), (7) the visual-specification-by-mockup lesson, (8) the hybrid local search (QMD) and RAG pattern. Production-validated benchmark: 50% fewer tokens, 40% less time, 5/5 correct on 5 real workday questions."
 tags:
   - research

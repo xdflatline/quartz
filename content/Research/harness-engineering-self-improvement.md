@@ -1,6 +1,6 @@
 ---
 title: "Harness Engineering for Self-Improvement (Weng, Jul 2026)"
-detail: "Research synthesis of Lilian Weng's July 2026 Lil'Log survey on the harness as the practical near-term path to recursive self-improvement. Covers design patterns, optimization targets, context engineering, workflow search, self-improving loops, evolutionary search, joint weight updates, and seven open bottlenecks."
+
 details: "Comprehensive synthesis of Weng's 2026 harness-engineering survey with bidirectional links to the 18 new concept pages and 30 new entity pages created during this ingestion. Organized by the four tiers of the Weng framework: Design Patterns, Optimization, Self-Improving Harness, and Open Bottlenecks. Plus an appendix on benchmarks, a cross-cutting themes section, and actionable next research directions for the operator's wiki."
 tags:
   - research

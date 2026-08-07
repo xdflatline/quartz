@@ -1,6 +1,6 @@
 ---
 title: "Mastra Framework — TypeScript AI Agents (GitHub Repository + Docs)"
-detail: "Raw extraction of the Mastra framework's repository and documentation: capabilities, core abstractions, and how they are implemented."
+
 details: "Verbatim extraction of the Mastra framework's GitHub README, agent/workflow/tool/memory/RAG/voice/deployment/observability documentation, plus a comparative framing against LangGraph, CrewAI, CopilotKit, AutoGen, and Claude Code. Captures the core abstractions (Agent, createTool, createStep, createWorkflow, Memory, Observational Memory, RAG, MCP, Voice), the model router, the workflow control-flow primitives, and the multi-agent supervisor pattern."
 tags:
   - raw

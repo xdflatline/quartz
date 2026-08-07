@@ -1,6 +1,6 @@
 ---
 title: "Agent Reliability: Idempotency and the Read/Write Asymmetry"
-detail: Research index on making write-capable AI agents safe against network failures through idempotency boundaries borrowed from payments infrastructure.
+
 details: Research index covering the argument that most production AI agent failures are reliability failures (duplicate writes on retry) rather than reasoning failures. The core insight is the read/write asymmetry -- read retries are free, write retries are double-actions. The solution is an idempotency boundary (derived from Stripe's Idempotency-Key pattern) that collapses duplicate executions into replays, keyed on the content of the intended action. Smarter models exacerbate the problem by retrying more aggressively.
 tags:
   - research

@@ -1,6 +1,6 @@
 ---
 title: "Local LLMs on Laptop CPU in 2026: Model Comparison for Self-Hosting"
-detail: "Synthesis of small open-weight LLMs (1B-30B) that can be self-hosted and run on a laptop CPU in 2026, with benchmark data, quantization trade-offs, runtime stack (llama.cpp / Ollama / MLX), and per-tier hardware recommendations."
+
 details: "Synthesis of small open-weight LLMs (1B-30B) that can be self-hosted and run on a laptop CPU in 2026, with benchmark data, quantization trade-offs, runtime stack (llama.cpp / Ollama / MLX), and per-tier hardware recommendations. Covers Phi-4 / Phi-4-mini, Gemma 4 (E2B / E4B / 12B / 26B-A4B), Qwen 3 / 3.5 / 3.6, Mistral Small 3.1 / 4, Llama 3.x / 4 Scout, SmolLM3, and DeepSeek-R1 distill variants. Output: a single comparison matrix, a per-RAM-class decision tree, and a quantified read on the CPU-only vs Metal/CUDA vs NPU accelerator trade-off."
 tags:
   - research

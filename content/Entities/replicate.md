@@ -1,6 +1,6 @@
 ---
 title: "Replicate"
-detail: "Serverless GPU inference platform with a public model registry; per-second GPU billing, scale-to-zero, no infra to manage."
+
 details: "Replicate runs any ML model via a simple HTTP API. Users pick a public model from a registry of 50,000+ community and official models (FLUX, Stable Diffusion, Llama, Whisper, etc.) or deploy their own Cog container. Cold starts exist on private deployments but are typically free on popular public models that are kept warm by shared traffic."
 tags:
   - entities

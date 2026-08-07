@@ -1,6 +1,6 @@
 ---
 title: Deno
-detail: Deno is a modern runtime for JavaScript and TypeScript based on V8 and Rust. Deno 2.8 enhances compatibility with existing Node.js modules and impr...
+
 details: Deno is a modern runtime for JavaScript and TypeScript based on V8 and Rust. Deno 2.8 enhances compatibility with existing Node.js modules and impr...
 tags:
   - entities

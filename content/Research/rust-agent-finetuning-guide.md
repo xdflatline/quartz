@@ -1,6 +1,6 @@
 ---
 title: Rust Agent Fine-tuning Guide
-detail: Practical guide to fine-tuning a small LLM into a Rust coding agent with tool-calling capabilities.
+
 details: Practical guide to fine-tuning a small LLM into a Rust coding agent with tool-calling capabilities.
 tags:
   - research

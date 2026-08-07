@@ -1,6 +1,6 @@
 ---
 title: "File System as Agent Memory"
-detail: "Pattern 2 from Weng's harness taxonomy: harness durable state in files (experiment logs, code diffs, error traces, paper summaries, past rollout trajectories) rather than carrying it in context, because artifacts routinely outgrow the model's context window."
+
 details: "Files are the universal substrate for long-horizon agent memory. Reading, writing, and editing files via bash is a foundation skill that benefits directly from core model improvements, so this pattern ages well across model generations. The key design rule: structure state in inspectable, recoverable files; the model can re-read on demand with grep/cat instead of carrying it in context. The pattern underlies every self-improving harness that survives more than one task horizon (Meta-Harness, DGM, Self-Harness, AHE)."
 tags:
   - concepts
