@@ -83,7 +83,7 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 2. If `len(detail) <= len(details)`: drop the `detail:` line (the 246 safe files).
 3. If `len(detail) > len(details)`: copy `detail:` content into `details:` first, then drop the `detail:` line (the 1 kernelbench exception).
 4. After the bulk pass, `grep -c "^detail:" content/**/*.md` must return 0.
-- [ ] **T0.4** Build the proposed tag vocabulary (~30–40 tags) as a Yaml list — the seed of the Tag Index. **state: in progress** (operator approved the proposed vocabulary 2026-08-07; vocabulary is now in the plan; this task becomes the act of moving it into `content/tags.md`).
+- [x] **T0.4** Build the proposed tag vocabulary (~30–40 tags) as a Yaml list — the seed of the Tag Index. **state: done** (2026-08-07; vocabulary now lives in `content/tags.md`).
 - [x] **T0.5** Open the `chore/housekeeping-2026-08-07` branch from `publish`. **state: done** (commit 759a721, 2026-08-07).
 - [x] **T0.6** First workflow scope: both `wiki-content-ingestion` AND `wiki-catalog-research` (operator directive 2026-08-07), each in its own subfolder under `Workflows/`. **state: done** (operator directive 2026-08-07).
 
@@ -91,7 +91,7 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 
 - [x] **T1.1** Create `content/Workflows/` folder. **state: done** (2026-08-07).
 - [x] **T1.2** Create `content/Workflows/index.md` describing the purpose of the folder (store repeatable workflows for agents). **state: done** (2026-08-07).
-- [ ] **T1.3** Create the **Tag Index** at `content/tags.md` (operator directive 2026-08-07; lowercase `content/` per repo convention). Pre-populated with the operator's existing good tags (from the kaese/erbschaft/aufbewahrung exemplars) + a starter vocabulary for the LLM/agent tier files. Each tag: name, scope description, when to use, when NOT to use. **state: open**.
+- [x] **T1.3** Create the **Tag Index** at `content/tags.md` (operator directive 2026-08-07; lowercase `content/` per repo convention). Pre-populated with the operator's existing good tags (from the kaese/erbschaft/aufbewahrung exemplars) + a starter vocabulary for the LLM/agent tier files. Each tag: name, scope description, when to use, when NOT to use. **state: done** (2026-08-07).
 - [ ] **T1.4** Update `Base.base` `formula.section` to include `Workflows` so it shows up in base views. **state: open**.
 - [ ] **T1.5** Add the tag-index backlink to `content/index.md` so the home page points to `[[tags|Tag Index]]` (operator directive 2026-08-07). **state: open**.
 - [ ] **T1.6** Create the first workflow subfolder: `content/Workflows/wiki-content-ingestion/`. **state: open**.
