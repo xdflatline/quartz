@@ -80,6 +80,11 @@ This pattern is distinct from **agent frameworks** (LangChain, Mastra, etc.), wh
 - [[Concepts/on-demand-skills-catalog-pattern]] — on-demand skills as runtime composition
 - [[Entities/mezmo-aura]] — concrete instance of this pattern
 - [[Concepts/agent-stack-layers]] — broader stack layering that includes this tier
+- [[Concepts/harness-as-runtime-os-analog]] — the OS analogy: encapsulate complexity, keep the interface simple (Weng 2026)
+- [[Concepts/file-system-as-agent-memory]] — durable state in files; the substrate that makes AURA's scratchpad and session store work
+- [[Concepts/coding-agent-tool-taxonomy]] — the stabilized tool groups (file system, shell, IO, MCP, web, artifacts, cron, delegation) that a production harness exposes
+- [[Concepts/agentic-harness-engineering-ahe]] — observability-driven automatic evolution of coding-agent harnesses; the AHE 7-component decomposition (system prompt, tool description, tool implementation, middleware, skill, sub-agent config, long-term memory) extends this architecture
+- [[Research/harness-engineering-self-improvement|Harness Engineering for Self-Improvement (Weng, Jul 2026)]] — the comprehensive survey that organises the modern self-improving-harness literature
 
 ## References
 

@@ -52,6 +52,11 @@ Before any compiled proposal transitions from a draft hypothesis to an active op
 - [[conventional-commits|Conventional Commits]]
 - [[agent-self-improvement|Agent Self-Improvement Research and Implementation Guide]]
 - [[dist/assets/agent-self-improvement-architecture.html|Architecture Diagram]]
+- [[harness-as-runtime-os-analog|Harness as Runtime (OS Analogy)]] — the production-runtime framing that connects this self-improvement paradigm to deployed coding agents
+- [[file-system-as-agent-memory|File System as Agent Memory]] — the durable-state substrate that makes episodic-amnesia fixes tractable
+- [[context-as-evolving-playbook|Context as Evolving Playbook (ACE)]] — the structured-bullets method for accumulating learned context over many rollouts
+- [[self-taught-optimizer-stop|Self-Taught Optimizer (STOP)]] — the foundational recursive-improvement baseline
+- [[Research/harness-engineering-self-improvement|Harness Engineering for Self-Improvement (Weng, Jul 2026)]] — the comprehensive survey that organises the modern self-improving-harness literature
 
 ---
 
