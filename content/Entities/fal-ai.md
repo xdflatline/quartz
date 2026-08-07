@@ -4,6 +4,8 @@ title: "Fal.ai"
 details: "Fal.ai specializes in fast inference for image, video, 3D, and audio generation models (FLUX, Stable Diffusion, Wan, Hunyuan, LTX-Video, ControlNet, etc.). Pricing is per output unit (image, megapixel, second of video) rather than per GPU-second. Also offers a Compute product for raw GPU access."
 tags:
   - entities
+  - inference
+  - serverless
 created: 2026-07-24
 updated: 2026-07-24
 type: entity

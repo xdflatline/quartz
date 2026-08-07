@@ -4,6 +4,9 @@ title: "Harness Engineering for Self-Improvement"
 details: "Comprehensive survey of harness engineering as the practical near-term path to recursive self-improvement (RSI). Covers three design patterns (workflow automation, file system as persistent memory, parallel sub-agents), the coding-agent tool taxonomy, progression of optimization targets (prompts → context → workflow → harness code → optimizer code), context engineering methods (ACE, MCE, Meta-Harness), workflow design (AI Scientist, ScientistOne, Autodata, ADAS, AFlow), self-improving harness work (STOP, Self-Harness, AHE, SIA, Continual Harness), evolutionary search (AlphaEvolve, ShinkaEvolve, ThetaEvolve, DemoEvolve, DGM, Hyperagents), and seven open challenges (weak evaluators, context lifecycle, negative results, diversity collapse, reward hacking, long-term success, role of humans)."
 tags:
   - raw
+  - harness
+  - survey
+  - blog-post
 source: https://lilianweng.github.io/posts/2026-07-04-harness/
 created: 2026-08-07
 updated: 2026-08-07

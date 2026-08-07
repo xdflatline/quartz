@@ -4,6 +4,7 @@ title: "Deterministic-First Architecture"
 details: "The Node AI's central architectural rule: make the system work without the AI first, then add the AI as an upgrade. The architecture diagram uses three colours: orange (data, plain text), green (deterministic code, always runs the same way, costs nothing), purple (AI, expensive, non-deterministic). The amount of purple is the budget. The Node AI explicitly states the rule as a portability test: 'when the next person opens your system and doesn't have an API key, the system should still work'. This forces a specific allocation: the indexer, the search engine, the import pipeline, the link walker are all green. The AI shows up only at the human-decision boundary (the wiki ingest, the Brain-First rung 5, the response generation). The rule also drives which tools to choose: prefer a finished, maintained, free component (QMD, Obsidian) over building your own, because every hour spent on the deterministic core is an hour not spent on the AI-driven differentiator."
 tags:
   - concepts
+  - architecture-pattern
 created: 2026-07-25
 updated: 2026-07-25
 type: concept

@@ -4,6 +4,7 @@ title: "Open Bottlenecks Toward Full Recursive Self-Improvement"
 details: "Weng's closing list of open problems is the most actionable part of the survey for harness designers. Each bottleneck is a structural limit of current self-improvement loops, not a fixable bug. Weak and fuzzy evaluators block taste, novelty, and scientific value measurement. Context/memory lifecycle management must become core intelligence, not stay in the software layer. Negative results are rare in training data, so LLMs are bad at abandoning hypotheses. Diversity collapse in evolutionary/RL loops means the population needs explicit diversity pressure. Reward hacking is unavoidable unless the evaluator and permission control sit outside the loop. Long-term success (maintainability, ownership boundaries, migration cost) is invisible to sandbox-based RLVR. Humans must move up the abstraction stack, not be removed from the loop."
 tags:
   - concepts
+  - harness
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

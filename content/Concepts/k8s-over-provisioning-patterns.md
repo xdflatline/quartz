@@ -4,6 +4,7 @@ title: "Kubernetes Over-Provisioning Patterns"
 details: "Six recurring failure modes in Kubernetes resource allocation: (1) safety-margin inflation from asymmetric accountability, costing up to 40%; (2) transient-load peak sizing producing 30-50% idle resources; (3) inherited technical debt from unvalidated manifest copying (20-35% deviation); (4) post-OOM reactive overcorrection with 2-3x long-term cost; (5) data-deficient initial provisioning leaving a 30-50% utilization gap; (6) process atrophy yielding 40-70% idle capacity. Each pattern has a distinct causal mechanism but the same outcome: requests exceed demand. The patterns compound when multiple are present on the same workload."
 tags:
   - concepts
+  - kubernetes
 created: 2026-07-25
 updated: 2026-07-25
 type: concept

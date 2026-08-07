@@ -4,6 +4,8 @@ title: "Parallel Sub-agent Process Manager"
 details: "Parallelism in agent harnesses is explicit and inspectable: sub-agent outputs must land in files, logs, and status records so the model can recover after interruptions and reason over its own execution history. The pattern enables hypothesis search (run N attempts in parallel and pick the best), experiment concurrency (run multiple ablations simultaneously), and context isolation (delegate subtasks to a sub-agent so the main thread stays clean). The parent agent's role is process-manager-scale: small surface area, no business logic."
 tags:
   - concepts
+  - multi-agent
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

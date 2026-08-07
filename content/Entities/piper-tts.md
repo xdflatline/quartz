@@ -4,6 +4,7 @@ title: Piper TTS
 details: "Piper is a fast, local, offline neural text-to-speech engine developed by Rhasspy. OpenMontage uses it as the default TTS for the zero-API-key free path. Installation: `python -m pip install piper-tts`. Speaks WAV files from text + a voice ONNX model. Voices are downloadable from the Piper voices repository (50+ languages, multiple voice styles). No network calls, no rate limits, no per-character costs. Limitation: quality is below ElevenLabs / OpenAI TTS / Google TTS; not ideal for hero pieces where voice quality is critical, but perfect for drafts, internal videos, podcasts, and zero-cost pipelines."
 tags:
   - entities
+  - tooling
 created: 2026-07-02
 updated: 2026-07-02
 type: entity

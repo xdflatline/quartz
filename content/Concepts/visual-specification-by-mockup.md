@@ -5,6 +5,7 @@ details: "The Node AI's lesson from his most expensive mistake: describing a vis
 details_short: "Use generated images, not words, to specify visual targets for AI builds."
 tags:
   - concepts
+  - guide
 created: 2026-07-25
 updated: 2026-07-25
 type: concept

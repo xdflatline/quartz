@@ -4,6 +4,8 @@ title: Supervised Fine-Tuning (SFT)
 details: "SFT treats fine-tuning as a standard supervised learning problem:"
 tags:
   - concepts
+  - fine-tuning
+  - training
 created: 2026-05-24
 updated: 2026-05-24
 type: concept

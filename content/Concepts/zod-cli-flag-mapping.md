@@ -4,6 +4,8 @@ title: "Zod to CLI Flag Mapping"
 details: "Zod schema fields map deterministically to kebab-case CLI flags: strings take `--name value`, numbers take `--name 42`, booleans toggle with `--flag` / `--no-flag`, enums take `--name a`, arrays repeat the flag. Optional fields (`.optional()`) become optional flags. Required fields are enforced at validation time. Use `.describe()` on Zod fields to generate useful `--help` output. Field names convert from `camelCase` to `kebab-case`. This pattern lets schema-driven tools (AgentOS bindings, code-mode agents) avoid hand-written CLI parsing."
 tags:
   - concepts
+  - cli
+  - schema
 created: 2026-07-19
 updated: 2026-07-19
 type: concept

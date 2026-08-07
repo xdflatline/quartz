@@ -4,6 +4,8 @@ title: "AI Research and Engineering Benchmarks (PaperBench, RE-Bench, MLE-bench,
 details: "Weng's appendix enumerates six benchmarks used in harness-evolution research. PaperBench: replicate 20 ICML 2024 papers, 8,316 rubrics. CORE-Bench: 270 tasks for computational reproducibility across 90 papers. ScienceAgentBench: 102 tasks from 44 papers in math/chem/bio/geo. RE-Bench: 7 ML research-engineering environments, 71 8-hour human attempts; humans exceed agents at 8h and 32h, agents beat humans at 2h. MLE-bench: 75 Kaggle ML competitions; o1-preview + AIDE reached bronze-medal level in 16.9%. KernelBench: 250 PyTorch tasks for kernel correctness and speed, metric fast_p = % correct AND faster than baseline."
 tags:
   - concepts
+  - benchmark
+  - evaluation
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

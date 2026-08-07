@@ -4,6 +4,8 @@ title: "Model-Agnostic Prompts for AI Video Workflows"
 details: "Research index synthesizing the methodology from @jiaoshuo1997 on dev.to (captured 2026-07-23, source: Raw/model-agnostic-prompts-ai-video-workflows.md). Seven-part framework: (1) IR with explicit duration/aspect/subject/environment/composition/camera/action/lighting/end_state fields, (2) invariants vs preferences split with P0/P1/P2 priority levels, (3) two-stage renderer (visual state then temporal change), (4) per-model adapter that translates rather than copies, (5) pre-render validator for duration/aspect/required fields/camera direction/end state/timing, (6) structural fidelity evaluation in place of pixel similarity, (7) auditable artifact bundle per generation. Applies to: ComfyUI video backends (Wan 2.1, Hunyuan, CogVideoX, LTX-Video), OpenMontage pipelines with VIDEO_GEN_LOCAL_MODEL slots, and any agentic video orchestration where model versions are expected to churn. Tension with OpenMontage's existing tool design: each BaseTool currently targets one backend with backend-specific prompt construction — an adapter layer above BaseTool would generalize across all four local backends and any cloud model."
 tags:
   - research
+  - video
+  - llm
 created: 2026-07-23
 updated: 2026-07-23
 type: research

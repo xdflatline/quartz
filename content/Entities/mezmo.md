@@ -4,6 +4,8 @@ title: "Mezmo"
 details: "Mezmo is the company behind the AURA open-source project. Originally a log-observability platform (formerly LogDNA), the company has expanded into AI-powered SRE tooling, with AURA as the headline agentic-harness offering. Apache 2.0 license for AURA; vendor runs a hosted Mezmo platform separately."
 tags:
   - entities
+  - agent
+  - reference
 created: 2026-07-25
 updated: 2026-07-25
 type: entity

@@ -4,6 +4,7 @@ title: Entities
 details: Profiles on companies, people, and tools.
 tags:
   - entities
+  - index
 created: 2026-06-16
 updated: 2026-06-16
 type: entity

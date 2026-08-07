@@ -4,6 +4,8 @@ title: "Scratchpad Context-Window Management"
 details: "A context-window management pattern for tool-using agents: large MCP tool outputs (Kubernetes listings, log exports) are intercepted above a per-tool token threshold and stored on disk. The agent receives a summary plus 8 read-only exploration tools (head, slice, grep, schema, item_schema, get_in, iterate_over, read) to selectively pull in only the data it needs. A per-agent ContextBudget is updated with LLM-reported token usage as ground truth. Implemented in AURA (mezmo/aura) as [agent.scratchpad]."
 tags:
   - concepts
+  - context-engineering
+  - agent
 created: 2026-07-25
 updated: 2026-07-25
 type: concept

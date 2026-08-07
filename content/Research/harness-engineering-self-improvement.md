@@ -4,6 +4,8 @@ title: "Harness Engineering for Self-Improvement (Weng, Jul 2026)"
 details: "Comprehensive synthesis of Weng's 2026 harness-engineering survey with bidirectional links to the 18 new concept pages and 30 new entity pages created during this ingestion. Organized by the four tiers of the Weng framework: Design Patterns, Optimization, Self-Improving Harness, and Open Bottlenecks. Plus an appendix on benchmarks, a cross-cutting themes section, and actionable next research directions for the operator's wiki."
 tags:
   - research
+  - agent
+  - harness
 created: 2026-08-07
 updated: 2026-08-07
 type: research

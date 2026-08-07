@@ -4,6 +4,8 @@ title: "KernelBench"
 details: "Ouyang et al., 2025. 250 PyTorch tasks to evaluate whether LLMs can write fast and correct GPU kernels. Metric: fast_p = the percentage of generated kernels that are correct and faster than baseline."
 tags:
   - entities
+  - benchmark
+  - kernel
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

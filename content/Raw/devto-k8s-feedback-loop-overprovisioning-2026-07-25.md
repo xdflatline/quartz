@@ -4,6 +4,9 @@ title: "Improving Kubernetes Resource Efficiency with Automated Feedback Loops t
 details: "Alina Trofimova argues that Kubernetes over-provisioning is a structural feedback-mechanism deficiency, not a technical knowledge gap. The article analyzes six systemic patterns (safety-margin inflation, peak sizing, inherited technical debt, post-OOM overcorrection, data-deficient initial provisioning, process atrophy) and proposes a process-driven solution: post-deployment audits, quarterly reconciliation, incident-triggered reviews, right-sizing via VPA, template validation, decay timers, and efficiency SLAs. Quantitative claim: 40-70% slack capacity in top deployments, reducible to near-zero for bursty workloads via VPA."
 tags:
   - raw
+  - kubernetes
+  - infrastructure
+  - blog-post
 created: 2026-07-25
 updated: 2026-07-25
 type: raw

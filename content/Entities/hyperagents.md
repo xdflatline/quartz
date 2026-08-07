@@ -4,6 +4,8 @@ title: "Hyperagents"
 details: "DGM leaves one question open: how should the agent decide *what kind* of edit to make? Hyperagents introduces a **meta-agent that learns a modification policy** over the population. The meta-agent decides whether the next modification should be a refactor, a parameter tweak, a tool addition, or a structural rewrite."
 tags:
   - entities
+  - harness
+  - agentic-system
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

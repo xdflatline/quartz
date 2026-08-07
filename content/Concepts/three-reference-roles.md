@@ -4,6 +4,7 @@ title: "Three Reference Roles"
 details: "When building a non-trivial system with AI, references are usually treated as 'things to copy'. The Node AI's typology splits references into three distinct roles, each with a different use: 1) Building Block — finished, maintained software that can be integrated as-is (QMD, Obsidian). 2) Pattern — an idea, not a tool, that you implement yourself (Karpathy's 'AI maintains its own knowledge wiki' idea). 3) Benchmark — neither code nor concept, but a target definition of 'done' (a mockup image of the final look). The roles are mutually exclusive and a single reference can be evaluated against all three. The discipline also includes 'what did I look at and reject?' — e.g. Gbrain and Graphify were studied but no code was taken; their pattern of 'Markdown as the single source of truth, graph is only a derived snapshot' did influence the architecture. Discarding is itself a research result."
 tags:
   - concepts
+  - guide
 created: 2026-07-25
 updated: 2026-07-25
 type: concept

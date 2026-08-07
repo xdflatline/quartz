@@ -4,6 +4,8 @@ title: "Standard JSON Schema Tool Contracts"
 details: "A schema interop pattern built on the Standard JSON Schema spec (standardschema.dev/json-schema). Tools and workflows declare inputSchema and outputSchema using any compliant library — Zod objects directly, Valibot via toStandardJsonSchema(), ArkType types directly. The runtime normalizes to a single JSON Schema representation for LLM tool-call generation. This decoupling means the framework can adopt new validation libraries as the ecosystem evolves, and developers can mix and match within a single codebase."
 tags:
   - concepts
+  - schema
+  - tooling
 created: 2026-07-03
 updated: 2026-07-03
 type: concept

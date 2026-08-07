@@ -4,6 +4,8 @@ title: "Subagent-as-Tool Composition"
 details: "A composition pattern that unifies subagents, workflows, and MCP-loaded tools under the same tool representation. A parent agent's 'tools' slot accepts three kinds: createTool-built primitives, agents (auto-converted to 'agent-<key>'), and workflows (auto-converted to 'workflow-<key>'). The parent LLM sees a flat tool list and decides what to call. The pattern enables hierarchical agent systems (supervisor-of-supervisors) and clean reuse (a research workflow is callable from any agent that needs it)."
 tags:
   - concepts
+  - multi-agent
+  - agent
 created: 2026-07-03
 updated: 2026-07-03
 type: concept

@@ -4,6 +4,8 @@ title: OpenMontage
 details: "OpenMontage is the first open-source, agentic video production system. The AI coding assistant is the orchestrator — there is no central Python orchestrator. The agent reads pipeline manifests (YAML), reads stage director skills (Markdown), invokes tools (Python BaseTool subclasses), self-reviews against a meta-skill, and checkpoints progress to disk. Supports 12 production pipelines (Animated Explainer, Cinematic, Documentary Montage, Hybrid, Avatar, Character Animation, etc.), 52 tools (Wan 2.1, Hunyuan, CogVideo, Kling, Veo, FLUX, Piper TTS, WhisperX, Remotion, HyperFrames, FFmpeg), 15 JSON schemas, and 500+ agent skills. Free open-source path: Piper TTS + Archive.org / NASA / Wikimedia / Pexels / Pixabay + Remotion or HyperFrames + FFmpeg. Verified sub-dollar productions (e.g., 'Mori no Seishin' Ghibli-style anime = $0.15)."
 tags:
   - entities
+  - agent
+  - agentic-system
 created: 2026-07-02
 updated: 2026-07-02
 type: entity

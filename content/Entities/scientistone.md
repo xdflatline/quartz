@@ -4,6 +4,8 @@ title: "ScientistOne"
 details: "ScientistOne addresses a known failure mode of AI Scientist: plausible manuscripts with fabricated citations, implementation drift, or weak experimental results. By making verifiability a first-class design constraint and auditing every claim with Chain-of-Evidence checks, ScientistOne aims to surface fabrication before the manuscript is published. A direct response to the failure modes catalogued in [[Raw/lilianweng-harness-engineering-2026-07-04]]."
 tags:
   - entities
+  - agent
+  - evaluation
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

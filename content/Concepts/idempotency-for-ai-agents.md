@@ -4,6 +4,7 @@ title: Idempotency for AI Agents
 details: Applying idempotency keys to write-capable AI agents so that retries and network failures produce exactly one real-world side effect per logical intent. Borrowed from payments infrastructure (Stripe Idempotency-Key), the pattern wraps side-effecting tool calls in a store keyed on intent content, collapsing duplicate executions into replays. The read/write asymmetry is central -- read retries are free, write retries are double-actions.
 tags:
   - concepts
+  - agent
 source: https://dev.to/gs_sanjana_3e822112e14f8/your-ai-agent-doesnt-need-to-be-smarter-it-needs-to-be-idempotent-2736
 created: 2026-07-01
 updated: 2026-07-01

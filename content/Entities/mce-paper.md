@@ -4,6 +4,8 @@ title: "MCE paper (Meta Context Engineering via Agentic Skill Evolution)"
 details: "The MCE paper is the meta-level extension of the ACE line. The bi-level formalism, the skill history H, the agentic crossover operator, and the standard tool set {Read, Write, Edit, Bash, Glob, Grep, TodoWrite} are all defined here. Implementation-wise, a context function is a collection of files in a dedicated directory including both static (skill.md) and dynamic (context + data rollouts) components."
 tags:
   - entities
+  - harness
+  - context-engineering
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

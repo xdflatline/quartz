@@ -4,6 +4,8 @@ title: "Modal"
 details: "Modal lets developers run any Python function on GPUs by decorating it with @app.function(gpu='H100'). The platform handles containerization, scheduling, autoscaling, and billing. Modal is widely used for inference, fine-tuning, batch jobs, and sandboxes."
 tags:
   - entities
+  - serverless
+  - infrastructure
 created: 2026-07-24
 updated: 2026-07-24
 type: entity

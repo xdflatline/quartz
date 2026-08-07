@@ -4,6 +4,8 @@ title: "HITL Approval Gates for Tool Calls"
 details: "Human-in-the-loop approval gates intercept sensitive tool calls before execution, returning a blocked-action result to the worker if denied. AURA (mezmo/aura) implements this as [hitl] with tool-name globs and a [hitl.route] choosing between webhook and conversational modes. Approval lifecycle SSE events are emitted regardless of AURA_CUSTOM_EVENTS; conversational mode also emits aura.approval_pending and requires stream=true plus an Aura-aware client. Cross-pod resolution works in Redis session-store mode."
 tags:
   - concepts
+  - agent
+  - architecture-pattern
 created: 2026-07-25
 updated: 2026-07-25
 type: concept

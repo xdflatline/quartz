@@ -4,6 +4,8 @@ title: "Self-Improve: Pluggable AI Agent Evolution System"
 details: A production-ready self-evolution system for AI agents that automatically learns from mistakes, corrections, and feedback to continuously improve e...
 tags:
   - raw
+  - agent
+  - github-readme
 created: 2026-05-25
 updated: 2026-05-25
 type: raw

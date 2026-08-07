@@ -4,6 +4,8 @@ title: "Graph-Based Workflow Engine"
 details: "A workflow engine that treats multi-step processes as a directed graph of typed steps. Each step has input/output schemas (Standard JSON Schema), a state schema for cross-step shared mutable state, and a control-flow API (.then for sequential, .parallel for concurrent fan-out, .branch for conditional routing, .map for schema transformation between mismatched steps). The engine persists run state to storage, supports suspension/resumption for human-in-the-loop, and can stream step results. Mastra's createStep/createWorkflow is the canonical implementation; LangGraph's StateGraph is the Python equivalent."
 tags:
   - concepts
+  - orchestration
+  - architecture-pattern
 created: 2026-07-03
 updated: 2026-07-03
 type: concept

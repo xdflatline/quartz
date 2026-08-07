@@ -4,6 +4,8 @@ title: "ScienceAgentBench"
 details: "Covers basic data-science tasks in these domains: data processing, model development, data analysis, and information visualization. The benchmark grounds LLM evaluation in real published scientific tasks across disciplines."
 tags:
   - entities
+  - benchmark
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

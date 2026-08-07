@@ -4,6 +4,7 @@ title: ComfyUI
 details: "ComfyUI is a node-based visual AI engine (comfy.org) for Stable Diffusion, FLUX, Wan 2.1, Hunyuan Video, and other image / video / audio models. Workflows are defined as JSON DAGs of nodes (KSampler, CLIPTextEncode, VAEDecode, LoadCheckpoint, WanVideoSampler, etc.). ComfyUI exposes a REST API for programmatic execution: POST /prompt (queue a workflow with a client_id), GET /history/<prompt_id> (fetch results), GET /view?filename=...&type=output (download outputs), and a WebSocket /ws?clientId=<id> for real-time progress. Local execution requires a CUDA / Metal / ROCm GPU; cloud execution is available via Comfy Cloud (platform.comfy.org). The Hermes ComfyUI skill (creative/comfyui) provides a verified two-layer setup: comfy-cli for server lifecycle, REST/WS scripts for workflow execution with parameter injection. Native nodes exist for Wan 2.1 (text-to-video, image-to-video) and Hunyuan Video, making ComfyUI a viable local free video backend for OpenMontage via a custom tools/video/comfyui_video.py adapter."
 tags:
   - entities
+  - tooling
 created: 2026-07-02
 updated: 2026-07-02
 type: entity

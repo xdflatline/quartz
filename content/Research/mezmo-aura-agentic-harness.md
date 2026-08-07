@@ -4,6 +4,9 @@ title: "Research Index: Agentic Harnesses for SRE Work"
 details: "Research synthesis of github.com/mezmo/aura — Mezmo's Apache 2.0 Rust agentic harness for running LLM-powered SRE agents in production. Covers the agentic-harness architecture pattern, coordinator/worker task-DAG orchestration, disk-backed scratchpad for oversized tool outputs, human-in-the-loop approval gates, OpenAI-compatible API serving, on-demand skills catalog, MCP tool integration, A2A protocol interop, multi-provider LLM support, and multi-pod Redis session storage. Aims to capture the features and capabilities of the project as a reusable pattern catalog for any self-hosted, declarative-config agent runtime."
 tags:
   - research
+  - agent
+  - harness
+  - runtime
 created: 2026-07-25
 updated: 2026-07-25
 type: research

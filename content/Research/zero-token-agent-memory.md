@@ -4,6 +4,9 @@ title: "Research Index: Zero-Token Agent Memory"
 details: "This index collects concepts, tools, and patterns from the Zero-Mem paper (Xiao et al., 2026) and situates it among related memory architectures. The central research question: can an agent memory system eliminate LLM calls from every operation outside final question answering, while retaining structured access beyond flat similarity retrieval? The answer (yes, with provenance preservation) is the operating regime this index covers. The research thread connects Zero-Mem to HippoRAG (the closest graph-retrieval relative), the broader family of generated-memory systems (Mem0, A-Mem, LightMem, SimpleMem, CompassMem, MemoryOS, GAM, Zep), and the practitioner's perspective on deterministic-first architecture for memory systems."
 tags:
   - research
+  - memory
+  - agent
+  - llm
 created: 2026-08-05
 updated: 2026-08-05
 type: research

@@ -4,6 +4,8 @@ title: "DeepInfra"
 details: "DeepInfra is an AI inference cloud that provides serverless APIs for 100+ open-weight models (LLM, embeddings, image, speech) on H100/A100 hardware, plus dedicated GPU rentals. The API is OpenAI-compatible. Known for transparent pricing, low per-token rates, and a simple per-request billing model."
 tags:
   - entities
+  - inference
+  - serverless
 created: 2026-07-24
 updated: 2026-07-24
 type: entity

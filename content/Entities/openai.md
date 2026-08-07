@@ -4,6 +4,7 @@ title: OpenAI
 details: OpenAI is an AI research and deployment company based in San Francisco, California. Known for developing GPT-series language models, DALL-E, and ad...
 tags:
   - entities
+  - llm
 created: 2026-05-20
 updated: 2026-05-20
 type: entity

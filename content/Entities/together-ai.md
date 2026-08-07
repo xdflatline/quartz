@@ -4,6 +4,8 @@ title: "Together AI"
 details: "Together AI runs an OpenAI-compatible serverless API for 100+ open models, plus single-tenant GPU instances and multi-GPU clusters. Known for low per-token rates, optimized inference (ATLAS speculative decoding on dedicated endpoints), and competitive fine-tuning pricing."
 tags:
   - entities
+  - inference
+  - serverless
 created: 2026-07-24
 updated: 2026-07-24
 type: entity

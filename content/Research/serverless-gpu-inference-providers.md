@@ -4,6 +4,9 @@ title: "Serverless / On-Demand GPU Inference Providers"
 details: "Comparison of ten serverless and on-demand GPU providers used for ML inference as of July 2026. Covers pricing models (per-token, per-GPU-second, per-replica-hour, per-output), API design, data privacy and compliance, storage options, cold-start behavior, and provider strengths/limitations. Includes Akash Network, Replicate, Modal, RunPod, Together AI, Fireworks AI, Hugging Face Inference Endpoints, Fal.ai, Baseten, and Beam Cloud."
 tags:
   - research
+  - infrastructure
+  - serverless
+  - llm
 created: 2026-07-24
 updated: 2026-07-24
 type: research

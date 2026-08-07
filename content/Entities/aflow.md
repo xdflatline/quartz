@@ -4,6 +4,8 @@ title: "AFlow"
 details: "AFlow showed decent improvement over manually designed workflows and ADAS on QA, code, and math tasks. The graph representation makes workflows explicit and inspectable; the MCTS selection rule (soft mixture of score and uniform exploration) avoids local optima."
 tags:
   - entities
+  - agentic-system
+  - orchestration
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

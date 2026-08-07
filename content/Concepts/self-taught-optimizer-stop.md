@@ -4,6 +4,8 @@ title: "Self-Taught Optimizer (STOP)"
 details: "STOP is one of the early examples of treating the optimizer itself as the optimization target. The meta-utility is the average utility of a given improver function I over a collection of downstream tasks D. The improved improver discovered strategies such as genetic algorithms, decomposing-and-improving-parts, multi-armed prompt bandits, simulated annealing, varying temperature, and beam/tree search — analogous to how a harness workflow can be represented as an object for optimization. The cautionary finding: STOP improved mean downstream performance with GPT-4 but DEGRADED with weaker models like GPT-3.5 and Mixtral. Recursive structure alone is not enough — the base model must be capable enough to improve the mechanism."
 tags:
   - concepts
+  - training
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

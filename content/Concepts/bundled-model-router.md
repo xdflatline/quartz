@@ -4,6 +4,8 @@ title: "Bundled Model Router"
 details: "A model-access pattern that hides provider SDKs behind a single string identifier ('openai/gpt-5.5', 'anthropic/claude-sonnet-4-6', 'google/gemini-2.5-flash'). The router internally resolves the string to the right provider, infers the API key from environment variables (e.g., 'openai/*' requires OPENAI_API_KEY), and exposes a uniform interface to the agent. Users do not install provider packages (notably no 'ai-sdk' packages). The pattern is what makes a multi-provider framework feel like a single-vendor API."
 tags:
   - concepts
+  - llm
+  - architecture-pattern
 created: 2026-07-03
 updated: 2026-07-03
 type: concept

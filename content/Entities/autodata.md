@@ -4,6 +4,8 @@ title: "Autodata"
 details: "Autodata manages four roles: a main agent (the orchestrator), a challenger (proposes problems), a weak solver, a strong solver, and a verifier/judge. The challenger's prompt is updated iteratively based on feedback from the solvers and verifier. Limitation: synthesized tasks fine-tune weak solvers but not strong solvers; if the loop cannot iteratively improve the strong model, it is closer to indirect distillation over a generated prompt distribution than true RSI."
 tags:
   - entities
+  - agent
+  - training
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

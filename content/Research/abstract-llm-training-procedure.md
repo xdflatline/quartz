@@ -4,6 +4,8 @@ title: Abstract Procedure for LLM Training and Fine-Tuning
 details: A comprehensive abstract framework outlining the lifecycle of LLM specialization, from dataset curation to reinforcement learning.
 tags:
   - research
+  - llm
+  - training
 created: 2026-06-17
 updated: 2026-06-17
 type: research

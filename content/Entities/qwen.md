@@ -4,6 +4,7 @@ title: Qwen
 details: Qwen (通义千问, Tongyi Qianwen) is a family of large language models developed by Alibaba's Tongyi Lab. The series spans multiple model sizes and speci...
 tags:
   - entities
+  - llm
 created: 2026-05-20
 updated: 2026-06-04
 type: entity

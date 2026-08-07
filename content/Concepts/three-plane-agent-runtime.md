@@ -4,6 +4,8 @@ title: "Three-Plane Agent Runtime"
 details: "The three-plane model splits agent-runtime responsibilities into distinct planes with different lifetimes and concerns. Control plane is the Kitaru server: long-lived, shared, holds metadata, deployment registry, auth, credential brokering. Orchestration plane is the per-run runner: durable control flow for one execution (order, retry, replay, resume, wait). Execution plane is the inline process or isolated container where the user's code actually runs. In local dev all three planes collapse into one Python process. In production the server is a Kubernetes pod, runners are dispatched to the configured stack (Kubernetes / Vertex AI / SageMaker / AzureML), and execution happens inline or in isolated containers/jobs. A sandboxes / external tools / custom backends are conceptual extensions of the execution plane. The model is distinct from the harness/runtime/platform stack-layer model, which describes where a runtime sits relative to harnesses and platform governance."
 tags:
   - concepts
+  - runtime
+  - architecture-pattern
 source: https://docs.zenml.io/kitaru
 created: 2026-07-10
 updated: 2026-07-10

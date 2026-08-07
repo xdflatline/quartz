@@ -4,6 +4,8 @@ title: "Bi-level Context + Skill Optimization (MCE)"
 details: "MCE formalizes a skill as a context function c_s=(ρ_s, F_s) with static components (prompts, knowledge bases, code libraries) and dynamic operators (search, selection, filtering, formatting). The inner loop finds the best context for a fixed skill on training data; the outer loop finds the optimal skill that gives the best validation performance. Skills undergo agentic crossover over a history H of (skill, context, train-utility, val-utility) tuples. The base-level context engineer executes the current skill and learns the context function from rollout feedback. Both levels run in agentic coding envs with a standard tool set {Read, Write, Edit, Bash, Glob, Grep, TodoWrite}."
 tags:
   - concepts
+  - context-engineering
+  - harness
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

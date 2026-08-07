@@ -4,6 +4,8 @@ title: "Cerebrium"
 details: "Cerebrium is a serverless AI infrastructure platform designed for production inference, real-time AI, batch jobs, and voice AI. It supports 10+ GPU types, multi-region deployments, and a highly-available distributed router (Thalamus) for global real-time AI workloads. Brings-your-own-Dockerfile approach with no proprietary SDK or decorator required."
 tags:
   - entities
+  - serverless
+  - inference
 created: 2026-07-24
 updated: 2026-07-24
 type: entity

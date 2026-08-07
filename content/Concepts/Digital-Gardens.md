@@ -4,6 +4,8 @@ title: Digital Gardens
 details: The philosophy and practice of cultivating a public knowledge base
 tags:
   - concepts
+  - wiki
+  - knowledge-management
 created: 2026-06-15
 updated: 2026-06-17
 type: concept

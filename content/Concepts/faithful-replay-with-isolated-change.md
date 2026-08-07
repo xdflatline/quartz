@@ -4,6 +4,7 @@ title: "Faithful Replay With Isolated Change"
 details: "Faithful replay is the differentiator of record-and-replay runtimes like Kitaru. The mechanic: every checkpoint in a flow has its inputs and output recorded durably. A no-change replay reproduces the original by serving those persisted outputs (the baseline). A second replay with one input overridden (a different model, a different prompt) re-executes only from the first affected checkpoint; everything before reproduces exactly. A diff between baseline and variant isolates the effect of the change. Three override levels exist in Kitaru: flow_overrides (top-level flow inputs), checkpoint_overrides (every recorded call with a checkpoint name), invocation_overrides (one recorded checkpoint, tool, or model call by ID). Faithful replay is distinct from output re-scoring (eval): the real run is re-executed, not its saved outputs compared to new ones."
 tags:
   - concepts
+  - runtime
 source: https://docs.zenml.io/kitaru
 created: 2026-07-10
 updated: 2026-07-10

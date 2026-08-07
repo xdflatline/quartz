@@ -4,6 +4,8 @@ title: "Kitaru"
 details: "Kitaru is the runtime layer of an agent stack — the layer that records every run as durable checkpoints so you can replay it, change one input, and diff the result. It wraps ordinary Python function boundaries with @flow and @checkpoint, records model and tool calls, and provides a runner + control-plane architecture. A Kitaru flow is a dynamic ZenML pipeline and runs on the same stacks, server, and dashboard. Adapters exist for PydanticAI, OpenAI Agents, Claude Agent SDK, Gemini Interactions, Google ADK (experimental), and LangGraph. Ships an MCP server and CLI so coding agents can drive the run/replay/improve loop. Self-host-first: single-service server on Kubernetes, artifacts in your own S3/GCS/Azure Blob, no mandatory SaaS control plane in the data path."
 tags:
   - entities
+  - runtime
+  - agent
 source: https://docs.zenml.io/kitaru
 created: 2026-07-10
 updated: 2026-07-10

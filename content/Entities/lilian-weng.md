@@ -4,6 +4,7 @@ title: "Lilian Weng"
 details: "Author of the July 2026 post 'Harness Engineering for Self-Improvement' that anchors this Raw entry, and a long-running series of in-depth surveys on agent design, LLM safety, and prompt engineering. Lil'Log is one of the canonical references for the agent-engineering community."
 tags:
   - entities
+  - reference
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

@@ -4,6 +4,8 @@ title: "Context as Evolving Playbook (ACE)"
 details: "ACE is a context-engineering method that treats the LLM context as a structured logbook of (identifier, description) bullets, refined and deduplicated over time. Three roles: Generator produces task trajectories with reference to bullets; Reflector distills insights from successes and failures; Curator updates the playbook with incremental, itemized entries. The key design rule that prevents context collapse: the curator does NOT rewrite a full prompt blob — it outputs structured bullets merged by deterministic logic. This separates the context-management workflow from the artifact content and gives the system a long-lived, inspectable, growing memory that survives many rollouts."
 tags:
   - concepts
+  - context-engineering
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

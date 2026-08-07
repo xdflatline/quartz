@@ -4,6 +4,8 @@ title: "AURA - Agentic Harness for LLM-Powered SRE Agents (README)"
 details: "Mezmo's open-source AURA project: a Rust-built agentic harness providing guardrails, API servers, state management, authentication, streaming, error handling, and tool integrations to run AI SRE agents safely in production. Self-hosted, multi-provider (OpenAI, Anthropic, Bedrock, Gemini, Ollama, OpenRouter), MCP-compatible, with multi-agent coordinator/worker orchestration, human-in-the-loop approval gates, disk-backed scratchpad for large tool outputs, vector search grounding, and an OpenAI-compatible API."
 tags:
   - raw
+  - harness
+  - github-readme
 created: 2026-07-25
 updated: 2026-07-25
 type: raw

@@ -4,6 +4,8 @@ title: "Observational Memory Pattern"
 details: "A memory architecture for long-running agent conversations. Replaces raw message history with a dense observation log maintained by two background agents: an Observer that writes observations when recent message tokens exceed a threshold (default 30k), and a Reflector that condenses observations when observation tokens exceed a threshold (default 40k). The agent sees: (1) recent messages exact, (2) observations (concise notes), (3) reflections (condensed observations). Yields 5-40x compression, zero context rot, and a stable append-only prompt prefix that keeps prompt caches warm."
 tags:
   - concepts
+  - memory
+  - context-engineering
 created: 2026-07-03
 updated: 2026-07-03
 type: concept

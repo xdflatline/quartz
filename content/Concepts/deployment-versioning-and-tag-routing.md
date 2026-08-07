@@ -4,6 +4,7 @@ title: "Deployment Versioning and Tag Routing"
 details: "Kitaru deployment model: a flow source is the recipe; a deployment version is one immutable saved copy; an invocation starts a fresh execution from that copy. Versions auto-increment per flow (v1, v2, ...). Tags are human-readable selectors that point at versions: exclusive tags (default, stable, prod) point at one version at a time and move when re-attached; shared tags (experiment, team-a, benchmark) can point at multiple versions but invoke requires single resolution. The 'default' tag is reserved, always exclusive, auto-assigned to the first deployment, and cannot be removed. There is no per-deployment token — auth uses the workspace/service-account credentials the CLI/SDK/MCP already use. Invocations are serverless (no long-lived per-version service); a deployment requires a remotely-executable stack. This is a clean producer/consumer split: the producer owns source + deploys + moves tags, the consumer only needs a flow name + selector."
 tags:
   - concepts
+  - runtime
 source: https://docs.zenml.io/kitaru
 created: 2026-07-10
 updated: 2026-07-10

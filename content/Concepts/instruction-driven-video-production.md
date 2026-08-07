@@ -4,6 +4,8 @@ title: Instruction-Driven Video Production
 details: "Instruction-driven video production is the architectural pattern at the heart of OpenMontage. The AI agent is the orchestrator. Pipeline manifests (YAML) declare stages, tools, and quality gates. Stage director skills (Markdown) teach the agent HOW to execute each stage. Tools are thin Python BaseTool subclasses that do nothing on their own. The agent reads instructions, invokes tools, self-reviews, and checkpoints. There is no Python orchestrator, no Python reviewer, no Python handlers. The intelligence is in the skills, not in improvised code. Compared to LangGraph / CrewAI / AutoGen-style frameworks, instruction-driven systems make the production policy auditable, version-controllable, and editable by humans in plain text — without redeploying code. This is the same pattern as CLAUDE.md / AGENTS.md for coding agents, extended to video production."
 tags:
   - concepts
+  - agent
+  - architecture-pattern
 created: 2026-07-02
 updated: 2026-07-02
 type: concept

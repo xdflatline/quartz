@@ -4,6 +4,8 @@ title: LoRA and QLoRA
 details: "Introduced by Hu et al. in 2021 ([LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)), LoRA freezes the pre-trai..."
 tags:
   - concepts
+  - fine-tuning
+  - training
 created: 2026-05-24
 updated: 2026-05-24
 type: concept

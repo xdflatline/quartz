@@ -4,6 +4,8 @@ title: "Darwin Gödel Machine (DGM)"
 details: "DGM is harness evolution under a fixed model. The selected parent agent examines its own benchmark evaluation log and proposes improvements to its own harness codebase to generate a new version of the coding agent. Code editing is implemented with two basic tools: bash (args: <bash_command>) and editor (args: view/create/edit <file_path>). New agents are evaluated; only those with sufficiently high performance are added back to the pool. On SWE-bench Verified: 20% → 50%. On Polyglot: 14.2% → 30.7% (Claude 3.5 Sonnet base, simple initial harness). Hyperagents (2026 follow-up) introduces a meta-agent to control the modification strategy."
 tags:
   - concepts
+  - harness
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

@@ -2,7 +2,10 @@
 title: "Hindsight Memory System"
 
 details: "Hindsight addresses the limitations of standard RAG by introducing multi-strategy retrieval, automated observation consolidation, and hierarchical memory structures. It allows AI agents to evolve beyond simple stateless interactions by maintaining durable, evolving mental models of users and environments."
-tags: ["concepts"]
+tags:
+  - concepts
+  - memory
+  - rag
 created: 2026-06-19
 updated: 2026-06-19
 type: concept

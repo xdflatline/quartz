@@ -4,6 +4,8 @@ title: "File System as Agent Memory"
 details: "Files are the universal substrate for long-horizon agent memory. Reading, writing, and editing files via bash is a foundation skill that benefits directly from core model improvements, so this pattern ages well across model generations. The key design rule: structure state in inspectable, recoverable files; the model can re-read on demand with grep/cat instead of carrying it in context. The pattern underlies every self-improving harness that survives more than one task horizon (Meta-Harness, DGM, Self-Harness, AHE)."
 tags:
   - concepts
+  - memory
+  - harness
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

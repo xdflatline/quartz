@@ -4,6 +4,8 @@ title: "Joint Harness + Weight Optimization (SIA)"
 details: "SIA is the first paper (per Weng) to attempt joint optimization of the harness and the model weights. The Feedback-Agent observes recent trajectories and decides which path to take on the next iteration. Confounding choices in the original experiments (task-specific agent much weaker than Meta/Feedback agents: gpt-oss-120b vs Claude Sonnet 4.6) make results hard to interpret, and baselines are too weak to cross-reference cleanly against related methods. Weng considers the direction interesting but the evidence provisional. Training stability and Goodhart effect remain open."
 tags:
   - concepts
+  - harness
+  - training
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

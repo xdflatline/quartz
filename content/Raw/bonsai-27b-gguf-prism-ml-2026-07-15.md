@@ -4,6 +4,8 @@ title: "Bonsai-27B-gguf (prism-ml)"
 details: Raw article — Bonsai-27B-gguf model card from prism-ml on Hugging Face. 1-bit GGUF Q1_0_g128 quantization of Qwen3.6-27B, ~3.9 GB deployed, ~90% of FP16 intelligence.
 tags:
   - raw
+  - quantization
+  - llm
 created: 2026-07-15
 updated: 2026-07-15
 type: raw

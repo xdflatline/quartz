@@ -4,6 +4,8 @@ title: "RunPod"
 details: "RunPod offers two products: Pods (full GPU instances billed per second with no ingress fees) and Serverless (queue-based workers or load-balanced HTTP endpoints with scale-to-zero). The platform is known for aggressive pricing via Community Cloud and a broad GPU catalog from consumer (4090, 5090) to data-center (H100, H200, B200, B300)."
 tags:
   - entities
+  - serverless
+  - infrastructure
 created: 2026-07-24
 updated: 2026-07-24
 type: entity

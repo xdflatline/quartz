@@ -4,6 +4,8 @@ title: LLM Quantization Reference
 details: Quantization reduces model weight precision to trade off memory usage against output quality. The article recommends **Q4_K_M as the default sweet ...
 tags:
   - concepts
+  - quantization
+  - llm
 created: 2026-06-17
 updated: 2026-06-17
 type: concept

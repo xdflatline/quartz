@@ -4,6 +4,8 @@ title: "Supervisor Agent Pattern"
 details: "A multi-agent coordination pattern where a single supervisor agent owns the orchestration loop and treats specialized subagents as tools. Subagents are configured on the supervisor's 'agents' property and exposed as tools named 'agent-<key>'. The supervisor decides when to delegate using its own instructions plus each subagent's description. Two delegation hooks enable runtime control: onDelegationStart (proceed/reject, modify prompt, cap max steps) and onDelegationComplete (inject feedback, bail out). By default, subagents see a fresh thread per delegation but a stable resource ID derived from the parent."
 tags:
   - concepts
+  - multi-agent
+  - agent
 created: 2026-07-03
 updated: 2026-07-03
 type: concept

@@ -4,6 +4,8 @@ title: "Kitaru Documentation (ZenML)"
 details: "Full verbatim extraction of the Kitaru documentation as of 2026-07-10. Covers the run/replay/improve loop, harness-vs-runtime-vs-platform positioning, the control/orchestration/execution three-plane model, the runner-vs-sandbox contract, inline-vs-isolated checkpoint execution, deployment versioning and tag routing, wait/input/resume semantics, the supported adapter surface (PydanticAI, OpenAI Agents, Claude Agent SDK, Gemini Interactions, Google ADK, LangGraph), and the structured-metadata vs runtime-log observability split. Last updated in source: ~7 days before retrieval."
 tags:
   - raw
+  - orchestration
+  - documentation
 source: https://docs.zenml.io/kitaru
 created: 2026-07-10
 updated: 2026-07-10

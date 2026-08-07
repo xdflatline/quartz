@@ -4,6 +4,8 @@ title: "Amsterdam Day Trip Reference"
 details: "Trip reference compiled 2026-07-13 for use as a single-day round trip from the Bergen stay. Anchor: Amsterdam Centraal station 52.378901, 4.9005805 (Stationsplein, 1012 AB Amsterdam). Train from Alkmaar: ~35-38 min direct (NS Intercity, 4 per hour). All listed POIs are reachable on foot (within 5.5 km of the station) or by GVB tram/metro from Centraal; nothing in the itinerary requires a car. Anne Frank House and Van Gogh Museum both require online-only timed tickets sold 6 weeks ahead. Caveats: OSM opening hours are community-maintained; Anne Frank House, Rijksmuseum, and Van Gogh Museum have published current hours via web search (Anne Frank daily 09:00-22:00, Rijksmuseum daily 09:00-17:00, Van Gogh daily 09:00-18:00). Distance figures are OSRM road-network distances; walking-time estimates assume ~5 km/h on foot and are marked with a leading tilde to flag them as approximate."
 tags:
   - research
+  - reise
+  - niederlande
 aliases:
   - /Research/amsterdam-centraal-day-trip-reference
 created: 2026-07-13

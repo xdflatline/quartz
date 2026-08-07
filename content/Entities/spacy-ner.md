@@ -4,6 +4,8 @@ title: "spaCy NER"
 details: "spaCy is an industrial-strength open-source NLP library for Python. Its Named Entity Recognition (NER) pipeline is a non-generative, statistical system that detects and classifies named entities (people, organizations, locations, dates, products, etc.) in running text. In Zero-Mem, spaCy NER is the non-generative NER pipeline that detects entities in each context unit to build the entity–context graph. Each detected entity becomes a graph node; each co-occurrence in a context unit becomes an edge with weight equal to the normalized occurrence frequency. Because the NER is statistical and not LLM-based, it is permitted under the zero-token memory regime — there are no LLM calls, no LLM input or output tokens, and the pipeline is deterministic given the same model checkpoint and text."
 tags:
   - entities
+  - embedding
+  - rag
 created: 2026-08-05
 updated: 2026-08-05
 type: entity

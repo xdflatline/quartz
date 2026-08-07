@@ -4,6 +4,8 @@ title: "Self-Harness paper"
 details: "When run on MiniMax M2.5, Qwen3.5-35B-A3B, and GLM-5 on Terminal-Bench-2, Self-Harness learned model-specific harness instructions that target different weaknesses of different base models and improved held-out pass rates. Weng's concern: if a program is allowed to edit the OS system, abstraction boundaries are broken — permission control and security layers must live outside this loop."
 tags:
   - entities
+  - harness
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

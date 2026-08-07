@@ -4,6 +4,7 @@ title: "Durable Actor Session Sleep"
 details: "AgentOS actors sleep after a configurable idle timeout (default 30s), preserving `/home/agentos` filesystem, durable session catalog, and completed session history across the sleep. A later client call wakes a fresh VM over the same actor SQLite database. Adapter processes, running commands, shells, live subscriptions, and in-progress ACP deltas do not survive — they are restored lazily on the next prompt. A three-tier fallback (native ACP session/resume → session/load → fresh session with bounded continuation context) handles agent-specific resume semantics."
 tags:
   - concepts
+  - runtime
 created: 2026-07-19
 updated: 2026-07-19
 type: concept

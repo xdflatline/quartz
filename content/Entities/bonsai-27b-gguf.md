@@ -4,6 +4,8 @@ title: Bonsai-27B-gguf
 details: Bonsai-27B-gguf is a 1-bit quantization of Qwen3.6-27B from prism-ml, packaged in GGUF Q1_0_g128 format. It ships at ~3.9 GB (~14.2x smaller than FP16) while retaining ~90% of FP16 intelligence, and is the most aggressive operating point in the Bonsai 27B family.
 tags:
   - entities
+  - quantization
+  - local-llm
 created: 2026-07-15
 updated: 2026-07-15
 type: entity

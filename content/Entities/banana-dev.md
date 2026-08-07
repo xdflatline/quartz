@@ -4,6 +4,8 @@ title: "Banana.dev (sunset)"
 details: "Banana.dev was one of the earliest serverless GPU platforms for ML inference (2021-2024), founded to make deploying ML models as serverless APIs as easy as possible. The platform sunset its serverless GPU product on March 31, 2024. Existing customers were migrated to alternatives. The Banana company pivoted to an on-demand GPU marketplace and a delivery service."
 tags:
   - entities
+  - serverless
+  - infrastructure
 created: 2026-07-24
 updated: 2026-07-24
 type: entity

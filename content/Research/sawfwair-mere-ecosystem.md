@@ -4,6 +4,8 @@ title: "Research Index: The Mere Ecosystem (sawfwair)"
 details: "Synthesis of the sawfwair GitHub organization as a single coherent AI ecosystem. Covers the core runtime (mere.run) with its modality-first command tree, the portable graph contract used by every surface, the visual authoring layer (Mere Graph Studio), the private remote compute layer (relay-mere-run) with its account-scoped Durable Object control plane, the MereKit CLI as the human/agent command plane, MereKit Link for declarative workspace links, and the official run-plugins that bridge to user-controlled external compute. Architecture diagram in Mermaid, per-layer capability matrix, and the cross-cutting design principles (one runtime contract, account isolation, capability-aware placement, lease-safe retries, no second execution contract)."
 tags:
   - research
+  - agent
+  - infrastructure
 created: 2026-08-01
 updated: 2026-08-01
 type: research

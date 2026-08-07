@@ -4,6 +4,8 @@ title: Stripe Idempotency-Key
 details: Stripe's API pattern for making POST requests safe against retries. Clients attach an Idempotency-Key header (V4 UUID or high-entropy random string) to POST requests. The server stores the status code and body of the first request for each key; subsequent requests with the same key return the stored result. Keys are pruned after 24 hours. This pattern has been adopted for AI agent reliability, where the key is derived from the content of the intended action rather than a random client-generated ID.
 tags:
   - entities
+  - protocol
+  - agent
 source: https://docs.stripe.com/api/idempotent_requests
 created: 2026-07-01
 updated: 2026-07-01

@@ -4,6 +4,8 @@ title: "Research Index: Kubernetes Resource Efficiency and Over-Provisioning"
 details: "A research index synthesizing a single source (Trofimova, DEV.to, 2026-07-22) on Kubernetes resource efficiency. The source's central claim: over-provisioning is a feedback-mechanism deficiency, not a tooling or knowledge gap. The index links three concepts (feedback-loop discipline, the six-pattern anti-pattern catalog, incentive misalignment) and three entities (VPA, Prometheus, Grafana) to a coherent picture of the problem and its mitigations."
 tags:
   - research
+  - kubernetes
+  - infrastructure
 created: 2026-07-25
 updated: 2026-07-25
 type: research

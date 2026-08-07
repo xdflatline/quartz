@@ -4,6 +4,8 @@ title: "Baseten"
 details: "Baseten is an enterprise-focused inference platform that pairs the open-source Truss model packaging framework with managed dedicated deployments and per-token Model APIs. Known for the Baseten Inference Stack (custom kernels, decoding optimizations, advanced caching) and for serving high-throughput compound AI applications."
 tags:
   - entities
+  - inference
+  - serverless
 created: 2026-07-24
 updated: 2026-07-24
 type: entity

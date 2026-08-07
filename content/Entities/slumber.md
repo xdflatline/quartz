@@ -4,6 +4,8 @@ title: Slumber
 details: "Entities: Slumber."
 tags:
   - entities
+  - cli
+  - tooling
 created: 2026-05-22
 updated: 2026-05-22
 type: entity

@@ -4,6 +4,8 @@ title: LLM Training Methods
 details: Approaches to adapting base models (LoRA, SFT, CPT).
 tags:
   - concepts
+  - training
+  - llm
 created: 2026-06-17
 updated: 2026-06-17
 type: concept

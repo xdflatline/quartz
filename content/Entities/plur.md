@@ -4,6 +4,8 @@ title: PLUR
 details: "Entities: PLUR."
 tags:
   - entities
+  - agent
+  - memory
 created: 2026-05-21
 updated: 2026-05-21
 type: entity

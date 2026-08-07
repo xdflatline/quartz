@@ -4,6 +4,8 @@ title: "Superpowers (Claude Code skill)"
 details: "Superpowers is a skill package for Claude Code that operationalises the [[Concepts/six-step-ai-build-process]]. A 'skill' in Claude Code is a set of working instructions given to the model once and that then applies to every project. At its core, Superpowers does exactly one thing: it forces the AI into an engineering process. Claude Code is not allowed to just start writing code. It must first ask questions (one after another), write the decisions into a specification document, turn that into a plan with small testable tasks, and only then build. At each transition the human is the checkpoint; without human approval the process does not advance. Patrick (The Node AI) used Superpowers to build his Second Brain and attributes the success of the build to the skill rather than to Claude Code's raw capability. The same pattern is transferable to any AI-assisted project: first decide, then put it in writing, then have it built in small steps with approval between each."
 tags:
   - entities
+  - agent
+  - coding-agent
 created: 2026-07-25
 updated: 2026-07-25
 type: entity

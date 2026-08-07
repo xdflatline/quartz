@@ -4,6 +4,8 @@ title: Agent Self-Improvement Research
 details: This research outlines the architectural specifications for instructing arbitrary AI agents to self-improve while preventing context pollution, mai...
 tags:
   - research
+  - agent
+  - knowledge-management
 created: 2026-05-25
 updated: 2026-05-25
 type: research

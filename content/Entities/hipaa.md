@@ -4,6 +4,8 @@ title: "HIPAA"
 details: "The Health Insurance Portability and Accountability Act (HIPAA) is a US federal law that sets privacy and security rules for Protected Health Information (PHI). Any vendor that creates, receives, maintains, or transmits PHI on behalf of a covered entity is a Business Associate and must sign a Business Associate Agreement (BAA) and implement safeguards. For serverless GPU providers, the practical question is: does the provider offer a BAA, and on which tier?"
 tags:
   - entities
+  - recht
+  - reference
 created: 2026-07-24
 updated: 2026-07-24
 type: entity

@@ -4,6 +4,8 @@ title: "SIA paper (Self-Improving AI with Harness and Weight Updates)"
 details: "Per Weng: confounding choices in SIA's experiments (task-specific agent much weaker than the models used for the Meta-Agent and Feedback-Agent — gpt-oss-120b vs Claude Sonnet 4.6) make results hard to interpret, and baselines are too weak to cross-reference cleanly against related methods. The direction is interesting but the evidence is provisional."
 tags:
   - entities
+  - harness
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

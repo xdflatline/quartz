@@ -4,6 +4,8 @@ title: Friction Logging for Agents
 details: "Since AI agents lack human emotional experience (the \"pain\" of bad hygiene, debugging nightmares), use quantitative **friction metrics** as a proxy..."
 tags:
   - concepts
+  - agent
+  - evaluation
 created: 2026-06-17
 updated: 2026-06-17
 type: concept

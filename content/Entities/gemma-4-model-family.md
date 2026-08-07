@@ -4,6 +4,8 @@ title: Gemma 4 Model Family
 details: Gemma 4 is a family of open-weight generative AI models developed by Google DeepMind, designed for reasoning, summarization, and question answering...
 tags:
   - entities
+  - llm
+  - quantization
 created: 2026-06-16
 updated: 2026-06-16
 type: entity

@@ -4,6 +4,8 @@ title: Wayfound.ai
 details: Production **observability platform for AI agents**. Referenced by teams running multi-agent workflows in production.
 tags:
   - entities
+  - agent
+  - evaluation
 created: 2026-06-13
 updated: 2026-06-13
 type: entity

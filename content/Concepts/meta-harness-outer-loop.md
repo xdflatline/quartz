@@ -4,6 +4,8 @@ title: "Meta-Harness Outer Loop"
 details: "Meta-Harness moves optimization one level deeper than MCE: the optimized object is the CODE that determines and optimizes what information should be stored, retrieved, and presented to the model. The proposer agent uses grep/cat to read execution history (not shoveled into a single prompt). Each proposed harness is a dictionary in the file system containing its own source code, scores, rollout trajectories, and state updates. The loop iteratively creates new harnesses and only keeps qualified ones. On TerminalBench-2 the search is initialized from strong starting points (Terminus-KIRA, Terminus-2) and improves from there."
 tags:
   - concepts
+  - harness
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

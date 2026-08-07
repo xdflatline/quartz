@@ -4,6 +4,8 @@ title: "Agent Composition Tree (Mastra)"
 details: "A composition pattern specific to Mastra's architecture. The Agent class is the primary unit and owns orthogonal slots for model (via the bundled router), tools (createTool), memory (4 tiers), voice, workflows (as tools), subagents (as tools), and delegation hooks. The Mastra instance composes agents, workflows, MCP servers, storage, and observability. Storage is pluggable per concern (libSQL/Postgres/MongoDB for memory; DuckDB/ClickHouse for observability). The three tool-kinds (primitives, agents, workflows) share a flat tool representation, which is the move that enables recursive composition (supervisor-of-supervisors)."
 tags:
   - concepts
+  - agent
+  - architecture-pattern
 created: 2026-07-03
 updated: 2026-07-03
 type: concept

@@ -4,6 +4,8 @@ title: "Rivet Actor Deployment on Kubernetes"
 details: "AgentOS deploys to Kubernetes via RivetKit. Required: Node 20-alpine Dockerfile; container registry push; Rivet Cloud (or self-hosted Rivet Engine) account; `RIVET_ENDPOINT` and `RIVET_PUBLIC_ENDPOINT` secrets; Deployment with `terminationGracePeriodSeconds: 2100` (35 min) to cover the Rivet runner's 30 min actor-graceful-shutdown budget; Service and Ingress with proxy read/send/connect timeouts raised to at least 3600 seconds (1 hour) to keep long-lived WebSocket connections alive — default 30-60s timeouts cause reconnect storms."
 tags:
   - concepts
+  - kubernetes
+  - runtime
 created: 2026-07-19
 updated: 2026-07-19
 type: concept

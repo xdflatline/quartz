@@ -4,6 +4,8 @@ title: "Meta-Harness paper"
 details: "Meta-Harness is the canonical 'harness-for-harnesses' method. The proposer reads execution history via grep/cat rather than shoveling everything into a single prompt context; the proposed harness is a dictionary in the file system containing its own source code, scores, rollout trajectories, and state updates. On TerminalBench-2, the search is initialized from Terminus-KIRA and Terminus-2 (two strong harnesses) and improves from there."
 tags:
   - entities
+  - harness
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

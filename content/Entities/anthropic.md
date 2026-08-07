@@ -4,6 +4,7 @@ title: Anthropic
 details: Anthropic is an AI safety research company and developer of Claude, a family of large language models. In May 2026, the company saw significant dev...
 tags:
   - entities
+  - llm
 created: 2026-05-20
 updated: 2026-05-20
 type: entity
