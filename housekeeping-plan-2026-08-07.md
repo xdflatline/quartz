@@ -92,7 +92,7 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 - [x] **T1.1** Create `content/Workflows/` folder. **state: done** (2026-08-07).
 - [x] **T1.2** Create `content/Workflows/index.md` describing the purpose of the folder (store repeatable workflows for agents). **state: done** (2026-08-07).
 - [x] **T1.3** Create the **Tag Index** at `content/tags.md` (operator directive 2026-08-07; lowercase `content/` per repo convention). Pre-populated with the operator's existing good tags (from the kaese/erbschaft/aufbewahrung exemplars) + a starter vocabulary for the LLM/agent tier files. Each tag: name, scope description, when to use, when NOT to use. **state: done** (2026-08-07).
-- [ ] **T1.4** Update `Base.base` `formula.section` to include `Workflows` so it shows up in base views. **state: open**.
+- [x] **T1.4** Update `Base.base` `formula.section` to include `Workflows` so it shows up in base views. Also added Papers and Resources which were missing. **state: done** (2026-08-07).
 - [ ] **T1.5** Add the tag-index backlink to `content/index.md` so the home page points to `[[tags|Tag Index]]` (operator directive 2026-08-07). **state: open**.
 - [ ] **T1.6** Create the first workflow subfolder: `content/Workflows/wiki-content-ingestion/`. **state: open**.
 - [ ] **T1.7** Create the workflow file `content/Workflows/wiki-content-ingestion/wiki-content-ingestion.md` (named after the workflow, NOT `SKILL.md`). Frontmatter uses only `details:` (no `detail:`). **state: open**.

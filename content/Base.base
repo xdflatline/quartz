@@ -8,7 +8,11 @@ formulas:
     if(file.inFolder("Projects"), "Projects",
     if(file.inFolder("Ideas"), "Ideas",
     if(file.inFolder("Research"), "Research",
-    if(file.inFolder("Raw"), "Raw", "Uncategorized"))))))
+    if(file.inFolder("Raw"), "Raw",
+    if(file.inFolder("Papers"), "Papers",
+    if(file.inFolder("Resources"), "Resources",
+    if(file.inFolder("Workflows"), "Workflows",
+    "Uncategorized")))))))))
   last_modified: file.mtime.relative()
 properties:
   title:
