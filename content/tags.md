@@ -89,6 +89,12 @@ The controlled tag vocabulary for the Quartz wiki. Before introducing a new tag,
 | `survey` | Pages that survey a field or a set of papers (e.g. Lilian Weng's harness engineering post) | Pages that focus on one paper or one idea |
 | `architecture-pattern` | Pages about a reusable architectural pattern | Pages about a specific instance (use wikilink) |
 
+## Media
+
+| Tag | Use for | Don't use for |
+|-----|---------|---------------|
+| `video` | Pages about video generation, video workflows, video backends (ComfyUI, Wan, OpenMontage) | Pages that just mention video as one capability among many |
+
 ## Source
 
 | Tag | Use for | Don't use for |

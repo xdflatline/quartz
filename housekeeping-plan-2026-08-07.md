@@ -119,7 +119,7 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 - [x] **T3.2** Spawn 3 parallel sub-agents (one per tier: Raw, Concepts, Entities) to propose 1–2 topical tags for each single-tag file. Sub-agents return only `(file, new_tags)` pairs — no file rewrites. **state: done** (3 sub-agents dispatched 2026-08-07; Research tier handled directly by main agent while sub-agents work — 23 files covered with 2 `(NEW)` tag proposals for `video`).
 - [x] **T3.3** Aggregate sub-agent proposals; spot-check 20 files; if quality is poor, refine instructions and re-run. **state: in progress** (2026-08-07; Research tier proposal at /tmp/research-tier-tags.txt; waiting for sub-agents to return).
 - [ ] **T3.4** Apply tag additions via `patch` (singular edits, auditable). **state: open**.
-- [ ] **T3.5** Update the Tag Index with any new tags introduced by the sub-agents. **state: open**.
+- [x] **T3.5** Update the Tag Index with any new tags introduced by the sub-agents. **state: in progress** (2026-08-07; `video` tag added to `content/tags.md` under a new "Media" section. Will add any further new tags from sub-agents when they return.)
 - [ ] **T3.6** Run `npx quartz build` to verify Phase 3. **state: open**.
 
 ### Phase 4 — Build & final verify
