@@ -136,8 +136,8 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 
 ### Phase 6 — Update memory + jin skill
 
-- [ ] **T6.1** Patch the `wiki-content-ingestion` skill in jin to remove the gallery instructions and the `detail` field from the "Required Frontmatter Keys" list. **state: open**.
-- [ ] **T6.2** Update Hermes memory: "Quartz frontmatter uses `details:` (singular) only. `type:` enum is `raw|concept|entity|research|note|...` (no `entitie` typo). Tag index lives at `Concepts/tag-index`. New tags must be checked there first." **state: open**.
+- [x] **T6.1** Patch the `wiki-content-ingestion` skill in jin to remove the gallery instructions and the `detail` field from the "Required Frontmatter Keys" list. **state: done** (2026-08-07; jin skill updated, recipe-tracker changes left unstaged for the next session, jin commit 1a11451 pushed).
+- [x] **T6.2** Update Hermes memory: "Quartz frontmatter uses `details:` (singular) only. `type:` enum is `raw|concept|entity|research|note|...` (no `entitie` typo). Tag index lives at `Concepts/tag-index`. New tags must be checked there first." **state: done** (2026-08-07; see memory updates below).
 
 ---
 
