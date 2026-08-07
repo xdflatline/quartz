@@ -1,3 +1,18 @@
+---
+title: "Zero-Mem: Zero-Token Memory Operations for LLM Agents"
+details: "arXiv preprint introducing zero-token memory operations for LLM agents: no LLM is invoked outside the final question-answering step, and the original interaction traces are preserved as the source of record. Two complementary views over the same traces: an entity-context graph (cross-interaction) and a temporal hierarchy (conversational locality). 57.6% memory-operation time cost reduction vs the fastest baseline. By Yilin Xiao et al."
+tags:
+  - raw
+  - paper
+  - memory
+  - agent
+  - llm
+source: https://arxiv.org/html/2607.29377v1
+created: 2026-08-05
+updated: 2026-08-05
+type: raw
+---
+
 # Zero-Mem: Zero-Token Memory Operations for LLM Agents
 
 **Source:** arXiv (https://arxiv.org/html/2607.29377v1)
