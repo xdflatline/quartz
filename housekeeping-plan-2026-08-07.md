@@ -103,7 +103,7 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 - [x] **T1.12** Create the workflow file `content/Workflows/wiki-catalog-research/wiki-catalog-research.md` (named after the workflow, NOT `SKILL.md`). Frontmatter uses only `details:`. **state: done** (2026-08-07; source is `~/.hermes/skills/wiki-catalog-research/SKILL.md` — note this skill lives in Hermes skills, not jin skills).
 - [x] **T1.13** Create `content/Workflows/wiki-catalog-research/references/` with trimmed reference docs (catalog-pattern-reference, build-verification — only those that apply here). **state: done** (2026-08-07; only the worked example is relevant — other pitfalls are inlined in the workflow).
 - [x] **T1.14** Create `content/Workflows/wiki-catalog-research/scripts/` if the source skill has any (e.g. catalog-update helpers). If none, omit the folder. **state: done** (2026-08-07; the source skill has no scripts — the workflow is procedural only. Folder omitted. Note added to the workflow's references/notes.md to document this.)
-- [ ] **T1.15** Final `npx quartz build` to verify the full Phase 1 (both workflows). **state: open**.
+- [x] **T1.15** Final `npx quartz build` to verify the full Phase 1 (both workflows). **state: done** (2026-08-07; 287 input files, 0 errors, 1063 emitted. All four new pages render: workflows/index (26 KB), workflows/wiki-content-ingestion/index (51 KB), workflows/wiki-catalog-research/index (58 KB), tags (96 KB)). **Phase 1 complete.**
 
 ### Phase 2 — Frontmatter normalization
 
