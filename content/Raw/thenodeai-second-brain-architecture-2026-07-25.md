@@ -1,9 +1,11 @@
 ---
 title: "The Node AI: My Second Brain Architecture (video transcript)"
-detail: "English translation of The Node AI's 45-minute walkthrough of his private Second Brain system: capabilities-first design, six-step build process, three reference roles, and the Brain-First search ladder."
+
 details: "Verbatim English translation of the auto-generated German YouTube transcript for video mHSOsy_usAg by The Node AI (Patrick), published 2026-07. The video explains the architecture, build process, and lessons learned while creating a personal knowledge management system on top of Obsidian + Claude Code + QMD + a local web app. Key topics: the four capabilities of a trustworthy system (find, read, stay clean, overview), the six-step build process (tidy data -> brainstorm -> spec -> plan -> build -> test), three reference roles (building block, pattern, benchmark), the Brain-First search ladder for Claude Code, the PARA wiki pattern, AI-curated knowledge with conflict detection (52 conflicts found in the speaker's own vault), the 'AI is an upgrade, not a foundation' design principle, and the visual-specification lesson (use image mockups, not verbal descriptions)."
 tags:
   - raw
+  - knowledge-management
+  - wiki
 created: 2026-07-25
 updated: 2026-07-25
 type: raw

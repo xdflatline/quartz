@@ -1,9 +1,11 @@
 ---
 title: "DemoEvolve"
-detail: "Che et al. 2026. Augments the self-rollout archive with human expert demonstrations as reference experience for harness-level diagnosis and editing."
+
 details: "DemoEvolve addresses a known failure mode of pure self-rollout loops: the archive fills with the model's own patterns, leaving the harness unable to discover strategies outside its prior distribution. By seeding the archive with human expert demonstrations, DemoEvolve expands the search space without abandoning the LLM-driven mutation operator."
 tags:
   - entities
+  - harness
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

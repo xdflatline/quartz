@@ -1,9 +1,12 @@
 ---
 title: "Ask HN: How are you orchestrating multi-agent AI workflows in production?"
-detail: This thread discusses production orchestration patterns for multi-agent AI workflows. The consensus among experienced builders is that **rolling yo...
+
 details: This thread discusses production orchestration patterns for multi-agent AI workflows. The consensus among experienced builders is that **rolling yo...
 tags:
   - raw
+  - orchestration
+  - multi-agent
+  - hn-discussion
 created: 2026-06-13
 updated: 2026-06-13
 type: raw

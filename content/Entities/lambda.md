@@ -1,12 +1,14 @@
 ---
 title: "Lambda"
-detail: "GPU cloud provider focused on AI training and inference, with on-demand H100, H200, B200 instances and 1-Click Clusters for multi-node jobs."
+
 details: "Lambda (Lambda Cloud) provides NVIDIA GPU instances (H100, H200, B200, A100, GH200) billed per-minute with no egress fees. Known for 1-Click Clusters (16 to 2,000+ GPU production clusters) and Superclusters. Lambda does not natively run a per-token serverless API but exposes its infrastructure for on-demand and reserved inference workloads."
 tags:
   - entities
+  - infrastructure
+  - serverless
 created: 2026-07-24
 updated: 2026-07-24
-type: entitie
+type: entity
 source: "https://lambda.ai/pricing"
 ---
 # Lambda

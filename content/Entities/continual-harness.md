@@ -1,9 +1,11 @@
 ---
 title: "Continual Harness paper"
-detail: "Karten et al. 2026. Online adaptation for self-improving foundation agents in a long-horizon gameplay setting. Combines harness updating with co-learning a policy model by distilling a strong teacher model's labels on low-reward trajectories."
+
 details: "Continual Harness is a narrower and cleaner SIA-like experiment: a single task domain (long-horizon gameplay), a single model, but with cleaner attribution. The setup demonstrates that harness updates and weight updates can co-exist in a stable loop when the task is well-scoped."
 tags:
   - entities
+  - harness
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

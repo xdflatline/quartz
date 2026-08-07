@@ -1,6 +1,6 @@
 ---
 title: Welcome to My Digital Garden
-detail: Main entry point for my digital garden built with Quartz
+
 details: Main entry point for my digital garden built with Quartz
 tags:
   - root
@@ -20,6 +20,11 @@ This is a **Quartz** static site showcasing my notes, ideas, and knowledge base 
 - [[Ideas/|Ideas]] — Creative brainstorms and thoughts
 - [[Research/|Research]] — Comprehensive research indexes
 - [[Raw/|Raw Sources]] — Ingested raw source articles
+- [[Workflows/|Workflows]] — Repeatable workflows for agents
+
+## Meta
+
+- [[tags|Tag Index]] — the controlled tag vocabulary used across the wiki
 
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: "Grafana"
-detail: "Open-source visualization and dashboarding platform, typically paired with Prometheus as the presentation layer for Kubernetes resource audits and SLO dashboards."
+
 details: "An open-source analytics and visualization platform, typically used as the presentation layer on top of Prometheus (and many other time-series backends). In the source article, Grafana is cited alongside Prometheus as the tool pair that automates the post-deployment resource audit: Grafana dashboards display per-pod P95 usage vs. declared `resources.requests`, and Grafana alerts (or AlertManager wired through Grafana) trigger the incident-triggered review path. The combination of Prometheus for data collection and Grafana for visualization is the de facto standard for Kubernetes cluster observability."
 tags:
   - entities
+  - infrastructure
+  - kubernetes
 created: 2026-07-25
 updated: 2026-07-25
 type: entity

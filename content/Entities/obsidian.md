@@ -1,12 +1,14 @@
 ---
 title: "Obsidian"
-detail: "Markdown-based local-first knowledge-base application; the user-facing editor and viewer of the Second Brain vault, with native wikilink and graph-view support."
+
 details: "Obsidian is a Markdown-based, local-first knowledge-base application. The vault is a plain folder of `.md` files on disk, with `.obsidian/` for app config. Native support for wikilinks (`[[note]]`), tags, front matter, daily notes, templates, and a built-in graph view. The Node AI uses Obsidian as the editor and viewer of his Second Brain vault, and as one of three surfaces from which the [[Concepts/ai-curated-knowledge-wiki]] ingest can be invoked (via a plugin like Claudian that embeds Claude Code as a sidebar). The key architectural property is that Obsidian does not own the data: the vault is a plain folder that any text editor can open. This makes Obsidian replaceable in place without data migration, and is what enables the [[Concepts/markdown-as-single-source-of-truth]] rule to hold. The built-in graph view, while visually impressive, is not the source of truth — it is a derived view, and the Second Brain replaces it with a more capable web-app graph when needed."
 tags:
   - entities
+  - wiki
+  - knowledge-management
 created: 2026-07-25
 updated: 2026-07-25
-type: entitie
+type: entity
 source: "[[Raw/thenodeai-second-brain-architecture-2026-07-25]]"
 sources:
   - "Raw/thenodeai-second-brain-architecture-2026-07-25"

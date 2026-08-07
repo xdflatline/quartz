@@ -1,9 +1,11 @@
 ---
 title: "Raw: Designing Model-Agnostic Prompts for AI Video Workflows"
-detail: "Verbatim source article: a methodology for building AI video generation pipelines that survive model changes by treating prompts as compiled output of a stable intermediate representation rather than the source of truth."
+
 details: "Raw capture of the dev.to article by @jiaoshuo1997. The author argues that a prompt which works in one model may misbehave in another, and that model-specific syntax becomes obsolete after each model update. The durable alternative is a stable intermediate representation (IR) that is then translated per-model at render time. Captured 2026-07-23 from https://dev.to/jiaoshuo1997/designing-model-agnostic-prompts-for-ai-video-workflows-52hm. Original publication language: English. This Raw file is the unedited source; the synthesized knowhow lives at Research/model-agnostic-prompts-ai-video-workflows.md."
 tags:
   - raw
+  - prompt-engineering
+  - blog-post
 created: 2026-07-23
 updated: 2026-07-23
 type: raw

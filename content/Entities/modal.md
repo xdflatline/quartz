@@ -1,12 +1,14 @@
 ---
 title: "Modal"
-detail: "Python-native serverless GPU platform with per-second billing, sub-second cold starts, and a tight Python decorator workflow."
+
 details: "Modal lets developers run any Python function on GPUs by decorating it with @app.function(gpu='H100'). The platform handles containerization, scheduling, autoscaling, and billing. Modal is widely used for inference, fine-tuning, batch jobs, and sandboxes."
 tags:
   - entities
+  - serverless
+  - infrastructure
 created: 2026-07-24
 updated: 2026-07-24
-type: entitie
+type: entity
 source: "https://modal.com/pricing"
 ---
 # Modal

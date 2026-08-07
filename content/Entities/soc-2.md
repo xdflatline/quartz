@@ -1,12 +1,14 @@
 ---
 title: "SOC 2"
-detail: "System and Organization Controls 2 — an AICPA auditing framework that assesses a service organization's controls across five Trust Services Criteria."
+
 details: "SOC 2 (System and Organization Controls 2) is an auditing framework developed by the American Institute of Certified Public Accountants (AICPA). It evaluates a service organization's controls related to security, availability, processing integrity, confidentiality, and privacy, based on the AICPA's Trust Services Criteria. SOC 2 Type I reports on control design at a point in time; SOC 2 Type II reports on control operating effectiveness over a period (typically 6-12 months)."
 tags:
   - entities
+  - reference
+  - recht
 created: 2026-07-24
 updated: 2026-07-24
-type: entitie
+type: entity
 source: "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
 ---
 # SOC 2

@@ -1,12 +1,14 @@
 ---
 title: "BGE-M3 Embedding Model"
-detail: "BAAI's multilingual, multi-granularity dense embedding model (BGE-M3) used in Zero-Mem for dense indexing and scoring of agent memory trace units."
+
 details: "BGE-M3 is BAAI General Embedding v3, a dense text embedding model designed for multilingual, multi-functional, and multi-granularity retrieval. The 'M3' stands for the three properties: Multi-Linguality (100+ languages), Multi-Functionality (dense, lexical, multi-vector retrieval in one model), and Multi-Granularity (short sentences up to 8K-token passages). In Zero-Mem, BGE-M3 is the dense access signal that complements BM25 lexical scoring — both are used for indexing, seeding, and scoring only, never to generate or rewrite memory content. The dense embeddings power the query-entity alignment step (matching query-extracted entities to observed graph entities) and the dense context priors that feed into the Personalized PageRank reset vector."
 tags:
   - entities
+  - embedding
+  - rag
 created: 2026-08-05
 updated: 2026-08-05
-type: entitie
+type: entity
 source: "[[Raw/arxiv-zero-mem-2026-08-05]]"
 sources:
   - "Raw/arxiv-zero-mem-2026-08-05"

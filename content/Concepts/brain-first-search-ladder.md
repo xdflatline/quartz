@@ -1,9 +1,11 @@
 ---
 title: "Brain-First Search Ladder"
-detail: "Five-rung retrieval rulebook for AI agents: index, wiki, hybrid search, single best file, answer. Caps token cost by making the catalog the only always-loaded artifact."
+
 details: "The rulebook encoded in Claude Code's CLAUDE.md for the Second Brain, called 'Brain First'. When asked a question, the AI must descend the ladder: (1) read the index.md catalog (a few hundred lines, one row per topic and important file), (2) check the wiki folder for already-condensed knowledge on the topic, (3) run the local QMD hybrid search, (4) open exactly one file — the best candidate, (5) answer. The ladder caps the vault's contribution to the context window at a few thousand tokens regardless of total vault size. In a 5-question speed test the Brain variant used 50% fewer tokens and 40% less time than vanilla Claude Code, with 5/5 correct answers in both runs. The 'most expensive question' (a single-line fix that cost >500K tokens without the Brain) shows the failure mode the ladder prevents: every search step re-reads the entire previous history, so unbounded searching compounds the cost per round."
 tags:
   - concepts
+  - rag
+  - context-engineering
 created: 2026-07-25
 updated: 2026-07-25
 type: concept

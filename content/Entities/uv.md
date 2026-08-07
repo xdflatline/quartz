@@ -1,12 +1,14 @@
 ---
 title: uv
-detail: "Entities: uv."
+
 details: "Entities: uv."
 tags:
   - entities
+  - cli
+  - tooling
 created: 2026-05-22
 updated: 2026-05-22
-type: entitie
+type: entity
 sources:
   - Raw/uv-is-fantastic-but-its-package-management-ux-is-a-mess-2026-05-22.md
 ---

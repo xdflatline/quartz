@@ -1,12 +1,14 @@
 ---
 title: "Hugging Face Inference Endpoints"
-detail: "Dedicated, fully-managed model deployment service from Hugging Face, with no cold starts and SOC 2 / HIPAA compliance."
+
 details: "Hugging Face Inference Endpoints run any model from the Hub on dedicated infrastructure (AWS, GCP, or Azure) with auto-scaling. Endpoints are billed per-replica-hour, with optional scale-to-zero. There is also a free Inference API for prototyping and a multi-provider Inference Router (HF Router) for accessing serverless inference from many providers behind one API."
 tags:
   - entities
+  - inference
+  - serverless
 created: 2026-07-24
 updated: 2026-07-24
-type: entitie
+type: entity
 source: "https://huggingface.co/pricing"
 ---
 # Hugging Face Inference Endpoints

@@ -1,9 +1,11 @@
 ---
 title: "AI Scientist"
-detail: "Lu et al. 2026, Nature 651:914–919. A pipeline that proposes research ideas, writes code, runs experiments, analyzes results, writes a manuscript, and performs peer review — an expert-designed harness for end-to-end auto-research."
+
 details: "Foundational reference in [[Raw/lilianweng-harness-engineering-2026-07-04]] for workflow-level harness design. The pipeline demonstrates that an expert-designed harness can coordinate a large portion of an auto-research loop, but the Nature publication also documents the gap: a system can write a plausible manuscript while still having fabricated citations, implementation drift, or weak experimental results. Weng's critique: paper production is not identical to scientific discovery."
 tags:
   - entities
+  - agent
+  - harness
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

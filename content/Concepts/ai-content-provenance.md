@@ -1,6 +1,6 @@
 ---
 title: AI Content Provenance
-detail: AI content provenance refers to the technical and organizational efforts to track, verify, and watermark AI-generated content. The field became a b...
+
 details: AI content provenance refers to the technical and organizational efforts to track, verify, and watermark AI-generated content. The field became a b...
 tags:
   - concepts

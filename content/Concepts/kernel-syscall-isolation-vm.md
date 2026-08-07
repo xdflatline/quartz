@@ -1,9 +1,11 @@
 ---
 title: "Kernel-Syscall Isolation VM"
-detail: "Security model where a user-space kernel mediates every guest operation as a syscall, with the executor holding no capability of its own."
+
 details: "AgentOS's isolation model: a Rust kernel owns the virtual filesystem, process table, socket table, pipes/PTYs, and policy engine. The executor (V8 isolate + WASM + native binaries) has zero host capability — every file read, process spawn, and socket open issues a syscall and blocks for the kernel's reply. This eliminates host fallthrough (no real host socket can be opened by guest networking) and gives granular, deny-by-default permissions instead of container-level coarse boundaries."
 tags:
   - concepts
+  - kernel
+  - runtime
 created: 2026-07-19
 updated: 2026-07-19
 type: concept

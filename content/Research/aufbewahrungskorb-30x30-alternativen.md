@@ -1,6 +1,6 @@
 ---
 title: "Aufbewahrungskörbe 30x30 cm – Alternativen zum Lorena Canals Color Grid"
-detail: "Recherche zu günstigeren, in die Schweiz lieferbaren Aufbewahrungskörben mit 30x30 cm (quadratisch oder Ø30 H30) als Alternative zum Lorena Canals Color Grid Basket (Smallable, $75, 30x30 cm, 97% Baumwolle)."
+
 details: "Referenzprodukt: Lorena Canals Color Grid Basket, 30x30 cm, 97% Baumwolle / 3% andere Fasern, handgewebt, Bauhaus-inspiriert, waschbar, Smallable $75 (Referenzlink: https://www.smallable.com/de/product/color-grid-korb-lorena-canals-424937). Stand 2026-07-24. Zehn lieferbare Alternativen mit 30x30 cm (oder Ø30 H30) aus den Kategorien handgewebte Baumwolle, Filz, Jute, Leinen, Seegras, Polyester-Flechtung. Alle Preise in CHF (falls in EUR/USD verfügbar, tagesaktuell umrechnen) und mit Stand 2026-07-24. Lieferbedingungen je Shop geprüft. Hauptquelle: Schweizer Shops (Galaxus, MyLittleRoom, Kids-World CH, Home24 CH, Westwing CH, Manor) und internationale Shops mit CH-Lieferung (Smallable, Lorena Canals Direkt, Westfalia)."
 tags:
   - research

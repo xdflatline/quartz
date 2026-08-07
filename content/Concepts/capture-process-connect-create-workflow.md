@@ -1,9 +1,10 @@
 ---
 title: "Capture-Process-Connect-Create Workflow"
-detail: "Four-phase knowledge loop for a personal Second Brain: capture raw material to inbox, process into clean Markdown, find connections, create the final piece. Iterative, not linear."
+
 details: "The Node AI's workflow for the Second Brain, the operating loop that turns a folder of files into a thinking partner. The four phases are Capture (drop everything into an inbox, no cleaning), Process (turn raw into clean Markdown via the deterministic importer), Connect (walk the data and find links between notes, deterministic), Create (produce the final piece — article, video script, essay — with Claude Code as a sparring partner, not a ghostwriter). The loop is iterative, not linear: new material creates new connections, which create new ideas, which create new material. A Second Brain is not a filing cabinet, it is a thinking partner, and the system is the infrastructure for this thinking. The phases correspond to specific architectural components: the inbox folder, the importer, the linker, and Claude Code + the user's editor of choice. Each phase has a different cost-shape and a different relationship to the AI: phases 1-2 are free, phase 3 is mostly free with a small LLM call for the last 20%, phase 4 is the only phase where the LLM is load-bearing."
 tags:
   - concepts
+  - knowledge-management
 created: 2026-07-25
 updated: 2026-07-25
 type: concept

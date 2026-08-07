@@ -1,9 +1,11 @@
 ---
 title: "Serverless GPU data privacy patterns"
-detail: "Reference for the data-residency, BYOC, isolation, and compliance patterns used by serverless GPU providers."
+
 details: "Serverless GPU providers offer different combinations of (a) data residency / region selection, (b) BYOC / VPC peering, (c) workload isolation (shared vs single-tenant), and (d) compliance certifications (SOC 2, ISO 27001, HIPAA, GDPR). Choosing a provider for a regulated workload requires checking all four."
 tags:
   - concepts
+  - serverless
+  - infrastructure
 created: 2026-07-24
 updated: 2026-07-24
 type: concept

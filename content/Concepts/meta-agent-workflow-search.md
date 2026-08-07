@@ -1,9 +1,11 @@
 ---
 title: "Meta-Agent Workflow Search (ADAS / AFlow)"
-detail: "Treating workflow design as a search problem: ADAS (Hu et al. 2025) uses a meta-agent to program new agentic workflows from an archive; AFlow (Zhang et al. 2025) represents workflows as graphs and optimizes them with Monte Carlo Tree Search."
+
 details: "Two complementary approaches to automated workflow design. ADAS: a meta-agent generates a high-level description then implements new agents in code, applies two self-refine steps for novelty, evaluates, and adds to an archive; initialization starts with simple agents (CoT, self-refine). AFlow: workflows are graphs where nodes are LLM-invoking actions and edges are code-level logic; optimization uses MCTS with soft mixture of score and uniform exploration, expanding nodes by asking the LLM to produce modified workflows conditioned on evaluation performance. AFlow showed decent improvement over manually designed workflows and ADAS on QA, code, and math."
 tags:
   - concepts
+  - agent
+  - orchestration
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

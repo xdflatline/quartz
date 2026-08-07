@@ -1,9 +1,11 @@
 ---
 title: "AlphaEvolve"
-detail: "Novikov et al. 2025. A coding-agent evolutionary search system — stores a pool of candidate programs and prompts frozen LLMs to generate diffs for improvement. Marked with # EVOLVE-BLOCK-START/END; meta-prompt co-evolves with instructions."
+
 details: "AlphaEvolve is the reference implementation of LLM-driven evolutionary search over programs. The candidate solutions are code; the mutation operator is an LLM that produces diffs; the fitness signal is a benchmark score. The # EVOLVE-BLOCK markers explicitly delimit the editable regions — a discipline that AHE adopts for harness evolution. Meta-prompt co-evolution is AlphaEvolve's distinctive feature: the instructions to the mutator improve along with the programs it mutates."
 tags:
   - entities
+  - harness
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

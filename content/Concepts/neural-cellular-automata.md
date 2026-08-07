@@ -1,6 +1,6 @@
 ---
 title: Neural Cellular Automata
-detail: Neural Cellular Automata (NCA) combine cellular automata — grid-based computational models where cells update based on local rules — with neural ne...
+
 details: Neural Cellular Automata (NCA) combine cellular automata — grid-based computational models where cells update based on local rules — with neural ne...
 tags:
   - concepts

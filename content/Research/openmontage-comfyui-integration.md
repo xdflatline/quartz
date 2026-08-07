@@ -1,9 +1,11 @@
 ---
 title: "Research Index: OpenMontage + ComfyUI Integration"
-detail: "Synthesis of how to set up and integrate OpenMontage (agentic video production framework) with ComfyUI (node-based visual AI engine) for a fully local, free, agent-driven video pipeline. Covers installation, the ComfyUI REST/WS bridge pattern, a custom tool adapter, and end-to-end workflow."
+
 details: "Research index synthesizing how to install OpenMontage and integrate it with ComfyUI. Captured 2026-07-02. The user runs Hermes on hardware that lacks support for ComfyUI local execution (verdict: cloud) → default to Comfy Cloud. ComfyUI exposes a REST API (POST /prompt) and WebSocket (/ws?clientId=...) for programmatic workflow execution, which makes it a viable drop-in local free video backend for OpenMontage's VIDEO_GEN_LOCAL_MODEL slot. This index documents: (1) why integrate, (2) the ComfyUI API surface, (3) the bridge pattern (custom tool adapter at tools/video/comfyui_video.py), (4) the integration protocol (Python shim + agent_skills[] entry + pipeline manifest override), (5) end-to-end example: a Ghibli-style 60-second short with Wan 2.1 video, Piper TTS narration, Remotion composition, FFmpeg post — all local via ComfyUI server."
 tags:
   - research
+  - video
+  - tooling
 created: 2026-07-02
 updated: 2026-07-02
 type: research

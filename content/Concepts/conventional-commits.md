@@ -1,6 +1,6 @@
 ---
 title: Conventional Commits
-detail: Conventional Commits is a specification for adding human and machine readable change history to the commit message.
+
 details: Conventional Commits is a specification for adding human and machine readable change history to the commit message.
 tags:
   - concepts

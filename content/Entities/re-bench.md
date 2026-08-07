@@ -1,9 +1,11 @@
 ---
 title: "RE-Bench"
-detail: "Wijk et al., ICML 2025. Frontier AI R&D capabilities of language model agents against human experts. 7 open-ended ML research-engineering environments; 71 8-hour attempts by 61 distinct human experts."
+
 details: "Each environment = (scoring function, starting solution, reference solution); each can be run with 8 or fewer H100 GPUs. Examples: optimize a kernel, run a scaling-law experiment, fix an embedding, fine-tune GPT-2 for QA. The most important finding: agents beat humans at 2-hour budgets; humans exceed agents at 8-hour and 32-hour settings."
 tags:
   - entities
+  - benchmark
+  - evaluation
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

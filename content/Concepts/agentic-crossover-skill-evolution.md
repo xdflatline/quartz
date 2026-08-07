@@ -1,9 +1,11 @@
 ---
 title: "Agentic Crossover for Skill Evolution"
-detail: "The MCE mechanism for creating a new skill: a meta-level agent reads the history H of (skill, context, train-utility, val-utility) tuples and performs LLM-driven crossover, recombining successful parts of prior skills and dropping failing parts to produce a new candidate skill s_k."
+
 details: "Agentic crossover is the LLM's analog of genetic crossover in evolutionary algorithms. Where a GA mutates bit strings, the meta-level agent in MCE reads prior skills, their execution contexts, and their utilities, then synthesizes a new skill by combining the parts that worked. The result is a new candidate skill s_k = crossover(τ, H_{k-1}) that is then evaluated at the base level by the context engineer. This is the move that turns skill evolution into something more than random mutation: the LLM can read and reason about prior skills in natural language, so crossover is semantic, not syntactic."
 tags:
   - concepts
+  - harness
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

@@ -1,9 +1,11 @@
 ---
 title: "Coding Agent Tool Taxonomy"
-detail: "The stabilized core interface of mainstream coding agents (Claude Code, Codex, OpenCode, Cursor-style): a toolset grouped into file system, shell, IO, external context (MCP/skills), web search, artifacts, backend processes, and agent delegation."
+
 details: "Weng's case study shows that the core tool interface has converged across all major coding-agent products. The taxonomy is not a spec — it's a description of what shipped in 2026. Eight tool groups cover every mainstream capability: file system (read/write/edit/patch), shell (bash), IO (lsp, git), external context (MCP, skills), web search, artifacts, backend processes (cron), and agent delegation. New tools slot into one of these groups; novel capabilities almost always extend rather than replace."
 tags:
   - concepts
+  - coding-agent
+  - tooling
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

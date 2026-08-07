@@ -1,9 +1,10 @@
 ---
 title: AGENTS.md
-detail: Behavioral guidelines to reduce common LLM coding mistakes, sourced from multica-ai/andrej-karpathy-skills
+
 details: Behavioral guidelines to reduce common LLM coding mistakes, sourced from multica-ai/andrej-karpathy-skills
 tags:
   - concepts
+  - coding-agent
 created: 2026-06-15
 updated: 2026-06-17
 type: concept

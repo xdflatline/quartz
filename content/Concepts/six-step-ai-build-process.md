@@ -1,9 +1,10 @@
 ---
 title: "Six-Step AI Build Process"
-detail: "Disciplined engineering workflow for AI-assisted builds: tidy data, brainstorm, write spec, plan tasks, build, test. Only step 5 writes code; four of six steps precede any code."
+
 details: "The Node AI's end-to-end recipe for building a non-trivial AI-assisted system (specifically a Second Brain on top of Obsidian, QMD, and Claude Code). The six steps are: 1) tidy the data foundation (folders, clusters, templates, daily notes, inbox), 2) brainstorm with the AI asking questions and proposing 2-3 options with pros and cons, 3) write a specification document section by section with explicit human approval, 4) break the spec into ~14 small tasks each with a test and a binary completion criterion, 5) build task by task using a fresh subagent per task with full human review between tasks, 6) test. The discipline comes from the Superpowers skill for Claude Code. Four of the six steps (1, 2, 3, 4) produce zero code; the actual 'building' most people imagine is only step 5. End-to-end the brainstorming to build start took ~30 minutes."
 tags:
   - concepts
+  - guide
 created: 2026-07-25
 updated: 2026-07-25
 type: concept

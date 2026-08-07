@@ -1,9 +1,11 @@
 ---
 title: "Haarlem Day Trip Reference"
-detail: "Day-trip reference card for Haarlem, capital of Noord-Holland, as a ~1-day excursion from the Bergen / Alkmaar area. Anchors on Haarlem station (52.3880778, 4.6385788) and aggregates walking/transit-reachable POIs in the historic center: Grote Markt, Grote Kerk (Sint-Bavokerk), Frans Hals Museum, Teylers Museum, Corrie ten Boom Museum, Molen De Adriaan, Jopenkerk, and Haarlemmerhout park. Includes train connection info from Alkmaar and a Saturday / Monday market schedule."
+
 details: "Trip reference compiled 2026-07-13 for use as a single-day round trip from the Bergen stay. Anchor: Haarlem station 52.3880778, 4.6385788 (Stationsplein 1, 2011 LR Haarlem). Train from Alkmaar: ~41-49 min direct (NS Sprinter / Intercity, ~2 per hour); plan ~1 h end-to-end from the stay including bus/transfer. All listed POIs are inside a 1.9 km radius of the station and reachable on foot; nothing in the itinerary requires a car. Saturday Grote Markt market (general goods, ~08:30-17:00) and Monday clothing market are useful scheduling anchors. Caveats: OSM opening hours are community-maintained; Teylers Museum and Frans Hals Museum are both closed on Mondays outside summer exceptions, so Monday is the market day but a weak museum day. Distance figures are OSRM road-network distances; walking-time estimates assume ~5 km/h on foot and are marked with a leading tilde to flag them as approximate."
 tags:
   - research
+  - reise
+  - niederlande
 aliases:
   - /Research/haarlem-centraal-day-trip-reference
 created: 2026-07-13

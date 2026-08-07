@@ -1,3 +1,19 @@
+---
+title: "AgentOS Documentation"
+details: "agentOS official docs + GitHub README bundle. A portable open-source operating system for AI agents built on kernel-level VM isolation. Near-zero cold starts (~6 ms), up to 32× cheaper than traditional sandboxes. Built-in ACP agents: Pi, Claude Code, OpenCode. Deny-by-default permissions, direct host bindings, no network hops. Single npm install deploys to laptop, Rivet Cloud, Railway, Vercel, Kubernetes, or any container platform."
+tags:
+  - raw
+  - documentation
+  - github-readme
+  - agent
+  - runtime
+  - tooling
+source: https://agentos-sdk.dev/docs/
+created: 2026-07-19
+updated: 2026-07-19
+type: raw
+---
+
 # AgentOS Documentation
 
 **Source:** agentOS official docs + GitHub README (https://agentos-sdk.dev/docs/)

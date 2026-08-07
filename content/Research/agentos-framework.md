@@ -1,9 +1,12 @@
 ---
 title: "Research Index: AgentOS"
-detail: "Research synthesis of AgentOS — features, architecture, integrations, deployment, and scaling on Kubernetes."
+
 details: "Comprehensive research on AgentOS (Apache-2.0, v0.2.7, by Rivet): an in-process Linux VM for AI agents with Rust kernel + V8 isolation, near-zero cold starts (~6 ms p50), 28 software packages, 9 sandbox providers, 5 file systems, and Rivet Actor orchestration. Covers the three-role architecture, kernel-syscall isolation model, binding CLI shim pattern, durable actor session sleep, Rivet/Kubernetes deployment recipe, sandbox mounting extension, and session event durability levels."
 tags:
   - research
+  - agent
+  - runtime
+  - infrastructure
 created: 2026-07-19
 updated: 2026-07-19
 type: research

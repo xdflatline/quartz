@@ -1,9 +1,11 @@
 ---
 title: "ShinkaEvolve"
-detail: "Lange, Imajuku, and Cetin 2025. Sample-efficient program evolution — three new components: parent sampling balancing performance rank and offspring count, code-novelty rejection sampling (discard candidates too similar to the population by embedding cosine similarity), and a meta-scratchpad identifying good patterns in successful solutions."
+
 details: "ShinkaEvolve is the sample-efficiency-focused descendant of AlphaEvolve. The three new components — parent sampling balance, code-novelty rejection, meta-scratchpad — together address the two failure modes of LLM-driven evolutionary search: clonal dominance (one parent producing all offspring) and mode collapse (population converging to a single shape)."
 tags:
   - entities
+  - harness
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

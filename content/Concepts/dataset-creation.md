@@ -1,9 +1,10 @@
 ---
 title: LLM Dataset Creation
-detail: Processing raw data for training and fine-tuning LLMs.
+
 details: Processing raw data for training and fine-tuning LLMs.
 tags:
   - concepts
+  - training
 created: 2026-06-17
 updated: 2026-06-17
 type: concept

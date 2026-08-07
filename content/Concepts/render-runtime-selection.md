@@ -1,9 +1,11 @@
 ---
 title: Render Runtime Selection (Remotion vs HyperFrames vs FFmpeg)
-detail: "Decision process for choosing between Remotion (React), HyperFrames (HTML/GSAP), and FFmpeg (CLI) for the final video composition. OpenMontage enforces a hard rule: when both Remotion and HyperFrames are available, the agent must present both and wait for explicit user approval."
+
 details: "OpenMontage supports three render runtimes: Remotion (React/Node.js), HyperFrames (HTML/CSS/GSAP), and FFmpeg (CLI). Runtime is chosen at proposal stage (render_runtime) and locked through edit_decisions. Silent runtime swaps are treated as governance violations. The Decision Communication Contract hard rule: when both Remotion and HyperFrames are available, the agent must present both to the user with one-sentence best-for-this-brief, one-sentence honest tradeoff, and the agent's recommendation — then wait for explicit user approval. A decision_log entry with only one runtime considered when both were available is a CRITICAL reviewer finding. If only one runtime is available, the agent proceeds with it but says so explicitly and records the unavailable option as rejected_because: 'runtime not available on this machine'."
 tags:
   - concepts
+  - agent
+  - architecture-pattern
 created: 2026-07-02
 updated: 2026-07-02
 type: concept

@@ -1,9 +1,11 @@
 ---
 title: "ADAS paper (Automated Design of Agentic Systems)"
-detail: "Hu, Lu, and Clune 2025. Formulates agent design as an optimization problem — a meta-agent proposes new agentic workflows, the draft goes through two self-refine steps for novelty, the result is evaluated and added to an archive of successful designs."
+
 details: "The first paper to articulate 'meta-agent search' as a distinct subfield. The procedure — initialize an archive, ask the meta-agent to program new agents, self-refine for novelty, evaluate, add to archive — is now the canonical reference for workflow search."
 tags:
   - entities
+  - agent
+  - agentic-system
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

@@ -1,9 +1,11 @@
 ---
 title: "Zero-Token Memory Operations"
-detail: "An operating regime for agent memory in which every step outside final question answering uses zero LLM calls and zero LLM input or output tokens, isolating the LLM cost to the reader."
+
 details: "Zero-token memory operations (formalized in Zero-Mem, Xiao et al., 2026) define an operating regime in which memory construction, organization, routing, retrieval, evidence closure, pre-reader evidence calibration, and post-reader answer calibration all run without invoking an LLM. Only the final reader — the LLM that produces the answer from the evidence set R(q) — may use an LLM. Encoder computation (BM25, dense embeddings) and final-QA inference are accounted for separately. The regime separates memory-operation cost from final-reader cost, which is a useful architectural split: the memory pipeline can be optimized deterministically (no token budget, no rate limits, no model drift) while the reader is the only component exposed to LLM cost and variability. The empirical result motivating the regime: on LoCoMo and HotpotQA, Zero-Mem achieves the best F1 and BLEU-1 of eight compared systems while consuming 0 LLM tokens for memory operations and reducing memory-operation latency by 57.6% versus the fastest LLM-using baseline (LightMem)."
 tags:
   - concepts
+  - memory
+  - rag
 created: 2026-08-05
 updated: 2026-08-05
 type: concept

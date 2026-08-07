@@ -1,9 +1,10 @@
 ---
 title: "Durable Checkpoint Record and Replay"
-detail: "Every unit of work in a flow records its inputs and output durably; that recording is the substrate of resume, retry, replay, and cross-run diff."
+
 details: "A durable checkpoint is a unit of work inside a flow whose inputs and output are recorded durably, such that the runtime can later return those outputs without re-executing the work. Checkpoints are the contract between the runner (durable control flow: order, retry, replay, resume, wait) and the execution target (inline process, isolated container, sandbox, external tool). Decorated with @checkpoint in Kitaru; executed sequentially by default with .submit()/.map()/.product() for concurrent fan-out. A failed checkpoint is persisted as a typed artifact — durable context that the runner, the agent loop, a human, or a retry policy can reason about. This is what makes 'failures become data' in agent-native error handling: retry the same input, replay with one input overridden, replay with modified code, feed the error back to the agent, or wait for a human correction."
 tags:
   - concepts
+  - runtime
 source: https://docs.zenml.io/kitaru
 created: 2026-07-10
 updated: 2026-07-10

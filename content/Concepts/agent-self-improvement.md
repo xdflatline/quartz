@@ -1,9 +1,11 @@
 ---
 title: Agent Self-Improvement
-detail: Agent Self-Improvement is a cognitive design paradigm focused on enabling autonomous AI agents to analyze execution logs, feedback, and interactive...
+
 details: Agent Self-Improvement is a cognitive design paradigm focused on enabling autonomous AI agents to analyze execution logs, feedback, and interactive...
 tags:
   - concepts
+  - agent
+  - memory
 created: 2026-05-25
 updated: 2026-05-25
 type: concept

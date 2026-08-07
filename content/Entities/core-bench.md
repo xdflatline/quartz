@@ -1,9 +1,11 @@
 ---
 title: "CORE-Bench"
-detail: "Siegel et al., TMLR 2024. 270 tasks based on 90 scientific papers across CS, social science, and medicine — evaluate computational reproducibility of published research. Multiple difficulty levels; language-only and vision-language tasks."
+
 details: "Tasks involve reproducing results from provided code and data. Best reported agent at the time (GPT-4o and GPT-4o-mini) achieved only 21% accuracy on the hardest task. The benchmark targets the reproducibility crisis in published research as a measurable capability."
 tags:
   - entities
+  - benchmark
+  - evaluation
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

@@ -1,9 +1,11 @@
 ---
 title: Agent-First Pipeline Architecture
-detail: "Architectural pattern where the AI agent is the orchestrator. No central Python orchestrator, reviewer, or handler. Production logic lives in YAML manifests and Markdown skills the agent reads. Tools are thin BaseTool subclasses."
+
 details: "Agent-first pipeline architecture is the structural pattern behind OpenMontage. There is no central Python orchestrator, no Python reviewer, no Python handlers. The AI agent reads pipeline manifests (YAML) and stage director skills (Markdown), then uses tools (Python BaseTool subclasses) to actually generate assets. The system is structured as a state machine: idea → script → scene_plan → assets → edit → compose → publish. Each stage has a director skill that teaches the agent HOW. Checkpoint policy lives in the pipeline manifest (human_approval_default per stage) plus a meta-skill (skills/meta/checkpoint-protocol.md). Reviewer is a meta-skill (skills/meta/reviewer.md) — advisory only, max 2 rounds. Cost tracker (tools/cost_tracker.py) provides budget governance via estimate → reserve → reconcile. Canonical artifacts are validated against JSON schemas in schemas/artifacts/."
 tags:
   - concepts
+  - agent
+  - architecture-pattern
 created: 2026-07-02
 updated: 2026-07-02
 type: concept

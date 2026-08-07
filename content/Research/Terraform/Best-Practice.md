@@ -1,6 +1,6 @@
 ---
 title: Best Practice
-detail: Recommended patterns for production-grade Terraform configuration.
+details: "Recommended patterns for production-grade Terraform configuration."
 tags: [research]
 created: 2026-06-26
 updated: 2026-06-26

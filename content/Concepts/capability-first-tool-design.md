@@ -1,9 +1,11 @@
 ---
 title: Capability-First Tool Design
-detail: "Tool design pattern where a single selector tool delegates to a set of explicit provider tools. The selector asks the agent what capability it needs; the providers are concrete implementations. OpenMontage uses this for TTS, video generation, and image generation."
+
 details: "Capability-first tool design is the pattern where a single selector tool asks the agent what capability it needs, then delegates to a set of explicit provider tools that are concrete implementations. OpenMontage uses this pattern across TTS, video, and image generation. The selector tool surfaces a provider menu; the agent picks based on cost, latency, and quality constraints. The provider tools are thin Python wrappers that call the actual API. Examples: tts_selector + elevenlabs_tts / google_tts / openai_tts / piper_tts; video_selector + heygen_video / wan_video / hunyuan_video / ltx_video_local / ltx_video_modal / cogvideo_video. This keeps the agent-facing surface area small (one selector per capability) while letting providers be added, swapped, or removed without changing the agent's logic."
 tags:
   - concepts
+  - tooling
+  - architecture-pattern
 created: 2026-07-02
 updated: 2026-07-02
 type: concept

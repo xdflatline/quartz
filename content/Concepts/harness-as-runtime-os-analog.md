@@ -1,9 +1,11 @@
 ---
 title: "Harness as Runtime (OS Analogy)"
-detail: "Architectural analogy framing a coding agent's harness as analogous to an operating system — encapsulating complexity behind a simple interface, with configs, tool protocols, and permission boundaries that gradually standardize across the industry."
+
 details: "Lilian Weng's framing (Jul 2026): a harness should encapsulate complicated logic while keeping the interface simple, much like an OS does for application code. The analogy motivates deliberate simplicity, generic design (to leverage pretraining knowledge from software-engineering practice), and the gradual emergence of industry-standard configs, tool interfaces, and protocols. It also informs the design instinct that many harness improvements eventually get internalized into the core model (analogous to how the user/kernel split in OS has stayed even as the user-space API has become richer)."
 tags:
   - concepts
+  - harness
+  - runtime
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

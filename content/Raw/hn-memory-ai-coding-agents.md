@@ -1,9 +1,12 @@
 ---
 title: "Ask HN: Thinking about memory for AI coding agents"
-detail: This thread discusses the implementation of persistent memory layers for AI coding agents. Users report that current methods for guiding AI agents—...
+
 details: This thread discusses the implementation of persistent memory layers for AI coding agents. Users report that current methods for guiding AI agents—...
 tags:
   - raw
+  - memory
+  - coding-agent
+  - hn-discussion
 created: 2026-06-13
 updated: 2026-06-13
 type: raw

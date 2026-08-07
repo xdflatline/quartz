@@ -1,11 +1,14 @@
 ---
 title: "Hindsight Memory Architecture"
-detail: "Detailed breakdown of the TEMPR multi-strategy retrieval and observation consolidation pipeline."
+
 details: "This note expands on the Hindsight architecture, detailing the integration of semantic, keyword, graph, and temporal search strategies (TEMPR) and the automated process of converting raw experience into durable knowledge through observation consolidation."
-tags: ["concepts"]
+tags:
+  - concepts
+  - memory
+  - rag
 created: 2026-06-19
 updated: 2026-06-19
-type: "concept"
+type: concept
 ---
 
 # Hindsight Memory Architecture

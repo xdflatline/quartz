@@ -1,9 +1,10 @@
 ---
 title: Mobile Quantization Schema (wNa8o8)
-detail: The mobile quantization schema (wNa8o8) is a custom hardware-efficient quantization format engineered specifically for mobile accelerators. It stru...
+
 details: The mobile quantization schema (wNa8o8) is a custom hardware-efficient quantization format engineered specifically for mobile accelerators. It stru...
 tags:
   - concepts
+  - quantization
 created: 2026-06-17
 updated: 2026-06-17
 type: concept

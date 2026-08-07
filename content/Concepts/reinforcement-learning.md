@@ -1,9 +1,11 @@
 ---
 title: Reinforcement Learning (RL) for LLMs
-detail: Aligning models using GRPO, PPO, DPO.
+
 details: Aligning models using GRPO, PPO, DPO.
 tags:
   - concepts
+  - training
+  - llm
 created: 2026-06-17
 updated: 2026-06-17
 type: concept

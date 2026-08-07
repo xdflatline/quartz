@@ -1,12 +1,14 @@
 ---
 title: "Claude Code"
-detail: "Anthropic's agentic coding CLI/TUI; in the Second Brain, the LLM that reads the Brain-First rulebook from CLAUDE.md and orchestrates the AI-curated wiki ingest."
+
 details: "Claude Code is Anthropic's agentic coding assistant: a CLI / TUI that runs in the terminal, can read and edit files, run shell commands, and orchestrate subagents. In the Second Brain, Claude Code is the LLM agent that sits at the center of the architecture — the only 'big purple' in the colour-coded diagram. Its role is bounded by the [[Concepts/brain-first-search-ladder]] rulebook loaded from `CLAUDE.md` at every startup. It is the writer for the [[Concepts/ai-curated-knowledge-wiki]] ingest (maintaining `09 Wiki/` under schema), the executor of the build tasks in the [[Concepts/six-step-ai-build-process]], the sparring partner in the Create phase of the [[Concepts/capture-process-connect-create-workflow]], and the generator of rung-5 responses on the Brain-First ladder. The Node AI's framing: 'the decisive thing is not the AI, it is its rulebook'. Claude Code is the load-bearing component only at the response-generation step; everything else in the architecture is deterministic. Cost: ~$20/month for the Pro plan; per-task costs depend on usage but the local-search path never spends a token."
 tags:
   - entities
+  - coding-agent
+  - agent
 created: 2026-07-25
 updated: 2026-07-25
-type: entitie
+type: entity
 source: "[[Raw/thenodeai-second-brain-architecture-2026-07-25]]"
 sources:
   - "Raw/thenodeai-second-brain-architecture-2026-07-25"

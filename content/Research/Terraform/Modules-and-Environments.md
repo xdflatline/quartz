@@ -1,6 +1,6 @@
 ---
 title: Modules and Environments
-detail: Structural patterns for organizing Terraform across multiple environments.
+details: "Structural patterns for organizing Terraform across multiple environments."
 tags: [research]
 created: 2026-06-26
 updated: 2026-06-26

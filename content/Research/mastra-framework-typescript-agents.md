@@ -1,9 +1,11 @@
 ---
 title: "Research Index: Mastra Framework — TypeScript AI Agent Stack"
-detail: "Synthesis of the Mastra framework's capabilities, the concepts it implements, and how those concepts compose into a production-grade TypeScript AI agent stack. Cross-references the agent-first pipeline architecture, graph-based workflow engine, observational memory, supervisor agents, and the bundled model router."
+
 details: "This research index covers the Mastra framework — a modern TypeScript framework for AI agents, workflows, RAG, voice, MCP, and observability — extracted from its GitHub repository and official documentation (2026-07-03). It synthesizes the framework's eight architectural patterns, four memory tiers, three tool-kinds, and the layered composition model. Useful for evaluating Mastra against LangGraph, CrewAI, CopilotKit, AutoGen, and Claude Code; for deciding when to use an agent vs a workflow; and for understanding how its pieces fit together."
 tags:
   - research
+  - agent
+  - tooling
 created: 2026-07-03
 updated: 2026-07-03
 type: research

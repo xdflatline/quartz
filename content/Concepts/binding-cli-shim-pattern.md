@@ -1,9 +1,11 @@
 ---
 title: "Binding CLI-Shim Pattern"
-detail: "Pattern that exposes host JavaScript functions to in-VM agents as auto-generated CLI commands, derived from Zod input schemas."
+
 details: "AgentOS bindings: a server-side function definition (description, Zod inputSchema, execute handler, optional examples and timeout) becomes a CLI shim installed at `/usr/local/bin/agentos-{name}` inside the VM. Zod fields are mapped to kebab-case CLI flags (string -> --name value, boolean -> --flag/--no-flag, array -> repeated flag). The shims are injected into the agent's system prompt and can be called in scripts for code-mode token savings (up to 80% reduction). Direct host function calls with near-zero latency — no network hop, no auth config."
 tags:
   - concepts
+  - cli
+  - tooling
 created: 2026-07-19
 updated: 2026-07-19
 type: concept

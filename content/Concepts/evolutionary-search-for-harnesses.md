@@ -1,9 +1,11 @@
 ---
 title: "Evolutionary Search for Harnesses"
-detail: "Family of methods that evolve a population of harness or solution candidates by mutating them and keeping high-fitness survivors. Includes Promptbreeder, GEPA, AlphaEvolve, ThetaEvolve, DemoEvolve, ShinkaEvolve, DGM, and Hyperagents."
+
 details: "Evolutionary search evolves a population of solutions by mutating them and only keeping those with high fitness in the crowd. Useful when (1) the search space is extensive or weirdly shaped, and (2) it is hard to optimize directly with gradients but easy to evaluate solutions. Harness search is a good fit. Weng's survey covers: Promptbreeder (prompt-evolution, mutations also evolve), GEPA (reflection + evolutionary search over natural language), AlphaEvolve (pool of candidate programs + frozen-LLM diffs + # EVOLVE-BLOCK markers), ThetaEvolve (evo + RL + ICL), DemoEvolve (augment archive with human demos), ShinkaEvolve (parent sampling balancing rank/offspring + novelty rejection + meta-scratchpad), DGM (LLM edits its own harness codebase), and Hyperagents (meta-agent controls modification of task agents)."
 tags:
   - concepts
+  - harness
+  - training
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

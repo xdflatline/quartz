@@ -1,9 +1,11 @@
 ---
 title: "Self-Harness Propose-Evaluate-Accept Loop"
-detail: "Zhang et al. 2026: LLM agents improve their own harness via three stages — weakness mining (cluster failures into verifier-grounded patterns), bounded harness proposal (edits to editable surfaces with regression-safe context), and proposal validation (held-in + held-out regression tests before accept)."
+
 details: "Self-Harness is a closed loop with three stages. Weakness mining produces a failure record of rich information: terminal verifier-level cause, causal status of the relevant agent behavior, and abstract agent mechanism exposed by the trace. Harness proposal gives the proposer a bounded context: (1) editable surfaces of the current harness, (2) verifier-grounded failure patterns, (3) records of passing behaviors to preserve, (4) summaries of previously attempted edits. Proposal validation evaluates edits on held-in (weakness resolved?) and held-out (no regressions?) splits; only edits that pass both are merged. When run on MiniMax M2.5, Qwen3.5-35B-A3B, and GLM-5 on Terminal-Bench-2, Self-Harness learned model-specific harness instructions that target different weaknesses of different base models."
 tags:
   - concepts
+  - harness
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: concept

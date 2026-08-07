@@ -1,9 +1,11 @@
 ---
 title: "Agent Stack Layers (Model / Harness / Runtime / Platform)"
-detail: "Decompose agent tooling into four layers — model, harness, runtime, platform — so a runtime like Kitaru can position itself relative to harnesses and platform governance rather than trying to own both."
+
 details: "The four-layer decomposition of agent tooling: model (the LLM itself, picked per-call or per-agent), harness (prompts, tools, model loop, context management — picked per-team), runtime (durable checkpoints, faithful replay, cross-run diff, resume, wait, versioned deployments, artifact handling — Kitaru's layer), platform (auth, entitlements, interceptors, observability, policy — usually the org's existing stack). The decomposition exists so that 'is Kitaru a competitor to X?' has a precise answer: Kitaru competes with Temporal, DBOS, and the runtime portion of LangSmith Deployment; it sits beside PydanticAI, OpenAI Agents, Claude Agent SDK, and LangGraph at the harness layer; it integrates with the org's existing platform for auth/RBAC/egress policy. The same decomposition explains why 'I have a sandbox provider' is not the same as 'I have durable execution' — sandboxes are execution-plane machinery; durable execution is a runtime concern."
 tags:
   - concepts
+  - architecture-pattern
+  - harness
 source: https://docs.zenml.io/kitaru
 created: 2026-07-10
 updated: 2026-07-10

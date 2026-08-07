@@ -1,9 +1,11 @@
 ---
 title: Local LLM Hardware Requirements
-detail: Hardware tier recommendations based on real-world benchmarks for running LLMs locally via Ollama.
+
 details: Hardware tier recommendations based on real-world benchmarks for running LLMs locally via Ollama.
 tags:
   - concepts
+  - local-llm
+  - inference
 created: 2026-06-17
 updated: 2026-06-17
 type: concept

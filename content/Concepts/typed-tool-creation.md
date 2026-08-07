@@ -1,9 +1,10 @@
 ---
 title: "Typed Tool Creation (createTool Pattern)"
-detail: "Tool definition pattern where every tool is constructed via a factory function (createTool) that enforces id, description, input/output schemas, and an execute() signature. Plain object literals are silently rejected because the runtime cannot validate them."
+
 details: "A tool definition pattern that mandates a factory function (createTool from @mastra/core/tools) over plain object literals. The factory ensures tools carry a stable id, a description (read by the LLM to decide when to call), validated inputSchema and outputSchema (Standard JSON Schema: Zod, Valibot, or ArkType), and an execute() body receiving validated input plus a context object (requestContext, tracingContext, abortSignal). Plain object tool definitions silently fail to execute because the runtime has no schema to validate against. toModelOutput separates the app-facing tool result from the model-facing summary."
 tags:
   - concepts
+  - tooling
 created: 2026-07-03
 updated: 2026-07-03
 type: concept
