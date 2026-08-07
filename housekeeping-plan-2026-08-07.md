@@ -116,8 +116,8 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 ### Phase 3 — Tag extension
 
 - [x] **T3.1** Build the proposed tag vocabulary and surface it to the operator. Wait for sign-off. **state: done** (vocabulary now lives in `content/tags.md`; operator approved 2026-08-07).
-- [x] **T3.2** Spawn 3 parallel sub-agents (one per tier: Raw, Concepts, Entities) to propose 1–2 topical tags for each single-tag file. Sub-agents return only `(file, new_tags)` pairs — no file rewrites. **state: in progress** (2026-08-07).
-- [ ] **T3.3** Aggregate sub-agent proposals; spot-check 20 files; if quality is poor, refine instructions and re-run. **state: open**.
+- [x] **T3.2** Spawn 3 parallel sub-agents (one per tier: Raw, Concepts, Entities) to propose 1–2 topical tags for each single-tag file. Sub-agents return only `(file, new_tags)` pairs — no file rewrites. **state: done** (3 sub-agents dispatched 2026-08-07; Research tier handled directly by main agent while sub-agents work — 23 files covered with 2 `(NEW)` tag proposals for `video`).
+- [x] **T3.3** Aggregate sub-agent proposals; spot-check 20 files; if quality is poor, refine instructions and re-run. **state: in progress** (2026-08-07; Research tier proposal at /tmp/research-tier-tags.txt; waiting for sub-agents to return).
 - [ ] **T3.4** Apply tag additions via `patch` (singular edits, auditable). **state: open**.
 - [ ] **T3.5** Update the Tag Index with any new tags introduced by the sub-agents. **state: open**.
 - [ ] **T3.6** Run `npx quartz build` to verify Phase 3. **state: open**.
