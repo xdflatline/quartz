@@ -25,15 +25,16 @@ base-branch: publish
 
 ## Operator's Requirements (verbatim)
 
-1. Drop `detail:`, keep `details:` only. **Rule: keep the more-informative of the two, harmonize under `details:`.**
+1. Drop `detail:`, keep `details:` only. **Rule (operator directive 2026-08-07):** keep the more-informative of the two, harmonize under `details:`.
 2. Extend the tag list for under-tagged files. 1–2 additional **categorical** tags beyond the primary tier tag. Don't over-do it.
 3. **No product-name tags** (no `qwen` on a Qwen3.5 article, no `claude-code` on a Claude Code article). Use **topical/category** tags (`llm`, `agent`, `tooling`, etc.) instead.
-4. **Tag index** page in the wiki that lists all tags with descriptions. New tags must be checked against this page before being invented.
-5. Tag index must be **kept up to date** during housekeeping.
-6. New `Workflows/` folder with `index.md` describing its purpose: store repeatable workflows for agents.
-7. Inside `Workflows/`, document the **wiki content schema, ingestion process, and its rules** — basically the wiki-content-ingestion skill, but **more concise** and **stripped of the gallery instructions**.
-8. Each workflow follows the **skill format**: subfolder named after the workflow, `references/` and `scripts/` subfolders where needed, sensible frontmatter (no `detail`, just `details`).
-9. Workflow file is **named after the actual workflow**, NOT `SKILL.md`.
+4. **Tag index** at `content/tags.md` (operator directive 2026-08-07; operator wrote `Content/tags.md` — directory is `content/` lowercase per repo convention; on a case-sensitive filesystem this matters; on Linux it resolves the same). The tag index lists all tags with descriptions. New tags must be checked against this page before being invented.
+5. **Reference the tag index from `content/index.md`** (operator directive 2026-08-07).
+6. Tag index must be **kept up to date** during housekeeping.
+7. New `Workflows/` folder with `index.md` describing its purpose: store repeatable workflows for agents.
+8. Inside `Workflows/`, document the **wiki content schema, ingestion process, and its rules** — basically the wiki-content-ingestion skill, but **more concise** and **stripped of the gallery instructions**.
+9. Each workflow follows the **skill format**: subfolder named after the workflow, `references/` and `scripts/` subfolders where needed, sensible frontmatter (no `detail`, just `details`).
+10. Workflow file is **named after the actual workflow**, NOT `SKILL.md`.
 
 ---
 
@@ -78,9 +79,9 @@ State values: `open` → `in progress` → `done`. State is updated **immediatel
 
 - [ ] **T1.1** Create `content/Workflows/` folder. **state: open**.
 - [ ] **T1.2** Create `content/Workflows/index.md` describing the purpose of the folder (store repeatable workflows for agents). **state: open**.
-- [ ] **T1.3** Create the **Tag Index** at `content/Concepts/tag-index.md`. Pre-populated with the operator's existing good tags (from the kaese/erbschaft/aufbewahrung exemplars) + a starter vocabulary for the LLM/agent tier files. Each tag: name, scope description, when to use, when NOT to use. **state: open**.
+- [ ] **T1.3** Create the **Tag Index** at `content/tags.md` (operator directive 2026-08-07; lowercase `content/` per repo convention). Pre-populated with the operator's existing good tags (from the kaese/erbschaft/aufbewahrung exemplars) + a starter vocabulary for the LLM/agent tier files. Each tag: name, scope description, when to use, when NOT to use. **state: open**.
 - [ ] **T1.4** Update `Base.base` `formula.section` to include `Workflows` so it shows up in base views. **state: open**.
-- [ ] **T1.5** Add a backlink from each tier's `Base.base` view to the Tag Index (or add the Tag Index to the All Content view's order). **state: open**.
+- [ ] **T1.5** Add the tag-index backlink to `content/index.md` so the home page points to `[[tags|Tag Index]]` (operator directive 2026-08-07). **state: open**.
 - [ ] **T1.6** Create the first workflow subfolder: `content/Workflows/wiki-content-ingestion/`. **state: open**.
 - [ ] **T1.7** Create the workflow file `content/Workflows/wiki-content-ingestion/wiki-content-ingestion.md` (named after the workflow, NOT `SKILL.md`). Frontmatter uses only `details:` (no `detail:`). **state: open**.
 - [ ] **T1.8** Create `content/Workflows/wiki-content-ingestion/references/` with 2–3 trimmed reference docs (frontmatter-rules, build-verification, mermaid-pitfalls). **state: open**.
@@ -204,6 +205,6 @@ Before I start any of the work in Phase 1 onward, I need confirmation on:
 2. **Branch model** ✓ (decided: `chore/housekeeping-2026-08-07` from `publish`, PR at the end)
 3. **Commit granularity** ✓ (decided: per state transition, push after every commit)
 4. **Tag vocabulary** — proposed above. Accept, or want to adjust?
-5. **Tag Index location** — `content/Concepts/tag-index.md` (my recommendation) or `content/Research/tag-index.md`?
+5. **Tag Index location** — `content/tags.md` (operator directive 2026-08-07; not `Concepts/` as originally proposed).
 6. **Canonical `type:` enum** — `raw | concept | entity | research | paper | project | idea | note | index | resource | content` (drop `entitie` typo, drop `article`, drop `"concept"` quoted). Keep `Opaque` and `Resource` as-is? Anything to add?
 7. **Workflows/ first migration** — only `wiki-content-ingestion`, or also `wiki-catalog-research` in the same pass?
