@@ -6,7 +6,7 @@ tags:
   - entities
 created: 2026-06-05
 updated: 2026-07-24
-type: entitie
+type: entity
 ---
 # Akash Network
 

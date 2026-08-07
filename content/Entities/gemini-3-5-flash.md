@@ -6,7 +6,7 @@ tags:
   - entities
 created: 2026-05-20
 updated: 2026-05-20
-type: entitie
+type: entity
 sources:
   - Raw/hn-gemini-3-5-flash-2026-05-20.md
 confidence: medium

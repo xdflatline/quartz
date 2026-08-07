@@ -6,7 +6,7 @@ tags:
   - entities
 created: 2026-05-22
 updated: 2026-05-22
-type: entitie
+type: entity
 sources:
   - Raw/flipper-one-we-need-your-help-2026-05-22.md
 ---

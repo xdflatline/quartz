@@ -6,7 +6,7 @@ tags:
   - entities
 created: 2026-08-05
 updated: 2026-08-05
-type: entitie
+type: entity
 source: "[[Raw/arxiv-zero-mem-2026-08-05]]"
 sources:
   - "Raw/arxiv-zero-mem-2026-08-05"

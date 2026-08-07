@@ -6,7 +6,7 @@ tags:
   - entities
 created: 2026-05-22
 updated: 2026-05-22
-type: entitie
+type: entity
 sources:
   - Raw/slumber-a-tui-http-client-2026-05-22.md
 ---

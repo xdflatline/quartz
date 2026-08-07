@@ -6,7 +6,7 @@ tags:
   - entities
 created: 2026-05-20
 updated: 2026-06-04
-type: entitie
+type: entity
 confidence: high
 ---
 ## Overview

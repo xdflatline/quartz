@@ -6,7 +6,7 @@ tags:
   - entities
 created: 2026-07-25
 updated: 2026-07-25
-type: entitie
+type: entity
 source: "[[Raw/thenodeai-second-brain-architecture-2026-07-25]]"
 sources:
   - "Raw/thenodeai-second-brain-architecture-2026-07-25"

@@ -6,7 +6,7 @@ tags:
   - entities
 created: 2026-07-24
 updated: 2026-07-24
-type: entitie
+type: entity
 source: "https://fireworks.ai/pricing"
 ---
 # Fireworks AI

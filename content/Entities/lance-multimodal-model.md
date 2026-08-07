@@ -6,7 +6,7 @@ tags:
   - entities
 created: 2026-05-21
 updated: 2026-05-21
-type: entitie
+type: entity
 sources:
   - .Raw/lance-multimodal-image-video-generation-2026-05-21.md
 confidence: medium

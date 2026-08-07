@@ -6,7 +6,7 @@ tags:
   - entities
 created: 2026-07-15
 updated: 2026-07-15
-type: entitie
+type: entity
 sources:
   - .Raw/bonsai-27b-gguf-prism-ml-2026-07-15.md
 source: "Hugging Face (prism-ml/Bonsai-27B-gguf)"

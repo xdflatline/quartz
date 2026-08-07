@@ -6,7 +6,7 @@ tags:
   - entities
 created: 2026-06-16
 updated: 2026-06-16
-type: entitie
+type: entity
 source: "Google Blog (Gemma 4 QAT)"
 category: Model Family
 repository: "https://huggingface.co/google"

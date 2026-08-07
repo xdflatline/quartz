@@ -6,7 +6,7 @@ tags:
   - entities
 created: 2026-05-20
 updated: 2026-05-22
-type: entitie
+type: entity
 sources:
   - Raw/gemini-cli-will-stop-working-from-june-18-2026-2026-05-20.md
   - Raw/antigravity-20-tops-the-openscad-architectural-3d-llm-benchmark-2026-05-22.md

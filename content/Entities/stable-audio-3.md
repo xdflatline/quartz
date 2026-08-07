@@ -6,7 +6,7 @@ tags:
   - entities
 created: 2026-05-21
 updated: 2026-05-21
-type: entitie
+type: entity
 sources:
   - .Raw/stable-audio-3-2026-05-21.md
 confidence: high
