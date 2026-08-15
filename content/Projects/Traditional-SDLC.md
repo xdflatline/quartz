@@ -53,16 +53,16 @@ The diagram below draws the V-Model: each specification phase on the descending 
 
 ```mermaid
 flowchart LR
-    R[Requirements]:::build
-    S[System<br/>design]:::build
-    D[Detailed<br/>design]:::build
-    I[Implementation]:::build
-    ItT[Integration<br/>test]:::verify
-    ST[System<br/>test]:::verify
-    UT[Unit<br/>test]:::verify
-    AT[Acceptance<br/>test]:::verify
-    Dep[Deployment]:::build
-    Op[Operations]:::build
+    R[Requirements]
+    S[System<br/>design]
+    D[Detailed<br/>design]
+    I[Implementation]
+    ItT[Integration<br/>test]
+    ST[System<br/>test]
+    UT[Unit<br/>test]
+    AT[Acceptance<br/>test]
+    Dep[Deployment]
+    Op[Operations]
 
     R -->|specifies| S
     S -->|decomposes| D
@@ -78,8 +78,7 @@ flowchart LR
     AT -->|gate for| Dep
     Dep -->|hands to| Op
 
-    classDef build fill:#dbe9ff,stroke:#3b6fb6,color:#0a1f4a
-    classDef verify fill:#fff1d6,stroke:#a07712,color:#3a2900
+    
 ```
 
 ## Phase Handover Map
