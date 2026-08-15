@@ -46,9 +46,9 @@ flowchart TD
         end
     end
 
-    Agent -->|1. Hybrid Query via kb| HumanReadable
+    Agent -->|Hybrid Query via kb| HumanReadable
     Agent <-->|Index & Cache| ToolPrivate
-    Agent -->|2. Search & Exec| ScriptsDirectory
+    Agent -->|Search & Exec| ScriptsDirectory
 ```
 
 ---
@@ -75,11 +75,11 @@ To solve context bloat, learnings are divided into three physical tiers. Signals
 
 ```mermaid
 flowchart TD
-    Logs[(Session Transcript / Terminal Logs)] -->|1. Context & Session Scraping| Signals[Raw Learning Signals]
-    Signals -->|2. Distillation & Tiering <br> Evidence-First Rule| KB[Markdown Knowledge Base <br> docs/ & ~/.kb/]
+    Logs[(Session Transcript / Terminal Logs)] -->|Context & Session Scraping| Signals[Raw Learning Signals]
+    Signals -->|Distillation & Tiering <br> Evidence-First Rule| KB[Markdown Knowledge Base <br> docs/ & ~/.kb/]
     KB <-->|Interlinked| Scripts[Automation Scripts <br> scripts/ directory]
-    Agent[Arbitrary AI Agent] -->|3. On-Demand Query & Execute| KB
-    Agent -->|3. Run Script| Scripts
+    Agent[Arbitrary AI Agent] -->|On-Demand Query & Execute| KB
+    Agent -->|Run Script| Scripts
 ```
 
 | Tier | Format | Storage Location | Activation Mechanism |
