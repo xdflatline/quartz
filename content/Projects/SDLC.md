@@ -75,24 +75,6 @@ Places where the operator's preference is the deciding factor and this doc shoul
 - **Operate phase ownership.** Does the agent have authority to revert a deploy that breaks a hard SLO, or does it have to escalate even at 3 AM? This is the kind of decision that should be encoded as a fact in a standing instruction file, not as a procedural gate.
 - **Concept phase discipline.** How long does a concept stay in the operator's head before either committing to requirements or killing it? Without a discipline rule, concepts accumulate and stall.
 
-## Verification Steps
-
-Since the agent that wrote this file cannot run `npx quartz build` itself, the operator should run the following from `~/quartz` before committing.
-
-The mermaid verifier script ignores positional file arguments — only `--all` is honored — so the file argument below is for documentation, not the actual invocation. The static sweep will cover every `content/**/*.md` file.
-
-```bash
-npx quartz build 2>&1 | tail -40
-stat -c %s public/projects/sdlc.html
-bash ~/.hermes/skills/quartz-mermaid-list-token-pitfall/scripts/setup-verifier-deps.sh
-node ~/.local/share/mermaid-verifier/verify-mermaid.mjs --all
-```
-
-Expected outcomes:
-
-- `npx quartz build` reports `0 errors`. Emitted file count delta should be `+1` (new page), and the `public/projects/sdlc.html` size should be `>= 5 KB` (a 300-byte file means the alias-redirects plugin overwrote the real page; this file has no aliases so the trap does not apply, but worth confirming the file is real and not a stub).
-- `verify-mermaid.mjs --all` reports `0 issues` in the static sweep. If it reports issues on `content/Projects/SDLC.md`, rewrite the affected labels per the skill guidance (drop decorative numbering, do not escape with quotes) and re-run before committing. If it reports issues on files this page did not author, those are pre-existing failures — fix in a follow-up commit, not this one.
-
 ## See Also
 
 - [[Research/cognitive-locality-orchestrator-tax]] — the orchestrator's-tax framing this doc leans on
