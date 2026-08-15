@@ -13,26 +13,22 @@ A working model of how a solo operator ships software with AI coding agents. The
 
 ## Phase Flow
 
-The dominant flow with verification-driven rollback. Phase colours mark the primary decision-maker at the entry to that phase. Gold = human decides, blue = agent drafts and human decides, grey = agent executes with human on the hook for verification.
+The dominant flow with verification-driven rollback. Solid arrows are the forward path; dotted edges are rollback (Verification → Implementation), abandonment (Verification → Concept), and re-entry from operations (Operate → Concept).
 
 ```mermaid
 flowchart LR
-    C[Concept<br/>what problem<br/>if any]:::human
-    R[Requirements<br/>what success<br/>looks like]:::agentdraft
-    A[Architecture<br/>shape and<br/>key choices]:::agentdraft
-    I[Implementation<br/>build the<br/>thing]:::agent
-    V[Verification<br/>prove it<br/>works]:::agent
-    D[Delivery<br/>ship to<br/>users]:::human
-    O[Operate<br/>keep it<br/>running]:::human
+    C[Concept<br/>what problem<br/>if any]
+    R[Requirements<br/>what success<br/>looks like]
+    A[Architecture<br/>shape and<br/>key choices]
+    I[Implementation<br/>build the<br/>thing]
+    V[Verification<br/>prove it<br/>works]
+    D[Delivery<br/>ship to<br/>users]
+    O[Operate<br/>keep it<br/>running]
 
     C --> R --> A --> I --> V --> D --> O
     V -.rollback.-> I
     V -.abandon.-> C
     O -.revisit.-> C
-
-    classDef human fill:#f5c842,stroke:#8a6d10,color:#1a1a1a
-    classDef agentdraft fill:#7fb3d5,stroke:#2c5d7f,color:#1a1a1a
-    classDef agent fill:#cfcfcf,stroke:#555,color:#1a1a1a
 ```
 
 ## Phase State Machine
