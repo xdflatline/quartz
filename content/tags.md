@@ -139,6 +139,15 @@ The controlled tag vocabulary for the Quartz wiki. Before introducing a new tag,
 | `housekeeping` | Pages about wiki maintenance, schema migrations, tag normalization | Pages that are content-bearing |
 | `plan` | Pages that are plans or in-progress task lists | Pages that are finished work |
 
+## OS / Desktop
+
+| Tag | Use for | Don't use for |
+|-----|---------|---------------|
+| `linux` | Linux-specific tooling, Linux ecosystem pages (distros, package managers, Wayland compositors, Linux-only apps) | General cross-platform tools that happen to support Linux |
+| `desktop` | Desktop environment / shell composition, status bars, widgets, lockscreens, display managers, GUI panel/window managers | Pages about general GUI frameworks with no shell focus (use `tooling`) |
+| `qt` | Pages about Qt, QML, QtQuick, the Qt ecosystem, qmlls language server | Pages that just embed a Qt control without discussing Qt |
+| `widget` | UI widgets, status bars, system tray items, lockscreen widgets, panel components | Pages about general UI design with no widget/component focus |
+
 ## Reserved / Out of use
 
 These tags appeared in the wild but are not in the controlled vocabulary. Pages that use them should be retagged during housekeeping (T3.4):
