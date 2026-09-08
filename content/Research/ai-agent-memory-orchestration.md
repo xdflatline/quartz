@@ -8,7 +8,7 @@ tags:
   - memory
   - orchestration
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-09-08
 type: research
 ---
 # Research Index: AI Agent Memory & Orchestration
@@ -37,6 +37,7 @@ This index collects concepts, tools, and patterns from recent discussions on:
 ### Memory & Learning
 - [[agent-memory-layer-patterns]] — Typed knowledge, friction logging, human curation
 - [[friction-logging-for-agents]] — Human correction rate as loss function proxy
+- [[hybrid-retrieval-complementary-halves]] — Vector search + knowledge graph as complementary halves; 4-way parallel hybrid retrieval (semantic + BM25 + graph + temporal) fused with RRF and cross-encoder rerank. Vendor-blessed framing from [[Entities/vectorize]] Hindsight team.
 
 ### Local LLM Infrastructure
 - [[llm-quantization-reference]] — Q4_K_M sweet spot, 6 quantization levels with GB/1B params
@@ -64,6 +65,7 @@ This index collects concepts, tools, and patterns from recent discussions on:
 - [[hn-multiagent-orchestration-production.md]] — Full HN thread on production orchestration
 - [[hn-memory-ai-coding-agents.md]] — Full HN thread on memory for coding agents
 - [[devto-llm-local-ram-benchmarks-2026.md]] — DEV Community 2026 benchmarks for local LLM RAM/VRAM
+- [[hindsight-vectorize-knowledge-graphs-vs-vector-search-2026-08-24.md]] — Hindsight/Vectorize blog post arguing vector search + knowledge graph are complementary halves for agent memory; introduces the "agent memory ≠ document RAG" framing
 
 ---
 
@@ -104,6 +106,8 @@ This index collects concepts, tools, and patterns from recent discussions on:
 - [ ] Experiment with friction logging in agent delegation
 - [ ] Compare Squirrel vs manual `CLAUDE.md` maintenance
 - [ ] Benchmark SQL FTS vs vector stores for agent memory retrieval
+- [ ] Investigate 4-way parallel hybrid retrieval (semantic + BM25 + graph + temporal) for Hermes memory; validate the "agent memory ≠ document RAG" thesis against Hermes's own workload
+- [ ] Read [[Raw/hindsight-vectorize-knowledge-graphs-vs-vector-search-2026-08-24]]'s linked posts on entity resolution and spreading activation for follow-up detail
 
 ### Local LLM Infrastructure
 - [ ] Map Hermes agent workloads to hardware tiers (1.5B vs 7B vs 16B MoE)
