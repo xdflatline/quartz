@@ -93,8 +93,12 @@ This is what "agent-native error handling" means: failures become data, durable 
 - [[Concepts/three-plane-agent-runtime]] — where the runner and execution target live
 - [[Concepts/framework-agnostic-runtime-decorators]] — how `@checkpoint` stays harness-agnostic
 - [[Concepts/agent-stack-layers]] — how this fits in the broader stack
+- [[Concepts/durable-execution]] — the umbrella pattern Kitaru implements characteristic #3 of
+- [[Concepts/hardware-vs-software-fault-tolerance]] — the software-fault-tolerance framing that subsumes Kitaru's approach
 
 ## References
 
 - Raw Article: [[Raw/docs-zenml-kitaru-2026-07-10]]
+- Raw Article: [[Raw/temporal-what-is-durable-execution-2026-09-10]] — canonical framing of the umbrella pattern
 - Original: https://docs.zenml.io/kitaru
+- Original: https://temporal.io/blog/what-is-durable-execution

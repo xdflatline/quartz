@@ -111,9 +111,12 @@ Alternative runtime: deploy to a managed workflow runner (e.g., Inngest) for ste
 - [[multi-agent-orchestration-patterns]] — Workflows vs. agentic loops
 - [[supervisor-agent-pattern]] — Alternative multi-step coordination via subagent delegation
 - [[typed-tool-creation]] — The tool counterpart of the step contract
+- [[Concepts/durable-execution]] — the umbrella pattern; graph-based engines are *not* durable execution by default (see "where the boundary is")
 - [[Entities/mastra]] — Canonical implementation
 
 ## References
 
 - Raw Article: [[Raw/github-mastra-ai-framework-2026-07-03]]
+- Raw Article: [[Raw/temporal-what-is-durable-execution-2026-09-10]] — distinguishes durable execution from ordinary workflow engines
 - Original: https://mastra.ai/docs/workflows/overview
+- Original: https://temporal.io/blog/what-is-durable-execution

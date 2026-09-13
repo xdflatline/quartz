@@ -110,6 +110,8 @@ These are hosting events, intentionally absent from Core.
 - [[Concepts/kernel-syscall-isolation-vm]] — isolation preserved across wake
 - [[Concepts/session-event-durability-levels]] — what survives vs. what is lost
 - [[Concepts/rivet-actor-deployment-kubernetes]] — K8s-specific shutdown config (`terminationGracePeriodSeconds: 2100`)
+- [[Concepts/durable-execution]] — the umbrella pattern; AgentOS sleep/wake is characteristic #1+#3 (virtualization + automatic state preservation) scoped to idle-boundary rather than crash-boundary
+- [[Concepts/hardware-vs-software-fault-tolerance]] — the software-fault-tolerance framing for which AgentOS is another realization
 
 ## Related Entities
 
@@ -119,5 +121,7 @@ These are hosting events, intentionally absent from Core.
 ## References
 
 - Raw Documentation: [[Raw/agentos-sdk-dev-docs-2026-07-19]]
+- Raw Article: [[Raw/temporal-what-is-durable-execution-2026-09-10]] — canonical framing of the umbrella pattern
 - Persistence docs: https://agentos-sdk.dev/docs/persistence
 - Sessions docs: https://agentos-sdk.dev/docs/sessions
+- Original: https://temporal.io/blog/what-is-durable-execution
