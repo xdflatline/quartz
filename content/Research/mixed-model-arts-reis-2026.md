@@ -115,6 +115,7 @@ Belief 3 (intent drives structure) is the operational form of Belief 2 (model th
 - [ ] **Track the open question Guy Kerem raises** (comment, Aug 24, 2026): does the Agentic Era produce de facto standard ontologies, or does the long tail persist? Revisit in 12–18 months
 - [ ] **Connect MMA to [[Concepts/ontology-llm-data-modernization]]** — Reis's MMA Belief 5 and the LLM-driven ontology construction work are converging on the same operational problem from different directions
 - [ ] **Cross-reference Reis's *Fundamentals of Data Engineering* (2022)** for the data-engineering-cycle framework, which is the prior foundation MMA builds on
+- [ ] **Connect MMA Belief 4 (time as first-class modeling axis) to Time-R1 (Liu et al., UIUC, arXiv:2505.13508v2, 2025-06-03)** — see [[Research/time-r1-comprehensive-temporal-reasoning-2026]]. Time-R1 is the operational ML form of Reis's principle: explicit temporal RL specialization on a 3B model outperforms 200× larger models on future event prediction (0.7780 vs DeepSeek-R1-671B's 0.7503) and creative scenario generation (48.90% AvgMaxSim). The paper's three-stage curriculum (comprehension → prediction → inference-only generation) is a concrete recipe for what "modeling time explicitly" looks like at the LLM layer.
 
 ## References
 
