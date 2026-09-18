@@ -66,6 +66,13 @@ The controlled tag vocabulary for the Quartz wiki. Before introducing a new tag,
 | `serverless` | Pages about serverless compute, FaaS, Lambda-style execution | Pages that use serverless as one option |
 | `infrastructure` | Pages about cloud infrastructure, GPU providers, cost optimization | Pages that are mainly about a specific provider (use wikilink) |
 
+## Software Engineering / Philosophy
+
+| Tag | Use for | Don't use for |
+|-----|---------|---------------|
+| `software-engineering` | Pages about software-engineering fundamentals, design philosophy, canonical textbooks (Pragmatic Programmer, DDD, PoSD), quality principles, entropy/decay | Pages about a specific framework or tool (use `tooling` or wikilink); pages that just mention engineering principles in passing |
+| `philosophy` | Pages about enduring design philosophy, epistemological positions, foundational mental models (Kent's map/territory, anti-dogma modeling, deep-modules vs shallow-modules) | Pages that argue a tactical preference without a deeper position; pages about a specific design pattern (use `architecture-pattern` instead) |
+
 ## Knowledge / Wiki
 
 | Tag | Use for | Don't use for |

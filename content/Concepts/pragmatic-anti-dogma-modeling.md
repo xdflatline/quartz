@@ -76,6 +76,9 @@ This belief is the operational form of Reis's mixed martial arts metaphor. In th
 - [[Concepts/unified-modeling-discipline-mma]] — unification precedes cross-school selection
 - [[Concepts/data-model-as-tool-not-theory]] — Kent's 1978 framing
 - [[Concepts/model-territory-not-technology]] — territory drives tool selection
+- [[Research/software-engineering-fundamentals]] — the umbrella discipline (Hunt & Thomas, Evans, Ousterhout) shares the same anti-dogma posture: principles over tribal allegiance, complexity management over fashion, deep modules over shallow ones, bounded contexts over single unified models
+- [[Concepts/pragmatic-programmer-tips]] — Hunt & Thomas's daily-practice table; the closest analogue in the engineering canon to MMA's "train everything, apply what works"
+- [[Concepts/ddd-ubiquitous-language]] — Evans's anti-dogma operationalisation for code: pick the language of the domain, not the language of the framework
 - [[Entities/mixed-model-arts-manifesto]] — source
 
 ## Related Entities
