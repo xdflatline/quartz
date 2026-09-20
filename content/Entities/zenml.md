@@ -3,7 +3,7 @@ title: "ZenML"
 
 details: "ZenML is the open-source framework for production ML and LLM pipelines that Kitaru is built on and runs alongside. The two projects work independently — you can use Kitaru without ZenML, or use ZenML without Kitaru — and compose when used together: a Kitaru flow is a dynamic ZenML pipeline under the hood, so agents and ML pipelines share stacks, artifact stores, server, and dashboard. ZenML provides the orchestration substrate (steps, pipelines, stacks, server, dashboard) that Kitaru extends with durable checkpoints, replay, diff, and the agent runtime primitives."
 tags:
-  - entities
+  - entity
   - orchestration
   - infrastructure
 source: https://docs.zenml.io/kitaru

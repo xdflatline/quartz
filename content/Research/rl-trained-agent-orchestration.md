@@ -1,7 +1,11 @@
 ---
 title: "RL-Trained Agent Orchestration"
 details: "Cross-cutting synthesis of research on using reinforcement learning to train a small language model that orchestrates pools of worker LLMs. The Conductor (Sakana AI, arXiv:2512.04388, 2026) is the canonical recent example — a 7B GRPO-trained orchestrator that designs coordination strategies in natural language, attains SOTA on GPQA Diamond and LiveCodeBench, generalises to arbitrary worker pools, and supports recursive self-as-worker test-time scaling. Contrasts with prior evolutionary (TRINITY) and hand-designed multi-agent approaches."
-tags: [research, llm, agent, orchestration, agentic-system]
+tags:
+  - research
+  - llm
+  - agent
+  - orchestration
 sources:
   - Papers/conductor-rl-orchestrator.md
   - Papers/trinity-evolved-llm-coordinator.md

@@ -2,6 +2,7 @@
 title: "John Ousterhout"
 details: "John Ousterhout is an American computer scientist, professor emeritus of computer science at Stanford University, and creator of Tcl (Tool Command Language) and the Tk GUI toolkit. He is the author of A Philosophy of Software Design (2018), the canonical software-design textbook whose central thesis is that software design's primary purpose is to manage complexity, which manifests in three observable forms: change amplification, cognitive load, and unknown unknowns. The book's most-cited contribution is the deep-modules principle (the best modules provide powerful functionality behind a simple interface). The book is one of three canonical software-engineering texts the operator has named on his reading list, alongside The Pragmatic Programmer and Domain-Driven Design."
 tags:
+  - entity
   - software-engineering
 created: 2026-09-18
 updated: 2026-09-18

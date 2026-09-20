@@ -3,7 +3,6 @@ title: "The Orchestrator's Tax"
 details: "Blog post by Rahul Garg (Thoughtworks, 16 July 2026) arguing that the real cost of subagents is not parallelism vs. token spend but context pollution in the orchestrator's working memory. Coins the term 'cognitive locality' and proposes four standing rules for orchestrator hygiene: prefer 2-4 agents per wave, don't poll background agents for status, don't allow repo-wide git operations inside concurrent prompts, and treat overlapping file ownership as a consolidation signal. Originally published on Martin Fowler's site."
 tags:
   - raw
-  - blog-post
   - agent
   - multi-agent
 created: 2026-08-07

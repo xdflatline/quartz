@@ -2,9 +2,8 @@
 title: "QtQuick / QML"
 details: "Declarative UI framework from the Qt project. QML is the JSON-like interface description language; QtQuick is the runtime scene-graph (rendering, animation, event delivery) it describes. Used by Quickshell, KDE Plasma, Sailfish OS, and many embedded HMI projects."
 tags:
-  - entities
-  - qt
-  - desktop
+  - entity
+  - software-engineering
 created: 2026-08-31
 updated: 2026-08-31
 type: entity

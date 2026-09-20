@@ -2,6 +2,7 @@
 title: "Bounded Context (DDD)"
 details: "A central pattern in Domain-Driven Design (Eric Evans, 2003) and the focus of its strategic-design section: an explicit boundary within which a single, internally consistent domain model applies. Different bounded contexts may have completely different models of the same real-world concept (e.g. Customer, Product, Account) — and the relationships between contexts (shared kernel, customer/supplier, anti-corruption layer, conformist, separate ways) are made explicit through context maps. The pattern exists because, beyond a certain size, a single unified model of the entire business is no longer feasible or cost-effective."
 tags:
+  - concept
   - software-engineering
   - architecture-pattern
 created: 2026-09-18

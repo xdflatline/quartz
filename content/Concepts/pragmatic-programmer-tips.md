@@ -2,8 +2,8 @@
 title: "Pragmatic Programmer Tips (Quick Reference)"
 details: "The 70 practical rules distilled from Andrew Hunt & David Thomas's The Pragmatic Programmer (1999, 20th-anniversary edition 2019), forming the daily-practice half of the operator's named software-engineering fundamentals. Organised by chapter — Pragmatic Philosophy (care about craft, broken windows, knowledge portfolio), Pragmatic Approach (DRY, orthogonality, tracer bullets, domain languages), Basic Tools (plain text, shell, source control), Pragmatic Paranoia (design by contract, dead programs, assertive programming), Bend or Break (decoupling, Law of Demeter, metaprogramming), While Coding (program deliberately, refactor), Before the Project (requirements pit, specification trap), and Pragmatic Projects (pragmatic teams, ruthless testing, document as you write, sign your work). The list is the operator's working definition of what it means to be a pragmatic software engineer."
 tags:
+  - concept
   - software-engineering
-  - reference
 created: 2026-09-18
 updated: 2026-09-18
 type: concept

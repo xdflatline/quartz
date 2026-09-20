@@ -60,6 +60,21 @@ For multi-step tasks, state a brief plan:
 
 Strong success criteria let you loop independently. Weak criteria ("make it work") require constant clarification.
 
+## 5. Frontmatter Tagging Guidelines
+
+**Strict 2-tier tag structure. No product/entity names as tags.**
+
+- **Tier 1 (First Tag Required)**: Must be EXACTLY ONE Base Primary Tag defining the note archetype (singular):
+  - `#concept` (Concepts/), `#entity` (Entities/), `#research` (Research/), `#raw` (Raw/), `#workflow` (Workflows/), `#paper` (Papers/), `#project` (Projects/), `#resource` (Resources/ & indexes), `#idea` (Ideas/).
+- **Tier 2 (Secondary Tags - Max 2-3)**: Must be selected ONLY from approved high-level technical domain and architecture layer tags:
+  - Broad Domains: `#agent`, `#llm`, `#knowledge-management`, `#software-engineering`, `#infrastructure`, `#hardware`, `#cybersecurity`.
+  - Architecture Layers: `#architecture-pattern`, `#harness`, `#tooling`, `#orchestration`, `#runtime`, `#context-engineering`, `#memory`, `#multi-agent`, `#rag`, `#training`, `#benchmark`, `#inference`, `#evaluation`, `#quantization`, `#fine-tuning`, `#prompt-engineering`, `#observability`, `#durable-execution`, `#governance`.
+- **Prohibited Tags**:
+  - NO product, framework, vendor, or company names (e.g., NO `kubernetes`, `qt`, `linux`, `mcp`, `github`). Reference products using `[[wikilinks]]` or `Entities/` notes.
+  - NO meta tags (`blog-post`, `survey`, `wiki`, `reference`, `index`, `article`).
+  - NO single-use location or personal noise tags (`zürich`, `schweiz`, `niederlande`, `reise`, `wohnen`, `deko`, `shopping`).
+- **Formatting**: Lowercase kebab-case only.
+
 ---
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.

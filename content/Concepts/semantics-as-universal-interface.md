@@ -2,6 +2,7 @@
 title: "Semantics as the Universal Interface (MMA Belief 5)"
 details: "Fifth core belief of Joe Reis's Mixed Model Arts (MMA) Manifesto: meaning (semantics) is the universal interface of data modeling. Meaning makes models durable across technology changes, enables interoperability between systems, and is the only thing that allows humans and AI agents to communicate without hallucination. Semantics is positioned as the bedrock of organizational memory and as the missing layer between physical schema and reasoning."
 tags:
+  - concept
   - knowledge-management
   - architecture-pattern
 created: 2026-09-14

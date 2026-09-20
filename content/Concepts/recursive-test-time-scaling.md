@@ -1,7 +1,12 @@
 ---
 title: "Recursive Test-Time Scaling (Self-as-Worker Orchestration)"
 details: "Test-time scaling technique introduced in Sakana AI's Conductor (Nielsen et al., arXiv:2512.04388, 2026): the orchestrator is allowed to call *itself* as one of the worker agents. After producing a coordination strategy and observing the response, the orchestrator decides whether to accept the result or design a new strategy that revises it. Unlike fixed best-of-N (fixed rounds) or single-model self-refine, the orchestrator itself learns when to stop iterating — a new form of dynamic, online test-time scaling."
-tags: [concepts, llm, agent, orchestration, inference]
+tags:
+  - concept
+  - llm
+  - agent
+  - orchestration
+  - inference
 sources:
   - Papers/conductor-rl-orchestrator.md
   - Raw/conductor-rl-orchestrator-arxiv.md

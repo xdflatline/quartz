@@ -3,9 +3,6 @@ title: "Wiki Catalog Research"
 details: "The catalog-style research pattern for closed enumerations of similar items (LLM model lists, vendor tools, product versions) where each item warrants a per-entity page rather than a row in a single table. Covers the Research/<area>/ subdirectory pattern, per-item page convention, index structure, and the catalog-expansion update workflow."
 tags:
   - workflow
-  - wiki
-  - catalog
-  - research
   - knowledge-management
 created: 2026-08-07
 updated: 2026-08-07

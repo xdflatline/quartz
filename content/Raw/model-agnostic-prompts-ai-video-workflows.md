@@ -5,7 +5,6 @@ details: "Raw capture of the dev.to article by @jiaoshuo1997. The author argues 
 tags:
   - raw
   - prompt-engineering
-  - blog-post
 created: 2026-07-23
 updated: 2026-07-23
 type: raw

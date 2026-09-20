@@ -4,8 +4,8 @@ details: "Memovai's ESP32-targeted agent implementation cited by ESP-Claw as the
 tags:
   - entity
   - agent
-  - iot
-  - open-source
+  - hardware
+  - software-engineering
 created: 2026-08-14
 updated: 2026-08-14
 type: entity

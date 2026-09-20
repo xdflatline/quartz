@@ -1,7 +1,8 @@
 ---
 title: Hindsight - Building Agent Memory
 details: "A comprehensive technical overview of the Hindsight memory architecture for AI agents."
-tags: [research]
+tags:
+  - paper
 source: https://arxiv.org/html/2512.12818v1
 created: 2026-06-21
 updated: 2026-06-21

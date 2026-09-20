@@ -2,7 +2,7 @@
 title: "Jörg Schad"
 details: "Jörg Schad is VP of Engineering at Pinecone (2026), leading the Nexus knowledge-engine product. ~20 years in database systems and infrastructure: grad-school work on distributed query optimisation in the Hadoop days (MapReduce / NameNode era); early days at SAP on HANA; engineering at Mesosphere on Apache Mesos (pre-Kubernetes cluster scheduler; deployments at Twitter, Netflix, Airbnb); CTO at ArangoDB (graph database; early GraphRAG work; built an in-house vector store); and most recently at Nextdata working on connecting data-mesh / data-product architectures to AI and agents. Useful as the canonical authorial voice for the context-as-materialized-view framing, since Nexus is the first commercial product that explicitly codifies it."
 tags:
-  - entities
+  - entity
   - agent
   - knowledge-management
 created: 2026-09-05

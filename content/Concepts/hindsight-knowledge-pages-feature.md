@@ -2,11 +2,10 @@
 title: "Hindsight Knowledge Pages Feature"
 details: "Canonical reference for Hindsight's knowledge-pages product feature (2026-09). Knowledge pages are living markdown documents a memory bank writes about itself, organized in a folder tree, sourced from consolidated observations by default, refreshed incrementally after each consolidation, and projected onto disk via `hindsight fs mount`. A knowledge page is a mental model with two additions: a place in a folder tree, and a set of defaults tuned for documents rather than answers. Searchable at the document level via hybrid BM25 + semantic search fused server-side, distinct from per-memory `recall`. Reachable through the HTTP API, the `hindsight fs` CLI, and `agent_knowledge_*` SDK tools."
 tags:
-  - concepts
+  - concept
   - memory
   - agent
   - rag
-  - reference
 created: 2026-09-08
 updated: 2026-09-08
 type: concept

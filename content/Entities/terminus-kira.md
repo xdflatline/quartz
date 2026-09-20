@@ -3,9 +3,9 @@ title: "Terminus-KIRA"
 
 details: "Terminus-KIRA is the other strong starting harness Meta-Harness improves from. Like Terminus-2, it serves as a deliberate non-trivial baseline to avoid the trivial 'ML beats naive baseline' critique."
 tags:
-  - entities
+  - entity
   - harness
-  - coding-agent
+  - agent
 created: 2026-08-07
 updated: 2026-08-07
 type: entity

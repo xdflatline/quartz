@@ -2,6 +2,7 @@
 title: "Pragmatic Anti-Dogma Modeling (MMA Belief 9)"
 details: "Ninth core belief of Joe Reis's Mixed Model Arts (MMA) Manifesto: practitioners should understand the various data-modeling approaches (Kimball, Inmon, Data Vault, ODF, third normal form, anchor modeling, etc.), why each is used and where each applies, and pick what works for their situation. Anti-dogma is not anti-rigor; it is the rejection of methodological tribalism in favor of first-principles selection by context. The position closes the manifesto by closing the loop on its central metaphor."
 tags:
+  - concept
   - knowledge-management
   - architecture-pattern
 created: 2026-09-14

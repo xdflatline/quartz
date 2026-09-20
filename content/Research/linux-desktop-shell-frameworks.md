@@ -3,10 +3,8 @@ title: "Linux Desktop-Shell Frameworks"
 details: "Survey of the architectural space Quickshell occupies — declarative, QML-configured, Wayland-integrated shell frameworks for status bars, widgets, lockscreens, and display managers. Synthesizes the QML desktop-shell composition pattern, hot-reload iteration, and the QtQuick reactive binding model across the Quickshell, KDE Plasma, and broader Linux desktop ecosystems."
 tags:
   - research
-  - linux
-  - desktop
-  - qt
-  - survey
+  - infrastructure
+  - software-engineering
 created: 2026-08-31
 updated: 2026-08-31
 type: research

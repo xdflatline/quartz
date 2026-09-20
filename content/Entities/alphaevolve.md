@@ -3,7 +3,7 @@ title: "AlphaEvolve"
 
 details: "AlphaEvolve is the reference implementation of LLM-driven evolutionary search over programs. The candidate solutions are code; the mutation operator is an LLM that produces diffs; the fitness signal is a benchmark score. The # EVOLVE-BLOCK markers explicitly delimit the editable regions — a discipline that AHE adopts for harness evolution. Meta-prompt co-evolution is AlphaEvolve's distinctive feature: the instructions to the mutator improve along with the programs it mutates."
 tags:
-  - entities
+  - entity
   - harness
   - agent
 created: 2026-08-07

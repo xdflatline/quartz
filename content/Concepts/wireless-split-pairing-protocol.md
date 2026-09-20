@@ -4,7 +4,6 @@ details: "The Corne/Sofle pairing lifecycle documented in the manual: left half 
 tags:
   - concept
   - hardware
-  - firmware
 created: 2026-08-20
 updated: 2026-08-20
 type: concept

@@ -3,8 +3,8 @@ title: Superset
 
 details: "Entities: Superset."
 tags:
-  - entities
-  - coding-agent
+  - entity
+  - agent
   - tooling
 created: 2026-05-22
 updated: 2026-05-22

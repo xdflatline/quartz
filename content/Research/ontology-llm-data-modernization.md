@@ -2,10 +2,10 @@
 title: "Research Index: Ontology + LLM for data modernization"
 details: "Synthesis of a single Thoughtworks blog post (Zichuan Xiong, 2026-07-22) introducing a six-step agentic loop that combines per-source ontologies with LLM-driven semantic analysis to close the context gap in enterprise data modernization. Anchors the ontology-llm-data-modernization and context-gap-classification concepts."
 tags:
+  - research
   - llm
   - agent
   - knowledge-management
-  - index
 created: 2026-08-07
 updated: 2026-08-07
 type: research

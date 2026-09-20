@@ -1,7 +1,12 @@
 ---
 title: "Harness Mechanism 2 — Persistent Shared Knowledge (SDD)"
 details: "H2 of the Diaz et al. (2026) methodological harness. Persistent shared knowledge governs what the team knows across sessions and agents — durable records of decisions, rationale, and outcomes that survive agent restarts and team turnover. Diaz et al. identify it as the loop-closing mechanism: without it, the other mechanisms operate within a session but their products do not survive to compound across the team. Worked example: each completed refund flow writes a persistent entry capturing the design decision (why idempotency under retries), the alternatives considered, and the evidence backing the choice."
-tags: [concept, software-engineering, agentic, harness, knowledge-management]
+tags:
+  - concept
+  - software-engineering
+  - agent
+  - harness
+  - knowledge-management
 created: 2026-09-13
 updated: 2026-09-13
 type: concept

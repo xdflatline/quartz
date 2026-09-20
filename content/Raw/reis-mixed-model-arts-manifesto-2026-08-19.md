@@ -2,7 +2,7 @@
 title: "The Mixed Model Arts Manifesto — Joe Reis"
 details: "Full text of Joe Reis's Substack manifesto (Aug 19, 2026) calling for Mixed Model Arts (MMA): a unified, first-principles discipline of data modeling that spans OLTP and OLAP, rejects the Kimball/Inmon and normalized/denormalized tribalisms, treats models as evolving lifecycles rather than deliverables, and is explicitly designed for both humans and AI agents. The article introduces the metaphor (mixed martial arts settled \"my style beats your style\" by unifying all styles around fundamentals) and enumerates nine core beliefs: modeling is one discipline; model the territory not the technology; intent drives structure; time is non-negotiable; semantics are the universal interface; simplicity is a discipline; designed for humans, engineered for agents; modeling is a lifecycle; avoid dogma, be pragmatic."
 tags:
-  - blog-post
+  - raw
   - knowledge-management
 source: "https://practicaldatamodeling.substack.com/p/the-mixed-model-arts-manifesto"
 authors:

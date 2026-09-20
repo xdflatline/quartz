@@ -1,7 +1,11 @@
 ---
 title: "Harness Mechanism 4 — Evidence-Backed Acceptance (SDD)"
 details: "H4 of the Diaz et al. (2026) methodological harness. Evidence-backed acceptance is the practice that a human reviewer accepts an agent's output only against concrete evidence (test runs, contract checks, property assertions) rather than against the appearance of correctness. It is the mechanism that absorbs the review-bottleneck volume produced by N-version generation. Worked example: the human reviewer for the refund feature requires the agent to attach the property-based test output, the contract-test output, and the load-test results before accepting."
-tags: [concept, software-engineering, agentic, harness, review]
+tags:
+  - concept
+  - software-engineering
+  - agent
+  - harness
 created: 2026-09-13
 updated: 2026-09-13
 type: concept

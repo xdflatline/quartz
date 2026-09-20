@@ -3,7 +3,7 @@ title: "Jaeger and Tempo"
 details: "Open-source distributed tracing backends — Jaeger (Uber-originated, CNCF graduated) and Tempo (Grafana Labs, CNCF incubating) — that ingest OpenTelemetry-compatible spans and reconstruct end-to-end request DAGs for tail-latency isolation and cascaded-failure analysis."
 tags:
   - entity
-  - tool
+  - tooling
   - observability
 created: 2026-09-19
 updated: 2026-09-19

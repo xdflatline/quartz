@@ -3,8 +3,7 @@ title: "Serverless GPU pricing models"
 
 details: "The serverless GPU market has converged on four primary billing primitives. Each maps to a different cost structure and a different set of workload patterns. Understanding the tradeoffs is the single highest-leverage decision when picking a provider."
 tags:
-  - concepts
-  - serverless
+  - concept
   - infrastructure
 created: 2026-07-24
 updated: 2026-07-24

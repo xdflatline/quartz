@@ -3,10 +3,9 @@ title: "Quickshell Documentation Bundle"
 details: "Verbatim bundle of quickshell.org public pages (homepage, about, install guide, v0.3.0→v0.3.1 changelog) retrieved 2026-08-31. Covers Quickshell's QtQuick/QML desktop-shell toolkit, its Wayland/X11 compositor integrations, and the showcase desktop configurations built on top of it (Caelestia, Illogical-Impulse, Zephyr, outfoxxed's nixnew)."
 tags:
   - raw
-  - documentation
-  - linux
-  - desktop
-  - qt
+  - knowledge-management
+  - infrastructure
+  - software-engineering
 created: 2026-08-31
 updated: 2026-08-31
 type: raw

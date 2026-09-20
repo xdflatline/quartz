@@ -2,8 +2,8 @@
 title: "Software Engineering Fundamentals — Research Index"
 details: "Research synthesis of the canonical software-engineering reading list retained by the operator (0x1d): The Pragmatic Programmer (Hunt & Thomas, 1999/2019), Domain-Driven Design (Evans, 2003), and A Philosophy of Software Design (Ousterhout, 2018), together with the Wikipedia Software Rot article (covering software entropy and broken-windows theory). The three texts converge on a single discipline — managing complexity through deliberate design — and the index organises eight extracted concepts (Software Engineering Fundamentals, Software Entropy, Deep Modules, Bounded Context, Ubiquitous Language, DDD Strategic Design, DDD Tactical Patterns, Pragmatic Programmer Tips) and four canonical entities (the three books and three authors) into a connected graph. The grill-with-docs skill is the operational layer where this body of work meets the operator's daily practice."
 tags:
+  - research
   - software-engineering
-  - survey
 created: 2026-09-18
 updated: 2026-09-18
 type: research

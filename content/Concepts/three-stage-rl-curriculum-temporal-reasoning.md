@@ -2,6 +2,7 @@
 title: "Three-Stage RL Curriculum for Temporal Reasoning"
 details: "Architecture pattern from Liu et al. (Time-R1, UIUC, arXiv:2505.13508v2, 2025-06-03) for instilling comprehensive temporal reasoning in a moderate-sized LLM via three staged phases: (1) Comprehension — RL fine-tune on pre-cutoff data across four foundational subtasks (timestamp inference, time-difference estimation, event ordering, masked time entity completion); (2) Prediction — RL fine-tune on post-cutoff data to extrapolate future events; (3) Generation — inference-only, leveraging capabilities from stages 1+2 for creative future scenario generation. The third stage requires no additional fine-tuning; skills transfer. Built on GRPO + dynamic rule-based rewards."
 tags:
+  - concept
   - llm
   - training
   - architecture-pattern

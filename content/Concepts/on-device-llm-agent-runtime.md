@@ -2,10 +2,9 @@
 title: "On-device LLM Agent Runtime"
 details: "Architectural pattern in which an LLM-driven agent loop — reasoning, tool use, memory, and execution — runs locally on resource-constrained hardware (e.g. microcontrollers) rather than as a cloud service."
 tags:
-  - concepts
+  - concept
   - agent
-  - agentic-system
-  - iot
+  - hardware
   - architecture-pattern
 created: 2026-08-14
 updated: 2026-08-14

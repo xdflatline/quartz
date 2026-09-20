@@ -4,7 +4,7 @@ details: "Architecture pattern that decouples service verification from full end
 tags:
   - concept
   - tooling
-  - ci
+  - software-engineering
 created: 2026-09-19
 updated: 2026-09-19
 type: concept

@@ -1,3 +1,9 @@
+---
+title: "Notes"
+tags:
+  - workflow
+---
+
 # Scripts — Wiki Content Ingestion
 
 This folder contains the supporting scripts for the [[wiki-content-ingestion|wiki-content-ingestion workflow]].

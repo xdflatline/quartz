@@ -2,7 +2,7 @@
 title: "Kevin Ball (KBall)"
 details: "Kevin Ball (KBall) is VP of Engineering at Mento and an independent coach for engineering leaders. He is the host of Software Engineering Daily (the most-cited podcast in this wiki for engineering-deep dives on infrastructure, AI, and systems topics). He co-founded and served as CTO for two companies, founded the San Diego JavaScript Meetup, and organises the AI in Action discussion group through Latent Space. The KBall interview style is conversational but technically deep — guests are given room to articulate the design rationale for their product, which is why SED transcripts are useful primary sources for concepts like context-as-materialized-view."
 tags:
-  - entities
+  - entity
   - agent
   - knowledge-management
 created: 2026-09-05

@@ -2,7 +2,7 @@
 title: "Role-Based LLM Delegation"
 details: "A multi-LLM orchestration pattern where, at each turn, the coordinator assigns the selected LLM not just *which* agent to invoke but also *which role* it should play. Common role sets include Thinker / Worker / Verifier (decompose, execute, validate), Planner / Executor / Critic, or any small finite set of role-specialized prompts. The role is injected as a system prompt prefix before the request is sent to the chosen LLM. The same physical model can be invoked multiple times across a trajectory in different roles, so the role set decouples the decision of *which agent* from the decision of *what kind of step is next*."
 tags:
-  - concepts
+  - concept
   - llm
   - agent
   - orchestration

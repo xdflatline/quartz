@@ -2,8 +2,8 @@
 title: "Data Modeling Philosophy — Kent (1978)"
 details: "Research synthesis of the foundational philosophy of data modeling as articulated by William Kent in Data and Reality (1978, reissued 1998). Five interrelated concepts — map vs. territory, three-worlds ontology with amorphous reality, models-as-tools, reconciliation by scope and purpose, and linguistic relativity of modelling — together form a coherent position: any data model is a partial, audience-specific, vocabulary-shaped tool whose adequacy depends on its purpose and the scope of its community."
 tags:
+  - research
   - knowledge-management
-  - survey
 created: 2026-09-13
 updated: 2026-09-13
 type: research

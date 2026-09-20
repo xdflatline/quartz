@@ -2,11 +2,9 @@
 title: "Quickshell"
 details: "QtQuick-based toolkit for building Linux desktop shells (status bars, widgets, lockscreens, display managers) configured in QML with hot reload. Integrates Wayland/X11 windowing, Hyprland/I3/Sway workspaces, Pipewire audio, BlueZ, UPower, MPRIS, StatusNotifierItem, Polkit, and greetd. Latest release v0.3.1 (2026-08-20); pre-1.0, breaking changes expected."
 tags:
-  - entities
-  - linux
-  - desktop
-  - qt
-  - widget
+  - entity
+  - infrastructure
+  - software-engineering
 created: 2026-08-31
 updated: 2026-08-31
 type: entity

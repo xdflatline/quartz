@@ -2,7 +2,7 @@
 title: "Knowledge Page as Projected View"
 details: "Architectural pattern for an agent memory system in which documents are not stored as files but rendered as a projection over processed memory. The page folder tree is a navigable shape; the underlying storage is the bank's consolidated observations and facts. Before a page is written, the memory engine has already extracted facts, deduplicated them, and reconciled contradictions — so the page reflects what holds, not what was said. Delete a page and nothing is lost; it re-projects from memory on the next refresh. Distinct from a hand-maintained wiki (which ages, accumulates contradictions, and needs human upkeep) and from raw files (which have no underlying memory engine to re-derive them)."
 tags:
-  - concepts
+  - concept
   - memory
   - agent
   - rag

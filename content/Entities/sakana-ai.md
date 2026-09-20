@@ -2,8 +2,7 @@
 title: "Sakana AI"
 details: "Tokyo-based AI research lab (founded 2023) focused on evolutionary approaches for foundation models, including model merging, evolutionary model search, and the TRINITY evolved LLM coordinator (ICLR 2026). The lab's name comes from the Japanese word for a small, evolved salmon species."
 tags:
-  - entities
-  - research-lab
+  - entity
   - llm
 sources:
   - Raw/trinity-coordinator-arxiv.md

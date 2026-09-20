@@ -2,7 +2,7 @@
 title: "Anthropic Frontier Red Team"
 details: "Anthropic's Frontier Red Team — the unit that produced \"Patterns and Problems in Emerging Multiagent Systems\" (Aug 13, 2026) and publishes the Frontier Red Team newsletter on red-teaming research findings. Focuses on studying how frontier Claude models behave in multi-agent and adversarial settings."
 tags:
-  - entities
+  - entity
 created: 2026-08-16
 updated: 2026-08-16
 type: entity

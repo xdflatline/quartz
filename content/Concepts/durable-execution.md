@@ -2,7 +2,7 @@
 title: "Durable Execution"
 details: "Crash-proof execution: a runtime abstraction that insulates application code from process, machine, and software failures by virtualizing execution across processes and machines, transparently resuming after crashes with reconstructed state. Originated and named by Temporal; the term generalizes to any platform (Temporal, Kitaru, AgentOS sleep/wake) that delivers crash-proof execution as a first-class abstraction rather than asking developers to engineer retry/state-save/resume logic themselves."
 tags:
-  - concepts
+  - concept
   - runtime
   - architecture-pattern
   - durable-execution

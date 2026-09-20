@@ -2,7 +2,7 @@
 title: "Hybrid Retrieval as Complementary Halves"
 details: "Architectural thesis for agent memory: vector search and knowledge graphs are not competing single-index solutions but complementary halves of the retrieval problem. Vector search handles paraphrase, synonyms, and fuzzy conceptual recall; knowledge graphs handle entities, multi-hop chains, contradictions, and time. A purely vector-based system fails on the bread-and-butter queries of agent memory (exact names, 'who / why,' recency); a purely graph-based system fails on cold start, extraction cost, and free-form fuzz. The production answer is hybrid: run semantic, keyword (BM25), graph, and temporal searches in parallel on every recall, fuse the rankings with reciprocal-rank fusion, and rerank survivors with a cross-encoder."
 tags:
-  - concepts
+  - concept
   - memory
   - agent
   - rag

@@ -2,9 +2,9 @@
 title: "QtQuick Reactive Binding Model"
 details: "Runtime model used by QtQuick/QML where declarative property expressions like `color: timer.invert ? \"purple\" : \"green\"` are tracked by the engine and re-evaluated automatically whenever any dependency (the `timer.invert` property) changes. Combined with signal handlers (`onTriggered: ...`) it provides a reactive UI substrate without explicit subscribe/unsubscribe code. The model is the foundation Quickshell's hot-reload iteration loop ([[Concepts/hot-reload-qml-config-iteration]]) and shell composition pattern ([[Concepts/qml-desktop-shell-composition]]) rely on."
 tags:
-  - concepts
+  - concept
   - architecture-pattern
-  - qt
+  - software-engineering
 created: 2026-08-31
 updated: 2026-08-31
 type: concept

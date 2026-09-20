@@ -2,10 +2,10 @@
 title: "Scrapbook Graph Model"
 details: "A graph data model for agent memory in which each memory unit is a 'scrapbook page' and entities (people, places, concepts, classification labels) are 'stickers' anchored to that page. Stickers do not touch each other — there are no entity-to-entity edges. Two memories connect through their shared stickers, through precomputed semantic-neighbor links between memory units, or through explicit causal edges (causes, caused_by, enables, prevents). History is preserved by adding new pages rather than rewriting edges, so contradictions (Alice worked at Acme, then Stark Industries) coexist as time-bounded facts rather than collapsing into a contradictory present-tense edge. Distinct from a traditional knowledge graph (Neo4j-style), which maps direct relationships between entities and loses history when data changes."
 tags:
-  - concepts
+  - concept
   - memory
   - agent
-  - knowledge-graph
+  - knowledge-management
   - architecture-pattern
 created: 2026-09-08
 updated: 2026-09-08

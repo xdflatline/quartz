@@ -2,7 +2,7 @@
 title: "Asymmetric Verification"
 details: "Graph engineering principle that the worker and verifier must have asymmetric objectives: the worker is rewarded for finding the strongest answer; the verifier is rewarded for finding the reason to reject it. Asymmetric verification is the design that turns more candidates into a useful selection pressure rather than noise."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
 created: 2026-09-02

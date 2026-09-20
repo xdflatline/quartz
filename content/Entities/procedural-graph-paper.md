@@ -1,7 +1,10 @@
 ---
 title: "Procedural Graphs (Lu et al. 2026) — Paper"
 details: "Research artifact entry for the arXiv paper 'Procedural Graphs: Self-Evolving Execution Structures for LLM Agents' by Yuxing Lu, Yicheng Chen, Shanchan Wu, and Sercan Ö. Arık (Google; Georgia Tech; Peking University), arXiv:2609.09153v1, posted 8 Sep 2026."
-tags: [entities, research, agent, llm, paper]
+tags:
+  - entity
+  - agent
+  - llm
 source: https://arxiv.org/html/2609.09153v1
 created: 2026-09-10
 updated: 2026-09-10

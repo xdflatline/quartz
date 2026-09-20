@@ -2,7 +2,7 @@
 title: "Dependency Test for Edges"
 details: "Graph engineering principle: for every arrow in a workflow, ask 'What exact data crosses this arrow?' If the answer is not nameable in one sentence, the edge is suspicious. Status, completion, or 'so the next agent knows it is done' are not real dependencies."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
 created: 2026-09-02

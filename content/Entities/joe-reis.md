@@ -2,6 +2,7 @@
 title: "Joe Reis"
 details: "Data engineer, author, and educator; co-author of Fundamentals of Data Engineering (O'Reilly, 2022, with Matt Housley). Publisher of the Practical Data Modeling Substack newsletter and author of the Mixed Model Arts (MMA) Manifesto (Aug 2026). Long-time proponent of pragmatic, first-principles data modeling that bridges application development, analytics, and increasingly AI-agent consumption."
 tags:
+  - entity
   - knowledge-management
 created: 2026-09-14
 updated: 2026-09-14

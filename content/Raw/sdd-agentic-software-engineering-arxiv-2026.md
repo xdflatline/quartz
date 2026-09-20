@@ -1,7 +1,11 @@
 ---
 title: "Spec-Driven Development for Agentic Software Engineering: Harnessing Human–Agent Teamwork"
 details: "Verbatim arXiv HTML rendering of Diaz et al. (2026), arXiv:2609.00252 [cs.SE], a conceptual analysis introducing Spec-Driven Development (SDD) and the technical+methodological harness as the contract substrate for human–agent teamwork in Agentic Software Engineering. All original figures (1–10) embedded with semantic local filenames; tables, math (KaTeX), and headings converted to Markdown. The paper presents (i) a socio-technical model of SDD, (ii) an operational characterization of the harness with eight worked mechanisms, and (iii) a typology of five human–agent interaction patterns, plus a research agenda."
-tags: [research, paper, arxiv, software-engineering, agentic, harness]
+tags:
+  - raw
+  - software-engineering
+  - agent
+  - harness
 created: 2026-09-13
 updated: 2026-09-13
 type: raw

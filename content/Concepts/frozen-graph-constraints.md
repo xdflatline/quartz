@@ -2,10 +2,9 @@
 title: "Frozen Graph Constraints"
 details: "Graph engineering principle: agent systems are optimization machines, so some rules must sit outside optimization as frozen constraints on the graph itself (never publish without approval, never cite a source that was not opened, never exceed the spend cap, never modify production credentials). These are not suggestions to the agent; they are constraints on the topology."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
-  - safety
 created: 2026-09-02
 updated: 2026-09-02
 type: concept

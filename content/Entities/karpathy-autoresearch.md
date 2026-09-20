@@ -3,7 +3,7 @@ title: "Karpathy autoresearch"
 
 details: "Referenced in [[Raw/lilianweng-harness-engineering-2026-07-04]] as a clean example of a workflow-automation harness: the model can operate, test, and iterate on its own work in a goal-oriented loop. The repository provides a minimal scaffold that a harness designer can fork to prototype a research-loop workflow."
 tags:
-  - entities
+  - entity
   - agent
   - harness
 created: 2026-08-07

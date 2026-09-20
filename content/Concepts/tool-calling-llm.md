@@ -3,7 +3,7 @@ title: Tool Calling in LLMs
 
 details: "Tool calling allows an LLM to:"
 tags:
-  - concepts
+  - concept
   - tooling
   - llm
 created: 2026-05-24

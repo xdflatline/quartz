@@ -1,7 +1,11 @@
 ---
 title: "Procedural Graph Representation"
 details: "A directed, attributed graph data structure that organizes procedural knowledge as (procedure, relation, procedure) triplets, with each edge carrying textual condition, guidance, and pitfalls attributes. Where a knowledge graph answers what-is questions with (entity, relation, entity), a Procedural Graph answers what-to-do questions with (procedure, relation, procedure). Nodes abstract tool actions, reasoning steps, or task statuses; edges encode admissible transitions; attributes describe when the transition fires, how to proceed, and what to avoid. The graph sits outside model weights — inspectable, retrievable per-step, editable without retraining."
-tags: [concepts, agent, llm, graph-engineering, knowledge-representation]
+tags:
+  - concept
+  - agent
+  - llm
+  - knowledge-management
 created: 2026-09-10
 updated: 2026-09-10
 type: concept

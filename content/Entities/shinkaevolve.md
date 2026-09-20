@@ -3,7 +3,7 @@ title: "ShinkaEvolve"
 
 details: "ShinkaEvolve is the sample-efficiency-focused descendant of AlphaEvolve. The three new components — parent sampling balance, code-novelty rejection, meta-scratchpad — together address the two failure modes of LLM-driven evolutionary search: clonal dominance (one parent producing all offspring) and mode collapse (population converging to a single shape)."
 tags:
-  - entities
+  - entity
   - harness
   - agent
 created: 2026-08-07

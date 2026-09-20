@@ -2,6 +2,7 @@
 title: "Modeling as a Continuous Lifecycle (MMA Belief 8)"
 details: "Eighth core belief of Joe Reis's Mixed Model Arts (MMA) Manifesto: no model is \"finished.\" Modeling is not a phase that ends at deployment; it is a continuous practice of iterating, refactoring, and evolving the model alongside the business. The model is treated as living infrastructure that must be kept aligned with reality — analogous to how code is maintained, not delivered."
 tags:
+  - concept
   - knowledge-management
   - architecture-pattern
 created: 2026-09-14

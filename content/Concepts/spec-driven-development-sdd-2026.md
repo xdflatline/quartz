@@ -1,7 +1,11 @@
 ---
 title: "Spec-Driven Development (SDD) for Agentic Software Engineering"
 details: "SDD is a discipline that reconstitutes team-scale software engineering contracts (accountability, verifiability, transferability) in specification-centric form, after vibe coding dissolves them. Introduced by Diaz et al. (arXiv:2609.00252, Aug 2026) as the conceptual and methodological foundation for operating Agentic Software Engineering (ASE) at team scale. The central claim: specifications are the authoritative referent for every human–agent interaction — briefing, reviewing, raising consultations, encoding standing norms — making recurrent collaboration definable, teachable, and measurable."
-tags: [concept, software-engineering, agentic, harness]
+tags:
+  - concept
+  - software-engineering
+  - agent
+  - harness
 created: 2026-09-13
 updated: 2026-09-13
 type: concept

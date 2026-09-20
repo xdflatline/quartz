@@ -2,8 +2,8 @@
 title: "Data and Reality — William Kent (excerpts)"
 details: "Verbatim excerpts from William Kent's 1978 book Data and Reality, republished 1998 by 1stBooks. The excerpts cover the Preface to the Second Edition, the Preface to the original edition, and Chapter 12: Philosophy (Reality and Tools, Points of View, A View of Reality). Includes review blurbs from Senko, Durcholz, Nijssen, Datamation 1979, ACM Computing Reviews 1980, Joe Celko, Robert Meersman, Roger Burkhart, Haim Kilov, and Richard Soley."
 tags:
+  - raw
   - knowledge-management
-  - documentation
 created: 2026-09-13
 updated: 2026-09-13
 type: raw

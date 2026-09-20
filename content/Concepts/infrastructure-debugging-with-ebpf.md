@@ -4,8 +4,7 @@ details: "Architecture pattern for introspecting Linux namespaces, cgroups, and 
 tags:
   - concept
   - tooling
-  - kernel
-  - kubernetes
+  - infrastructure
 created: 2026-09-19
 updated: 2026-09-19
 type: concept

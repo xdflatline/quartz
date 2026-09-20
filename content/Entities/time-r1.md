@@ -2,6 +2,7 @@
 title: "Time-R1"
 details: "Open-weight 3B-parameter LLM from UIUC's ULab (Liu, Han, Yu, Li, You; arXiv:2505.13508v2, 2025-06-03) trained with a three-stage GRPO + dynamic-reward curriculum on temporal reasoning tasks (comprehension → future prediction → creative scenario generation). Despite being 200x smaller, matches or exceeds DeepSeek-R1-671B on future event prediction (Stage 2 avg 0.7780 vs 0.7503) and on creative future scenario generation (Stage 3 AvgMaxSim 48.90% vs 48.81%). CC BY 4.0; checkpoints and Time-Bench dataset released on GitHub and Hugging Face."
 tags:
+  - entity
   - llm
   - training
   - benchmark

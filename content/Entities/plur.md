@@ -3,7 +3,7 @@ title: PLUR
 
 details: "Entities: PLUR."
 tags:
-  - entities
+  - entity
   - agent
   - memory
 created: 2026-05-21

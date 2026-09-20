@@ -2,6 +2,7 @@
 title: "Time as a First-Class Modeling Axis (MMA Belief 4)"
 details: "Fourth core belief of Joe Reis's Mixed Model Arts (MMA) Manifesto: time is non-negotiable in data modeling. State is treated as an illusion; change is the reality. If a model cannot answer \"when\" and \"in what order\" for a fact, it cannot answer \"why.\" Time must be modeled explicitly — through event time, valid time, slowly changing dimensions, bitemporal tables, or equivalent constructs — rather than left implicit in a current-state snapshot."
 tags:
+  - concept
   - knowledge-management
   - architecture-pattern
 created: 2026-09-14

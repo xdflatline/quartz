@@ -2,7 +2,7 @@
 title: "Time-R1 — Liu et al. (2025)"
 details: "Three-stage RL curriculum (comprehension → future prediction → creative generation) trains a 3B LLM to outperform DeepSeek-R1-671B on future event prediction (0.7780 vs 0.7503) and on creative scenario generation (48.90% vs 48.81% AvgMaxSim). Built on Qwen2.5-3B-Instruct using GRPO with a dynamic, rule-based reward system. Releases Time-Bench dataset and model checkpoints. Liu, Han, Yu, Li, You (UIUC), arXiv:2505.13508v2, 2025-06-03."
 tags:
-  - research
+  - paper
 source: "https://arxiv.org/abs/2505.13508v2"
 authors:
   - "Zijia Liu"

@@ -5,7 +5,6 @@ details: "Research synthesis of The Node AI's (Patrick) full walkthrough of his 
 tags:
   - research
   - knowledge-management
-  - wiki
 created: 2026-07-25
 updated: 2026-07-25
 type: research

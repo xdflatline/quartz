@@ -2,7 +2,7 @@
 title: "Order vs Dependency"
 details: "Graph engineering principle that confuses order with dependency, the most common waste in a multi-agent workflow. The diagnostic question is not 'what comes next?' but 'what information must exist before this can start?' Fake dependencies are exposed immediately by that question."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
 created: 2026-09-02

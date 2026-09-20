@@ -3,7 +3,7 @@ title: "Corne Mechanical Split Keyboard Owner's Manual"
 details: "Owner's manual for the Eyelash Corne / Sofle mechanical split keyboard sold via manuals.plus, covering ZMK firmware on nrf52840, charging/pairing/reset procedures, the full ZMK keycode reference (Bluetooth profiles, RGB, channel selection, state control, tap-dance, layer-tap thumbs, EC11 knob, joystick), hardware specs (batteries, screws, switches, LEDs), and the seller-specific GitHub firmware repositories."
 tags:
   - raw
-  - documentation
+  - knowledge-management
   - hardware
 source: https://manuals.plus/corne/mechanical-split-keyboard-manual
 created: 2026-08-20

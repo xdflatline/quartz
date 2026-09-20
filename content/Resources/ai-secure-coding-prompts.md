@@ -1,7 +1,8 @@
 ---
 title: AI Secure Coding Prompts
 details: A collection of secure coding prompts for AI assistants.
-tags: [resources]
+tags:
+  - resource
 created: 2026-06-24
 updated: 2026-06-24
 type: Resource

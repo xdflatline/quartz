@@ -2,7 +2,7 @@
 title: "When Not to Graph"
 details: "Graph engineering principle: graphs are powerful enough that people overuse them. Use a single agent when the task is small, steps are genuinely sequential, you are still exploring the problem, the cost of coordination exceeds the work, you need one coherent perspective, or the human wants to steer every step. A graph buys width, isolation, and control flow — not taste or truth."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
 created: 2026-09-02

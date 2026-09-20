@@ -2,6 +2,7 @@
 title: "Ontology + LLM agentic loop for data modernization"
 details: "A six-step agentic workflow for enterprise data modernization that pairs per-source ontologies with LLM-driven semantic analysis. The loop builds a reconciled, version-controlled semantic baseline and continuously classifies context gaps against new use cases."
 tags:
+  - concept
   - llm
   - agent
   - knowledge-management

@@ -3,7 +3,7 @@ title: "Firecracker MicroVMs"
 details: "AWS-developed VMM that boots lightweight microVMs in under 125 ms with a minimal device model and a hardened threat surface — the canonical isolation primitive for sandboxes that execute LLM-generated code, where the threat model is the model itself rather than a co-tenant workload."
 tags:
   - entity
-  - tool
+  - tooling
   - runtime
 created: 2026-09-19
 updated: 2026-09-19

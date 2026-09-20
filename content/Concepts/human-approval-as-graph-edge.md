@@ -2,10 +2,9 @@
 title: "Human Approval as a Graph Edge"
 details: "Graph engineering principle that human approval is a graph edge, not a node. The publishing/irreversible node should be unreachable until approval exists in the graph, not 'instructed in the prompt' or 'usually waited for.' The stronger the consequence, the more approval belongs in architecture, not in wording."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
-  - human-in-the-loop
 created: 2026-09-02
 updated: 2026-09-02
 type: concept

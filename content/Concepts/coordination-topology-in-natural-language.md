@@ -1,7 +1,12 @@
 ---
 title: "Coordination Topology in Natural Language (Python-List Output Format)"
 details: "Output format introduced in Sakana AI's Conductor (Nielsen et al., arXiv:2512.04388, 2026): an agentic workflow is encoded as three parallel Python lists — model_id, subtasks, access_list — that the orchestrator emits after its chain-of-thought. This format makes coordination strategies trivially parseable, executable, and verifiable, enabling end-to-end RL training of the orchestrator. The same format generalises to recursive and randomised-pool extensions."
-tags: [concepts, llm, agent, orchestration, prompt-engineering]
+tags:
+  - concept
+  - llm
+  - agent
+  - orchestration
+  - prompt-engineering
 sources:
   - Papers/conductor-rl-orchestrator.md
   - Raw/conductor-rl-orchestrator-arxiv.md

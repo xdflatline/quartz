@@ -3,7 +3,7 @@ title: "MLE-bench"
 
 details: "Uses Kaggle public leaderboards as human baselines. Best setup in the paper: o1-preview with AIDE scaffolding reached at least Kaggle bronze-medal level in 16.9% of competitions. Includes resource-scaling and contamination analyses."
 tags:
-  - entities
+  - entity
   - benchmark
   - agent
 created: 2026-08-07

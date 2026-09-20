@@ -3,7 +3,7 @@ title: "CORE-Bench"
 
 details: "Tasks involve reproducing results from provided code and data. Best reported agent at the time (GPT-4o and GPT-4o-mini) achieved only 21% accuracy on the hardest task. The benchmark targets the reproducibility crisis in published research as a measurable capability."
 tags:
-  - entities
+  - entity
   - benchmark
   - evaluation
 created: 2026-08-07

@@ -2,6 +2,7 @@
 title: "William Kent"
 details: "American database researcher and author of the foundational 1978 book Data and Reality, in which he argued that data models are tools — not theories — and that any formal model is an approximation of a reality that is itself amorphous and view-dependent. His work prefigured object-orientation and remains a touchstone for data-modeling philosophy."
 tags:
+  - entity
   - knowledge-management
 created: 2026-09-13
 updated: 2026-09-13

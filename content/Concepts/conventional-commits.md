@@ -3,7 +3,7 @@ title: Conventional Commits
 
 details: Conventional Commits is a specification for adding human and machine readable change history to the commit message.
 tags:
-  - concepts
+  - concept
 created: 2026-06-17
 updated: 2026-06-17
 type: concept

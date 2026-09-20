@@ -1,7 +1,10 @@
 ---
 title: "Rejection Memory as Negative Constraint"
 details: "Safeguard mechanism in the Procedural Graph self-evolution loop. When a candidate edit fails the validation gate, the rejected candidate (its edit set, proposed graph, training traces, and validation outcome) is appended to a rejection history $\\mathcal{H}_{\\text{rejected}}$. Subsequent rounds' refiners receive $\\mathcal{H}_{\\text{rejected}}$ as negative evidence so they avoid re-proposing unsuccessful edits. Without rejection memory, iterative self-correction can repeatedly propose equivalent unsuccessful edits; the memory breaks the cycle."
-tags: [concepts, agent, llm, self-improving-agents, feedback-loop]
+tags:
+  - concept
+  - agent
+  - llm
 created: 2026-09-10
 updated: 2026-09-10
 type: concept

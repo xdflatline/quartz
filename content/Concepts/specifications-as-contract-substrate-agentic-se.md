@@ -1,7 +1,11 @@
 ---
 title: "Specifications as Contract Substrate for Agentic SE"
 details: "A specification in SDD is the authoritative referent for every human–agent interaction: briefing, reviewing, raising consultations, encoding standing norms. The substrate replaces the chat history that vibe coding leaves behind, restoring accountability (you can cite a clause), verifiability (output can be audited against a clause), and transferability (a new team member or agent can read the contract). Without the substrate, none of these interactions has a referent; with it, they become definable, teachable, and measurable."
-tags: [concept, software-engineering, agentic, harness, specification]
+tags:
+  - concept
+  - software-engineering
+  - agent
+  - harness
 created: 2026-09-13
 updated: 2026-09-13
 type: concept

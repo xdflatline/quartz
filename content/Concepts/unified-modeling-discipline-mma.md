@@ -2,6 +2,7 @@
 title: "Unified Modeling Discipline (MMA Belief 1)"
 details: "First core belief of Joe Reis's Mixed Model Arts (MMA) Manifesto: data modeling is a single continuous discipline, not two (application vs. analytics, OLTP vs. OLAP). The same fundamentals — entities, relationships, identity, grain, time, semantics — apply across contexts; the differences are implementation details, not different physics. Direct rebuttal of Kimball vs. Inmon, normalized vs. denormalized, and app-vs-warehouse silos."
 tags:
+  - concept
   - knowledge-management
   - architecture-pattern
 created: 2026-09-14

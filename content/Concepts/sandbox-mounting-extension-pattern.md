@@ -3,7 +3,7 @@ title: "Sandbox Mounting Extension Pattern"
 
 details: "AgentOS hybrid model: agents run in the lightweight in-process VM by default (fast, granular permissions, host bindings) and spin up a full sandbox (E2B, Daytona, Modal, Cloudflare, Vercel, ComputeSDK, Sprites, Local, Docker) on demand for workloads that need a real Linux kernel. The sandbox filesystem is mounted into the VM as a native directory, and the agent reads/writes it the same way it reads local files. Process management is exposed via host bindings. 9 providers supported, all in Beta as of v0.2.7."
 tags:
-  - concepts
+  - concept
   - runtime
   - agent
 created: 2026-07-19

@@ -4,7 +4,6 @@ details: "ZMK's 'tap-dance' behavior collapses multiple distinct actions (short 
 tags:
   - concept
   - hardware
-  - firmware
 created: 2026-08-20
 updated: 2026-08-20
 type: concept

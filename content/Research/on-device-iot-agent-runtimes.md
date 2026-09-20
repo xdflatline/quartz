@@ -4,8 +4,7 @@ details: "Cross-cutting synthesis of the emerging family of LLM agent frameworks
 tags:
   - research
   - agent
-  - agentic-system
-  - iot
+  - hardware
   - architecture-pattern
 created: 2026-08-14
 updated: 2026-08-14

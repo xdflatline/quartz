@@ -2,6 +2,7 @@
 title: "Data Model as Tool, Not Theory"
 details: "William Kent's argument that data models should be evaluated as tools — useful, incomplete, economic, orthogonal to problems — rather than as theories that aim at completeness and distinction. The implication is that users adapt to tools (a conditioning of perception), not the reverse, and that requiring a tool to fit the mould of any theory is a category mistake."
 tags:
+  - concept
   - knowledge-management
   - architecture-pattern
 created: 2026-09-13

@@ -2,8 +2,8 @@
 title: "The Pragmatic Programmer (Hunt & Thomas)"
 details: "The Pragmatic Programmer: From Journeyman to Master, by Andrew Hunt and David Thomas (Addison Wesley, 1999; 20th-anniversary edition 2019). A canonical software-engineering text whose Quick Reference of 70 tips forms the daily-practice half of the operator's named software-engineering fundamentals. The book covers a pragmatic philosophy (care, responsibility, broken windows), a pragmatic approach (DRY, orthogonality, tracer bullets, domain languages), basic tools (plain text, shells, source control), pragmatic paranoia (design by contract), and pragmatic projects (teams, automation, ruthless testing). Often shelved alongside Evans's Domain-Driven Design and Ousterhout's A Philosophy of Software Design as part of the practitioner canon."
 tags:
+  - entity
   - software-engineering
-  - reference
 created: 2026-09-18
 updated: 2026-09-18
 type: entity

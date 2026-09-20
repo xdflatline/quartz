@@ -2,7 +2,7 @@
 title: "Graph Engineering"
 details: "Discipline of designing the topology of multi-agent systems — nodes, dependencies, parallel branches, reducers, verification gates, loops, failure domains, and human checkpoints — rather than just chaining agents together. Prompts optimize nodes; graph engineering optimizes the system around them."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
   - multi-agent

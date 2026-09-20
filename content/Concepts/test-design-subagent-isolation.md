@@ -4,7 +4,7 @@ details: "Architectural choice to (a) exclude test files from PR size limits so 
 tags:
   - concept
   - agent
-  - testing
+  - software-engineering
 created: 2026-08-17
 updated: 2026-08-17
 type: concept

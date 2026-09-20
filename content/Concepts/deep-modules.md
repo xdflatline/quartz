@@ -2,8 +2,8 @@
 title: "Deep Modules (Ousterhout)"
 details: "A module design principle from John Ousterhout's A Philosophy of Software Design (2018): the best modules provide powerful functionality behind a simple interface, hiding substantial complexity from the caller. A deep module contrasts with a shallow module, which exposes a complex interface relative to the functionality it provides. The Unix file I/O API (open/read/write/seek/close) is the canonical example of a deep module; a one-line wrapper around a one-line function is the canonical example of a shallow one. The principle is one of the operator's named software-engineering fundamentals."
 tags:
+  - concept
   - software-engineering
-  - philosophy
   - architecture-pattern
 created: 2026-09-18
 updated: 2026-09-18

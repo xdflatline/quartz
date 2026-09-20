@@ -3,7 +3,7 @@ title: "Project: Quartz Digital Garden"
 
 details: Building a digital garden with Quartz static site generator
 tags:
-  - projects
+  - project
 created: 2026-06-15
 updated: 2026-06-17
 type: project

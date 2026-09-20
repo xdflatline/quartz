@@ -2,10 +2,10 @@
 title: "Graph Spec Template"
 details: "Graph engineering template for describing a multi-agent system before writing code: GOAL, INPUT STATE, PARALLEL WORK, EDGE DATA, REDUCER, VERIFICATION, FAILURE POLICY, BUDGET, HUMAN GATE, OUTPUT. The spec is more valuable than twenty prompts because prompts optimize nodes; the spec optimizes the system."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
-  - protocol
+  - software-engineering
 created: 2026-09-02
 updated: 2026-09-02
 type: concept

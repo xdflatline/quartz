@@ -2,9 +2,8 @@
 title: "Caelestia"
 details: "Showcase Hyprland + Quickshell desktop rice by Soramane (caelestia-dots). Listed on quickshell.org as the example preconfigured desktop. Repository caelestia-dots/shell on GitHub. Tagline target for users who want a working Quickshell environment without writing QML themselves."
 tags:
-  - entities
-  - linux
-  - desktop
+  - entity
+  - infrastructure
 created: 2026-08-31
 updated: 2026-08-31
 type: entity

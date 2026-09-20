@@ -3,7 +3,7 @@ title: "PaperBench"
 
 details: "The hardest known coding-agent benchmark as of 2026. Best model at the time (Claude 3.5 Sonnet, ~21%) does not outperform ML PhDs. Each replication task is decomposed into smaller, individually gradable sub-tasks. Includes PaperBench, PaperBench Code-Dev (lighter version), and JudgeEval."
 tags:
-  - entities
+  - entity
   - benchmark
   - evaluation
 created: 2026-08-07

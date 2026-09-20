@@ -3,7 +3,7 @@ title: "ACE paper (Agentic Context Engineering)"
 
 details: "Foundational paper for the [[Concepts/context-as-evolving-playbook]] concept. Published at ICLR 2026. The key design choice — the curator outputs structured bullets merged with deterministic logic, NOT a full prompt blob — is what prevents context collapse and brevity bias during iterative rewrites."
 tags:
-  - entities
+  - entity
   - context-engineering
   - harness
 created: 2026-08-07

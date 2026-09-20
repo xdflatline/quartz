@@ -3,8 +3,7 @@ title: "Sourcegraph SCIP and LSIF"
 details: "Binary index formats — SCIP (Structured Code Intelligence Protocol) and its predecessor LSIF — used by Sourcegraph and other repository intelligence platforms to persist out-of-core semantic code graphs that support cross-repository find-references, migration tracking, and symbol impact analysis."
 tags:
   - entity
-  - tool
-  - format
+  - tooling
 created: 2026-09-19
 updated: 2026-09-19
 type: entity

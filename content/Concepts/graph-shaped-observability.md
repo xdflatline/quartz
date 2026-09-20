@@ -2,7 +2,7 @@
 title: "Graph-Shaped Observability"
 details: "Graph engineering principle that a chat transcript is a terrible dashboard for a distributed system. Once a workflow is graph-shaped, the metrics must be graph-shaped too: critical-path latency, node failure rate, retry rate, verifier kill rate, fan-out efficiency, compression ratio, human intervention rate."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
   - observability

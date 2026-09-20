@@ -2,6 +2,7 @@
 title: "UIUC ULab"
 details: "Research group at the University of Illinois at Urbana-Champaign led by Jiaxuan You, focused on LLM reasoning, agentic systems, graph learning, and data mining. Notable outputs include Time-R1 (2025), a 3B-parameter LLM trained for comprehensive temporal reasoning via a three-stage GRPO + dynamic-reward curriculum that outperforms models 200x its size on future event prediction and creative scenario generation. Code, models, and the Time-Bench dataset are released openly under CC BY 4.0."
 tags:
+  - entity
   - knowledge-management
 created: 2026-09-14
 updated: 2026-09-14

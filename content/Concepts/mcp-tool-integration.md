@@ -2,10 +2,9 @@
 title: "MCP Tool Integration"
 details: "Use of the Model Context Protocol (MCP) as the standard tool-integration surface for an LLM agent, including tool discovery, tool calling, and resource access from both server and client roles."
 tags:
-  - concepts
-  - mcp
+  - concept
+  - software-engineering
   - agent
-  - protocol
 created: 2026-08-14
 updated: 2026-08-14
 type: concept

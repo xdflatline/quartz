@@ -2,7 +2,7 @@
 title: "Sonnet 5"
 details: "Anthropic Claude Sonnet 5 — the most recent model evaluated in the Anthropic Frontier Red Team's multi-agent study (Aug 2026). The only model that maintained both high PR merge fraction AND high code sharing in the fantasy game-building experiment — coordinating effectively without siloing."
 tags:
-  - entities
+  - entity
   - llm
 created: 2026-08-16
 updated: 2026-08-16

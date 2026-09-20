@@ -3,7 +3,7 @@ title: AI Agents
 
 details: AI agents are systems that use LLMs as reasoning engines to plan, execute, and iterate on tasks autonomously. The AI agent ecosystem expanded rapid...
 tags:
-  - concepts
+  - concept
   - agent
 created: 2026-05-19
 updated: 2026-05-20

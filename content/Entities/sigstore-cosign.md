@@ -3,7 +3,7 @@ title: "Sigstore and Cosign"
 details: "Cryptographic signing stack for software supply-chain integrity — Cosign signs container images and artifacts with short-lived keys tied to OIDC identity, and the Rekor transparency log records every signature for public auditability, together underpinning SLSA provenance and admission-controller verification."
 tags:
   - entity
-  - tool
+  - tooling
   - cybersecurity
 created: 2026-09-19
 updated: 2026-09-19

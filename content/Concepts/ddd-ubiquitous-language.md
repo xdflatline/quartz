@@ -2,6 +2,7 @@
 title: "Ubiquitous Language (DDD)"
 details: "A central pattern in Domain-Driven Design (Eric Evans, 2003): the practice of building up a common, rigorous language between developers and domain experts, based on the domain model and used in conversations, in code, in tests, and in documentation. The language must be rigorous because software does not cope well with ambiguity, and it must evolve as the team's understanding of the domain grows. The pattern is the daily-practice expression of the bounded-context principle: a single, shared vocabulary inside a context that gives the code and the conversation a common ground."
 tags:
+  - concept
   - software-engineering
   - knowledge-management
 created: 2026-09-18

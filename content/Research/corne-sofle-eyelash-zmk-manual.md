@@ -4,7 +4,6 @@ details: "Cross-linked synthesis of the Manuals+ Corne Mechanical Split Keyboard
 tags:
   - research
   - hardware
-  - firmware
 created: 2026-08-20
 updated: 2026-08-20
 type: research

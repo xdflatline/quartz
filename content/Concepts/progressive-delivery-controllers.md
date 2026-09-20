@@ -4,7 +4,7 @@ details: "Architecture pattern that decouples deployment from release by orchest
 tags:
   - concept
   - tooling
-  - kubernetes
+  - infrastructure
 created: 2026-09-19
 updated: 2026-09-19
 type: concept

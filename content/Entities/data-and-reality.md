@@ -2,6 +2,7 @@
 title: "Data and Reality (book)"
 details: "Foundational 1978 book by William Kent on the philosophical problems of describing reality in data models. Originally published by North Holland; republished by 1stBooks in 1998 with a new preface. Endorsed by Mike Senko, Reiner Durcholz, G.M. Nijssen, Datamation, ACM Computing Reviews, Joe Celko, Robert Meersman, Roger Burkhart, Haim Kilov, and Richard Soley."
 tags:
+  - entity
   - knowledge-management
 created: 2026-09-13
 updated: 2026-09-13

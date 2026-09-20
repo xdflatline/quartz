@@ -2,9 +2,9 @@
 title: "Agent Low-Variance Conformity"
 details: "Failure mode where many LLM agents facing the same situation take the same action, because their context, scaffolding, and underlying model are similar. Identical branch names, identical first drafts, simultaneous defection. Counter-intuitively the primary driver of multi-agent systemic collapse, not inter-agent disagreement."
 tags:
-  - concepts
+  - concept
   - multi-agent
-  - agentic-system
+  - agent
 created: 2026-08-16
 updated: 2026-08-16
 type: concept

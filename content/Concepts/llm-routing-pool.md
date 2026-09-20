@@ -2,10 +2,9 @@
 title: "LLM Routing Pool"
 details: "An orchestration pattern where a single router (typically a learned classifier or a small LLM) selects one model from a pool of heterogeneous LLMs to handle a query. Routing is one-shot per query: the same query is sent to one model, the response is returned, and the loop ends. The simplest case is cost/quality routing (cheap model for easy queries, expensive model for hard ones). The pattern is the one-shot ancestor of the multi-turn, multi-role evolved coordinator."
 tags:
-  - concepts
+  - concept
   - llm
   - orchestration
-  - routing
 sources:
   - Raw/trinity-coordinator-arxiv.md
   - Papers/trinity-evolved-llm-coordinator.md

@@ -2,7 +2,7 @@
 title: "ArangoDB"
 details: "ArangoDB is a native multi-model database (graph, document, and key-value in one engine) where [[Entities/joerg-schad]] was CTO before joining Pinecone. Notable in this wiki because ArangoDB was an early site of GraphRAG work — graph-based retrieval predating the current wave of GraphRAG papers by several years — and because ArangoDB also built its own in-house vector store, foreshadowing today's graph+vector hybrid designs now codified by Pinecone Nexus. Useful prior art when assessing [[Concepts/multi-modal-context-composition]] (graph + vector + structured in one container)."
 tags:
-  - entities
+  - entity
   - rag
   - knowledge-management
 created: 2026-09-05

@@ -4,9 +4,8 @@ details: "Espressif's C-implemented Chat Coding AI agent framework for ESP32-ser
 tags:
   - entity
   - agent
-  - agentic-system
-  - iot
-  - open-source
+  - hardware
+  - software-engineering
 created: 2026-08-14
 updated: 2026-08-14
 type: entity

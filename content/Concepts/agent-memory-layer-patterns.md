@@ -3,7 +3,7 @@ title: Agent Memory Layer Patterns
 
 details: Current methods (prompts, rules files) are insufficient for long-term AI agent development. A persistent, structured memory layer is needed that su...
 tags:
-  - concepts
+  - concept
   - memory
   - agent
 created: 2026-06-17

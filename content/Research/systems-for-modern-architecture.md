@@ -3,7 +3,6 @@ title: "Research Index: Systems for Modern Architecture"
 details: "Synthesis of ten categories of developer tooling that operate across distributed runtime boundaries — distributed tracing, contract testing, repository intelligence, eBPF infrastructure debugging, database observability, FinOps, supply-chain security, load testing, progressive delivery, and AI-agent sandboxes — with their canonical implementations and the patterns they express."
 tags:
   - research
-  - survey
   - architecture-pattern
   - tooling
 created: 2026-09-19

@@ -3,7 +3,7 @@ title: "Continual Harness paper"
 
 details: "Continual Harness is a narrower and cleaner SIA-like experiment: a single task domain (long-horizon gameplay), a single model, but with cleaner attribution. The setup demonstrates that harness updates and weight updates can co-exist in a stable loop when the task is well-scoped."
 tags:
-  - entities
+  - entity
   - harness
   - agent
 created: 2026-08-07

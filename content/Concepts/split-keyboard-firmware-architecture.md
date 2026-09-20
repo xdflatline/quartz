@@ -4,7 +4,6 @@ details: "Architecture of open-source wireless split-keyboard firmware as exempl
 tags:
   - concept
   - hardware
-  - firmware
 created: 2026-08-20
 updated: 2026-08-20
 type: concept

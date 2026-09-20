@@ -3,9 +3,9 @@ title: Runtime
 
 details: "Entities: Runtime."
 tags:
-  - entities
+  - entity
   - runtime
-  - coding-agent
+  - agent
 created: 2026-05-22
 updated: 2026-05-22
 type: entity

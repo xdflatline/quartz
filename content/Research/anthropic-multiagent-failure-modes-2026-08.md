@@ -4,7 +4,7 @@ details: "Synthesis of the Anthropic Frontier Red Team's August 2026 study of ho
 tags:
   - research
   - multi-agent
-  - agentic-system
+  - agent
 created: 2026-08-16
 updated: 2026-08-16
 type: research

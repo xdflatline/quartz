@@ -2,7 +2,7 @@
 title: "Evolved LLM Coordinator"
 details: "A coordination architecture where a small language model (an SLM, ~0.6B parameters) acts as the control surface for orchestrating a pool of larger, heterogeneous LLMs over multi-turn interactions. The SLM is paired with a tiny linear head (~10K parameters) that emits two logits (agent selection and role assignment). The head is trained with a derivative-free optimizer (separable CMA-ES) rather than gradient-based RL, on the reward signal of the closed-loop multi-turn trajectories. The resulting policy is *evolved* in the ES sense, not gradient-descented."
 tags:
-  - concepts
+  - concept
   - llm
   - agent
   - orchestration

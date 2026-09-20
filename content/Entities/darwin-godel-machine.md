@@ -3,7 +3,7 @@ title: "Darwin Gödel Machine (DGM)"
 
 details: "DGM is harness evolution under a fixed model. The parent-selection rule — probability ∝ performance / (1 + number_of_children) — is the single design choice that keeps the population diverse. In experiments with Claude 3.5 Sonnet, DGM-discovered agents reach SWE-bench Verified 20% → 50% and Polyglot 14.2% → 30.7% from a simple initial harness."
 tags:
-  - entities
+  - entity
   - harness
   - agent
 created: 2026-08-07

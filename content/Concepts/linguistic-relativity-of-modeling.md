@@ -2,6 +2,7 @@
 title: "Linguistic Relativity of Modelling"
 details: "William Kent's application of the Sapir-Whorf hypothesis to data modeling: the vocabulary of a language (including any modelling vocabulary) actively shapes which phenomena are perceived as singular entities or relationships. Languages with more nouns or more verbs for a phenomenon produce models that treat it as discrete; the absence of a word renders the thought diffuse."
 tags:
+  - concept
   - knowledge-management
   - architecture-pattern
 created: 2026-09-13

@@ -3,7 +3,7 @@ title: "ThetaEvolve"
 
 details: "ThetaEvolve extends the [[Concepts/evolutionary-search-for-harnesses]] family by adding an RL signal on top of pure selection and in-context learning as a third update mechanism. Designed for test-time learning on open problems where the search space is large and the reward is sparse."
 tags:
-  - entities
+  - entity
   - harness
   - agent
 created: 2026-08-07

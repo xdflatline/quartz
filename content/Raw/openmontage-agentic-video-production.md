@@ -5,7 +5,6 @@ details: "Verbatim summary of the OpenMontage repository, captured 2026-07-02. C
 tags:
   - raw
   - agent
-  - github-readme
 created: 2026-07-02
 updated: 2026-07-02
 type: raw

@@ -1,7 +1,11 @@
 ---
 title: "Learning to Orchestrate Agents in Natural Language with the Conductor"
 details: "Verbatim extraction of the arXiv HTML rendering for the Sakana AI Conductor paper (arXiv:2512.04388v5). Preserves the full paper body, all 11 figures (PNG + SVG), LaTeX math as inline KaTeX, section structure, and figure captions with bold lead-ins. Author block was cut before the Abstract and replaced with a hand-written metadata header below."
-tags: [raw, research, paper, llm, agent, orchestration]
+tags:
+  - raw
+  - llm
+  - agent
+  - orchestration
 source: https://arxiv.org/html/2512.04388v5
 authors: ["Stefan Nielsen", "Edoardo Cetin", "Peter Schwendeman", "Qi Sun", "Jinglue Xu", "Yujin Tang"]
 venue: "arXiv:2512.04388v5, 2026"

@@ -5,8 +5,7 @@ details: This thread discusses the implementation of persistent memory layers fo
 tags:
   - raw
   - memory
-  - coding-agent
-  - hn-discussion
+  - agent
 created: 2026-06-13
 updated: 2026-06-13
 type: raw

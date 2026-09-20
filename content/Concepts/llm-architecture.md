@@ -3,7 +3,7 @@ title: LLM Architecture
 
 details: Large Language Models (LLMs) are deep learning models based primarily on the transformer architecture, trained on massive text corpora to predict a...
 tags:
-  - concepts
+  - concept
   - llm
 created: 2026-05-19
 updated: 2026-05-19

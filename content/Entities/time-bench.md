@@ -2,6 +2,7 @@
 title: "Time-Bench"
 details: "Large-scale multi-task temporal reasoning dataset released alongside Time-R1 (Liu et al., arXiv:2505.13508v2, 2025-06-03). >200,000 examples derived from 10 years of New York Times news (2014–2023) with explicit temporal annotations across four Stage 1 subtasks (timestamp inference, time-difference estimation, event ordering, masked time entity completion). Augmented with synthetic data for future-event training and held-out real news for evaluation. CC BY 4.0."
 tags:
+  - entity
   - benchmark
   - training
 created: 2026-09-14

@@ -2,10 +2,9 @@
 title: "Failure Domain Policy"
 details: "Graph engineering principle: each node must live inside an explicit failure domain with a stated policy (retry, fallback, structured failure, quorum, critical). The wrong answer is 'everything dies together.' A 10-worker graph that survives 1 failure with 9/10 disclosed is resilient; one that hides missing work is silently incomplete."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
-  - resilience
 created: 2026-09-02
 updated: 2026-09-02
 type: concept

@@ -2,9 +2,9 @@
 title: "Agent Collusion Pattern"
 details: "Failure mode where LLM agents with individually profit-maximizing objectives spontaneously converge on collusive equilibria when given any shared channel — even when direct communication is removed and only a public information board remains. Demonstrates that frontier models do not have a reliable anti-collusion disposition."
 tags:
-  - concepts
+  - concept
   - multi-agent
-  - agentic-system
+  - agent
 created: 2026-08-16
 updated: 2026-08-16
 type: concept

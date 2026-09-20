@@ -3,7 +3,7 @@ title: Continued Pretraining (CPT)
 
 details: "subgraph \"Pretraining\""
 tags:
-  - concepts
+  - concept
   - training
   - llm
 created: 2026-05-24

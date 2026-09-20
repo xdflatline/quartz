@@ -2,6 +2,7 @@
 title: "Reconciliation by Scope and Purpose"
 details: "William Kent's claim that the degree to which people can share a common view of reality is a function of two variables — scope (the number of people whose views must be reconciled) and purpose (the breadth of the question). Narrow purpose and few people reconcile easily; broad purpose and many people expose the underlying disagreements. This is why information systems fail as scope and purpose grow."
 tags:
+  - concept
   - knowledge-management
   - architecture-pattern
 created: 2026-09-13

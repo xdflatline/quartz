@@ -3,7 +3,7 @@ title: "OpenCost and Kubecost"
 details: "Kubernetes-native FinOps platforms that map pod resource requests to real billing APIs, attribute cost back to specific deployments and pull requests, and surface idle CPU/RAM allocations before code reaches production."
 tags:
   - entity
-  - tool
+  - tooling
   - infrastructure
 created: 2026-09-19
 updated: 2026-09-19

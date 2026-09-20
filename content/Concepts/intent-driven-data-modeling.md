@@ -2,6 +2,7 @@
 title: "Intent-Driven Data Modeling (MMA Belief 3)"
 details: "Third core belief of Joe Reis's Mixed Model Arts (MMA) Manifesto: data models must explicitly encode the model's purpose, distinguishing Operational Intent (how the business acts — write paths, transactions, workflows) from Analytical Intent (how the business learns — read paths, aggregates, ML features). A model without declared intent is technical debt in waiting; intent dictates grain, freshness, identity, and acceptable trade-offs."
 tags:
+  - concept
   - knowledge-management
   - architecture-pattern
 created: 2026-09-14

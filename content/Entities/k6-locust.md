@@ -3,8 +3,8 @@ title: "k6 and Locust"
 details: "Open-source load-testing tools — k6 (Grafana Labs, JavaScript-authored scenarios) and Locust (Python-authored scenarios) — that run distributed load generator agents across availability zones to saturate network interfaces and expose concurrency-bound failure modes such as connection-pool exhaustion, tail-latency amplification, and memory leaks."
 tags:
   - entity
-  - tool
-  - testing
+  - tooling
+  - software-engineering
 created: 2026-09-19
 updated: 2026-09-19
 type: entity

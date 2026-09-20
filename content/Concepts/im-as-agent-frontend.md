@@ -2,10 +2,9 @@
 title: "IM as Agent Frontend"
 details: "Architectural pattern in which instant-messaging platforms (Telegram, QQ, Feishu, WeChat, etc.) serve as the primary user-facing control plane for an on-device LLM agent, replacing custom apps or web UIs."
 tags:
-  - concepts
+  - concept
   - agent
-  - iot
-  - ux
+  - hardware
   - architecture-pattern
 created: 2026-08-14
 updated: 2026-08-14

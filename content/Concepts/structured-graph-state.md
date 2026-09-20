@@ -2,10 +2,10 @@
 title: "Structured Graph State"
 details: "Graph engineering principle that nodes must exchange explicit typed state objects, not chat transcripts. Structured state gives replaceability (swap workers without rewriting downstream), inspectability (see exactly what entered/left a node), and determinism around the model (fuzzy inside, strict at the interface)."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
-  - schema
+  - software-engineering
 created: 2026-09-02
 updated: 2026-09-02
 type: concept

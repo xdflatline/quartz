@@ -2,7 +2,7 @@
 title: "The Orchestrator's Tax"
 details: "A framing for the real cost of multi-agent work, coined by Rahul Garg (Thoughtworks, 2026): the orchestrator's working memory, not tokens, is the scarce resource. A token bill is paid once; context pollution taxes every later turn in the session. The post proposes four standing rules (encoded in CLAUDE.md) to keep the orchestrator's context clean: prefer 2-4 agents per wave, do not poll background agents for status, do not allow repo-wide git operations inside concurrent prompts, and treat overlapping file ownership as a consolidation signal."
 tags:
-  - concepts
+  - concept
   - orchestration
   - context-engineering
   - multi-agent

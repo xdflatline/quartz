@@ -2,8 +2,8 @@
 title: "A Philosophy of Software Design (John Ousterhout)"
 details: "A Philosophy of Software Design, by John Ousterhout (Self-published, 2018). A concise software-design textbook whose central thesis is that software design's primary purpose is to manage complexity, which manifests in three ways: change amplification (a simple change touches many places), cognitive load (the developer must know many things to make a change), and unknown unknowns (the developer does not know what they do not know). The book's most-cited contribution is the deep-modules principle: the best modules provide powerful functionality behind a simple interface. The book also covers strategic vs. tactical programming, design-it-twice, pull-complexity-downwards, naming, comments, consistency, and the failure modes of implementation inheritance. The book is one of three the operator has named as the canonical software-engineering reading list, alongside The Pragmatic Programmer and Domain-Driven Design."
 tags:
+  - entity
   - software-engineering
-  - reference
 created: 2026-09-18
 updated: 2026-09-18
 type: entity

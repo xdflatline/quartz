@@ -3,8 +3,8 @@ title: uv
 
 details: "Entities: uv."
 tags:
-  - entities
-  - cli
+  - entity
+  - software-engineering
   - tooling
 created: 2026-05-22
 updated: 2026-05-22

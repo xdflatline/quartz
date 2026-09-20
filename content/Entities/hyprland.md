@@ -2,9 +2,8 @@
 title: "Hyprland"
 details: "Dynamic tiling Wayland compositor with eye-candy animations, written in C++. Built on wlroots. Provides the ext-workspace, ext-background-effect (blur), screencopy, idle-inhibitor, session-lock, and other protocols that Quickshell uses for window management, blur, screen capture, lockscreens, and idle detection."
 tags:
-  - entities
-  - linux
-  - desktop
+  - entity
+  - infrastructure
 created: 2026-08-31
 updated: 2026-08-31
 type: entity

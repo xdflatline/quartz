@@ -2,8 +2,8 @@
 title: "Mixed Model Arts — Reis (2026)"
 details: "Research synthesis of Joe Reis's Mixed Model Arts (MMA) framing for data modeling (Practical Data Modeling Substack, Aug 19, 2026). Nine core beliefs (modeling is one discipline; model the territory not the technology; intent drives structure; time is non-negotiable; semantics are the universal interface; simplicity is a discipline; designed for humans engineered for agents; modeling is a lifecycle; avoid dogma be pragmatic) together form a unified discipline that re-frames data modeling as first-principles work spanning OLTP, OLAP, and AI-agent consumption. Closely related to William Kent's 1978 framing (map vs. territory, models as tools, three-worlds ontology) and to modern ontology/LLM-driven data modernization work."
 tags:
+  - research
   - knowledge-management
-  - survey
 created: 2026-09-14
 updated: 2026-09-14
 type: research

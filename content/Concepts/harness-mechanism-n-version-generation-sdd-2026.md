@@ -1,7 +1,11 @@
 ---
 title: "Harness Mechanism 5 — N-Version Generation (SDD)"
 details: "H5 of the Diaz et al. (2026) methodological harness. N-version generation is the practice of having multiple agents (or the same agent multiple times) produce independent candidate implementations of the same specification, so the team can compare, audit, and select rather than accept the first output. It is the mechanism that multiplies agent output volume, on the assumption that evidence-backed acceptance (H4) can discriminate among variants. Worked example: three agents independently implement the refund flow from the same feature specification; the team selects the variant whose evidence trail best matches the spec."
-tags: [concept, software-engineering, agentic, harness, generation]
+tags:
+  - concept
+  - software-engineering
+  - agent
+  - harness
 created: 2026-09-13
 updated: 2026-09-13
 type: concept

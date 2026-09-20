@@ -2,6 +2,7 @@
 title: "DDD Strategic Design"
 details: "The half of Domain-Driven Design (Evans, 2003) that operates above the level of any single bounded context: how an organisation draws boundaries between contexts, names the relationships between them, and aligns the team structure with the model. Strategic design is the book-level discipline: bounded contexts (with their ubiquitous languages), context maps showing how contexts relate, subdomains (core / supporting / generic), and the explicit patterns of integration (Partnership, Shared Kernel, Customer/Supplier, Conformist, Anti-Corruption Layer, Open-host Service, Published Language, Separate Ways). Strategic design is more important than tactical design: getting the boundaries right matters more than the choice of entity vs. value object."
 tags:
+  - concept
   - software-engineering
   - architecture-pattern
 created: 2026-09-18

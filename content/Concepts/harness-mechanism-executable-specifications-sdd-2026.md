@@ -1,7 +1,11 @@
 ---
 title: "Harness Mechanism 3 — Executable Specifications (SDD)"
 details: "H3 of the Diaz et al. (2026) methodological harness. Executable specifications are specifications that can be evaluated automatically — acceptance criteria expressed as tests, contracts, or checks that an agent (or a CI pipeline) can run. They transform the specification from a static document into a substrate the agent operates against. Worked example: the refund feature spec includes a property-based test asserting that refund(N) composed with refund(N) under any retry sequence yields a single credit."
-tags: [concept, software-engineering, agentic, harness, specification]
+tags:
+  - concept
+  - software-engineering
+  - agent
+  - harness
 created: 2026-09-13
 updated: 2026-09-13
 type: concept

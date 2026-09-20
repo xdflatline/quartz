@@ -3,7 +3,7 @@ title: "Hindsight Memory Architecture"
 
 details: "This note expands on the Hindsight architecture, detailing the integration of semantic, keyword, graph, and temporal search strategies (TEMPR) and the automated process of converting raw experience into durable knowledge through observation consolidation."
 tags:
-  - concepts
+  - concept
   - memory
   - rag
 created: 2026-06-19

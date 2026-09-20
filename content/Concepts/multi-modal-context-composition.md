@@ -2,7 +2,7 @@
 title: "Multi-Modal Context Composition"
 details: "Architectural pattern in which a single agent context object is composed of heterogeneous representations of the same knowledge: a vector index for similarity search, structured fields with a fixed schema for known entities, lightweight knowledge-graph elements for relationships, plus metadata (freshness, lineage, semantic-layer references) and permissions. The pattern explicitly rejects the 'one representation fits all queries' assumption — the same information may appear in multiple modalities inside one context, so different agent query patterns (semantic search, exact lookup, graph traversal) can each go to the right substrate. Articulated by [[Entities/pinecone]] for Nexus; the spectrum view (pure vector ↔ pure knowledge graph, with everything in between) is a direct generalisation of the multi-model database idea."
 tags:
-  - concepts
+  - concept
   - context-engineering
   - agent
   - rag

@@ -3,7 +3,6 @@ title: "a741725193 GitHub Repos (Corne/Sofle Firmware Forks)"
 details: "Vendor-specific ZMK configuration forks hosted under the GitHub user a741725193 for the Manuals+ 'Eyelash' Corne and Sofle keyboards. Five repositories: zmk-new-corne (Eyelash Corne base), zmk-corne-oled (Eyelash Corne with OLED screen), zmk-corne-dongle (Corne USB dongle variant), zmk-sofle (Eyelash Sofle base), and zmk-sofle-dongle (Sofle USB dongle variant). MX and low-profile variants share each repo."
 tags:
   - entity
-  - github
 created: 2026-08-20
 updated: 2026-08-20
 type: entity

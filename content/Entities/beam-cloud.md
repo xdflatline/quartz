@@ -3,8 +3,7 @@ title: "Beam Cloud"
 
 details: "Beam (formerly Slai) is a serverless GPU platform for Python. It supports GPU Tasks, scheduled jobs, web endpoints with autoscaling, persistent volume mounts, and a dedicated Sandboxes product for untrusted-code execution. Beam also offers a Bring-Your-Own-Cloud product for running on AWS or GCP accounts."
 tags:
-  - entities
-  - serverless
+  - entity
   - infrastructure
 created: 2026-07-24
 updated: 2026-07-24

@@ -1,7 +1,12 @@
 ---
 title: "Harness Mechanism 1 — Context Engineering (SDD)"
 details: "H1 of the Diaz et al. (2026) methodological harness. Context engineering governs what an agent knows within a session: the curated set of specifications, prior decisions, skills, and tool affordances injected into the agent's working context. It is the boundary-spanning mechanism — it lives in both the technical harness (per-agent session) and the methodological harness (per-team conventions). Worked example: the agent working on the e-commerce refund feature receives the relevant feature specification, the persistent-knowledge entry from a prior pricing decision, the executable spec test harness, and the autonomy-calibration record."
-tags: [concept, software-engineering, agentic, harness, context-engineering]
+tags:
+  - concept
+  - software-engineering
+  - agent
+  - harness
+  - context-engineering
 created: 2026-09-13
 updated: 2026-09-13
 type: concept

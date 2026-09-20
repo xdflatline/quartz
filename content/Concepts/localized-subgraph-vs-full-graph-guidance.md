@@ -1,7 +1,12 @@
 ---
 title: "Localized Subgraph vs Full-Graph Guidance"
 details: "Empirical finding from the Procedural Graph paper: for the same underlying graph, *localized generative guidance* (read the h-hop neighborhood around the active node and verbalize via an LLM) dominates both *full-graph generative guidance* and *full-graph raw injection* on every measured benchmark, with smaller token cost. Token reduction vs full-graph generative: 70.9% on ALFWorld, 18.1% on GDPval, 14.8% on MultiChallenge. Quality gains over the best alternative: +2.0 points on MultiChallenge, +6.8 on GDPval, +9.0 on ALFWorld."
-tags: [concepts, agent, llm, prompt-engineering, graph-engineering]
+tags:
+  - concept
+  - agent
+  - llm
+  - prompt-engineering
+  - knowledge-management
 created: 2026-09-10
 updated: 2026-09-10
 type: concept

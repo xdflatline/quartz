@@ -2,7 +2,7 @@
 title: SDLC for AI-Augmented Operators
 details: A working model of the software development lifecycle for a solo operator shipping software with AI coding agents. Frames each phase as a decision rather than an approval, naming the question to answer and the facts required rather than encoding procedural gates.
 tags:
-  - projects
+  - project
 created: 2026-08-15
 updated: 2026-08-15
 type: project

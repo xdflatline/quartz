@@ -2,6 +2,7 @@
 title: "Context gap classification"
 details: "A taxonomy of gap types produced by Step 4 of the ontology + LLM agentic loop: identity-resolution gaps, entity-grain gaps, and semantic-collision gaps. Each type has a different owner, a different cost profile, and a different action template."
 tags:
+  - concept
   - knowledge-management
   - llm
   - architecture-pattern

@@ -4,7 +4,6 @@ details: "The Corne/Sofle firmware update pattern: double-press the reset switch
 tags:
   - concept
   - hardware
-  - firmware
 created: 2026-08-20
 updated: 2026-08-20
 type: concept

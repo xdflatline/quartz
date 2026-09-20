@@ -2,9 +2,7 @@
 title: "Tag Index"
 details: "The controlled tag vocabulary for the Quartz wiki. Each tag below has a scope, a when-to-use description, and a when-NOT-to-use description. Before introducing a new tag, check this page first; if a suitable tag exists, reuse it. Tags here are top-level categorical (llm, agent, tooling, schweiz) — they are NOT product names (no 'qwen', no 'claude-code', no 'gpt-4') and they are NOT specific concepts (no 'harness-engineering', no 'recursive-self-improvement'). For those, use wikilinks in the body of the page."
 tags:
-  - tags
-  - index
-  - wiki
+  - resource
 created: 2026-08-07
 updated: 2026-08-07
 type: index

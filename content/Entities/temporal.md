@@ -2,7 +2,7 @@
 title: "Temporal"
 details: "Durable Execution platform founded in 2019 by Maxim Fateev and Samar Abbas (creators of the Cadence workflow language at Uber). Provides a workflow orchestration engine where developer code runs as a Workflow (deterministic, replayable) that schedules Activities (side-effecting, retried). Replay-based recovery, event history as source of truth, native timers of arbitrary length. Self-hosted or Temporal Cloud (managed). The platform that named and defined the term \"Durable Execution\" in its 2025/2026 blog series."
 tags:
-  - entities
+  - entity
   - runtime
   - orchestration
   - durable-execution

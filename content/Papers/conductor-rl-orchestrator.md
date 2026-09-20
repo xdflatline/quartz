@@ -1,7 +1,11 @@
 ---
 title: "Conductor (RL-Trained LLM Orchestrator)"
 details: "Sakana AI's Conductor (Nielsen et al., arXiv:2512.04388, 2026) is a small (3B/7B) language model trained end-to-end with reinforcement learning (GRPO) to dynamically design agentic workflows over a pool of worker LLMs. Given any user query, the Conductor outputs a complete coordination strategy — Python lists of natural-language subtasks, assigned worker IDs, and per-step access lists — that define a custom communication topology. The 7B Conductor attains state-of-the-art results on LiveCodeBench and GPQA Diamond while using a fraction of the inference cost of multi-agent baselines. Extended with randomized agent-pool training and a recursive self-as-worker loop that unlocks a new axis of test-time scaling."
-tags: [research, paper, llm, agent, orchestration, agentic-system]
+tags:
+  - paper
+  - llm
+  - agent
+  - orchestration
 source: https://arxiv.org/html/2512.04388v5
 authors: ["Stefan Nielsen", "Edoardo Cetin", "Peter Schwendeman", "Qi Sun", "Jinglue Xu", "Yujin Tang"]
 venue: "arXiv:2512.04388v5, 2026"

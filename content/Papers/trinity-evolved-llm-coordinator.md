@@ -1,7 +1,10 @@
 ---
 title: "TRINITY: An Evolved LLM Coordinator"
 details: "A lightweight SLM-based coordinator trained with separable CMA-ES that orchestrates multiple heterogeneous LLMs in a multi-turn loop, assigning each selected model one of three roles (Thinker, Worker, Verifier) at each turn. Achieves 86.2% on LiveCodeBench V6 and demonstrates strong zero-shot transfer to unseen tasks."
-tags: [research, agent, llm]
+tags:
+  - paper
+  - agent
+  - llm
 source: https://arxiv.org/abs/2512.04695
 authors: ["Jinglue Xu", "Qi Sun", "Peter Schwendeman", "Stefan Nielsen", "Edoardo Cetin", "Yujin Tang"]
 venue: "ICLR 2026 (to appear)"

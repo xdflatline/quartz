@@ -2,10 +2,9 @@
 title: "Graph Engineering: The Complete Guide to Building Multi-Agent AI Systems"
 details: "LunarResearcher's Aug 10, 2026 Substack post presenting a 14-principle framework for designing the topology of multi-agent AI systems — covering nodes, dependencies, reducers, verification gates, failure domains, human checkpoints, and the five graph shapes that cover most real work."
 tags:
-  - entities
+  - entity
   - agent
   - orchestration
-  - article
 created: 2026-09-02
 updated: 2026-09-02
 type: entity

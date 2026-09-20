@@ -2,7 +2,7 @@
 title: "Critical Path Latency"
 details: "Graph engineering principle that latency is determined by the longest unavoidable path from start to finish, not the total number of steps. A 40-node graph can finish faster than a 7-node chain if its critical path is shorter. Do not count boxes; look for the longest dependency chain."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
 created: 2026-09-02

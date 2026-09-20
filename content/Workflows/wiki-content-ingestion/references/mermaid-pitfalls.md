@@ -1,3 +1,9 @@
+---
+title: "Mermaid Pitfalls"
+tags:
+  - workflow
+---
+
 # Mermaid Pitfalls in Quartz
 
 Two recurring issues with Mermaid diagrams in `quartz-community/obsidian-flavored-markdown`. Both are environmental facts about how the plugin works, not bugs in your content.

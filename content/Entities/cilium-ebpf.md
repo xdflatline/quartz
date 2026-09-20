@@ -3,9 +3,8 @@ title: "Cilium and eBPF"
 details: "Cilium is the canonical eBPF-based Kubernetes CNI and observability platform; its Hubble component streams kernel-level network events (drops, DNS latency, policy decisions) without instrumenting applications, and Inspektor Gadget extends the same kernel-tracing model to general-purpose debugging."
 tags:
   - entity
-  - tool
-  - kubernetes
-  - kernel
+  - tooling
+  - infrastructure
 created: 2026-09-19
 updated: 2026-09-19
 type: entity

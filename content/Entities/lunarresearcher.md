@@ -2,7 +2,7 @@
 title: "LunarResearcher"
 details: "Author of the 'Graph Engineering' Substack post (Aug 10, 2026), a 14-principle framework for designing multi-agent system topology. Publishes AI agents, workflows, and systems breakdowns on Substack; active on X (@LunarResearcher) and a private Telegram channel."
 tags:
-  - entities
+  - entity
   - agent
   - orchestration
 created: 2026-09-02

@@ -2,10 +2,9 @@
 title: "Deterministic Reduce Before Synthesis"
 details: "Graph engineering anti-pattern to avoid: many workers feeding one giant synthesis prompt. The synthesis model becomes a garbage collector reading, deduplicating, formatting, ranking, and inferring. Instead, run a deterministic code-based reducer (dedupe, sort, group, filter, count, normalize) before the reasoning node. Use models for ambiguity, code for plumbing."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
-  - deterministic-first
 created: 2026-09-02
 updated: 2026-09-02
 type: concept

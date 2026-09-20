@@ -2,6 +2,7 @@
 title: "Larry Burns"
 details: "Commenter on Joe Reis's *Mixed Model Arts Manifesto* (Practical Data Modeling, 2026-08-25) whose response has been independently notable in the research synthesis. Burns argued that the central sea change for data modeling in the Agentic Era is the relocation of semantics: it must now exist independently of both the database schema and the application code, so it can be consumed mechanically — and that modeling tools should generate both persistence schemas and ontology documents from a single modeling exercise. The argument operationalizes MMA Belief 5 (semantics as the universal interface)."
 tags:
+  - entity
   - knowledge-management
 created: 2026-09-14
 updated: 2026-09-14

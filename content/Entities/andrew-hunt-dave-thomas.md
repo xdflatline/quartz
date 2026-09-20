@@ -2,6 +2,7 @@
 title: "Andrew Hunt and David Thomas"
 details: "Andrew Hunt and David Thomas are American software engineers, authors, and founders of the Pragmatic Bookshelf. They co-authored The Pragmatic Programmer: From Journeyman to Master (1999; 20th-anniversary edition 2019), one of three canonical software-engineering texts the operator has named on his reading list, alongside Eric Evans's Domain-Driven Design and John Ousterhout's A Philosophy of Software Design. They also co-founded the Pragmatic Bookshelf publishing imprint, edited the popular Pragmatic Starter Kit and Pragmatic Unit Testing series, and co-authored the Agile Manifesto (2001). The 70-tip Quick Reference table at the back of The Pragmatic Programmer remains the most-cited practitioner reference for daily-practice software engineering."
 tags:
+  - entity
   - software-engineering
 created: 2026-09-18
 updated: 2026-09-18

@@ -3,7 +3,7 @@ title: "OpenTelemetry"
 details: "Vendor-neutral observability framework that standardizes trace, metric, and log instrumentation through the W3C traceparent context header and the OTLP wire protocol, with collectors and SDKs that emit spans to distributed columnar or TSDB backends like Jaeger and Tempo."
 tags:
   - entity
-  - tool
+  - tooling
   - observability
 created: 2026-09-19
 updated: 2026-09-19

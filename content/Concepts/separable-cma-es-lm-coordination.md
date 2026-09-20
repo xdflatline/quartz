@@ -2,9 +2,8 @@
 title: "Separable CMA-ES for LM Coordination"
 details: "A training regime that uses separable Covariance Matrix Adaptation Evolution Strategy (sep-CMA-ES) — black-box optimization with diagonal covariance — to learn the parameters of a lightweight decision head on top of a frozen-or-near-frozen LLM. The strategy dominates gradient-based RL, imitation learning, and random search when the parameter space is high-dimensional (~10K), each parameter has only tiny individual influence on the scalar reward (low SNR), and the per-evaluation budget is tight (closed-loop multi-turn trajectories make each evaluation expensive)."
 tags:
-  - concepts
+  - concept
   - llm
-  - optimization
   - training
 sources:
   - Raw/trinity-coordinator-arxiv.md

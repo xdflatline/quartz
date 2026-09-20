@@ -1,7 +1,11 @@
 ---
 title: "Harness Mechanism — Review and Consultation (SDD)"
 details: "The review/consultation pathway in the Diaz et al. (2026) methodological harness. When an agent encounters a sub-task whose autonomy level (H7) exceeds its grant, it raises a consultation by citing the specification clause it cannot resolve. A human reviewer — possibly a different human than the author of the original brief — answers by reference. This is the mechanism that lets cross-human handover happen under SDD: the consult is routed to the right expert, not to whoever happened to write the original prompt."
-tags: [concept, software-engineering, agentic, harness, review]
+tags:
+  - concept
+  - software-engineering
+  - agent
+  - harness
 created: 2026-09-13
 updated: 2026-09-13
 type: concept

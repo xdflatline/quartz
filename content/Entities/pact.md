@@ -3,8 +3,8 @@ title: "Pact"
 details: "Consumer-driven contract testing framework that lets consumers publish expected request/response payloads as machine-readable contracts, verified against provider builds in CI by a central broker to catch schema drift at build time without spinning up full integration environments."
 tags:
   - entity
-  - tool
-  - ci
+  - tooling
+  - software-engineering
 created: 2026-09-19
 updated: 2026-09-19
 type: entity

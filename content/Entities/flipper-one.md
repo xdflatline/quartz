@@ -3,7 +3,7 @@ title: Flipper One
 
 details: "Entities: Flipper One."
 tags:
-  - entities
+  - entity
 created: 2026-05-22
 updated: 2026-05-22
 type: entity

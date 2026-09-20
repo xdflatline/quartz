@@ -3,7 +3,7 @@ title: Dataset Creation for LLM Training
 
 details: "The [Alpaca format](https://github.com/tatsu-lab/stanford_alpaca) is one of the most widely used instruction-following formats:"
 tags:
-  - concepts
+  - concept
   - training
   - fine-tuning
 created: 2026-05-24

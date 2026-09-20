@@ -2,8 +2,8 @@
 title: "Software Engineering Fundamentals"
 details: "The umbrella discipline that asks not how to write code but how to design software systems that remain understandable, modifiable, and trustworthy over years of evolution. Distilled from the three canonical 1999–2018 texts — The Pragmatic Programmer (Hunt & Thomas), Domain-Driven Design (Evans), and A Philosophy of Software Design (Ousterhout) — the fundamentals reduce to a small number of principles that recur across all three: minimise complexity, manage dependencies, keep the interface simple relative to its capability, name things after the domain, treat decay as a first-class concern, and write code for the reader rather than the writer."
 tags:
+  - concept
   - software-engineering
-  - philosophy
 created: 2026-09-18
 updated: 2026-09-18
 type: concept

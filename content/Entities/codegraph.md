@@ -3,9 +3,9 @@ title: codegraph
 
 details: CodeGraph is an open-source tool designed to pre-index codebases specifically for consumption by [ai-agents](/concepts/ai-agents). It aims to signi...
 tags:
-  - entities
+  - entity
   - tooling
-  - mcp
+  - software-engineering
 created: 2026-05-21
 updated: 2026-05-21
 type: entity

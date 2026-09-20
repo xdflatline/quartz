@@ -2,7 +2,7 @@
 title: "Sonnet 4.6"
 details: "Anthropic Claude Sonnet 4.6 — the earliest model evaluated in the Anthropic Frontier Red Team's multi-agent study (Aug 2026). Opens many PRs but merges few; conflicts are abandoned rather than resolved. The model cannot maintain shared-code collaboration at scale."
 tags:
-  - entities
+  - entity
   - llm
 created: 2026-08-16
 updated: 2026-08-16

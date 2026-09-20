@@ -1,3 +1,9 @@
+---
+title: "Notes"
+tags:
+  - workflow
+---
+
 # References — Wiki Catalog Research
 
 This folder contains the supporting reference docs for the [[wiki-catalog-research|wiki-catalog-research workflow]].

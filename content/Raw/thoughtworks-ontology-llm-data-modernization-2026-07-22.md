@@ -2,7 +2,7 @@
 title: "Closing the context gap: An ontology + LLM approach to data modernization"
 details: "Thoughtworks blog post by Zichuan Xiong (2026-07-22) proposing a six-step agentic loop that pairs per-source ontologies with LLM-driven semantic analysis to find and classify context gaps in enterprise data modernization. Illustrated with a customer-churn use case over billing and support systems."
 tags:
-  - blog-post
+  - raw
   - llm
   - agent
   - knowledge-management

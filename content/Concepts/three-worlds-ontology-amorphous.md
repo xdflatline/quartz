@@ -2,6 +2,7 @@
 title: "Three-Worlds Ontology and the Amorphousness of Information"
 details: "William Kent's claim that the world of data modeling comprises three nested layers — reality itself, the natural language used to describe it, and the computer data model — and that the inner layers are maps of maps rather than faithful copies. Reality, at bottom, is amorphous, disordered, contradictory, and view-dependent; this is why no adequate formal modelling system exists."
 tags:
+  - concept
   - knowledge-management
   - architecture-pattern
 created: 2026-09-13

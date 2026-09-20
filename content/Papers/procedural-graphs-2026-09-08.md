@@ -1,7 +1,11 @@
 ---
 title: "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents"
 details: "Introduces the Procedural Graph (PG), an attributed directed graph of (procedure, relation, procedure) triplets with condition/guidance/pitfalls edges, plus an online generative guidance mechanism (localize the active node, retrieve its h-hop neighborhood, verbalize via an LLM into situational advice) and an offline self-evolution loop (diagnostic rollout → LLM refiner proposes edits → validation gating with rejection memory). Across six benchmarks and four LLM families, PG ranks first in 21 of 24 settings and the self-evolution loop can build effective graphs from scratch or repair flawed expert priors."
-tags: [research, agent, llm, graph-engineering, self-improving-agents]
+tags:
+  - paper
+  - agent
+  - llm
+  - knowledge-management
 source: https://arxiv.org/html/2609.09153v1
 authors: ["Yuxing Lu", "Yicheng Chen", "Shanchan Wu", "Sercan Ö. Arık"]
 venue: "arXiv:2609.09153v1 [cs.AI], 8 Sep 2026"

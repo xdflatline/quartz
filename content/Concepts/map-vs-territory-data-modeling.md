@@ -2,6 +2,7 @@
 title: "Map vs. Territory in Data Modeling"
 details: "The 1978 (reissued 1998) argument by William Kent that all data structures — hierarchical, network, relational, object-oriented — are maps of an underlying territory (reality itself), and that the map is not the territory. Successive formalisms are maps of maps: the language we use is itself a representation, the computer system is yet another. The analogy originates with S. I. Hayakawa and is the title-level claim of Data and Reality."
 tags:
+  - concept
   - knowledge-management
   - architecture-pattern
 created: 2026-09-13

@@ -2,7 +2,7 @@
 title: "Five Graph Shapes"
 details: "Graph engineering catalog of five shapes that cover a surprising amount of real multi-agent work: Fork/Join (research, audits, scans), Escalation Ladder (easy cases get cheap checks, hard cases escalate), Tournament (judges pick winner among candidates), Map→Reduce→Verify→Synthesize (decision-grade research), and Bounded Discovery Loop (search until stop condition)."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
   - architecture-pattern

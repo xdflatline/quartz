@@ -3,9 +3,9 @@ title: "OpenAI-Compatible Agent Serving"
 
 details: "A deployment contract: an agent runtime exposes each configured agent as a model on a /v1/models endpoint, and chat completions are served at /v1/chat/completions with OpenAI's request/response shape. AURA (mezmo/aura) is a concrete instance. Agents are addressable by alias or name via the model field; clients like LibreChat and OpenWebUI work unchanged; per-agent alias, model_owner, and hidden flags control the model-picker presentation."
 tags:
-  - concepts
+  - concept
   - agent
-  - protocol
+  - software-engineering
 created: 2026-07-25
 updated: 2026-07-25
 type: concept

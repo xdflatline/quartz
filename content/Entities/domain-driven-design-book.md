@@ -2,8 +2,8 @@
 title: "Domain-Driven Design (Eric Evans)"
 details: "Domain-Driven Design: Tackling Complexity in the Heart of Software, by Eric Evans (Addison-Wesley Professional, 2003). The canonical book that named and formalised Domain-Driven Design (DDD), a software design approach focused on modeling software to match a domain according to input from that domain's experts. The book's three pillars are ubiquitous language (a common rigorous language between developers and domain experts), strategic design (the discipline of drawing boundaries between bounded contexts), and tactical design (the within-context building blocks: entities, value objects, aggregates, repositories, factories, services, domain events). The book is one of three the operator has named as the canonical software-engineering reading list, alongside The Pragmatic Programmer and A Philosophy of Software Design."
 tags:
+  - entity
   - software-engineering
-  - reference
 created: 2026-09-18
 updated: 2026-09-18
 type: entity

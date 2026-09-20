@@ -2,6 +2,7 @@
 title: "Eric Evans"
 details: "Eric Evans is an American software engineer and author of Domain-Driven Design: Tackling Complexity in the Heart of Software (Addison-Wesley Professional, 2003), the canonical book that named and formalised Domain-Driven Design (DDD). The book introduced the three pillars of DDD — ubiquitous language (a common rigorous language between developers and domain experts), strategic design (the discipline of drawing boundaries between bounded contexts), and tactical design (the within-context building blocks: entities, value objects, aggregates, repositories, factories, services, domain events) — and is one of three canonical software-engineering texts the operator has named on his reading list, alongside The Pragmatic Programmer and A Philosophy of Software Design. Evans maintains domainlanguage.com, hosts DDD gatherings, and wrote the free DDD Reference PDF (2015)."
 tags:
+  - entity
   - software-engineering
 created: 2026-09-18
 updated: 2026-09-18

@@ -2,6 +2,7 @@
 title: "Simplicity as a Modeling Discipline (MMA Belief 6)"
 details: "Sixth core belief of Joe Reis's Mixed Model Arts (MMA) Manifesto: simplicity is a discipline, not a side effect. Complexity is the default state of entropy; a good model actively fights entropy to deliver clarity. Simplicity is not achieved by removing necessary detail, but by organizing detail so that the complex becomes intuitive. Reis's framing resists the common misinterpretation that simplicity means \"fewer fields\" or \"fewer tables.\""
 tags:
+  - concept
   - knowledge-management
   - architecture-pattern
 created: 2026-09-14

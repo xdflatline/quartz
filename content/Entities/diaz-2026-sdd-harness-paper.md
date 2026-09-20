@@ -1,7 +1,11 @@
 ---
 title: "Diaz et al. 2026 — Spec-Driven Development paper"
 details: "Entity page for arXiv:2609.00252 — the conceptual-analysis paper 'Spec-Driven Development for Agentic Software Engineering: Harnessing Human–Agent Teamwork' by Jessica Díaz, Joaquín Gayoso, Andrea Cimminio, and Jorge Pérez (Universidad Politécnica de Madrid), submitted 31 Aug 2026. The paper introduces SDD as a discipline and characterizes the technical+methodological harness as the operationalization of team-scale Agentic Software Engineering."
-tags: [entity, paper, software-engineering, agentic, harness]
+tags:
+  - entity
+  - software-engineering
+  - agent
+  - harness
 created: 2026-09-13
 updated: 2026-09-13
 type: entity

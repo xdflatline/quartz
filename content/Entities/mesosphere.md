@@ -2,7 +2,7 @@
 title: "Mesosphere (Apache Mesos)"
 details: "Mesosphere was the company behind Apache Mesos, the open-source cluster scheduler that ran production workloads at Twitter, Netflix, Airbnb, and others in the pre-Kubernetes era. Schematically between Google's internal Borg system and what Kubernetes later became. [[Entities/joerg-schad]] worked at Mesosphere in the mid-2010s on large-scale distributed systems, with deployments at Twitter/Netflix/Airbnb, and contributed to early Kubernetes. Relevant to this wiki because the vertical-integration thesis articulated for Pinecone Nexus (own the full stack to avoid metadata duplication, drift, and governance gaps) is directly inherited from the Mesos/Borg/Kubernetes era's lessons about layered abstractions in cluster schedulers."
 tags:
-  - entities
+  - entity
   - infrastructure
   - knowledge-management
 created: 2026-09-05

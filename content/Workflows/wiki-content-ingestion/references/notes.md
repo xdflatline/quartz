@@ -1,3 +1,9 @@
+---
+title: "Notes"
+tags:
+  - workflow
+---
+
 # References — Wiki Content Ingestion
 
 This folder contains the supporting reference docs for the [[wiki-content-ingestion|wiki-content-ingestion workflow]].

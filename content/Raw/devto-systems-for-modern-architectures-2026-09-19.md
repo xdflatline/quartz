@@ -3,7 +3,6 @@ title: "Developer Tools Beyond IDEs: 10 Systems for Modern Architectures"
 details: "Raw ingestion of a dev.to article that argues IDEs are architecturally constrained to single-machine introspection and catalogs ten categories of tooling — distributed tracing, contract testing, repository intelligence, infrastructure debugging, database observability, cloud cost engineering, supply-chain security, load testing, progressive delivery, and AI agent sandboxes — that operate across distributed runtime boundaries."
 tags:
   - raw
-  - blog-post
   - tooling
 created: 2026-09-19
 updated: 2026-09-19

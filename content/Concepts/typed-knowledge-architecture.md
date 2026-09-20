@@ -3,7 +3,7 @@ title: Typed Knowledge Architecture
 
 details: "Alternative to flat-text memory: structure knowledge into typed buckets with distinct retrieval strategies. Prevents context pollution by injecting..."
 tags:
-  - concepts
+  - concept
   - memory
   - architecture-pattern
 created: 2026-06-17

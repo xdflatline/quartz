@@ -3,7 +3,7 @@ title: Squirrel (Auto-maintaining Documentation)
 
 details: OSS experiment for **auto-maintaining project documentation** (e.g., `CLAUDE.md`, `agents.md`) based on agent activity. Addresses the problem of st...
 tags:
-  - entities
+  - entity
   - tooling
   - knowledge-management
 created: 2026-06-13

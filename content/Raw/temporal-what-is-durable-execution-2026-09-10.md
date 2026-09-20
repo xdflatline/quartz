@@ -3,7 +3,6 @@ title: "The definitive guide to Durable Execution"
 details: "Tom Wheeler's May 2025 Temporal blog post defining Durable Execution as crash-proof execution, naming its four universal characteristics (virtualized execution, time-independence, automatic state preservation, hardware agnosticism), and arguing it elevates development by letting developers write code for the goal rather than for every failure mode."
 tags:
   - raw
-  - blog-post
   - durable-execution
   - runtime
 source: https://temporal.io/blog/what-is-durable-execution

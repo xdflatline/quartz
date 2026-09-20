@@ -3,9 +3,7 @@ title: "ESP-Claw — Espressif Chat Coding AI Agent Framework for IoT"
 details: "Verbatim GitHub repository overview for espressif/esp-claw, a C-implemented agent runtime targeting ESP32-series chips that pairs an LLM agent loop with dynamic Lua scripting, MCP, and IM chat frontends. Retrieved 2026-08-14 from the GitHub repository landing page."
 tags:
   - raw
-  - github-readme
   - agent
-  - agentic-system
 created: 2026-08-14
 updated: 2026-08-14
 type: raw

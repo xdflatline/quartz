@@ -3,7 +3,7 @@ title: Welcome to My Digital Garden
 
 details: Main entry point for my digital garden built with Quartz
 tags:
-  - root
+  - resource
 created: 2026-06-17
 updated: 2026-06-17
 type: index

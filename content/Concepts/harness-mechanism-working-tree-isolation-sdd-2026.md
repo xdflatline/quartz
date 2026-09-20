@@ -1,7 +1,11 @@
 ---
 title: "Harness Mechanism 6 — Working-Tree Isolation (SDD)"
 details: "H6 of the Diaz et al. (2026) methodological harness. Working-tree isolation is the practice that each agent (or N-version variant) operates in an isolated working tree — a separate filesystem, branch, or sandbox — so candidates cannot trample each other's intermediate state. Without it, N-version generation (H5) is unsafe because variants' side effects contaminate each other. Worked example: each of the three refund-flow variants runs in its own ephemeral branch and ephemeral container; the system spec's standing rule requires isolation for any multi-agent parallel work."
-tags: [concept, software-engineering, agentic, harness, isolation]
+tags:
+  - concept
+  - software-engineering
+  - agent
+  - harness
 created: 2026-09-13
 updated: 2026-09-13
 type: concept

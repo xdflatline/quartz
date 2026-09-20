@@ -5,7 +5,6 @@ details: Article arguing that most production AI agent failures are reliability 
 tags:
   - raw
   - agent
-  - blog-post
 source: https://dev.to/gs_sanjana_3e822112e14f8/your-ai-agent-doesnt-need-to-be-smarter-it-needs-to-be-idempotent-2736
 created: 2026-07-01
 updated: 2026-07-01

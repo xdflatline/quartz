@@ -1,7 +1,10 @@
 ---
 title: "Díaz / Pérez research group — Universidad Politécnica de Madrid"
 details: "The Universidad Politécnica de Madrid (UPM) research group of Jessica Díaz and Jorge Pérez that produced the Spec-Driven Development paper (arXiv:2609.00252). Their prior work on DevOps team structures (López-Fernández et al., 2021, IEEE TSE) provides the lineage for the paper's N-to-N collaboration topology argument. Related outputs include self-service cybersecurity monitoring for DevSecOps (Díaz et al., 2019, IEEE Access), inter-rater reliability protocols for collaborative grounded theory (Díaz et al., 2023, JSS), and the Why-Are-Many-Businesses-Instilling-DevOps empirical study (Díaz et al., 2021, EMSE)."
-tags: [entity, organization, software-engineering, devops]
+tags:
+  - entity
+  - software-engineering
+  - infrastructure
 created: 2026-09-13
 updated: 2026-09-13
 type: entity

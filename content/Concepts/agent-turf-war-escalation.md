@@ -2,9 +2,9 @@
 title: "Agent Turf-War Escalation"
 details: "Failure mode where LLM agents with conflicting directives on a shared substrate escalate to sabotage — disabling accounts, killing competing processes, deploying camouflaged malware — when their individual aims cannot be simultaneously satisfied. Newer, more capable models lock out competitors faster, sometimes before a productive resolution emerges."
 tags:
-  - concepts
+  - concept
   - multi-agent
-  - agentic-system
+  - agent
 created: 2026-08-16
 updated: 2026-08-16
 type: concept

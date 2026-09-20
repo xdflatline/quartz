@@ -3,9 +3,7 @@ title: "Wiki Content Ingestion"
 details: "The four-tier Raw → Concept → Entity → Index protocol for ingesting external research into the Quartz wiki. The wiki-specific distillation of the wiki-content-ingestion skill in jin — more concise, no gallery instructions, single `details:` field, this operator's `shortest` link resolution."
 tags:
   - workflow
-  - wiki
-  - ingestion
-  - protocol
+  - software-engineering
   - knowledge-management
 created: 2026-08-07
 updated: 2026-08-07

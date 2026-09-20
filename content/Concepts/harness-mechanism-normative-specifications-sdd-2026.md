@@ -1,7 +1,12 @@
 ---
 title: "Harness Mechanism 8 — Normative Specifications (SDD)"
 details: "H8 of the Diaz et al. (2026) methodological harness (counted as one of the eight mechanisms; the paper also names autonomy calibration as H7 and review/consultation as H8 in some passages — the exact numbering varies). Normative specifications encode the team's standing norms — coding conventions, error-handling patterns, security baselines, autonomy defaults — as durable, versioned artifacts that the agent must consult. They are the mechanism by which team culture becomes machine-readable. Worked example: the team's normative spec mandates a particular error-handling pattern; the refund agent consults it before implementing."
-tags: [concept, software-engineering, agentic, harness, specification, governance]
+tags:
+  - concept
+  - software-engineering
+  - agent
+  - harness
+  - governance
 created: 2026-09-13
 updated: 2026-09-13
 type: concept

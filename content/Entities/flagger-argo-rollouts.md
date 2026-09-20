@@ -3,8 +3,8 @@ title: "Flagger and Argo Rollouts"
 details: "Kubernetes-native progressive delivery controllers — Flagger (Flux ecosystem) and Argo Rollouts (Argo ecosystem) — that orchestrate canary traffic shifting via service mesh or ingress, evaluate runtime SLO metrics, and trigger automatic rollback without a new deployment commit when thresholds are breached."
 tags:
   - entity
-  - tool
-  - kubernetes
+  - tooling
+  - infrastructure
 created: 2026-09-19
 updated: 2026-09-19
 type: entity

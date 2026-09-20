@@ -2,6 +2,7 @@
 title: "Model the Territory, Not the Technology (MMA Belief 2)"
 details: "Second core belief of Joe Reis's Mixed Model Arts (MMA) Manifesto: data models must reflect the business reality (real-world entities, attributes, relationships, events) first, with the technology implementation (tables, streams, graphs) as a downstream choice. The principle inverts the common engineering instinct to start from the storage engine and contort the model to fit it; it parallels Kent's 1978 map-vs-territory framing for the modern data stack."
 tags:
+  - concept
   - knowledge-management
   - architecture-pattern
 created: 2026-09-14

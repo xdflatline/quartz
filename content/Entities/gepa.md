@@ -3,7 +3,7 @@ title: "GEPA"
 
 details: "GEPA is a prompt-evolution method that reads trajectories of trial and error, reflects on what went wrong, and proposes prompt updates in natural language. It is one of the foundational methods in the broader [[Concepts/evolutionary-search-for-harnesses]] family, alongside Promptbreeder and AlphaEvolve."
 tags:
-  - entities
+  - entity
   - harness
   - prompt-engineering
 created: 2026-08-07

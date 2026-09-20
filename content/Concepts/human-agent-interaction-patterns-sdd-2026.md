@@ -1,7 +1,11 @@
 ---
 title: "Human–Agent Interaction Patterns under SDD"
 details: "The five recurring interaction patterns through which humans and agents collaborate under Spec-Driven Development, as characterized by Diaz et al. (arXiv:2609.00252, 2026): specification authoring (human writes the contract), specification interpretation (agent reads it), specification validation (human audits evidence against it), specification enrichment (team updates it as new cases accumulate), and specification reuse (next agent or team member reads it). Each pattern operates on the shared specification substrate, forming a continuous improvement cycle. Worked example: the refund flow goes through all five stages — authored as a feature spec, interpreted by the implementing agent, validated via executable specs, enriched by the persistent-knowledge entry, reused by the next agent working on dispute resolution."
-tags: [concept, software-engineering, agentic, harness, collaboration]
+tags:
+  - concept
+  - software-engineering
+  - agent
+  - harness
 created: 2026-09-13
 updated: 2026-09-13
 type: concept

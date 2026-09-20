@@ -1,7 +1,10 @@
 ---
 title: "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents (Raw)"
 details: "Verbatim extracted text from the arXiv HTML rendering of Lu et al. (2026), arXiv:2609.09153v1. All six paper figures are preserved as local asset references. The body is the authors' own prose with math kept as LaTeX inside $...$ for KaTeX rendering."
-tags: [raw, research, agent, llm]
+tags:
+  - raw
+  - agent
+  - llm
 source: https://arxiv.org/html/2609.09153v1
 created: 2026-09-10
 updated: 2026-09-10

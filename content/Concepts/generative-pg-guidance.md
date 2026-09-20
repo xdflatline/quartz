@@ -1,7 +1,12 @@
 ---
 title: "Generative Procedural Graph Guidance"
 details: "Online consumption mechanism for a Procedural Graph. At each decision step the agent's last action is matched to a graph node, the h-hop neighborhood around that node (or the full graph on match failure) plus a recent trajectory window are passed to a guidance LLM, and the LLM translates the surrounding edge attributes (condition, guidance, pitfalls) into situational advice appended to the solver's prompt. Reasoning freedom is preserved because the guidance is *appended*, not enforced — the solver still draws its next action from the unconstrained distribution conditioned on the guidance."
-tags: [concepts, agent, llm, prompt-engineering, graph-engineering]
+tags:
+  - concept
+  - agent
+  - llm
+  - prompt-engineering
+  - knowledge-management
 created: 2026-09-10
 updated: 2026-09-10
 type: concept

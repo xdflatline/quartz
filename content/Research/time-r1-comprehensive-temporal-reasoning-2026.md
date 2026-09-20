@@ -2,8 +2,8 @@
 title: "Time-R1 — Comprehensive Temporal Reasoning via Three-Stage RL (2025)"
 details: "Research synthesis of Liu et al.'s Time-R1 paper (UIUC, arXiv:2505.13508v2, 2025-06-03) on training a 3B LLM for unified temporal reasoning (comprehension, prediction, creative generation) via a three-stage GRPO + dynamic-reward curriculum. The paper's central claim — that specialized RL on small models beats scale on temporal tasks (a 3B model outperforming DeepSeek-R1-671B) — is supported by the three-stage curriculum's transfer property (Stage 3 creative generation works via inference alone, without any generation-task training), the dynamic reward curriculum's contribution to both accuracy and conciseness, and a clean synthetic-vs-real data construction for post-cutoff evaluation."
 tags:
+  - research
   - knowledge-management
-  - survey
 created: 2026-09-14
 updated: 2026-09-14
 type: research

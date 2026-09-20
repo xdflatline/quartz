@@ -3,10 +3,8 @@ title: "Patterns and Problems in Emerging Multiagent Systems (Anthropic Frontier
 details: "Anthropic Frontier Red Team study (Aug 13, 2026) of how frontier Claude models behave in multi-agent settings — measuring coordination gains on vulnerability detection, surfacing conformity-driven herd failures, collusion in Bertrand pricing, brittle epistemics under untrusted peers, and escalating turf wars between agents with conflicting directives. Argues that better individual alignment does not automatically produce better multi-agent coordination."
 tags:
   - raw
-  - research
   - multi-agent
-  - agentic-system
-  - blog-post
+  - agent
 created: 2026-08-16
 updated: 2026-08-16
 type: raw

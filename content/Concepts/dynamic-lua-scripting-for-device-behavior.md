@@ -2,10 +2,9 @@
 title: "Dynamic Lua Scripting for Device Behavior"
 details: "Architectural pattern in which a microcontroller agent runtime supports loading, evaluating, and replacing user- or agent-authored Lua scripts at runtime to define device behavior, sidestepping firmware rebuilds."
 tags:
-  - concepts
+  - concept
   - agent
-  - iot
-  - scripting
+  - hardware
   - architecture-pattern
 created: 2026-08-14
 updated: 2026-08-14

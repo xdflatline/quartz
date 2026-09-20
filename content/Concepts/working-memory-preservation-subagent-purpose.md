@@ -2,7 +2,7 @@
 title: "Working-Memory Preservation as Subagent Purpose"
 details: "A reframing of the design rationale for subagents (Rahul Garg, Thoughtworks, 2026): subagents exist primarily to protect the orchestrator's working memory by isolating disposable reasoning in worker contexts, not to save time through parallelism. The reframe changes what 'good' subagent design optimizes for — not raw speed or token cost, but the cleanliness of the orchestrator's context across the rest of the session."
 tags:
-  - concepts
+  - concept
   - agent
   - context-engineering
   - orchestration

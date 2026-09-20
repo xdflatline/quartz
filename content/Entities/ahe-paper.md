@@ -3,7 +3,7 @@ title: "AHE paper (Agentic Harness Engineering)"
 
 details: "AHE identifies seven editable harness components: system prompt, tool description, tool implementation, middleware, skill, sub-agent configuration, long-term memory. Two hard constraints: (1) the runs directory, tracer, verifier, and LLM config are read-only, disabling a set of reward hacking; (2) every edit has a manifesto entry with the failure evidence name, inferred root cause, targeted fix, and predicted impact. On Terminal-Bench-2, AHE beat human-designed harnesses (OpenCode, Terminus-2, Codex) except for the Hard tier."
 tags:
-  - entities
+  - entity
   - harness
   - agent
 created: 2026-08-07

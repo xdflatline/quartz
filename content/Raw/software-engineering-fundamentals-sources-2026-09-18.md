@@ -4,7 +4,6 @@ details: "Verbatim source excerpts for the Software Engineering Fundamentals res
 tags:
   - raw
   - software-engineering
-  - philosophy
 source: "https://github.com/HugoMatilla/The-Pragmatic-Programmer ; https://en.wikipedia.org/wiki/Software_rot ; https://www.mattduck.com/2021-04-a-philosophy-of-software-design ; https://martinfowler.com/bliki/BoundedContext.html ; https://martinfowler.com/bliki/UbiquitousLanguage.html ; https://en.wikipedia.org/wiki/Domain-driven_design"
 created: 2026-09-18
 updated: 2026-09-18

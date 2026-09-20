@@ -2,6 +2,7 @@
 title: "The Mixed Model Arts Manifesto (Reis, 2026)"
 details: "Foundational statement of the Mixed Model Arts (MMA) discipline, published by Joe Reis on Practical Data Modeling (Substack) on 2026-08-19. Subtitled \"A Unified Discipline for Modeling Systems, Data, and Meaning in the Age of AI\", it enumerates nine core beliefs (modeling is one discipline; model the territory not the technology; intent drives structure; time is non-negotiable; semantics are the universal interface; simplicity is a discipline; designed for humans engineered for agents; modeling is a lifecycle; avoid dogma be pragmatic) and uses mixed martial arts as the framing metaphor. Drafted as the foundational text of Reis's forthcoming book."
 tags:
+  - entity
   - knowledge-management
 created: 2026-09-14
 updated: 2026-09-14

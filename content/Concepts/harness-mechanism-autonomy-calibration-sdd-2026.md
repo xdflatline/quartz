@@ -1,7 +1,11 @@
 ---
 title: "Harness Mechanism 7 — Autonomy Calibration (SDD)"
 details: "H7 of the Diaz et al. (2026) methodological harness. Autonomy calibration is the practice of recording, per task or per task class, the autonomy level an agent is granted: which sub-tasks it may complete without human consultation, which require human-in-the-loop review, and which require synchronous sign-off. It is the mechanism that stabilizes the trust calibration between humans and agents. Worked example: the autonomy record for the refund flow grants the agent permission to write the implementation and run tests, requires human consultation before any change to the public API surface, and requires synchronous sign-off before any change to the ledger schema."
-tags: [concept, software-engineering, agentic, harness, autonomy]
+tags:
+  - concept
+  - software-engineering
+  - agent
+  - harness
 created: 2026-09-13
 updated: 2026-09-13
 type: concept

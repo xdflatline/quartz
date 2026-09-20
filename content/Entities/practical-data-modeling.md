@@ -2,6 +2,7 @@
 title: "Practical Data Modeling (Substack)"
 details: "Substack newsletter (>20,000 subscribers, Aug 2026) by Joe Reis publishing chapters-in-progress of a forthcoming book on data modeling alongside industry commentary. The defining publication of the Mixed Model Arts (MMA) framing; archive spans Ch 1 — What is (and isn't) Data Modeling? (Apr 2024), Semantics, Ontology, and Taxonomy, and Metadata (Nov 2025), Ch 1 — The Era of the Mixed Model Artist (Feb 2026), and The Mixed Model Arts Manifesto (Aug 19, 2026)."
 tags:
+  - entity
   - knowledge-management
 created: 2026-09-14
 updated: 2026-09-14

@@ -2,9 +2,8 @@
 title: "dots-hyprland (Illogical-Impulse)"
 details: "Showcase Hyprland + Quickshell desktop rice by end_4 (dots-hyprland repository). Listed on quickshell.org as the second flagship preconfigured desktop example alongside Caelestia. Long-running project; the Quickshell-side config is the active layer, with Hyprland config, scripts, and assets alongside."
 tags:
-  - entities
-  - linux
-  - desktop
+  - entity
+  - infrastructure
 created: 2026-08-31
 updated: 2026-08-31
 type: entity

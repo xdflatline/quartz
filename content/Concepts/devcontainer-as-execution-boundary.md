@@ -4,7 +4,7 @@ details: "Security pattern where the agent operates inside a devcontainer that l
 tags:
   - concept
   - agent
-  - security
+  - cybersecurity
 created: 2026-08-17
 updated: 2026-08-17
 type: concept

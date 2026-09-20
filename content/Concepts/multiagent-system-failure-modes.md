@@ -2,9 +2,9 @@
 title: "Multiagent System Failure Modes (Anthropic Frontier Red Team Taxonomy)"
 details: "Taxonomy of multi-agent failure modes identified by Anthropic's Frontier Red Team in 2026-08: conformity-driven herd behavior, collusion in price-competition games, brittle epistemic vigilance against untrusted peers, and escalating turf wars when agents hold conflicting directives. Better individual alignment does not automatically produce better multi-agent coordination."
 tags:
-  - concepts
+  - concept
   - multi-agent
-  - agentic-system
+  - agent
 created: 2026-08-16
 updated: 2026-08-16
 type: concept

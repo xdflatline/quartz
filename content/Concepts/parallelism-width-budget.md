@@ -2,7 +2,7 @@
 title: "Parallelism Width Budget"
 details: "Graph engineering principle: parallelism reduces wall-clock time but not total work, and wide graphs create new costs (duplicated research, conflicting outputs, rate limits, merge pressure, verification load, context at the final stage). Set an explicit width budget; optimize for useful independent coverage per dollar, not agent count."
 tags:
-  - concepts
+  - concept
   - agent
   - orchestration
 created: 2026-09-02

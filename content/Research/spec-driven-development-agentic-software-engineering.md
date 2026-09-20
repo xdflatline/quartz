@@ -1,7 +1,11 @@
 ---
 title: "Spec-Driven Development for Agentic Software Engineering (research index)"
 details: "Research synthesis of arXiv:2609.00252 (Diaz et al., 2026) and its surrounding literature. Maps the eight methodological-harness mechanisms to the paper's three contributions (SDD model, harness characterization, interaction-pattern typology), identifies the empirical claims the paper makes (productivity paradox; consistency, absorption, transferability, compounding as predicted benefits), and outlines the research-agenda questions the paper opens (RA1 team dynamics, RA2 human–agent interaction patterns, RA3 human competences, RA4 organizational adoption, RA5 measurement frameworks)."
-tags: [research, software-engineering, agentic, harness, index]
+tags:
+  - research
+  - software-engineering
+  - agent
+  - harness
 created: 2026-09-13
 updated: 2026-09-13
 type: index

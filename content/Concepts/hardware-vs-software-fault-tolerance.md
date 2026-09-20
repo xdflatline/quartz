@@ -2,7 +2,7 @@
 title: "Hardware vs Software Fault Tolerance"
 details: "The architectural contrast between hardware-based fault tolerance (hot-swappable CPUs, specialized networking, co-located machines — reliable but expensive, narrow in scope, blind to software defects like kernel panics and divide-by-zero) and software-based fault tolerance (Durable Execution platforms — reliable against any failure source, deployable on commodity VMs/containers, cloud-native). Durable Execution is the explicit software-side successor to hardware fault tolerance and subsumes it: it survives both hardware crashes and software defects with the same mechanism."
 tags:
-  - concepts
+  - concept
   - runtime
   - architecture-pattern
 created: 2026-09-10

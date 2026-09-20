@@ -1,7 +1,12 @@
 ---
 title: "RL-Trained Orchestrator Pattern (Conductor)"
 details: "Architectural pattern introduced by Sakana AI's Conductor (Nielsen et al., arXiv:2512.04388, 2026): a small language model (3B/7B) trained end-to-end with reinforcement learning (GRPO) on a verifiable reward to output *coordination strategies* over a pool of worker LLMs. The orchestrator's output is parsed into three simple lists — subtasks, worker IDs, and access lists — that define a custom communication topology per query. Strong collaborative strategies (planners, verifiers, debate, role specialisation) emerge from RL rather than being hand-designed."
-tags: [concepts, llm, agent, orchestration, agentic-system, training]
+tags:
+  - concept
+  - llm
+  - agent
+  - orchestration
+  - training
 sources:
   - Papers/conductor-rl-orchestrator.md
   - Raw/conductor-rl-orchestrator-arxiv.md

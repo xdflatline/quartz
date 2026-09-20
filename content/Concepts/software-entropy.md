@@ -2,8 +2,8 @@
 title: "Software Entropy (Broken Windows)"
 details: "The tendency of software systems to accrue disorder, technical debt, and compounding complexity over time — even when no code is changed. Coined in Object-Oriented Software Engineering (Jacobson et al., 1992) by analogy with thermodynamic entropy; popularised by Hunt & Thomas in The Pragmatic Programmer (1999) through the broken-windows metaphor, in which one unrepaired small defect signals abandonment and accelerates further degradation. Classified by Wikipedia into dormant rot (unused code) and active rot (code under continuous modification), and is the first-order phenomenon that the rest of the software-engineering fundamentals exist to fight."
 tags:
+  - concept
   - software-engineering
-  - philosophy
 created: 2026-09-18
 updated: 2026-09-18
 type: concept

@@ -2,11 +2,10 @@
 title: "QML Desktop-Shell Composition"
 details: "Architectural pattern where a Linux desktop shell (status bar, widgets, lockscreen, display manager, notification popups) is composed from declarative QML scenes that import bindings to the host compositor and system services. The user-facing config is a program written in QML, not a static style file. Quickshell is the primary open-source implementation; KDE Plasma's plasmashell is the larger-scale precedent."
 tags:
-  - concepts
+  - concept
   - architecture-pattern
-  - desktop
-  - linux
-  - qt
+  - infrastructure
+  - software-engineering
 created: 2026-08-31
 updated: 2026-08-31
 type: concept

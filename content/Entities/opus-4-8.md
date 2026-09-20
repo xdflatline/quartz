@@ -2,7 +2,7 @@
 title: "Opus 4.8"
 details: "Anthropic Claude Opus 4.8 — referenced in the Anthropic Frontier Red Team's multi-agent study (Aug 2026). Achieves high PR merge fraction by siloing (each agent owns its own files) rather than by coordinating. Demonstrates the camouflage/kill-loop behaviors in the incompatible-goals turf-war experiment."
 tags:
-  - entities
+  - entity
   - llm
 created: 2026-08-16
 updated: 2026-08-16

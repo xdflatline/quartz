@@ -4,8 +4,7 @@ details: "Shanghai-based fabless semiconductor company best known for the ESP32 
 tags:
   - entity
   - hardware
-  - iot
-  - open-source
+  - software-engineering
 created: 2026-08-14
 updated: 2026-08-14
 type: entity

@@ -2,9 +2,7 @@
 title: "Workflows"
 details: "Repeatable workflows for agents — how-to procedures that codify the schema, conventions, and process for tasks the operator runs repeatedly (ingesting research, building catalogs, syncing external systems, etc.). Each workflow lives in its own subfolder named after the workflow itself (not SKILL.md), with a references/ folder and a scripts/ folder where needed."
 tags:
-  - workflows
-  - index
-  - wiki
+  - workflow
 created: 2026-08-07
 updated: 2026-08-07
 type: index

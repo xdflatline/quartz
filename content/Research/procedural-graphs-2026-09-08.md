@@ -1,7 +1,11 @@
 ---
 title: "Procedural Graphs for LLM Agents — Research Index"
 details: "Synthesis index for the Procedural Graph framework introduced by Lu et al. (2026). Covers the (procedure, relation, procedure) graph representation, the online generative guidance mechanism, the offline self-evolution loop, and the empirical findings on seven benchmarks across four LLM families."
-tags: [research, agent, llm, graph-engineering, self-improving-agents]
+tags:
+  - research
+  - agent
+  - llm
+  - knowledge-management
 created: 2026-09-10
 updated: 2026-09-10
 type: research

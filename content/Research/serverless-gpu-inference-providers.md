@@ -5,7 +5,6 @@ details: "Comparison of ten serverless and on-demand GPU providers used for ML i
 tags:
   - research
   - infrastructure
-  - serverless
   - llm
 created: 2026-07-24
 updated: 2026-07-24

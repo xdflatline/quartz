@@ -2,6 +2,7 @@
 title: "Dynamic Reward Curriculum for RL Fine-Tuning"
 details: "Training methodology from Liu et al. (Time-R1, arXiv:2505.13508v2, 2025-06-03) for cold-start-resistant RL fine-tuning of LLMs: stratify the training data by difficulty, then progressively tighten the reward function's decay coefficient across three phases (easy-only strict → full-task lenient → full-task progressively-strictened). Ablation shows the dynamic curriculum produces both higher accuracy and ~2x more concise reasoning outputs than a static, strict reward. The pattern generalizes to any task where rule-based verifiable rewards admit continuous-distance scoring."
 tags:
+  - concept
   - llm
   - training
   - architecture-pattern

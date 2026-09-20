@@ -2,10 +2,9 @@
 title: "Hot-Reload QML Config Iteration"
 details: "Workflow for iterating on a desktop-shell QML configuration by saving a file and seeing the change applied to the running shell without restart. Quickshell implements this via a file watcher (`QS_DISABLE_FILE_WATCHER` env var to disable); reloads are skipped if file content is unchanged. Reduces the write-evaluate loop to 'save file, look at screen' and is the main reason QML desktop-shell composition is practical despite its higher initial complexity."
 tags:
-  - concepts
+  - concept
   - architecture-pattern
-  - desktop
-  - qt
+  - software-engineering
 created: 2026-08-31
 updated: 2026-08-31
 type: concept

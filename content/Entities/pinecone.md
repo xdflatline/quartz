@@ -2,7 +2,7 @@
 title: "Pinecone"
 details: "Pinecone is a vector database widely used to power semantic search and RAG at scale. The team developed Nexus, a 'knowledge engine' that reframes agent context as a first-class precomputed asset (a versioned artifact with its own schema, metadata, permissions, and lineage), analogous to a database materialized view. The shift repositions Pinecone from raw-vector-search infrastructure toward a higher-level retrieval-and-context layer for agents. As of mid-2026, the company is vertically integrating: vector store + curated knowledge contexts + the NoQL query language. Nexus launched ~two months before the episode aired (early 2026). Active use cases at launch: customer support, code understanding, data analysis."
 tags:
-  - entities
+  - entity
   - rag
   - context-engineering
   - tooling

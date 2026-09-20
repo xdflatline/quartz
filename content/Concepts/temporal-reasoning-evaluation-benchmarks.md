@@ -2,6 +2,7 @@
 title: "Temporal Reasoning Evaluation Benchmarks"
 details: "Evaluation methodology from Liu et al. (Time-R1, arXiv:2505.13508v2, 2025-06-03) for temporal reasoning tasks. Uses a rule-based, verifiable composite reward (R(x,y) = R_acc + R_format − P_penalty, range [-0.8, 1.1]) with exponential-decay date accuracy (e^(-α·Δm)), task-specific inconsistency / diversity penalties, and length/repetition penalties. Stage 3 uses AvgMaxSim — mean max cosine similarity (over all-MiniLM-L6-v2 384-d embeddings) between generated future scenarios and held-out real news, per month. The pattern is a recipe for evaluating any forward-looking generative task against ground-truth events."
 tags:
+  - concept
   - llm
   - benchmark
   - evaluation

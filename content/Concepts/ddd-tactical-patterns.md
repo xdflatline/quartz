@@ -2,6 +2,7 @@
 title: "DDD Tactical Patterns"
 details: "The within-context building blocks of Domain-Driven Design (Evans, 2003): entities (objects defined by identity, not attributes), value objects (immutable objects defined by their attributes, with no conceptual identity), aggregates (clusters of entities and value objects treated as a single unit for data changes, with a single root enforcing consistency), repositories (objects that retrieve domain objects from a data store), factories (objects that create domain objects), services (operations that don't belong to any object), and domain events (things that happened in the past that domain experts care about). Tactical patterns are the in-context vocabulary; the more important half of DDD is strategic design (boundaries, contexts, ubiquitous language)."
 tags:
+  - concept
   - software-engineering
   - architecture-pattern
 created: 2026-09-18

@@ -1,7 +1,12 @@
 ---
 title: "Agentic Harness (Team Governance sense) — Diaz et al. 2026"
 details: "In Diaz et al. (arXiv:2609.00252, 2026), the harness is the set of technical and methodological mechanisms through which teams govern agent behavior. Two parts: a technical harness around the agent (context engineering, working-tree isolation, telemetry) and a methodological harness around the team (eight mechanisms grouped into knowledge management, production support, and governance). This is a distinct concept from the agentic-runtime / LLM-harness lineage (Weng 2026, AURA, AHE, Self-Harness, Meta-Harness, evolutionary-search) which concerns the code wrapping a model API for production deployment."
-tags: [concept, software-engineering, agentic, harness, governance]
+tags:
+  - concept
+  - software-engineering
+  - agent
+  - harness
+  - governance
 created: 2026-09-13
 updated: 2026-09-13
 type: concept

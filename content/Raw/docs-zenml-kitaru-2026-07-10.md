@@ -5,7 +5,7 @@ details: "Full verbatim extraction of the Kitaru documentation as of 2026-07-10.
 tags:
   - raw
   - orchestration
-  - documentation
+  - knowledge-management
 source: https://docs.zenml.io/kitaru
 created: 2026-07-10
 updated: 2026-07-10

@@ -1,3 +1,9 @@
+---
+title: "Catalog Update Example 2026 07 31"
+tags:
+  - workflow
+---
+
 # Worked Example: OpenCode Go 13→17 Model Expansion (2026-07-31)
 
 This is the full worked example of a catalog-update session using the wiki-catalog-research pattern. Captured for the next session to follow when the user says "X needs an update, there are new Y" against any catalog.

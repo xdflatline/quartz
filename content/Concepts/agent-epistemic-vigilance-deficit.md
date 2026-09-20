@@ -2,9 +2,9 @@
 title: "Agent Epistemic Vigilance Deficit"
 details: "Failure mode where LLM agents do not reliably apply skepticism to other agents' reports, even when the underlying signals make detection of lies possible. Two-sided failure: either colluding with liars via naive trust, or dismissing correct dissent by deferring to apparent consensus. Tuning one direction makes the other worse."
 tags:
-  - concepts
+  - concept
   - multi-agent
-  - agentic-system
+  - agent
 created: 2026-08-16
 updated: 2026-08-16
 type: concept

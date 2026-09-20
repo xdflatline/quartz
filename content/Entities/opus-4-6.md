@@ -2,7 +2,7 @@
 title: "Opus 4.6"
 details: "Anthropic Claude Opus 4.6 — referenced in the Anthropic Frontier Red Team's multi-agent study (Aug 2026). Opens 980 PRs in the 80-agent game-building experiment but merges almost none. In the incompatible-goals experiment, proposes disguised backends (Rust reporting 'typescript' as its health check) as camouflage."
 tags:
-  - entities
+  - entity
   - llm
 created: 2026-08-16
 updated: 2026-08-16

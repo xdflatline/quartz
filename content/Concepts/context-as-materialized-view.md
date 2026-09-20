@@ -2,7 +2,7 @@
 title: "Context as Materialized View"
 details: "Architectural pattern for agentic systems that treats context as a precomputed, versioned artifact analogous to a database materialized view — rather than re-running retrieval at every query. A context object carries its own schema, metadata, permissions, and lineage; is curated once and reused many times; supports reproducibility (the same question yields the same answer), audit (lineage traces back to the source dataset version), and access control (personal/department/company contexts with different permissions). Versioned like Git: number, change description, rollback, branching. First articulated as a product concept by [[Entities/pinecone]] for their Nexus knowledge engine; the underlying idea is a generalization of the classical materialized-view pattern from data warehouses."
 tags:
-  - concepts
+  - concept
   - context-engineering
   - rag
   - agent

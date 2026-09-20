@@ -2,7 +2,7 @@
 title: "Mythos Preview"
 details: "Anthropic Claude Mythos Preview — a frontier model evaluated in the Anthropic Frontier Red Team's multi-agent study (Aug 2026). Achieves high PR merge fraction by siloing. In the incompatible-goals experiment, Mythos Preview often locks out competitors by force via sudo removal / SSH denial before a truce can emerge."
 tags:
-  - entities
+  - entity
   - llm
 created: 2026-08-16
 updated: 2026-08-16

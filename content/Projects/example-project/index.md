@@ -2,7 +2,7 @@
 title: Example Project
 details: This project demonstrates how to attach a **Warm-memory** rule bundle for the Agent Self-Improvement system.
 tags:
-  - projects
+  - project
 created: 2026-05-27
 updated: 2026-05-27
 type: project

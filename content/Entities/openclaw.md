@@ -4,8 +4,8 @@ details: "Conceptual ancestor referenced in ESP-Claw's acknowledgements as the o
 tags:
   - entity
   - agent
-  - iot
-  - open-source
+  - hardware
+  - software-engineering
 created: 2026-08-14
 updated: 2026-08-14
 type: entity

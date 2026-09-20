@@ -3,7 +3,7 @@ title: GitHub
 
 details: GitHub suffered a breach involving 3,800 repositories. [cybersecurity](/concepts/cybersecurity)
 tags:
-  - entities
+  - entity
 created: 2026-05-21
 updated: 2026-05-21
 type: entity

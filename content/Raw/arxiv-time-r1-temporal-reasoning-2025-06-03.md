@@ -2,7 +2,7 @@
 title: "Time-R1: Towards Comprehensive Temporal Reasoning in LLMs"
 details: "Liu, Han, Yu, Li, You (UIUC / Siebel School, arXiv:2505.13508v2, submitted 2025-05-16, v2 2025-06-03). Introduces Time-R1, a 3B-parameter LLM trained via a three-stage reinforcement-learning curriculum (comprehension → future event prediction → creative scenario generation, with the third stage done by inference only) on a dynamic, rule-based reward system using GRPO. The model matches or exceeds DeepSeek-R1-671B on future event prediction (Stage 2 avg score 0.7780 vs 0.7503) and on creative future scenario generation (Stage 3 AvgMaxSim 48.90% vs DeepSeek-V3 48.81%), while being 200x smaller. Releases Time-Bench (200K+ news-derived temporal reasoning examples) and the model checkpoints. CC BY 4.0."
 tags:
-  - paper
+  - raw
 source: "https://arxiv.org/abs/2505.13508v2"
 authors:
   - "Zijia Liu"

@@ -1,7 +1,11 @@
 ---
 title: "Spec-Driven Development for Agentic Software Engineering (Diaz et al., 2026)"
 details: "A cited summary of arXiv:2609.00252 (Diaz, Gayoso, Cimminio, Perez, 2026), the conceptual-analysis paper that introduces Spec-Driven Development (SDD) and the technical+methodological harness as the contract substrate for human–agent teamwork in Agentic Software Engineering. Three contributions: a socio-technical SDD model, an eight-mechanism harness characterization, and a typology of five human–agent interaction patterns. Includes the productivity-paradox motivation, the work's stated limits (gray-literature synthesis, not validated theory), and the research agenda."
-tags: [research, paper, software-engineering, agentic, harness]
+tags:
+  - paper
+  - software-engineering
+  - agent
+  - harness
 created: 2026-09-13
 updated: 2026-09-13
 type: article

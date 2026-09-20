@@ -5,8 +5,6 @@ details: "Comprehensive survey of harness engineering as the practical near-term
 tags:
   - raw
   - harness
-  - survey
-  - blog-post
 source: https://lilianweng.github.io/posts/2026-07-04-harness/
 created: 2026-08-07
 updated: 2026-08-07

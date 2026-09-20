@@ -5,7 +5,6 @@ details: "Verbatim English translation of the auto-generated German YouTube tran
 tags:
   - raw
   - knowledge-management
-  - wiki
 created: 2026-07-25
 updated: 2026-07-25
 type: raw

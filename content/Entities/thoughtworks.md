@@ -2,6 +2,7 @@
 title: "Thoughtworks"
 details: "Global technology consultancy that publishes the Insights blog where the ontology + LLM data modernization pattern was introduced (July 2026). Founded 1993; known for its Technology Radar, podcast, and modernization practices."
 tags:
+  - entity
   - knowledge-management
 created: 2026-08-07
 updated: 2026-08-07

@@ -2,7 +2,7 @@
 title: "Cognitive Locality"
 details: "An agent-orchestration design principle coined by Rahul Garg (Thoughtworks, 2026): partition work by the knowledge or mental model each task requires, not by task granularity. Tasks that need the same mental model should stay together; splitting them just forces multiple agents to rebuild the same understanding from scratch. The principle reframes why subagents exist — not primarily for parallelism, but to keep the orchestrator's working memory clean by isolating each mental model in a single agent."
 tags:
-  - concepts
+  - concept
   - multi-agent
   - orchestration
   - context-engineering

@@ -2,6 +2,7 @@
 title: "Agentic-Ready Data Modeling (MMA Belief 7)"
 details: "Seventh core belief of Joe Reis's Mixed Model Arts (MMA) Manifesto: data models must be designed for both human cognition and AI-agent reasoning. The era of humans-only consumption is over. Models must provide the semantic, temporal, and identity context that autonomous agents need to take reliable action — not just the documentation that human analysts need to interpret dashboards. Practical implications: explicit semantics, stable identity, durable time semantics, and agent-consumable metadata."
 tags:
+  - concept
   - knowledge-management
   - architecture-pattern
 created: 2026-09-14

@@ -3,7 +3,6 @@ title: "ZMK Firmware"
 details: "ZMK is an open-source keyboard firmware generation tool, used by the Corne/Sofle 'Eyelash' keyboards on the nrf52840. Provides a behavior system (tap-dance, hold-tap/layer-tap, soft-off, RGB, ext-power), Bluetooth profile management (BT_SEL_0..4, BT_CLEAR_ALL), USB/Bluetooth output channel selection (OUT_USB, OUT_BL), and a USB-mass-storage bootloader for drag-and-drop firmware updates."
 tags:
   - entity
-  - firmware
   - hardware
 created: 2026-08-20
 updated: 2026-08-20

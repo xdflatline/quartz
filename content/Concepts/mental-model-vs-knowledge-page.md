@@ -2,11 +2,10 @@
 title: "Mental Model vs. Knowledge Page"
 details: "Comparison of two artifact types in the Hindsight agent-memory system. A mental model is a standing answer to a question; flat, scoped by tags, sourced from all fact types by default, refreshed off by default, and typically consumed by application code or an agent via lookup. A knowledge page is a markdown document with frontmatter; organized in a folder tree; sourced from observations only by default; refreshed incrementally after each consolidation; and typically consumed by a person or agent that browses and reads. A knowledge page is a mental model with two additions: a place in a folder tree, and a set of defaults tuned for documents rather than answers. Anything you can configure on a mental model can be configured on a page."
 tags:
-  - concepts
+  - concept
   - memory
   - agent
   - rag
-  - comparison
 created: 2026-09-08
 updated: 2026-09-08
 type: concept

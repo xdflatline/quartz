@@ -5,7 +5,6 @@ details: "Mezmo's open-source AURA project: a Rust-built agentic harness providi
 tags:
   - raw
   - harness
-  - github-readme
 created: 2026-07-25
 updated: 2026-07-25
 type: raw

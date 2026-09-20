@@ -3,7 +3,7 @@ title: "Promptbreeder"
 
 details: "Promptbreeder is the early predecessor of the modern [[Concepts/evolutionary-search-for-harnesses]] family. Its distinctive move: the mutations (the instructions to an LLM to mutate a task prompt) are themselves evolved. This self-referential layer — the system that improves the prompts is itself being improved — anticipates STOP and the modern self-improving-harness line."
 tags:
-  - entities
+  - entity
   - harness
   - prompt-engineering
 created: 2026-08-07

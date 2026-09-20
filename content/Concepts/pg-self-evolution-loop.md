@@ -1,7 +1,10 @@
 ---
 title: "PG Self-Evolution Loop"
 details: "Offline four-step feedback loop that revises a Procedural Graph from execution traces. Starting from a retained graph $\\mathcal{G}_{k-1}$ with cached validation score $S_{k-1}$, each round runs: (1) diagnostic rollout on a training batch and partition traces by score, (2) feedback-driven mutation by an LLM refiner that emits a structured edit set (add/delete nodes and edges, attribute updates via delete-then-add), (3) validation gating on a held-out set (accept iff validation score does not decrease, ties allowed), and (4) rejection memory that records rejected candidates and serves them as negative evidence to subsequent rounds. The loop can build effective graphs from a minimal skeleton or repair flawed expert priors."
-tags: [concepts, agent, llm, self-improving-agents, feedback-loop]
+tags:
+  - concept
+  - agent
+  - llm
 created: 2026-09-10
 updated: 2026-09-10
 type: concept

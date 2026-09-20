@@ -3,7 +3,7 @@ title: "Coordinator/Worker Task-DAG Orchestration"
 
 details: "A multi-agent orchestration pattern implemented in AURA (mezmo/aura): one coordinator agent plans a task DAG from the user request, then waves of worker agents run in parallel on dependency-ready tasks. Each worker has isolated context, filtered MCP tools, and optionally its own LLM. The coordinator consolidates worker outputs, decides on final response / replan / clarification, and repeats up to max_planning_cycles. Workers can be hidden or visible via /v1/models."
 tags:
-  - concepts
+  - concept
   - orchestration
   - multi-agent
 created: 2026-07-25

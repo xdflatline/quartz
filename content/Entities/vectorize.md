@@ -2,7 +2,7 @@
 title: "Vectorize"
 details: "Company behind the Hindsight agent-memory product and the standalone Vectorize vector database. Vectorize runs BM25 full-text search alongside vector embeddings inside its vector DB, and Hindsight builds on top of that infrastructure to deliver 4-way hybrid retrieval (semantic + keyword + graph + temporal) for AI agents."
 tags:
-  - entities
+  - entity
   - agent
   - memory
   - rag

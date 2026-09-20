@@ -2,7 +2,7 @@
 title: Traditional Software Development Lifecycle
 details: Reference model for the classic SDLC family — Waterfall, V-Model, Iterative-Waterfall — with involved roles, phase activities, deliverables, and handover responsibilities.
 tags:
-  - projects
+  - project
 created: 2026-08-15
 updated: 2026-08-15
 type: project
