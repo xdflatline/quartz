@@ -86,6 +86,7 @@ ACE learns insights from rollouts, but the **update rules and overall workflow a
 - [[Concepts/meta-harness-outer-loop]] — another level deeper: the harness code itself is the optimization target
 - [[Concepts/harness-as-runtime-os-analog]] — the OS analogy; ACE is the "swap space" layer
 - [[Concepts/scratchpad-context-window-management]] — adjacent in-context scratchpad pattern
+- [[Research/llm-context-rot-evaluation-2026]] — empirical motivation: Chroma's (2026) Context Rot report shows that simply enlarging the prompt makes performance worse, not better — motivating ACE's disciplined growth over full-prompt rewriting.
 
 ## References
 

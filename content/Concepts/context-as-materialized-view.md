@@ -89,6 +89,7 @@ Weak fit:
 - [[Concepts/multi-modal-context-composition]] — what a context actually contains (vector + structured + KG + metadata + permissions).
 - [[Concepts/context-as-evolving-playbook|ACE]] — alternative pattern: context as a growing playbook of bullets refined over time, vs this pattern's snapshot-and-version approach.
 - [[Concepts/typed-knowledge-architecture]] — complements this by giving the structured fields a typed schema at the curator's side.
+- [[Research/llm-context-rot-evaluation-2026]] — empirical motivation: Chroma (2026) shows frontier models degrade non-uniformly as input length grows even on simple retrieval, justifying the curated-snapshot approach as a rotation defense.
 
 ## Source
 

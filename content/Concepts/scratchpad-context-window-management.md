@@ -127,6 +127,7 @@ In orchestration, large task results are saved to **artifact files** under `{mem
 - [[Concepts/agentic-harness-architecture]] — broader pattern this is a component of
 - [[Concepts/coordinator-worker-task-dag-orchestration]] — orchestrator-side read-back of artifacts
 - [[Concepts/agent-memory-layer-patterns]] — broader memory-tiering pattern
+- [[Research/llm-context-rot-evaluation-2026]] — empirical motivation: Chroma (2026) shows frontier LLMs degrade non-uniformly with input length, justifying offloading large tool outputs as one practical mitigation.
 - [[Entities/mezmo-aura]] — concrete implementation
 
 ## References
