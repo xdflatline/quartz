@@ -88,6 +88,7 @@ Meta-Harness is the cleanest "harness-for-harnesses" — it explicitly names and
 - [[Concepts/darwin-godel-machine]] — concurrent related work
 - [[Concepts/agentic-harness-engineering-ahe]] — concurrent work with a stricter observability discipline
 - [[Concepts/file-system-as-agent-memory]] — the substrate that makes the loop tractable
+- [[Concepts/rig-meta-harness-team-wrapper]] — a different "meta-harness" sense: composing cross-harness agent teams into one runnable rig (OpenRig), not optimizing harness code via search
 
 ## References
 
