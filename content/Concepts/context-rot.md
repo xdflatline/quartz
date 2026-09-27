@@ -90,6 +90,10 @@ The Chroma paper is empirical, not mechanistic. It notes that the haystack-struc
 - [[Concepts/context-as-evolving-playbook|ACE]] — pattern that controls rot by growing context as bullets, not as full rewrites
 - [[Concepts/harness-mechanism-context-engineering-sdd-2026]] — the SDD methodological counterpart: explicit curation as a team convention
 
+## Next Research Directions
+
+- [[Research/chroma-context-1]] — Chroma's March 2026 follow-on report that operationalizes an architectural response to context rot: a 20B agentic search model that self-prunes its context via a `prune_chunks` tool under a hard token budget. Complements this report's empirical "context rot exists" finding with a working "context rot is avoidable via selective retention" demonstration.
+
 ## References
 
 - Raw Article: [[Raw/chroma-context-rot-2026-07]]
