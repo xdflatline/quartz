@@ -4,7 +4,7 @@ details: "The controlled tag vocabulary for the Quartz wiki. Each tag below has 
 tags:
   - resource
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-10-16
 type: index
 ---
 
@@ -69,6 +69,7 @@ The controlled tag vocabulary for the Quartz wiki. Before introducing a new tag,
 | Tag | Use for | Don't use for |
 |-----|---------|---------------|
 | `software-engineering` | Pages about software-engineering fundamentals, design philosophy, canonical textbooks (Pragmatic Programmer, DDD, PoSD), quality principles, entropy/decay | Pages about a specific framework or tool (use `tooling` or wikilink); pages that just mention engineering principles in passing |
+| `testing` | Pages about testing strategies, test architectures, regression infrastructure, fuzzing, simulation testing, property-based testing, fault injection, model-based testing, verification harnesses | Pages that just mention "testing" in passing; pages about a specific testing product (use wikilink) |
 | `philosophy` | Pages about enduring design philosophy, epistemological positions, foundational mental models (Kent's map/territory, anti-dogma modeling, deep-modules vs shallow-modules) | Pages that argue a tactical preference without a deeper position; pages about a specific design pattern (use `architecture-pattern` instead) |
 
 ## Knowledge / Wiki
