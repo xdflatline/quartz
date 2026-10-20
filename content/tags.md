@@ -57,6 +57,7 @@ The controlled tag vocabulary for the Quartz wiki. Before introducing a new tag,
 |-----|---------|---------------|
 | `coding-agent` | Pages about coding agents (Claude Code, Codex, OpenCode, Cursor, Aider) | Pages that use a coding agent as a tool (no tag, just wikilink) |
 | `runtime` | Pages about agent runtimes, process managers, VM-based sandboxes | Pages about a specific runtime instance (use wikilink) |
+| `elixir` | Pages about Elixir/Erlang/BEAM architecture, the BEAM VM, OTP processes, pipelines, pattern matching, Elixir-based agent runtimes | Pages that merely mention Elixir in passing; pages about a specific Elixir library (use wikilink) |
 | `cli` | Pages about command-line tools, terminal UIs, REPLs | Pages that have a CLI as one feature among many |
 | `sdk` | Pages about software development kits, API libraries | Pages that are mainly about a CLI |
 | `kernel` | Pages about Linux kernel, syscalls, kernel-level isolation, eBPF | Pages that mention "kernel" in a different sense |
