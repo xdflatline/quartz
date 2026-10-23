@@ -41,3 +41,6 @@ Host of Software Engineering Daily, the most-cited podcast in this wiki for engi
 - [[Raw/sedaily-episode-1951-pinecone-nexus-2026]] — SED 1951, guest [[Entities/joerg-schad]] of [[Entities/pinecone]].
 - [[Entities/pinecone]] — vendor featured in this episode.
 - [[Research/pinecone-nexus-precomputed-context]] — synthesis of his episode.
+- [[Raw/sedaily-episode-1975-blitzy-2026]] — SED 1975, guest [[Entities/sid-pardeshi]] of [[Entities/blitzy]].
+- [[Entities/blitzy]] — vendor featured in this episode.
+- [[Research/blitzy-autonomous-enterprise-software-development]] — synthesis of his episode.
