@@ -69,6 +69,7 @@ Burns extends Reis's claim: semantics must be *physically decoupled* from both s
 - [[Concepts/ontology-llm-data-modernization]] — modern LLM-driven ontology construction is the operational form
 - [[Concepts/intent-driven-data-modeling]] — intent is one axis of meaning
 - [[Entities/mixed-model-arts-manifesto]] — source
+- [[Concepts/semantic-layer-agent-grounding]] — a concrete implementation of machine-consumable meaning exposed to agents
 
 ## Related Entities
 

@@ -84,6 +84,8 @@ The loop's defining property is that **context is a service at the landscape lev
 - [[Concepts/context-gap-classification]] — the taxonomy of gap types the loop produces in Step 4
 - [[Entities/thoughtworks]] — the company publishing the pattern
 - [[Raw/thoughtworks-ontology-llm-data-modernization-2026-07-22]] — full source article
+- [[Concepts/semantic-layer-agent-grounding]] — the runtime layer the curated ontology is exposed through
+- [[Research/nvidia-auto-ontology-semantic-grounding]] — an implemented framework for the same problem
 
 ## References
 

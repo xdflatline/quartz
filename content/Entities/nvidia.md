@@ -35,3 +35,5 @@ NVIDIA is a semiconductor and AI-accelerator company. It enters this wiki throug
 - [[Raw/sedaily-episode-1975-blitzy-2026]]
 - [[Concepts/codebase-knowledge-graph-context-substrate]]
 - [[Concepts/context-wall-large-codebase-scale]]
+- [[Entities/auto-ontology]] — NVIDIA's semantic-layer framework, another example of NVIDIA engineering context
+- [[Research/nvidia-auto-ontology-semantic-grounding]]

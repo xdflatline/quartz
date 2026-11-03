@@ -81,6 +81,7 @@ Each step requires the model to expose structured information. A model that requ
 - [[Concepts/intent-driven-data-modeling]] — declared intent as an agent input
 - [[Concepts/unified-modeling-discipline-mma]] — unification is needed because agents cannot tolerate silos
 - [[Entities/mixed-model-arts-manifesto]] — source
+- [[Concepts/semantic-layer-agent-grounding]] — an implemented agent-facing semantic layer that answers the requirements this belief sets out
 
 ## Related Entities
 

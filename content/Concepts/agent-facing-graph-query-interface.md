@@ -63,6 +63,7 @@ Graph traversal over a code-shaped schema, combined with semantic search over th
 - [[Concepts/coding-agent-tool-taxonomy]]
 - [[Concepts/tool-calling-llm]]
 - [[Concepts/retrieval-subagent-architecture]]
+- [[Concepts/agent-tool-surface-curation]] — the contrasting choice: withhold the schema and expose only curated semantic tools
 
 ## Related Entities
 
