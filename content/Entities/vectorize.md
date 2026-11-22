@@ -40,9 +40,13 @@ Vectorize is the company behind two related products:
 - **2026-06-29** — [Entity resolution in agent memory](https://hindsight.vectorize.io/blog/2026/06/29/entity-resolution-agent-memory) — co-occurrence-graph approach to collapsing aliases
 - **2026-07-24** — [Recall vs reflect](https://hindsight.vectorize.io/blog/2026/07/24/recall-vs-reflect) — `recall()` (search) vs. `reflect()` (reason over the result)
 - **2026-08-24** — [Knowledge graphs vs. vector search for agent memory](https://hindsight.vectorize.io/blog/2026/08/24/knowledge-graphs-vs-vector-search-agent-memory) — the "complementary halves" thesis post
+- **2026-11-03** — [Introducing Hindsight Models](https://hindsight.vectorize.io/blog/2026/11/03/hindsight-models) — purpose-built memory models (`hs-decide-1-flash`, `hs-rerank-1`, `hs-embed-1`) and the Hindsight Inference API; decision-model gating cut judged-operation cost 2.5x on `gemini-3.8-flash` ([[Research/decision-gated-agent-memory]])
 
 ## References
 
 - Raw Article: [[Raw/hindsight-vectorize-knowledge-graphs-vs-vector-search-2026-08-24]]
+- Models Raw: [[Raw/hindsight-models-decision-gated-memory-2026-11-03]]
+- Inference API: [[Entities/hindsight-inference]]
+- Model family: [[Entities/hs-decide-1-flash]], [[Entities/hindsight-ai-model-family]]
 - Related Concepts: [[Concepts/hindsight-memory-architecture]], [[Concepts/hindsight-memory-system]], [[Concepts/hybrid-retrieval-complementary-halves]]
 - Product site: https://hindsight.vectorize.io/

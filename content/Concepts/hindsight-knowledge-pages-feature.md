@@ -147,6 +147,7 @@ To use knowledge pages effectively:
 - [[Concepts/hindsight-memory-system]] — the higher-level Hindsight framework
 - [[Concepts/ai-curated-knowledge-wiki]] — the broader pattern of an AI-maintained wiki; pages are the memory-engine-backed instance
 - [[Concepts/context-as-materialized-view]] — the database "materialized view" is the structural analog
+- [[Concepts/change-impact-gating-page-refresh]] — the incremental-update optimization: gate each new memory on whether it could change the page
 
 ## References
 

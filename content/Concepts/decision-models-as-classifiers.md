@@ -59,6 +59,8 @@ In generative-LLM-as-judge, each question costs a full generation (possibly hund
 - [[Concepts/typed-decisions-benchmark-ollaya]] — the benchmark that frames "how accurate is this pattern"
 - [[Concepts/calibration-for-decision-models]] — the calibration dimension
 - [[Concepts/onnx-decision-runtime-parity]] — the reproducibility dimension
+- [[Concepts/decision-model-as-memory-judge]] — production instance: Hindsight routes every memory judgment to a decision model instead of an LLM
+- [[Concepts/decision-model-cost-leverage]] — the cost economics of adding a judge to an existing LLM pipeline
 
 ## References
 
