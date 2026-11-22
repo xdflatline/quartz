@@ -4,9 +4,10 @@ title: Stable Audio 3
 details: Stable Audio 3 is a family of fast latent diffusion models for variable-length audio generation and editing, released May 2026. Available in small,...
 tags:
   - entity
+  - music
   - llm
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-11-22
 type: entity
 sources:
   - .Raw/stable-audio-3-2026-05-21.md
@@ -43,5 +44,7 @@ Represents rapid maturation of generative audio:
 
 ## Related Models
 See also: [[lance-multimodal-model|Lance Multimodal Model]] — another recent open-weight generative model pushing boundaries at efficient scales.
+
+See also: [[Research/audio-to-midi-transcription-2026|Audio-to-MIDI Transcription]] — the inverse direction (audio to note events); [[Entities/dettato|Dettato]] reports a 20M-parameter transcription model in the same media domain.
 
 [[stable-audio-3-2026-05-21|Source: stable-audio-3-2026-05-21]]

@@ -4,7 +4,7 @@ details: "The controlled tag vocabulary for the Quartz wiki. Each tag below has 
 tags:
   - resource
 created: 2026-08-07
-updated: 2026-10-16
+updated: 2026-11-22
 type: index
 ---
 
@@ -101,6 +101,7 @@ The controlled tag vocabulary for the Quartz wiki. Before introducing a new tag,
 | Tag | Use for | Don't use for |
 |-----|---------|---------------|
 | `video` | Pages about video generation, video workflows, video backends (ComfyUI, Wan, OpenMontage) | Pages that just mention video as one capability among many |
+| `music` | Pages about music technology — generation, transcription, MIDI, instruments, music ML models and datasets | Pages that only mention music in passing; general audio engineering unrelated to music |
 
 ## Source
 

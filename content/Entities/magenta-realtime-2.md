@@ -4,9 +4,10 @@ title: Magenta RealTime 2
 details: Google Magenta's open and local live music models enabling real-time music synthesis with low latency on standard hardware like MacBooks.
 tags:
   - entity
+  - music
   - llm
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-11-22
 type: entity
 ---
 # Magenta RealTime 2
@@ -38,3 +39,7 @@ Both MRT1 and MRT2 are codec language models operating on sequences of audio tok
 ## References
 - [Original Announcement: Magenta RealTime 2](https://magenta.withgoogle.com/magenta-realtime-2)
 - [[magenta-realtime-2-announcement|Raw Scrape]]
+
+## Related
+- [[Research/audio-to-midi-transcription-2026|Audio-to-MIDI Transcription]] — the analysis direction: converting audio into MIDI rather than generating audio from MIDI/audio/text.
+- [[Concepts/performance-midi-vs-notation]] — what a MIDI event stream does and does not represent.
