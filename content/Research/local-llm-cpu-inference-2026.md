@@ -245,6 +245,8 @@ For a 32 GB Mac Studio: **Gemma 4 26B-A4B** (Apache 2.0, 18 GB Q4) or **Qwen 3 3
 - [[Entities/mistral-ai|Mistral AI]] — entity page for the Mistral family.
 - [[Research/gemma-4-qat|Gemma 4 QAT]] — separate research index on Quantization-Aware Training for Gemma 4 (Q2/Q4 quality recovery).
 - [[Research/serverless-gpu-inference-providers|Serverless GPU Inference Providers]] — the cloud alternative for when local CPU/GPU is insufficient.
+- [[Research/looped-transformers-and-local-frontier|Looped Transformers and the Local Frontier]] — Inkling 2 Mini: looped middle layers, native NVFP4, ~20GB footprint, intelligence-per-watt.
+- [[Entities/inkling-2-mini|Inkling 2 Mini]] — the model page behind that research index.
 
 ## 12. External Sources
 

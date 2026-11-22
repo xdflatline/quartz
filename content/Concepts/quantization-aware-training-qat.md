@@ -111,6 +111,7 @@ output = quantized_weight @ input
 - [[multi-token-prediction-mtp]]
 - [[per-layer-embeddings-ple]]
 - [[post-training-quantization-ptq]]
+- [[Concepts/native-low-precision-training|Native low-precision training]] — trains in the deployment precision (NVFP4/MXFP8) instead of simulating it
 
 ---
 

@@ -74,6 +74,8 @@ ollama pull qwen2.5-coder:7b-instruct-q8_0
 - [[RAM vs VRAM for LLM Inference]]
 - [[Local LLM Hardware Requirements]]
 - [[Model Benchmark Tokens per Second]]
+- [[Concepts/native-low-precision-training]] — the alternative to PTQ: train and ship in NVFP4/MXFP8, no conversion loss
+- [[Concepts/expert-pruning-and-healing]] — reducing stored parameters before precision enters the picture
 
 ---
 

@@ -105,6 +105,7 @@ Best when downstream code needs to extract the reasoning separately from the fin
 - [[Concepts/prompt-chaining-for-complex-tasks]] — for stages that should be separate prompts
 - [[Concepts/response-prefilling-for-format-control]] — for pre-seeding structured CoT tags
 - [[Concepts/explicit-instruction-over-implicit-inference]] — CoT is itself a form of explicit instruction ("show your reasoning")
+- [[Concepts/latent-reasoning-and-cot-monitorability]] — what happens to oversight when computation moves off the transcript
 
 ## References
 

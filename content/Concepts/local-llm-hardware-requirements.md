@@ -102,6 +102,7 @@ Hardware tier recommendations based on real-world benchmarks for running LLMs lo
 - [[LLM Quantization Reference]]
 - [[RAM vs VRAM for LLM Inference]]
 - [[Model Benchmark Tokens per Second]]
+- [[Concepts/local-agent-model-economics]] — footprint, joules and decode bandwidth as the constraints for persistent local agents
 
 ---
 
