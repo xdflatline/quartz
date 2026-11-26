@@ -7,7 +7,7 @@ tags:
   - multi-agent
   - agent
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-11-26
 type: concept
 sources:
   - Raw/github-mastra-ai-framework-2026-07-03.md
@@ -136,6 +136,8 @@ includeSubAgentToolResultsInModelContext: true
 ## Related Concepts
 
 - [[multi-agent-orchestration-patterns]] — Broader multi-agent landscape (HN, LangGraph, CrewAI)
+- [[blackboard-agent-coordination]] — the decentralized counterpart: no supervisor, a shared workspace instead
+- [[Concepts/handoff-contract-validation|Handoff contract validation]] — what to check at each delegation boundary
 - [[graph-based-workflow-engine]] — The fixed-graph counterpart
 - [[subagent-as-tool-composition]] — How subagents become tools (lower-level mechanism)
 - [[agent-composition-tree-mastra]] — Where the supervisor slots into the agent stack

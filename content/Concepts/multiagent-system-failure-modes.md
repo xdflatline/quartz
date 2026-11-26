@@ -6,7 +6,7 @@ tags:
   - multi-agent
   - agent
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-11-26
 type: concept
 sources:
   - Raw/anthropic-multiagent-systems-2026-08-13.md
@@ -53,3 +53,5 @@ The general lesson: **a model that is better at a single-agent task may not be b
 
 - [[Concepts/multi-agent-orchestration-patterns|Multi-agent orchestration patterns]] — the orchestration side of multi-agent systems; the failure modes here are the negative space around those patterns.
 - [[Concepts/agentic-harness-architecture|Agentic harness architecture]] — the harness layer around a single agent; some of these failure modes (epistemic vigilance, conditional trust) need cross-agent scaffolding that a single-agent harness cannot provide.
+- [[Concepts/handoff-contract-validation|Handoff contract validation]] — the engineering control for the epistemic case: provenance does not survive a natural-language handoff, so check format, freshness and sense at the boundary.
+- [[Concepts/blackboard-agent-coordination|Blackboard agent coordination]] — the topology with no lead, where every board write is visible to every later agent and misattribution compounds.

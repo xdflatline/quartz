@@ -8,7 +8,7 @@ tags:
   - testing
   - architecture-pattern
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-26
 type: concept
 sources:
   - "Raw/nvidia-auto-ontology-2026-11-03.md"
@@ -88,6 +88,7 @@ When a material constraint cannot be verified — missing evidence, wrong popula
 - [[Concepts/semantic-contract-for-measures]] — the definitions the SQL is validated against
 - [[Concepts/semantic-layer-agent-grounding]] — why the layer can supply the provenance the receipt records
 - [[Concepts/agent-tool-surface-curation]] — how the raw SQL and rows are returned as fields rather than prose
+- [[Concepts/grounding-over-honesty-prompting]] — the measured complement: disclaimer instructions do not stop an unsupported claim, evidence access does
 
 ## Related Entities
 

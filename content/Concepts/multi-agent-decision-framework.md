@@ -8,7 +8,7 @@ tags:
   - agentic-system
 source: "[[Raw/claude-building-multi-agent-systems-2026-01-23]]"
 created: "2026-09-25"
-updated: "2026-09-25"
+updated: "2026-11-26"
 type: concept
 ---
 
@@ -102,6 +102,8 @@ Anthropic's closing advice: **"Start with the simplest approach that works, and 
 - [[Concepts/context-centric-decomposition]] — the *how* once you've decided *when*
 - [[Concepts/verification-subagent-pattern]] — the canonical legitimate subagent, useful regardless of which of the three cases applies
 - [[Concepts/multi-agent-orchestration-patterns]] — production patterns that flesh out *how* to implement once the decision is made
+- [[Concepts/blackboard-agent-coordination]] — the decentralized topology, for the case where the steps cannot be known in advance
+- [[Research/multi-agent-pattern-selection-and-failure-lessons-2026|Multi-agent pattern selection (Kadhar 2026)]] — a four-question ladder that reaches the same "start with one agent" answer from engineering shape rather than token economics
 
 ## References
 
